@@ -5,7 +5,7 @@
 # This workflow will download a prebuilt Ruby version, install dependencies and run tests with Rake
 # For more information see: https://github.com/marketplace/actions/setup-ruby-jruby-and-truffleruby
 
-name: get latest Firefox desktop questions 
+name: get latest Thunderbird desktop questions 
 
 on:
   push:
@@ -49,5 +49,5 @@ jobs:
         git config user.email "actions@users.noreply.github.com"
         git add -A
         timestamp=$(date -u)
-        git commit -m "Latest FF desktop questions: ${timestamp}" || exit 0
+        git commit -m "Latest Thunderbird desktop questions: ${timestamp}" || exit 0
         git push
