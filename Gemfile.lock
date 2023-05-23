@@ -1,0 +1,31 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    amazing_print (1.4.0)
+    csv (3.2.6)
+    date (3.3.3)
+    ethon (0.16.0)
+      ffi (>= 1.15.0)
+    ffi (1.15.5)
+    json (2.6.3)
+    logger (1.5.3)
+    time (0.2.2)
+      date
+    typhoeus (1.4.0)
+      ethon (>= 0.9.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  amazing_print
+  csv
+  date
+  ffi
+  json
+  logger
+  time
+  typhoeus
+
+BUNDLED WITH
+   2.4.10
