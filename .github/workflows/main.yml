@@ -31,7 +31,7 @@ jobs:
     - name: Install dependencies
       run: |-
         bundle install
-    - name: Get FF questions
+    - name: Get Thunderbird questions
       run: |-
         timestamp=$(date --utc)
         echo "\"${timestamp}\" +%Y"
