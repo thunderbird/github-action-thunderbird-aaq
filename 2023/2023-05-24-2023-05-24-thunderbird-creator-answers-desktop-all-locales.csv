@@ -1,1 +1,2 @@
 id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1414089,2023-05-23 21:02:07 -0700,2023-05-23 21:02:07 -0700,redundancy,"<p>when a large file is emailed Thunderbird  - first sends the file to recipient, then - again sends whole file to ""Sent"" folder so twice data is sent and user has to wait for both transmissions to go through. </p><p>bad efficiency in using internet bandwidth </p><p>should send out only once. </p><p>is this an architecture issue in Thunderbird? </p>",other;,thunderbird,other,en-US,"",arvindmrao58
