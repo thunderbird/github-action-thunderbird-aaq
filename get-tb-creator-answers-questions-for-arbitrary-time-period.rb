@@ -113,6 +113,8 @@ until end_program
     sleep(1.0) # sleep 1 second between API calls
   end
 end
+exit if csv.empty?
+
 headers = %w[id created updated title content tags product topic locale answers creator]
 fn_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d'
 fn_str += '-thunderbird-creator-answers-desktop-all-locales.csv'
