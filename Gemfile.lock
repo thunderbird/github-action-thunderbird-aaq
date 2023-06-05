@@ -15,6 +15,7 @@ GEM
       ethon (>= 0.9.0)
 
 PLATFORMS
+  arm64-darwin-22
   x86_64-linux
 
 DEPENDENCIES
