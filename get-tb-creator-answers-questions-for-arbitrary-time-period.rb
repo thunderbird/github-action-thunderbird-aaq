@@ -14,7 +14,7 @@ require_relative 'fix-kludged-time'
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
 if ARGV.length < 6
-  puts "usage: #{$0} yyyy mm dd end-yyyy mm id"
+  puts "usage: #{$0} yyyy mm dd end-yyyy mm dd"
   exit
 end
 # because of issue 3686, https://github.com/mozilla/kitsune/issues/3686,
