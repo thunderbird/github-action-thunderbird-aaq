@@ -41,7 +41,7 @@ jobs:
         day=$(date -d "${timestamp}" +\%e)
         echo "got the day:${day}"
         cd ${year}
-        bundle exec ../get-tb-answers-for-arbitrary-time-period.rb ${year} ${month} ${day} ${year} ${month} ${day}
+        bundle exec ../get-tb-answers-from-questions-file-for-arbitrary-time-period.rb ${year} ${month} ${day} ${year} ${month} ${day}
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
