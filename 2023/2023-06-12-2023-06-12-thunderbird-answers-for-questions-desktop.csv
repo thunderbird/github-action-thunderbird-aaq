@@ -9,6 +9,7 @@ id,question_id,created,updated,title,content,creator,is_spam,num_helpful,num_unh
 1585141,1415677,2023-06-12 04:54:15 -0700,2023-06-12 04:54:15 -0700,,<p>Then I don't understand your problem. Can you do a screenshot and explain it? Thank you. </p>,davidsk,false,0,0
 1585139,1415677,2023-06-12 04:48:53 -0700,2023-06-12 04:48:53 -0700,,"<p>Sorting is not the problem, they are already sorted oldest to newest. </p>",d_awdry,false,0,0
 1585137,1415677,2023-06-12 04:44:44 -0700,2023-06-12 04:44:44 -0700,,"<p>Look at top line of message list pane. It has words such as 'subject' 'from' 'date', etc. Click the 'date' to tell Thunderbird to sort by date. </p>",davidsk,false,0,1
+1585173,1415666,2023-06-12 08:24:20 -0700,2023-06-12 08:24:20 -0700,,<p>We're not sure what you mean. Is Sophieprimaryworld in your Address Book? </p><p>Where do you see that address? What makes it show up (so it is not <em>hidden</em>)? </p>,danawilson001,false,0,0
 1585116,1415666,2023-06-12 02:03:24 -0700,2023-06-12 02:03:24 -0700,,<p>I am not tech and do not know what to do </p>,talfourdstewart,false,0,0
 1585149,1415665,2023-06-12 05:52:01 -0700,2023-06-12 05:52:01 -0700,,<p>Let us know where you're having difficulty and I'm sure someone can assist. </p>,davidsk,false,0,0
 1585138,1415659,2023-06-12 04:46:43 -0700,2023-06-12 04:46:43 -0700,,<p>Reinstalling does not fix this. What you may have is a real server timeout issue. </p>,davidsk,false,0,0
