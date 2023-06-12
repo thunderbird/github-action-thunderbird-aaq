@@ -1,2 +1,6 @@
 id,question_id,created,updated,title,content,creator,is_spam,num_helpful,num_unhelpful
+1585139,1415677,2023-06-12 04:48:53 -0700,2023-06-12 04:48:53 -0700,,"<p>Sorting is not the problem, they are already sorted oldest to newest. </p>",d_awdry,false,0,0
+1585137,1415677,2023-06-12 04:44:44 -0700,2023-06-12 04:44:44 -0700,,"<p>Look at top line of message list pane. It has words such as 'subject' 'from' 'date', etc. Click the 'date' to tell Thunderbird to sort by date. </p>",davidsk,false,0,1
 1585116,1415666,2023-06-12 02:03:24 -0700,2023-06-12 02:03:24 -0700,,<p>I am not tech and do not know what to do </p>,talfourdstewart,false,0,0
+1585138,1415659,2023-06-12 04:46:43 -0700,2023-06-12 04:46:43 -0700,,<p>Reinstalling does not fix this. What you may have is a real server timeout issue. </p>,davidsk,false,0,0
+1585136,1415652,2023-06-12 04:43:30 -0700,2023-06-12 04:43:30 -0700,,"<p>Actually, they're always there. To have them on your PC, click file&gt;offline&gt;download </p>",davidsk,false,0,0
