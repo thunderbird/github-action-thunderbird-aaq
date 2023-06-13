@@ -23,7 +23,7 @@ def update_answers_for_yyyymmdd(y, m, d)
   end
 end
 
-COUNT_FILEPATH = '.answer_poll_count.txt'
+COUNT_FILEPATH = '.answer_poll_count.txt'.freeze
 if File.exist?(COUNT_FILEPATH)
   count = IO.readlines(COUNT_FILEPATH).map(&:to_i)[0]
   count += 1
