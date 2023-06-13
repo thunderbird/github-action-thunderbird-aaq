@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1585271,1415742,2023-06-12 23:35:14 -0700,2023-06-12 23:35:14 -0700,<p>Antivirus già disattivato </p>,info8932,false,0,0
 1585270,1415742,2023-06-12 23:30:43 -0700,2023-06-12 23:30:43 -0700,<p>Per esempio disattivando il controllo dell'antivirus sugli allegati... </p>,@next,false,0,0
+1585294,1415730,2023-06-13 04:22:58 -0700,2023-06-13 04:22:58 -0700,"<p>POP does not give you access to server-side folders. This has always been the case. IMAP, on the other hand, gives you access to server-side folders. </p>",stancestans,false,0,0
