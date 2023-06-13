@@ -49,9 +49,8 @@ def get_answers(question_id, url_params, csv, url, logger)
       logger.debug "ANSWER number: #{answer_number}"
       creator = a['creator']['username']
       logger.debug "creator: #{creator}"
-      csv.push([id, question_id, created.to_s, updated.to_s, a['title'], 
-      a['content'].tr("\n", ' '), creator, a['is_spam'], a['num_helpful_votes'], 
-      a['num_unhelpful_votes']])
+      csv.push([id, question_id, created.to_s, updated.to_s, a['content'].tr("\n", ' '), 
+                creator, a['is_spam'], a['num_helpful_votes'], a['num_unhelpful_votes']])
     end
     url = answers['next']
     if url.nil?
@@ -91,7 +90,7 @@ end
 
 exit if csv.empty?
 
-headers = %w[id question_id created updated title content creator is_spam num_helpful num_unhelpful]
+headers = %w[id question_id created updated content creator is_spam num_helpful num_unhelpful]
 fn_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d'
 fn_str += '-thunderbird-answers-for-questions-desktop.csv'
 FILENAME = format(fn_str,
