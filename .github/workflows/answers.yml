@@ -10,7 +10,7 @@ name: get latest Thunderbird desktop ANSWERS
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '30,45,59 * * * *'
+    - cron:  '30,59 * * * *'
       
 jobs:
   scheduled:
@@ -34,19 +34,12 @@ jobs:
       run: |-
         timestamp=$(date --utc)
         echo "\"${timestamp}\" +%Y"
-        year=$(date -d "${timestamp}" +\%Y)
-        echo "got the year:${year}"
-        month=$(date -d "${timestamp}" +\%m)
-        echo "got the month:${month}"
-        day=$(date -d "${timestamp}" +\%e)
-        echo "got the day:${day}"
-        cd ${year}
-        bundle exec ../get-tb-answers-from-questions-file-for-arbitrary-time-period.rb ${year} ${month} ${day} ${year} ${month} ${day}
+        bundle exec ./get_answers_for_last_2_days_and_1_of_last_12.rb
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add -A
         timestamp=$(date -u)
-        git commit -m "Latest Thunderbird desktop ANSWERS: ${timestamp}" || exit 0
+        git commit -m "Latest Thunderbird desktop ANSWERS for today, yesterday and 1 of the last 14 days: ${timestamp}" || exit 0
         git push
