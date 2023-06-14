@@ -17,7 +17,7 @@ end
 
 def update_answers_for_yyyymmdd(y, m, d)
   Dir.chdir(y.to_s) do
-    answer_str = '../get-tb-creator-answers-questions-for-arbitrary-time-period.rb '
+    answer_str = '../get-tb-answers-from-questions-file-for-arbitrary-time-period.rb '
     answer_str += "#{y} #{m} #{d} #{y} #{m} #{d}"
     system(answer_str)
   end
