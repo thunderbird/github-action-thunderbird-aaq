@@ -1,4 +1,8 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1585471,1415889,2023-06-14 11:15:23 -0700,2023-06-14 11:15:23 -0700,<p>the email is a ok but still will not sent </p>,tom397,false,0,0
+1585468,1415886,2023-06-14 11:04:16 -0700,2023-06-14 11:04:16 -0700,<p>i am not reciving since today any mail to my account </p>,mbhsales33,false,0,0
+1585474,1415884,2023-06-14 11:24:58 -0700,2023-06-14 11:24:58 -0700,"<p>Try refreshing the screen by pressing F5 once. </p><p>I have a taskbar icon for Thunderbird, and I  have Windows set to show a counter of unread messages in Thunderbird, but when I open TB and read the message(s), the counter doesn't change. If I hit F5 to refresh my screen, it changes immediately. </p><p>I'm not sure this will help you with folders and new-message counters, but it works for icons. </p>",danawilson001,false,0,0
+1585473,1415859,2023-06-14 11:18:40 -0700,2023-06-14 11:18:40 -0700,<p>david has supplied the information you need. </p><p>See my screenshot (click the tiny thumbnail below) for a red-circled hamburger menu. </p>,danawilson001,false,0,0
 1585452,1415859,2023-06-14 09:54:12 -0700,2023-06-14 09:54:12 -0700,<p>Nothing happens when I press alt What is a hamburger menu? </p>,graverholt,false,0,0
 1585419,1415859,2023-06-14 06:26:29 -0700,2023-06-14 06:26:29 -0700,<p>One way is to press Alt key which should display menu bar. There may also be a hamburger menu in upper right. </p>,davidsk,false,0,0
 1585416,1415859,2023-06-14 06:10:42 -0700,2023-06-14 06:10:42 -0700,<p>Where do I find View? </p>,graverholt,false,0,0
