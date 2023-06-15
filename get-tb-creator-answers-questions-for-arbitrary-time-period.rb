@@ -110,7 +110,7 @@ until end_program
     end_program = true
     break
   else
-    sleep(1.0) # sleep 1 second between API calls
+    sleep(1.25) # sleep 1.25 seconds between API calls
   end
 end
 exit if csv.empty?
