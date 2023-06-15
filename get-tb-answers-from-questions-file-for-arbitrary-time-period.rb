@@ -54,10 +54,10 @@ def get_answers(question_id, url_params, csv, url, logger)
     end
     url = answers['next']
     if url.nil?
-      logger.debug 'nil next url'
-       end_fn = true
+      logger.debug 'nil next ANSWER url'
+      end_fn = true
     else
-      logger.debug "next url:#{url}"
+      logger.debug "next ANSWER url:#{url}"
       sleep(1.25) # sleep 1.25 seconds between API calls
     end
   end
