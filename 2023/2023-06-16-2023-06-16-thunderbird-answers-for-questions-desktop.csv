@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1585855,1416101,2023-06-16 11:57:04 -0700,2023-06-16 11:57:04 -0700,"<p>I believe SNAP versions may not necessarily be 'official', as I have seen others using Linux distributions that did not work. Your best bet is to get Linux versions at thunderbird dot net. </p>",davidsk,false,0,0
 1585850,1416094,2023-06-16 11:30:49 -0700,2023-06-16 11:30:49 -0700,<p>Should I click on root directory or local directory to open directory&nbsp;? </p>,wlawpa,false,0,0
 1585839,1416094,2023-06-16 10:28:45 -0700,2023-06-16 10:28:45 -0700,"<p>try help&gt;moretroubleshootinginformation, scroll down to 'profiles', click 'about:profiles' and see if the desired profile appears so that you can launch it. </p>",davidsk,false,0,0
 1585836,1416086,2023-06-16 10:15:51 -0700,2023-06-16 10:15:51 -0700,<p>Or restore from your own backup. </p>,wsmwk,false,0,0
