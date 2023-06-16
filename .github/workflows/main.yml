@@ -34,14 +34,7 @@ jobs:
       run: |-
         timestamp=$(date --utc)
         echo "\"${timestamp}\" +%Y"
-        year=$(date -d "${timestamp}" +\%Y)
-        echo "got the year:${year}"
-        month=$(date -d "${timestamp}" +\%m)
-        echo "got the month:${month}"
-        day=$(date -d "${timestamp}" +\%e)
-        echo "got the day:${day}"
-        cd ${year}
-        bundle exec ../get-tb-creator-answers-questions-for-arbitrary-time-period.rb ${year} ${month} ${day} ${year} ${month} ${day}
+        bundle exec ../get_answers_for_last_2_days_and_1_of_last_12.rb
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
