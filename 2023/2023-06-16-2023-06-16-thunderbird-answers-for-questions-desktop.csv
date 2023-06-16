@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1585733,1416035,2023-06-15 23:28:16 -0700,2023-06-15 23:28:16 -0700,"<p>Non c'è nessuna procedura. Puoi allegare alle mail file grandi quanto vuoi, ma se il tuo destinatario ha dei limiti in ricezione non le riceverà. </p><p>Per questo sopra diciamo i 20 MB si appoggiano i file ad un servizio cloud tipo Dropbox e nell'email si invia solo il relativo link. </p>",@next,false,0,0
