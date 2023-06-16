@@ -34,7 +34,7 @@ jobs:
       run: |-
         timestamp=$(date --utc)
         echo "\"${timestamp}\" +%Y"
-        bundle exec ../get_answers_for_last_2_days_and_1_of_last_12.rb
+        bundle exec ./get_answers_for_last_2_days_and_1_of_last_12.rb
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
