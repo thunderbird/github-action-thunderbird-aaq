@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1586650,1416497,2023-06-21 23:49:17 -0700,2023-06-21 23:49:17 -0700,"<p>This error occurs when the SMTP server blocks the messages. This may also happen when sending messages is blocked by ISP restrictions to outgoing ports and mark them as spam. To send and receive emails SMTP is used as an internet standard by the users. </p><p>Regards, Will </p>",willjoe24421,false,0,0
