@@ -1,4 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1586942,1416637,2023-06-23 13:07:41 -0700,2023-06-23 13:07:41 -0700,"<p>No, this is the place to post questions. Thanks. </p>",davidsk,false,0,0
+1586943,1416635,2023-06-23 13:15:25 -0700,2023-06-23 13:15:25 -0700,"<p>If you want to change the password for the SMTP server yourself, here are the steps: - tools&gt;settings&gt;privacy&amp;security - select 'saved passwords' and then 'show passwords' - highlight the row for SMTP server, rightclick and a menu opens to edit password. </p>",davidsk,false,0,0
 1586936,1416632,2023-06-23 12:17:35 -0700,2023-06-23 12:17:35 -0700,<p>Thanks much for a speedy reply. </p>,emcooley,false,0,0
 1586934,1416632,2023-06-23 12:14:22 -0700,2023-06-23 12:14:22 -0700,<p>Thunderbird has supported TLS 1.2 for several years. You need do nothing.&nbsp;:) </p>,davidsk,false,1,0
 1586935,1416630,2023-06-23 12:16:52 -0700,2023-06-23 12:16:52 -0700,<p>Names of menus sometimes change. Try tools&gt;settings and scroll down to 'disk space' </p>,davidsk,false,0,0
