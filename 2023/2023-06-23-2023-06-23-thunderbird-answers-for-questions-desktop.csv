@@ -1,5 +1,7 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1586946,1416640,2023-06-23 13:49:19 -0700,2023-06-23 13:49:19 -0700,"<p>I'm not sure what you are asking. Once you select tools&gt;addressbook, there is an icon to add a new contact. Please be more specific in what you want to accomplish. THanks. </p>",davidsk,false,0,0
 1586942,1416637,2023-06-23 13:07:41 -0700,2023-06-23 13:07:41 -0700,"<p>No, this is the place to post questions. Thanks. </p>",davidsk,false,0,0
+1586945,1416636,2023-06-23 13:47:49 -0700,2023-06-23 13:47:49 -0700,"<p>No solution, but a comment: when 115 rolls out, current techniques for color may be obsolete, as my own usercontrol file, which had many color settings, does not work with the beta. So, even if you get the solution you seek, it may not work in near future. </p>",davidsk,false,0,0
 1586943,1416635,2023-06-23 13:15:25 -0700,2023-06-23 13:15:25 -0700,"<p>If you want to change the password for the SMTP server yourself, here are the steps: - tools&gt;settings&gt;privacy&amp;security - select 'saved passwords' and then 'show passwords' - highlight the row for SMTP server, rightclick and a menu opens to edit password. </p>",davidsk,false,0,0
 1586936,1416632,2023-06-23 12:17:35 -0700,2023-06-23 12:17:35 -0700,<p>Thanks much for a speedy reply. </p>,emcooley,false,0,0
 1586934,1416632,2023-06-23 12:14:22 -0700,2023-06-23 12:14:22 -0700,<p>Thunderbird has supported TLS 1.2 for several years. You need do nothing.&nbsp;:) </p>,davidsk,false,1,0
