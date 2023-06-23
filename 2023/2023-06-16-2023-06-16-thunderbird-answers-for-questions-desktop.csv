@@ -12,7 +12,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1585868,1416104,2023-06-16 12:58:35 -0700,2023-06-16 12:58:35 -0700,<p>No to both. I haven't used Mozilla in several years. </p>,davidaallan1,false,0,0
 1585867,1416104,2023-06-16 12:53:02 -0700,2023-06-16 12:53:02 -0700,<p>Don't you have any old email messages with your email address on them? </p><p>Don't you have your passwords saved in either a browser or in a password manager? </p>,danawilson001,false,0,0
 1585855,1416101,2023-06-16 11:57:04 -0700,2023-06-16 11:57:04 -0700,"<p>I believe SNAP versions may not necessarily be 'official', as I have seen others using Linux distributions that did not work. Your best bet is to get Linux versions at thunderbird dot net. </p>",davidsk,false,0,0
-1586024,1416100,2023-06-17 09:49:56 -0700,2023-06-17 09:49:56 -0700,<p>Problem solved!  I had to simply change my authentication method to OAuth2 </p>,rob220,false,0,0
+1586024,1416100,2023-06-17 09:49:56 -0700,2023-06-17 09:49:56 -0700,<p>Problem solved!  I had to simply change my authentication method to OAuth2 </p>,rob220,false,0,1
 1586021,1416100,2023-06-17 09:36:03 -0700,2023-06-17 09:36:03 -0700,<p>They now want an MFA sign in that does not seem possible with Thunderbird? </p>,rob220,false,0,0
 1586018,1416100,2023-06-17 09:32:28 -0700,2023-06-17 09:32:28 -0700,"<p>My provider (<a href=""http://godaddy.com"" rel=""nofollow"">godaddy.com</a>) says, ""Microsoft deprecates basic authentication (POP and IMAP)."" </p>",rob220,false,0,0
 1586016,1416100,2023-06-17 09:30:28 -0700,2023-06-17 09:30:28 -0700,<p>SSL/TLS method with normal password authentication </p>,rob220,false,0,0
