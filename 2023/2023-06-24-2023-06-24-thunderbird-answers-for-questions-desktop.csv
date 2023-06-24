@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1586962,1416645,2023-06-23 17:54:42 -0700,2023-06-23 17:54:42 -0700,"<p>And for what it's worth, I'm using version 102.12.0 (64-bit) on a Macbook Pro. </p>",firefox2357,false,0,0
