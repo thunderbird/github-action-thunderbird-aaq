@@ -1,4 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1587447,1416856,2023-06-27 07:13:40 -0700,2023-06-27 07:13:40 -0700,<p>My only other thought would be to do help&gt;moretroubleshootinginformation and review the matrix of accounts to see if the old one is still shown. </p>,davidsk,false,0,0
+1587446,1416856,2023-06-27 07:09:36 -0700,2023-06-27 07:09:36 -0700,<p>I haven't used the TB calendar at all. I've checked that there are no entries in it ever. </p>,gusn100,false,0,0
 1587433,1416856,2023-06-27 05:18:01 -0700,2023-06-27 05:18:01 -0700,<p>You might check to see if you had a calendar connection to the account. </p>,davidsk,false,0,0
 1587444,1416852,2023-06-27 06:36:49 -0700,2023-06-27 06:36:49 -0700,"<p>I've tracked down the Composition window message area in the Developer tools inspector. </p><p>It's picking up its colours from editorContent.css line 100. @media: (prefers-color-scheme: dark}, which sets color: #f9f9fa and background-color: #2a2a2e. </p><p>If I switch to the system Light theme (or Auto) then this item goes away. </p>",gordon.lack,false,0,0
 1587441,1416852,2023-06-27 06:07:34 -0700,2023-06-27 06:07:34 -0700,"<p>Odd. As soon as I select a Dark Theme (any dark theme, as far as I can see) the default text becomes white on black in both the reader and composition windows. </p>",gordon.lack,false,0,0
