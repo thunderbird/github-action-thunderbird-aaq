@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1587591,1416978,2023-06-28 04:35:46 -0700,2023-06-28 04:35:46 -0700,"<p>In windows file explorer, you should see a folder named Data as a subfolder of the portable version. In that folder is the profile folder, possibly named Thunderbird. In that folder, look for the Mail folder for POP accounts and the Imapmail folder for IMAP accounts.  I have seen multiple approaches to portable versions, but I think this info will get you there. </p>",davidsk,false,0,0
