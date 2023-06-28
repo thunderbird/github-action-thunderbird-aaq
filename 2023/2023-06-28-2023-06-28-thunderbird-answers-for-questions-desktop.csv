@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1587636,1417018,2023-06-28 12:31:45 -0700,2023-06-28 12:31:45 -0700,"<p>I am not sure exactly what you are seeing, but you might click settings&gt;general and untick the box for  the Thunderbird startup page. </p>",davidsk,false,0,0
+1587664,1417006,2023-06-28 16:01:41 -0700,2023-06-28 16:03:27 -0700,"<p><a href=""https://support.mozilla.org/cs/kb/ochrana-ulozenych-hesel-v-thunderbirdu-pomoci-hlav"" rel=""nofollow"">Ochrana uložených hesel v Thunderbirdu pomocí hlavního hesla</a> <strong>Upozornění:</strong> Tato akce odstraní všechna vaše uložená uživatelská jména a hesla. </p>",poljos-moz,false,0,0
 1587617,1417000,2023-06-28 09:55:35 -0700,2023-06-28 09:55:35 -0700,<p>Do you have message filters? </p>,davidsk,false,0,0
 1587594,1416994,2023-06-28 05:45:47 -0700,2023-06-28 05:45:47 -0700,"<p>Check to see what folders they are in. Then, rightclick on account in left pane and click 'subscribe' to the folders. </p>",davidsk,false,0,0
 1587595,1416986,2023-06-28 05:49:39 -0700,2023-06-28 05:49:39 -0700,"<p>In the message list pane, look for the top line that shows 'subject, from, date, etc...'  Click 'date' to change the order of appearance of messages. </p>",davidsk,false,0,0
