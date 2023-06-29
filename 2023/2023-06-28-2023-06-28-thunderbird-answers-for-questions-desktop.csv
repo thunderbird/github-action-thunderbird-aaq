@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1587673,1417030,2023-06-28 18:06:08 -0700,2023-06-28 18:06:08 -0700,"<p>Is LibreOffice a 32 or 64 bit app?  If it's 32-bit, TB must also be 32-bit to send documents from LO to TB. </p>",sfhowes,false,0,0
 1587636,1417018,2023-06-28 12:31:45 -0700,2023-06-28 12:31:45 -0700,"<p>I am not sure exactly what you are seeing, but you might click settings&gt;general and untick the box for  the Thunderbird startup page. </p>",davidsk,false,0,0
 1587664,1417006,2023-06-28 16:01:41 -0700,2023-06-28 16:03:27 -0700,"<p><a href=""https://support.mozilla.org/cs/kb/ochrana-ulozenych-hesel-v-thunderbirdu-pomoci-hlav"" rel=""nofollow"">Ochrana uložených hesel v Thunderbirdu pomocí hlavního hesla</a> <strong>Upozornění:</strong> Tato akce odstraní všechna vaše uložená uživatelská jména a hesla. </p>",poljos-moz,false,0,0
 1587617,1417000,2023-06-28 09:55:35 -0700,2023-06-28 09:55:35 -0700,<p>Do you have message filters? </p>,davidsk,false,0,0
