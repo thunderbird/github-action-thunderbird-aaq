@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1587746,1417069,2023-06-29 07:38:43 -0700,2023-06-29 07:38:43 -0700,"<p>Yes  , I am receiving error message  that the email i sent  to Gmail isn't delivered . </p>",lola7,false,0,0
 1587732,1417069,2023-06-29 06:11:26 -0700,2023-06-29 06:11:26 -0700,<p>Are you receiving error messages from Gmail? </p>,davidsk,false,0,0
 1587733,1417068,2023-06-29 06:14:28 -0700,2023-06-29 06:14:28 -0700,<p>PLEASE do not post questions twice. We're volunteers here and that just causes confusion. Thank you. </p>,davidsk,false,0,0
 1587706,1417058,2023-06-29 02:20:30 -0700,2023-06-29 02:20:30 -0700,"<p>Assicurati che tutte le cartelle che ti interessano siano selezionate per la sincronizzazione: -&gt; <a href=""https://support.mozilla.org/it/kb/sincronizzazione-imap#w_configurazione-della-sincronizzazione-ed-utilizzo-dello-spazio-sul-disco"" rel=""nofollow"">https://support.mozilla.org/it/kb/sincronizzazione-imap#w_configurazione-della-sincronizzazione-ed-utilizzo-dello-spazio-sul-disco</a> </p>",@next,false,0,0
