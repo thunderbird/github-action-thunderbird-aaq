@@ -1,2 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1587897,1417144,2023-06-30 04:21:16 -0700,2023-06-30 04:21:16 -0700,<p>It is common to make part of the sig </p>,davidsk,false,0,0
+1587899,1417142,2023-06-30 04:25:33 -0700,2023-06-30 04:25:33 -0700,"<p>highlight account in left pane. rightclick and select 'settings'. Scroll down slightly to 'account actions', which is a drop-down menu with the option to delete account. </p>",davidsk,false,0,0
 1587893,1417141,2023-06-30 02:30:23 -0700,2023-06-30 02:30:23 -0700,"<p>Non credo che sia una cosa risolvibile da Thunderbird. Dovresti chiedere  chi amministra/ospita la tua casella di posta. Comunque, puoi riportare esattamente il messaggio di errore che ti viene mostrato? </p>",@next,false,0,0
+1587898,1417134,2023-06-30 04:23:03 -0700,2023-06-30 04:23:03 -0700,<p>Click settings&gt;general and scroll to bottom. </p>,davidsk,false,0,0
+1587900,1417128,2023-06-30 04:31:40 -0700,2023-06-30 04:31:40 -0700,"<p>Since you have already converted to mbox, you might try the addon, importexporttools, and use that to import each mbox file. </p>",davidsk,false,0,0
