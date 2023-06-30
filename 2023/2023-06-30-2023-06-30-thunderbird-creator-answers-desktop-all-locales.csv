@@ -1,0 +1,2 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1417126,2023-06-29 18:25:59 -0700,2023-06-29 18:25:59 -0700,Very slow Thunderbird start up - even in Trouble Shoot mode,<p>This is a new install on Mac OSX Ventura 13.4 </p><p>It is also slow in Trouble Shoot mode. </p><p>I have hardware acceleration turned off. </p>,fix-problems;,thunderbird,fix-slowness-crashing-error-messages-and-other-problems,en-US,"",camerojo
