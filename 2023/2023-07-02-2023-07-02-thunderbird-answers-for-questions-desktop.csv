@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1588261,1417300,2023-07-02 10:56:00 -0700,2023-07-02 10:56:00 -0700,<p>I checked my office. The email that retains all my messages is setup as POP account.  Do I check the synchronization and storage on both? Thanks </p>,dwilson49,false,0,0
 1588223,1417300,2023-07-02 10:03:44 -0700,2023-07-02 10:03:44 -0700,"<p>Do check the 'synchronization&amp;storage settings for the account, as it is possible the setting there is causing emails to be discarded. </p>",davidsk,false,0,0
 1588218,1417300,2023-07-02 09:55:11 -0700,2023-07-02 09:55:11 -0700,<p>The one that doesn't retain the emails is IMAP. I'm going to stop by the office later today. That email was set up years ago. I'll check if it's IMAP or POP. Thanks </p>,dwilson49,false,0,0
 1588208,1417300,2023-07-02 09:16:09 -0700,2023-07-02 09:16:09 -0700,<p>Please share more information. Is this a POP account or IMAP? </p>,davidsk,false,0,0
