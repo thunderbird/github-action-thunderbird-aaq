@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1588772,1417516,2023-07-05 03:51:53 -0700,2023-07-05 03:51:53 -0700,"<p>Just to clarify: it is the email accounts that request the passwords, not Thunderbird. </p>",davidsk,false,0,0
