@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1588918,1417580,2023-07-05 13:05:42 -0700,2023-07-05 13:05:42 -0700,<p>I can confirm this is due to “Conversations” plugin. </p>,pregnancy.refract235,false,0,0
 1588869,1417563,2023-07-05 11:17:19 -0700,2023-07-05 11:17:19 -0700,<p>I am having trouble duplicating that. Would you be able to post a screenshot of the table and also one of the HTML in the message? </p>,davidsk,false,0,0
 1588850,1417560,2023-07-05 10:23:42 -0700,2023-07-05 10:23:42 -0700,"<p>Try the addon, 'correct identity.' This addon prompts you prior to sending a message so you can see if you're using the desired email account. </p>",davidsk,false,0,0
 1588860,1417556,2023-07-05 11:01:35 -0700,2023-07-05 11:01:35 -0700,"<p>Hai seguito i metodi descritti qui? <a href=""https://forum.mozillaitalia.org/index.php?topic=74783.0"" rel=""nofollow"">https://forum.mozillaitalia.org/index.php?topic=74783.0</a> </p>",@next,false,0,0
