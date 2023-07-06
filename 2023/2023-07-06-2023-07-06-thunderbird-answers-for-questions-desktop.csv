@@ -1,4 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1589053,1417653,2023-07-06 05:58:43 -0700,2023-07-06 05:58:43 -0700,"<p>That message is usually an attempt by server to confirm that you are a customer, authorized to use their email servers. Please post more information and maybe someone here can assist. </p>",davidsk,false,0,0
+1589052,1417646,2023-07-06 05:57:34 -0700,2023-07-06 05:57:34 -0700,"<p>To use the new email account, click File&gt;new&gt;existing email account and follow the prompts. Is it that the old email account doesn't exist anymore, or that you have trouble accessing it? If desired, post information on the problem and someone here may be able to assist. Thank you. Let us know if you have problems with setting up the Outlook account. </p>",davidsk,false,0,0
 1589034,1417633,2023-07-06 03:40:30 -0700,2023-07-06 03:40:30 -0700,<p>What's wrong? Are you referring to the Thunderbird offline feature or the addon? </p>,davidsk,false,0,0
 1589043,1417627,2023-07-06 04:30:40 -0700,2023-07-06 04:30:40 -0700,"<p>Thanks. Can't do it within Thunderbird, itself? </p>",hornetster,false,0,0
 1589035,1417627,2023-07-06 03:44:30 -0700,2023-07-06 03:44:30 -0700,<p>You might try either of these addons:   'correct identity' or 'identity chooser'. </p>,davidsk,false,0,0
