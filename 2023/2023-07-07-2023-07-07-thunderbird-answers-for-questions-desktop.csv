@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1589145,1417712,2023-07-06 17:05:04 -0700,2023-07-06 17:05:04 -0700,"<p>Please don't give me a list of articles on how to fix this, what I need is a How To list of steps.  BTW I am using Red Hat 8 Linux. </p>",scottdp3,false,0,0
