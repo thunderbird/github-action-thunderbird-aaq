@@ -1,0 +1,6 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1589540,1417896,2023-07-09 06:40:35 -0700,2023-07-09 06:40:35 -0700,"<p>Are you receiving an error message? If so, please share it. </p>",davidsk,false,0,0
+1589541,1417891,2023-07-09 06:42:42 -0700,2023-07-09 06:42:42 -0700,"<p>Do leave it alone. If you ever have local folders, then any content that is deleted will go to the local folders trash folder. </p>",davidsk,false,0,0
+1589539,1417887,2023-07-09 06:39:29 -0700,2023-07-09 06:39:29 -0700,"<p>click help&gt;moretroubleshootinginformation. Then scroll down to the Mail &amp; News Account matrix to see if gmail is still listed. If so, click to account settings, highlight the account, scroll to 'account Actions' and click 'delete.' </p>",davidsk,false,0,0
+1589543,1417880,2023-07-09 06:45:34 -0700,2023-07-09 06:45:34 -0700,"<p>Generally, if a password is incorrect, TB will post for a password. You can manually do this by these steps:  - click settings&gt;privacy&amp;security - click 'saved passwords' and then 'show passwords'  - highlight the row that has password to be changed and rightclick to see the 'edit password' option. </p>",davidsk,false,0,0
+1589544,1417878,2023-07-09 06:47:04 -0700,2023-07-09 06:47:04 -0700,"<p>I suggest deleting the account, shutting down TB, restart and do setup again. </p>",davidsk,false,0,0
