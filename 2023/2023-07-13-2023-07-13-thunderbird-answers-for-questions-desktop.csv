@@ -1,0 +1,5 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1590214,1418213,2023-07-12 17:45:37 -0700,2023-07-12 17:45:37 -0700,"<p>See my screenshot for what Ctrl-A does to a message window that's full, and there are many not on the screen, and all have been selected by that one tiny hotkey combination. </p>",danawilson001,false,0,0
+1590213,1418213,2023-07-12 17:41:35 -0700,2023-07-12 17:41:35 -0700,"<p>If you enable the Select Messages column, there is a box at the left end that selects (deselects) all messages when checked(see picture). </p>",sfhowes,false,0,0
+1590212,1418213,2023-07-12 17:40:52 -0700,2023-07-12 17:40:52 -0700,"<p>I think that because the Select All command is executed so easily by typing Ctrl+A, the devs don't think a button that does exactly what Ctrl+A does would be a worthwhile addition to the interface. </p>",danawilson001,false,0,0
+1590210,1418213,2023-07-12 17:29:19 -0700,2023-07-12 17:29:19 -0700,"<p>btw, I do see a ""Reply All"" button in Customize.... </p><p>Why not ""Select All?"" </p>",mike.543,false,0,0
