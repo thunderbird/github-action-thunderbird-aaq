@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1590617,1418387,2023-07-14 15:01:16 -0700,2023-07-14 15:01:16 -0700,"<p>Aldığınız hata mesajını tam olarak yazmamışsınız (Thunderbird'de ""hesap bulunamadı"" diye bir hata mesajı yok.) ama büyük ihtimalle sunucu ayarlarınızı yanlış giriyorsunuz. </p>",maxcoder,false,0,0
 1590612,1418382,2023-07-14 13:37:14 -0700,2023-07-14 13:37:14 -0700,<p>OSX 10.15.7 </p>,Mastap,false,0,0
 1590613,1418377,2023-07-14 13:43:41 -0700,2023-07-14 13:43:41 -0700,"<p>The Saved Logins window can be resized by clicking and dragging the lower right corner (see picture), although the columns cannot be resized.  For passwords that exceed the width of the Password column, a tool tip reveals the entry. </p>",sfhowes,false,0,0
 1590608,1418377,2023-07-14 12:35:06 -0700,2023-07-14 12:35:06 -0700,"<p>Thank you. Until fixed, you can rightclick on a row and then click 'edit password' to read the password. </p>",davidsk,false,0,0
