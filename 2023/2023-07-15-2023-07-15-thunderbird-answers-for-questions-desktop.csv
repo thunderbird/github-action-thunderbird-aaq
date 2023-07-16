@@ -7,6 +7,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1590741,1418441,2023-07-15 09:56:31 -0700,2023-07-15 09:56:31 -0700,<p>thank you it  worked. I appreciate it </p>,mdm54,false,0,0
 1590728,1418441,2023-07-15 09:22:31 -0700,2023-07-15 09:22:31 -0700,"<p>If you mean the other quick filter, just rightclick mouse on the bar and drag the quickfilter off. </p>",davidsk,false,0,0
 1590727,1418441,2023-07-15 09:18:08 -0700,2023-07-15 09:18:08 -0700,<p>Click View&gt;Layout&gt;Message List Header </p>,davidsk,false,0,0
+1590906,1418440,2023-07-16 09:06:33 -0700,2023-07-16 09:06:33 -0700,"<p>With Troubleshoot mode enabled and Unified Folder option selected, the problem remains as shown in the above screenshot. </p>",jasonmswartz,false,0,0
 1590880,1418440,2023-07-16 04:17:22 -0700,2023-07-16 04:17:22 -0700,<p>That is definitely strange. </p><p>What happens after Help &gt; Troubleshoot Mode? </p>,wsmwk,false,0,0
 1590740,1418440,2023-07-15 09:53:44 -0700,2023-07-15 09:53:44 -0700,<p>'All folders' is not ticked - Please see screenshot. </p>,jasonmswartz,false,0,0
 1590725,1418440,2023-07-15 09:02:05 -0700,2023-07-15 09:02:05 -0700,"<p>Check to see if you have view&gt;folders&gt;all folders ticked, as that is how it seems to be. </p>",davidsk,false,0,0
