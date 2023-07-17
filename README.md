@@ -12,6 +12,7 @@ csvstack 2023-07-11-2023-07-11-thunderbird-creator-answers-desktop-all-locales.c
 2023-07-16-2023-07-16-thunderbird-creator-answers-desktop-all-locales.csv > tb115-2023-07-11-2023-07-16-questions.csv
 mlr --csv put -f ../make-question-link.mlr tb115-2023-07-11-2023-07-16-questions.csv \
 > with-linktb115-2023-07-11-2023-07-16-questions.csv
+mlr --csv cut -f link with-linktb115-2023-07-11-2023-07-16-questions.csv | xargs -n 1 open
 ```
 ## 2023-06-04 how to print a count of all the CSV files in 2023
 
