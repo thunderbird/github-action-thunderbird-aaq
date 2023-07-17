@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1591012,1418528,2023-07-16 20:59:13 -0700,2023-07-16 20:59:13 -0700,"<p>Do you have the latest ExQuilla 115.1?  It has a fix for sending mail. </p><p><a href=""https://addons.thunderbird.net/en-us/thunderbird/addon/exquilla-exchange-web-services/versions/?page=1#version-115.1"" rel=""nofollow"">https://addons.thunderbird.net/en-us/thunderbird/addon/exquilla-exchange-web-services/versions/?page=1#version-115.1</a> </p>",sfhowes,false,0,0
