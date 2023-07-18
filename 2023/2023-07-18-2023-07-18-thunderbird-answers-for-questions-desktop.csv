@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1591292,1418660,2023-07-18 06:52:37 -0700,2023-07-18 06:52:37 -0700,"<p>Now having the same problem using Aquamail.  Apparently the issue is on the server level with dotster. </p><p>Sorry, nevermind&nbsp;: ) </p>",comz,false,0,0
 1591285,1418651,2023-07-18 05:30:31 -0700,2023-07-18 05:30:31 -0700,<p>That's exactly what I did. That's the normal update process (at least it has always been that for me). </p>,davidsk,false,0,0
 1591275,1418645,2023-07-18 03:44:02 -0700,2023-07-18 03:44:02 -0700,<p>I believe that you cannot. I suggest creating a new addressbook and import to that. </p>,davidsk,false,0,0
 1591231,1418633,2023-07-17 21:38:47 -0700,2023-07-17 21:38:47 -0700,"<p>The best way to test if Norton is interfering is to run Windows in safe mode (to bypass startup apps like AV).  Try that and see if TB connects to <a href=""http://outlook.office365.com"" rel=""nofollow"">outlook.office365.com</a>.  For what it's worth, Hotmail works fine here with 115/W11.  Check also that cookies are accepted in TB Settings, so that the OAuth2 process can complete. </p>",sfhowes,false,0,0
