@@ -1,6 +1,15 @@
 # github-action-thunderbird-aaq
 github action to get all the Thunderbird SUMO forum questions aka Ask a Question or AAQ
 
+## 2023-07-17 how to create SQLite database
+
+* first install pandas 1.4 as per https://github.com/simonw/csvs-to-sqlite/issues/88
+* and then install csvs-to-sqlite
+
+```bash
+csvs-to-sqlite with-linktb115-2023-07-11-2023-07-16-questions.csv -dt created -dt updated \
+with-linktb115-2023-07-11-2023-07-16-questions.db
+```
 ## 2023-07-16 How To concat CSV files and then add a link field and then open in browser
 
 ```bash
