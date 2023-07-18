@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1591227,1418633,2023-07-17 21:23:59 -0700,2023-07-17 21:23:59 -0700,"<p>Do you have the authentication set to OAuth2? </p><p><a href=""https://support.mozilla.org/en-US/questions/1417298"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1417298</a> </p><p>State your antivirus if it's not Windows Security, and VPN if you have one. </p>",sfhowes,false,0,0
+1591228,1418629,2023-07-17 21:26:21 -0700,2023-07-17 21:26:21 -0700,"<p>To download (subscribe) other folders besides Inbox, the account must be added as IMAP in TB.  POP only downloads the Inbox. </p>",sfhowes,false,0,0
