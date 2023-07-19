@@ -1,4 +1,7 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1591434,1418722,2023-07-18 18:35:51 -0700,2023-07-18 18:35:51 -0700,"<p>Yes, the imap and smtp entries can be deleted, leaving the single oauth token. </p>",sfhowes,false,0,0
+1591428,1418722,2023-07-18 17:39:07 -0700,2023-07-18 17:39:07 -0700,<p>Forgot to ask. Can I remove the old imap password entry in TB or will that cause problems? </p>,stevelortie,false,0,0
+1591427,1418722,2023-07-18 17:36:28 -0700,2023-07-18 17:36:28 -0700,"<p>Thanks sfhowes. That did it. I guess I missed the announcement of the change with TB, but I heard MS wasn't making the change till Aug. Oh well. Thanks. </p>",stevelortie,false,0,0
 1591424,1418722,2023-07-18 16:55:01 -0700,2023-07-18 16:55:01 -0700,"<p>Change it to OAuth2 for incoming and outgoing (as in the link in my last reply), restart TB, enter the account password in the OAuth window.  Disable the VPN if it blocks connections. </p>",sfhowes,false,0,0
 1591413,1418722,2023-07-18 16:04:58 -0700,2023-07-18 16:04:58 -0700,<p>Hi. Authentication is set to normal password. Just Windows Security and VPN on or off doesn't change anything. </p>,stevelortie,false,0,0
 1591400,1418722,2023-07-18 15:12:04 -0700,2023-07-18 15:12:04 -0700,"<p>Do you have the authentication set to OAuth2? </p><p><a href=""https://support.mozilla.org/en-US/questions/1417298"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1417298</a> </p><p>State your antivirus if it's not Windows Security, and VPN if you have one. </p>",sfhowes,false,0,0
