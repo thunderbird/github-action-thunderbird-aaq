@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1591475,1418751,2023-07-19 01:13:56 -0700,2023-07-19 01:13:56 -0700,"<p>Mi spiego meglio: mi sono accorto che, con la modalità CARTELLE UNIFICATE, visualizzo solo 3 indirizzi IMAP e non i 2 POP3. Mentre, se vado in modalità TUTTE LE CARTELLE, allora vedo tutti e 5 gli indirizzi. </p>",francesco19,false,0,0
