@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1592077,1419018,2023-07-21 16:08:14 -0700,2023-07-21 16:08:14 -0700,"<p>If the Message List Header is enabled in View/Layout, there is a button to toggle the QFB (see picture). </p>",sfhowes,false,0,0
 1592059,1419012,2023-07-21 13:39:24 -0700,2023-07-21 13:39:24 -0700,<p>Thanks David!  That fixed my problem. </p>,yelnock,false,0,0
 1592057,1419012,2023-07-21 13:25:12 -0700,2023-07-21 13:25:12 -0700,<p>Try view&gt;Density&gt;relaxed </p>,davidsk,false,1,0
 1592062,1419005,2023-07-21 14:13:53 -0700,2023-07-21 14:13:53 -0700,"<p>There was much new code (part of the goal) in 115 that eliminated much of the CSS that many (including myself) have used through the years, although such CSS has never been supported by Thunderbird. Discovering replacement CSS with the new environment will be a matter of individual experimentation. SO, what that means is that some of the CSS tweaks that we have used may not be available in the near future, if at all. CSS is no specialty of mine so I also am waiting to see what new CSS becomes available. </p>",davidsk,false,0,0
