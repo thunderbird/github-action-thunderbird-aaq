@@ -1,4 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1592087,1419027,2023-07-21 18:21:23 -0700,2023-07-21 18:21:23 -0700,"<p>See <a href=""https://support.mozilla.org/en-US/questions/1344702#answer-1429458"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1344702#answer-1429458</a> </p>",sfhowes,false,0,0
+1592085,1419027,2023-07-21 17:38:29 -0700,2023-07-21 17:38:29 -0700,"<p>It looks (to me) as though you've got everything right except the password. Can you retrieve the password you use to log into the Verizon server in a browser? Do you have a password manager? If you use Chrome or Firefox, can you check their password records to find the Verizon password? </p>",danawilson001,false,0,0
 1592079,1419018,2023-07-21 16:38:45 -0700,2023-07-21 16:39:47 -0700,<p>Thanks! </p>,swbrains,false,0,0
 1592077,1419018,2023-07-21 16:08:14 -0700,2023-07-21 16:08:14 -0700,"<p>If the Message List Header is enabled in View/Layout, there is a button to toggle the QFB (see picture). </p>",sfhowes,false,0,1
 1592059,1419012,2023-07-21 13:39:24 -0700,2023-07-21 13:39:24 -0700,<p>Thanks David!  That fixed my problem. </p>,yelnock,false,0,0
