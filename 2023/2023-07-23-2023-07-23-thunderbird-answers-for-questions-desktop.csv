@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1592328,1419116,2023-07-23 06:30:37 -0700,2023-07-23 06:30:37 -0700,"<p>Addressbooks are retained in the profile, which is normally on drive C. It is possible to locate the profile on another drive with the Profile Manager (or by twiddling with the profiles.ini file), but many (possibly you?) locate their accounts on other drives, but leave the profile on drive C. So, the addressbooks are wherever you place the profile. </p>",davidsk,false,0,0
