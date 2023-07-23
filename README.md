@@ -4,6 +4,7 @@ github action to get all the Thunderbird SUMO forum questions aka Ask a Question
 ## 2023-07-23 creating thunderbird swag graphics april 1-june 30, 2023
 ```bash
 cat 2023-04*creator*.csv 2023-05*creator*.csv 2023-06*creator*.csv | csvstack  > tb115-2023-04-01-2023-06-30-questions.csv
+cat 2023-04*answers-for*.csv 2023-05*answers-for*.csv 2023-06*answers-for*.csv | csvstack  > tb115-2023-04-01-2023-06-30-answers.csv
 ```
 ## 2023-07-17 how to create SQLite database
 
