@@ -5,6 +5,8 @@ github action to get all the Thunderbird SUMO forum questions aka Ask a Question
 ```bash
 mlr --csv cat 2023-04*creator*.csv 2023-05*creator*.csv 2023-06*creator*.csv >thunderbird-2023-04-01-2023-06-30-questions.csv
 mlr --csv cat  2023-04*answers-for*.csv 2023-05*answers-for*.csv 2023-06*answers-for*.csv  > thunderbird-2023-04-01-2023-06-30-answers.csv
+mlr --csv sort -n id thunderbird-2023-04-01-2023-06-30-questions.csv >sorted-by-id-thunderbird-2023-04-01-2023-06-30-questions.csv
+mlr --csv sort -n id thunderbird-2023-04-01-2023-06-30-answers.csv >sorted-by-id-thunderbird-2023-04-01-2023-06-30-answers.csv
 ```
 ## 2023-07-17 how to create SQLite database
 
