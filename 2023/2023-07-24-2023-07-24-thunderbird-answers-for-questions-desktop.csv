@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1592448,1419159,2023-07-23 21:58:07 -0700,2023-07-23 21:58:07 -0700,"<p>When you open Tools/Message Filters, the Filters for drop-down at the top should have the gmail account selected, not Local Folders, if you want the filter to act on the gmail Inbox. </p>",sfhowes,false,0,0
