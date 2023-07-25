@@ -1,6 +1,13 @@
 # github-action-thunderbird-aaq
 github action to get all the Thunderbird SUMO forum questions aka Ask a Question or AAQ
 
+## 2023-07-25 how to open SUMO Thunderbird question links for a particular day
+```bash
+mlr --csv put -f ../make-question-link.mlr \
+2023-07-17-2023-07-17-thunderbird-creator-answers-desktop-all-locales.csv | \
+mlr --csv cut -f link | xargs -n 1 open
+```
+
 ## 2023-07-23 creating thunderbird swag graphics april 1-june 30, 2023
 ```bash
 mlr --csv cat 2023-04*creator*.csv 2023-05*creator*.csv 2023-06*creator*.csv >thunderbird-2023-04-01-2023-06-30-questions.csv
