@@ -1,2 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1592647,1419241,2023-07-24 19:12:08 -0700,2023-07-24 19:12:08 -0700,<p>PS: I am not a CSS programmer. </p>,jeffb4,false,0,0
+1592650,1419239,2023-07-24 19:55:39 -0700,2023-07-24 19:55:39 -0700,"<p>What's your version of Atrex?  As of v. 21, it's a 64-bit app, but if your version is an earlier 32-bit version, TB will also have to be 32-bit. </p>",sfhowes,false,0,0
+1592652,1419236,2023-07-24 19:59:19 -0700,2023-07-24 19:59:19 -0700,"<p>It has always been possible to select the sending account from the drop-down, without an add-on.  Does it work in <a href=""http://kb.mozillazine.org/Safe_Mode"" rel=""nofollow"">safe/troubleshoot mode</a>? </p>",sfhowes,false,0,0

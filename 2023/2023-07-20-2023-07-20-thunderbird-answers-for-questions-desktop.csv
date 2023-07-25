@@ -51,6 +51,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1591792,1418889,2023-07-20 08:19:18 -0700,2023-07-20 08:19:18 -0700,"<p>I tried to duplicate your situation and I cannot find any problems. It may be that 115 displays have changed somewhat, but the Unread Folder is highlighted whenever there are unread messages. 115 is continually evolving with many changes yet to come. Thank you for sharing this. </p>",davidsk,false,1,0
 1591802,1418887,2023-07-20 09:04:03 -0700,2023-07-20 09:04:03 -0700,<p>Are you running any addons that affect addressbook? The word 'cardbook' is new to me (but then I'm a Windows user.) </p>,davidsk,false,0,0
 1591796,1418886,2023-07-20 08:43:48 -0700,2023-07-20 08:43:48 -0700,<p>How long has this been happening? With which version? </p>,wsmwk,false,0,0
+1592600,1418882,2023-07-24 12:58:27 -0700,2023-07-24 12:58:27 -0700,"<p>It would not open unless I put in my data, like a new install, yes. </p>",richlofy,false,0,0
 1592246,1418882,2023-07-22 17:19:34 -0700,2023-07-22 17:19:34 -0700,<p>Were you asked to re enter your email account details when the program first started?  Like as if it was a new install perhaps. </p>,MattAuSupport,false,0,0
 1592218,1418882,2023-07-22 11:51:47 -0700,2023-07-22 11:51:47 -0700,<p>115.0.1 </p>,richlofy,false,0,0
 1592138,1418882,2023-07-22 02:50:39 -0700,2023-07-22 02:50:39 -0700,<p>What version of Thunderbird? </p>,wsmwk,false,0,0
