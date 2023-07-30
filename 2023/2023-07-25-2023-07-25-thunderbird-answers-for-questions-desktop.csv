@@ -1,6 +1,7 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1592840,1419338,2023-07-25 19:31:32 -0700,2023-07-25 19:31:32 -0700,<p>That worked -- thanks! </p>,brec,false,0,0
 1592813,1419338,2023-07-25 17:17:15 -0700,2023-07-25 17:17:15 -0700,"<p>If the account is IMAP, right-click the account in the Folder Pane, Subscribe..., Refresh, and see if the missing folders can be subscribed (checked). </p>",sfhowes,false,0,0
+1593880,1419330,2023-07-30 12:39:50 -0700,2023-07-30 12:39:50 -0700,"<p>Please tell us what version of Thunderbird. Please tell us the results of going through the steps in <a href=""https://wiki.mozilla.org/Thunderbird:Testing:Memory_Usage_Problems"" rel=""nofollow"">https://wiki.mozilla.org/Thunderbird:Testing:Memory_Usage_Problems</a> </p>",wsmwk,false,0,0
 1593841,1419330,2023-07-30 08:23:33 -0700,2023-07-30 08:23:33 -0700,<p>still having the same issue! </p>,williams382,false,0,0
 1593050,1419330,2023-07-26 14:41:54 -0700,2023-07-26 14:41:54 -0700,<p>frizzing up and I have to use Task manger to close it and then open it again. This happens all the time! I need this email program to work right. </p>,williams382,false,0,0
 1592864,1419330,2023-07-25 22:15:06 -0700,2023-07-25 22:15:06 -0700,"<p>See <a href=""https://wiki.mozilla.org/Thunderbird:Testing:Memory_Usage_Problems"" rel=""nofollow"">https://wiki.mozilla.org/Thunderbird:Testing:Memory_Usage_Problems</a> </p>",wsmwk,false,0,1
