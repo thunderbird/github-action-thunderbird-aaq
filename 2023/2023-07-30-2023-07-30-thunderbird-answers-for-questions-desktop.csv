@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1593881,1419740,2023-07-30 12:46:25 -0700,2023-07-30 12:46:25 -0700,"<p><a href=""https://support.mozilla.org/kb/cannot-receive-messages"" rel=""nofollow"">https://support.mozilla.org/kb/cannot-receive-messages</a> </p>",christ1,false,0,0
 1593867,1419736,2023-07-30 11:05:13 -0700,2023-07-30 11:05:13 -0700,"<p>My suggestion:  - If the old PC still works, first update it to current release so that both PCs have save version.  - exit thunderbird on old pc. - copy c:\users\&lt;yourid&gt;\appdata\roaming\thunderbird to USB stick - install TB on new PC and exit.  - copy the USB thunderbird folder to c:\users\&lt;yourid&gt;\appdata\roaming\thunderbird - start thunderbird </p>",davidsk,false,0,1
 1593849,1419727,2023-07-30 09:06:13 -0700,2023-07-30 09:06:13 -0700,<p>Please do not post questions twice. Thank you. </p>,davidsk,false,0,0
 1593848,1419725,2023-07-30 09:05:40 -0700,2023-07-30 09:05:40 -0700,"<p>If you already have secured an email account, just click File&gt;new&gt;existing email account. What additional information would you like? Thank you. </p>",davidsk,false,0,0
