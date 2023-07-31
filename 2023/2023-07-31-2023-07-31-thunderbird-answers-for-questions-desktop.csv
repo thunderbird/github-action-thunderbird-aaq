@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1594129,1419825,2023-07-31 11:05:33 -0700,2023-07-31 11:05:33 -0700,<p>Thank you very much! It resolved the problem! </p>,abw816,false,0,0
 1594128,1419825,2023-07-31 10:57:29 -0700,2023-07-31 10:57:29 -0700,"<p>Try this: Help/Troubleshooting Information, Printing (at the bottom), Clear saved print settings, restart TB.  Does it work now? </p>",sfhowes,false,0,0
 1594123,1419820,2023-07-31 10:26:22 -0700,2023-07-31 10:26:22 -0700,<p>Does the error message repeat each time you check? </p>,davidsk,false,0,0
 1594119,1419816,2023-07-31 10:06:25 -0700,2023-07-31 10:06:25 -0700,"<p>CardDAV is supported in TB: open the Address Book tab, New Address Book, Add CardDAV Address Book, enter your gmail address, leave the Location as is, Continue..., 'Address Book' withe Google Contacts will be added to Address Book.  Rename to e.g. Google Contacts if desired in Properties. </p>",sfhowes,false,0,0
