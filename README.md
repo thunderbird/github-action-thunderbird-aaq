@@ -13,7 +13,7 @@ thunderbird-2023-07-21-2023-07-24-questions.csv
 ```bash
 mlr --csv put -f ../make-question-link.mlr \                               
 2023-07-19-2023-07-19-thunderbird-creator-answers-desktop-all-locales.csv | \
-mlr --csv cut -f link | xargs -n 1 -I % sh -c 'sleep 10; open %;'
+mlr --csv cut -f link | xargs -n 1 -I % sh -c 'sleep 5; open %;' #5 seconds is better than 10, 10 is too long
 ```
 ## 2023-07-25 how to open SUMO Thunderbird question links for a particular day
 ```bash
