@@ -1,6 +1,12 @@
 # github-action-thunderbird-aaq
 github action to get all the Thunderbird SUMO forum questions aka Ask a Question or AAQ
 
+## 2023-08-01 Pause 10 seconds between opening SUMO Thunderbird SUMO questions for a particular day
+```bash
+mlr --csv put -f ../make-question-link.mlr \                               
+2023-07-19-2023-07-19-thunderbird-creator-answers-desktop-all-locales.csv | \
+mlr --csv cut -f link | xargs -n 1 -I % sh -c 'sleep 10; open %;'
+```
 ## 2023-07-25 how to open SUMO Thunderbird question links for a particular day
 ```bash
 mlr --csv put -f ../make-question-link.mlr \
