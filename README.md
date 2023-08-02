@@ -1,6 +1,10 @@
 # github-action-thunderbird-aaq
 github action to get all the Thunderbird SUMO forum questions aka Ask a Question or AAQ
 
+### 2023-08-02 csvstack doesn't work as well as mlr here's how to concat CSV files
+```bash
+mlr --csv cat 2023-07-21-2023-07-21-thunderbird-creator-answers-desktop-all-locales.csv 2023-07-22-2023-07-22-thunderbird-creator-answers-desktop-all-locales.csv 2023-07-23-2023-07-23-thunderbird-creator-answers-desktop-all-locales.csv 2023-07-24-2023-07-24-thunderbird-creator-answers-desktop-all-locales.csv > thunderbird-2023-07-21-2023-07-24-questions.csv
+```
 ## 2023-08-01 Pause 10 seconds between opening SUMO Thunderbird SUMO questions for a particular day
 ```bash
 mlr --csv put -f ../make-question-link.mlr \                               
