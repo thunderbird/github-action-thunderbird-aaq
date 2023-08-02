@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1594414,1419949,2023-08-01 18:53:05 -0700,2023-08-01 18:53:05 -0700,"<p>I set up a new profile, re-entered all my accounts... and I'm seeing more indication of a problem.  One of my Gmail accounts shows two Drafts folders (one is empty) -- but that is not present on the account online, or on my iPhone (Mail.app). </p><p>TB 115 won't allow me to delete the duplicate Drafts folder, either. </p>",forrie1,false,0,0
