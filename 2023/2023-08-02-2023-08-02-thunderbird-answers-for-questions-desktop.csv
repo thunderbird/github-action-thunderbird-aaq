@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1594564,1420022,2023-08-02 09:53:36 -0700,2023-08-02 09:53:36 -0700,<p>Please further explain what you mean by adding an email. That may help. Thank you. </p>,davidsk,false,0,0
 1594550,1420013,2023-08-02 08:21:28 -0700,2023-08-02 08:40:04 -0700,<p>I sure wish there was a way to edit a post title at least for a few minutes after post. </p><p>EDIT:  and so there is.  For the curious and observant. </p>,joea-too,false,0,0
 1594549,1420008,2023-08-02 08:21:03 -0700,2023-08-02 08:21:03 -0700,<p>The HTML is automatically created.  I am using the graphics interface for setup.  I even tried going into the HTML editor and manually adding the path.  It removes that path as soon as the HTML file is saved!   </p><p>(see pics) </p>,rich92,false,0,0
 1594546,1420008,2023-08-02 08:02:12 -0700,2023-08-02 08:02:12 -0700,"<p>Please post the exact HTML that you use, as others are not experience this problem. </p>",davidsk,false,0,0
