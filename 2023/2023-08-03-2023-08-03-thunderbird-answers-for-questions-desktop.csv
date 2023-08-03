@@ -1,4 +1,7 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1594814,1420123,2023-08-03 11:11:47 -0700,2023-08-03 11:11:47 -0700,<p>Stai dicendo che la password non resta memorizzata in Thunderbird o che non viene riconosciuta dal server? Che errore ricevi quando la password non funziona? </p>,@next,false,0,0
+1594818,1420120,2023-08-03 11:25:51 -0700,2023-08-03 11:25:51 -0700,"<p>OK, thanks. </p>",wsj_3,false,0,0
+1594816,1420120,2023-08-03 11:22:42 -0700,2023-08-03 11:22:42 -0700,"<p>This is a well-reported bug: <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1824889"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1824889</a> </p>",sfhowes,false,1,0
 1594786,1420113,2023-08-03 09:45:00 -0700,2023-08-03 09:45:00 -0700,"<p>Can you post a screenshot of your search results? When I do it, the location shows the folder. Thank you. </p>",davidsk,false,0,0
 1594753,1420098,2023-08-03 08:02:04 -0700,2023-08-03 08:02:04 -0700,"<p>No it doesn't show anything even when I select all address books. Right now I show contacts for Gmail and my main email client Zoho  but as stated earlier when writing an email I get 0. </p><p>Thanks for you reply, </p><p>B </p>",bruce.reimel,false,0,0
 1594737,1420098,2023-08-03 06:54:44 -0700,2023-08-03 06:54:44 -0700,"<p>When you invoked the contact sidebar on left, did you select the Google addressbook? </p>",davidsk,false,0,0
