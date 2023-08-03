@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1594786,1420113,2023-08-03 09:45:00 -0700,2023-08-03 09:45:00 -0700,"<p>Can you post a screenshot of your search results? When I do it, the location shows the folder. Thank you. </p>",davidsk,false,0,0
 1594753,1420098,2023-08-03 08:02:04 -0700,2023-08-03 08:02:04 -0700,"<p>No it doesn't show anything even when I select all address books. Right now I show contacts for Gmail and my main email client Zoho  but as stated earlier when writing an email I get 0. </p><p>Thanks for you reply, </p><p>B </p>",bruce.reimel,false,0,0
 1594737,1420098,2023-08-03 06:54:44 -0700,2023-08-03 06:54:44 -0700,"<p>When you invoked the contact sidebar on left, did you select the Google addressbook? </p>",davidsk,false,0,0
 1594729,1420091,2023-08-03 05:03:09 -0700,2023-08-03 05:03:09 -0700,<p>Update:     I have worked out that if I display messages as simple HTML it then prints normally on first page but change back to original HTML the message no longer prints on page 1. </p>,Pthrowaway3145464,false,0,0
