@@ -1,4 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1594838,1420138,2023-08-03 12:57:29 -0700,2023-08-03 12:57:29 -0700,<p>I do not see how we can assist you in whatever phone email app you are using. You might check with your Android settings to see if they are different from your PC setting. </p>,davidsk,false,0,0
+1594833,1420123,2023-08-03 12:24:38 -0700,2023-08-03 12:24:38 -0700,"<p>La password nuova viene acquisita, scarico le PEC eventualmente ricevute e richiudo. La password ha una durata standard di 3 mesi. Invece dopo 3 o 4 gg riaprendo thunderbird, mi dice che la password è scaduta..... E riparto da capo. </p>",andreagrazi,false,0,0
 1594814,1420123,2023-08-03 11:11:47 -0700,2023-08-03 11:11:47 -0700,<p>Stai dicendo che la password non resta memorizzata in Thunderbird o che non viene riconosciuta dal server? Che errore ricevi quando la password non funziona? </p>,@next,false,0,0
 1594818,1420120,2023-08-03 11:25:51 -0700,2023-08-03 11:25:51 -0700,"<p>OK, thanks. </p>",wsj_3,false,0,0
 1594816,1420120,2023-08-03 11:22:42 -0700,2023-08-03 11:22:42 -0700,"<p>This is a well-reported bug: <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1824889"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1824889</a> </p>",sfhowes,false,1,0
