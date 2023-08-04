@@ -1,2 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1594943,1420167,2023-08-03 21:51:55 -0700,2023-08-03 21:51:55 -0700,"<p>Thanks, In ""about"" I updated until it said up to date. I'm on version 102.  I'm not getting an option for v115. </p>",cheri3,false,0,0
+1594940,1420167,2023-08-03 21:49:19 -0700,2023-08-03 21:49:19 -0700,<p>There is no option to add a toolbar in V102.  I think that went away about version 68. </p><p>Perhaps you will find the new toolbars in V115 more to your liking.  Or not. They are a complete rewrite of the concept and I am struggling with having a toolbar above the menu. </p>,MattAuSupport,false,1,0
 1594925,1420158,2023-08-03 20:21:47 -0700,2023-08-03 20:21:47 -0700,"<p>Make sure the Message List Header is enabled under View/Layout, then the number of messages in the selected folder is displayed (see picture). </p>",sfhowes,false,0,0
