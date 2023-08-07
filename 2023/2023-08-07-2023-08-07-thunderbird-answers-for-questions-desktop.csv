@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1595840,1420466,2023-08-06 20:48:17 -0700,2023-08-06 20:48:17 -0700,"<p>Export WLM messages to .eml files, and place them in a File Explorer folder.  Create a subfolder of Local Folders in TB, name it e.g. WLMimported.  Size the TB and Explorer windows so they each occupy half the screen.  Select the eml files in the folder (Ctrl+A to select all), then add them to WLMimported by drag and drop. </p>",sfhowes,false,0,0
