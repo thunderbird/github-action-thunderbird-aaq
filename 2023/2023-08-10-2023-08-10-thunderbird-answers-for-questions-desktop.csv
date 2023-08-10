@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1596663,1420791,2023-08-10 05:12:35 -0700,2023-08-10 05:12:35 -0700,"<p>Kedves Péter! </p><p>Erre való az archiválás funkció. Ez a súgóleírás hozzá: <a href=""/hu/kb/archived-messages"" rel=""nofollow"">Archived Messages</a> (hamarosan lesz majd magyarul is). Használj hozzá egy helyi mappát, és akkor nem foglalja a helyet a kiszolgálón. Viszont vedd figyelembe, hogy így neked is kell gondoskodnod a fontos levelek biztonsági mentéséről. </p><p>Ha automatizált archiválásra is szükséged lenne, akkor ahhoz vannak különféle kiegészítők, de ezeket nem ismerem annyira, így nem tudok konkrétat javasolni. </p><p>Üdv, Balázs </p>",meskobalazs,false,0,0
 1596651,1420780,2023-08-10 02:48:46 -0700,2023-08-10 02:48:46 -0700,<p>Puoi spiegare meglio? </p>,@next,false,0,0
 1596621,1420777,2023-08-09 23:54:41 -0700,2023-08-09 23:55:56 -0700,<p>to be dleted </p>,NotSven,false,0,0
 1596614,1420771,2023-08-09 21:41:43 -0700,2023-08-09 21:41:43 -0700,"<p>OK. Found ""repair folder"" and that fixed it. </p>",illroute66,false,0,0
