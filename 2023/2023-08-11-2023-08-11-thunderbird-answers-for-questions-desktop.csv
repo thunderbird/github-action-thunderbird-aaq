@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1596870,1420888,2023-08-11 05:43:48 -0700,2023-08-11 05:43:48 -0700,"<p>Thunderbird is free, always has been and always will be. Donations are encouraged and welcome, but totally voluntary. You do not have to pay to use Thunderbird. Mailfence is an email service. Thunderbird is an email client. Thanks for asking. </p>",davidsk,false,0,0
+1596871,1420883,2023-08-11 05:46:19 -0700,2023-08-11 05:46:19 -0700,"<p>A thought: if this is an IMAP account, check your server settings, as it may be that you have it set to delete immediately, bypassing the trash folder. </p>",davidsk,false,0,0
