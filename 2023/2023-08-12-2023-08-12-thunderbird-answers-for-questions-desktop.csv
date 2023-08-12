@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
-1597228,1421023,2023-08-12 14:09:46 -0700,2023-08-12 14:09:46 -0700,"<p>See <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1817705"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1817705</a> and c. 6 for the More workaround. </p>",sfhowes,false,0,0
+1597234,1421023,2023-08-12 15:26:18 -0700,2023-08-12 15:26:18 -0700,"<p>Not ideal, but it works. Will have to re-learn my work flow and just get used it </p>",kim32,false,0,0
+1597228,1421023,2023-08-12 14:09:46 -0700,2023-08-12 14:09:46 -0700,"<p>See <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1817705"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1817705</a> and c. 6 for the More workaround. </p>",sfhowes,false,1,0
 1597218,1421021,2023-08-12 12:52:21 -0700,2023-08-12 12:52:21 -0700,"<p><a href=""https://support.mozilla.org/en-US/questions/1114059"" rel=""nofollow"">Found the answer</a> after post the message, sorry for the noise </p>",darodriguez,false,0,0
 1597211,1421013,2023-08-12 11:37:16 -0700,2023-08-12 11:37:16 -0700,"<p>AN UPDATE: On the PC on to which I want to import the third calendar, I created a calendar using the same name and colour. Then as a test, I created an event in it for today. When I tried to export the temporary calendar, nothing happens. How coincidental (read odd) is that? </p>",pbrixey41,false,0,0
 1597209,1421012,2023-08-12 11:04:45 -0700,2023-08-12 11:04:45 -0700,<p>No. This forum is the support tool. </p>,davidsk,false,0,0
