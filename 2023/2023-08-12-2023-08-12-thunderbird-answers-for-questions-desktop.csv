@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1597063,1420973,2023-08-11 20:34:55 -0700,2023-08-11 20:34:55 -0700,"<p>Perhaps you might share enough information for someone to take a guess. We know exactly what you tell us. At this point we have enough information to know you apparently have a problem.  Nothing more. </p><pre>The error message you get after you send would be a very good start,  as will as details of the email provider and any antivirus or internet protection suite. </pre>",MattAuSupport,false,0,0
