@@ -52,9 +52,9 @@ NUMBER_OF_DAYS.times do
   fn_str = '%<yeard>4.4d/%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d'
   fn_str +=
     if questions
-      '-thunderbird-creator-answers-desktop-all-locales.csv' # FIXME
+      '-thunderbird-creator-answers-desktop-all-locales.csv' # FIXME remove hardcoding
     else
-      '-thunderbird-answers-for-questions-desktop.csv' # FIXME
+      '-thunderbird-answers-for-questions-desktop.csv' # FIXME remove hardcoding
     end
   filename = format(
     fn_str,
@@ -76,9 +76,3 @@ command_line += if questions
 command_line += 'then put -f ./make-question-link.mlr '
 command_line += "#{files_str} > #{output_file}"
 system(command_line)
-binding.pry
-
-# if a CSV file doesn't exist, then exit
-# add a link column
-# sort by id (if there is a question_id field sort by question_id instead of id)
-# write file to CSV_BY_TIME_PERIOD_USUALLY_BY_MONTH
