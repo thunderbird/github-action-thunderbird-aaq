@@ -52,9 +52,9 @@ NUMBER_OF_DAYS.times do
   fn_str = '%<yeard>4.4d/%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d'
   fn_str +=
     if questions
-      '-thunderbird-creator-answers-desktop-all-locales.csv' # FIXME remove hardcoding
+      '-thunderbird-creator-answers-desktop-all-locales.csv' # FIXME: remove hardcoding
     else
-      '-thunderbird-answers-for-questions-desktop.csv' # FIXME remove hardcoding
+      '-thunderbird-answers-for-questions-desktop.csv' # FIXME: remove hardcoding
     end
   filename = format(
     fn_str,
@@ -69,10 +69,9 @@ end
 # concat the csv files
 command_line = 'mlr --csv cat then sort -n '
 command_line += if questions
-                  'id '
+                  'id then put -f ./make-question-link.mlr  '
                 else
-                  'question_id '
+                  'question_id then put -f ./make-question-link-for-replies.mlr '
                 end
-command_line += 'then put -f ./make-question-link.mlr '
 command_line += "#{files_str} > #{output_file}"
 system(command_line)
