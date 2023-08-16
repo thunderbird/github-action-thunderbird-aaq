@@ -67,7 +67,13 @@ NUMBER_OF_DAYS.times do
 end
 
 # concat the csv files
-command_line = "mlr --csv cat then sort -n id then put -f ./make-question-link.mlr "
+command_line = 'mlr --csv cat then sort -n '
+command_line += if questions
+                  'id '
+                else
+                  'question_id '
+                end
+command_line += 'then put -f ./make-question-link.mlr '
 command_line += "#{files_str} > #{output_file}"
 system(command_line)
 binding.pry
