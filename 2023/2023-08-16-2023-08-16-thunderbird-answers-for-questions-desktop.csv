@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1597877,1421304,2023-08-16 03:50:23 -0700,2023-08-16 03:50:23 -0700,"<p>mozbackup is old and should never be used, as it causes errors. If possible, reconstruct the backup with other means. </p>",davidsk,false,0,0
