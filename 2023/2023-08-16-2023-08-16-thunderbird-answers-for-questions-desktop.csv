@@ -1,5 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
-1597969,1421361,2023-08-16 11:25:38 -0700,2023-08-16 11:25:38 -0700,"<p>E' un account POP. Accedo dal cellulare, ma non è quello il motivo. Non ho installato nulla. Non ho antivirus </p>",info9727,false,0,0
+1597969,1421361,2023-08-16 11:25:38 -0700,2023-08-16 11:28:15 -0700,"<p>E' un account POP. Accedo dal cellulare, ma non è quello il motivo. Anche perché sul cellulare non mi succede. Solo sul portatile. Non ho installato nulla. Non ho antivirus </p>",info9727,false,0,0
 1597949,1421361,2023-08-16 10:10:22 -0700,2023-08-16 10:10:22 -0700,"<p>Ciao, Si tratta di un account POP3 o IMAP? Accedi allo stesso account da altri dispositivi? Hai installato delle estensioni? Hai un antivirus? </p>",@next,false,0,0
 1597946,1421359,2023-08-16 10:05:21 -0700,2023-08-16 10:05:21 -0700,"<p>Normally, the email account would have that domain name, such as jane@outlook.com. You might also look to see what your servers are. If the word 'outlook' is part of them name, you have an outlook account. </p>",davidsk,false,0,0
 1597940,1421359,2023-08-16 09:55:55 -0700,2023-08-16 09:55:55 -0700,"<p>You said: <strong>If your account is Outlook</strong>, this might be your situation. If not, please provide more information.  </p><p>How can I find out if my account is outlook? </p>",djberlin46,false,0,0
