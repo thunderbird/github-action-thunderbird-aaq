@@ -1,0 +1,2 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1421304,2023-08-15 17:50:18 -0700,2023-08-15 17:50:18 -0700,PCV profile import to Thunderbird from MozBackup,"<p>I have reinstalled a profile that was backed up on MozBackup as a .pcv file. This displays the contents of each email folder. However, when I click on most of the individual email messages, most of them have no data: I can see sender, subject, date/time, but not the actual message. </p>",download-and-install_1;,thunderbird,download-install-and-migration,en-US,"",evanvwk
