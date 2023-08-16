@@ -1,6 +1,27 @@
 # github-action-thunderbird-aaq
 github action to get all the Thunderbird SUMO forum questions aka Ask a Question or AAQ
 
+### 2023-08-15 concat all the questions and answers from July 11-August 15, 2023 i.e. from start of TB115 release and then search them
+```bash
+./concatenate-multiple-sumo-question-or-answer-files.rb 2023 7 11 2023 8 15 questions
+./concatenate-multiple-sumo-question-or-answer-files.rb 2023 7 11 2023 8 15 answers
+```
+which creates the files:
+* CSV_BY_TIME_PERIOD_USUALLY_BY_MONTH/[thunderbird-desktop-questions-2023-07-11-2023-08-15.csv](https://raw.githubusercontent.com/rtanglao/github-action-thunderbird-aaq/main/CSV_BY_TIME_PERIOD_USUALLY_BY_MONTH/thunderbird-desktop-questions-2023-07-11-2023-08-15.csv)
+* CSV_BY_TIME_PERIOD_USUALLY_BY_MONTH/[thunderbird-desktop-answers-2023-07-11-2023-08-15.csv](https://raw.githubusercontent.com/rtanglao/github-action-thunderbird-aaq/main/CSV_BY_TIME_PERIOD_USUALLY_BY_MONTH/thunderbird-desktop-answers-2023-07-11-2023-08-15.csv)
+
+#### you can than then search using datasette lite using SQLite (joins etc)
+
+* https://lite.datasette.io/?csv=https://raw.githubusercontent.com/rtanglao/github-action-thunderbird-aaq/main/CSV_BY_TIME_PERIOD_USUALLY_BY_MONTH/thunderbird-desktop-questions-2023-07-11-2023-08-15.csv&csv=https://raw.githubusercontent.com/rtanglao/github-action-thunderbird-aaq/main/CSV_BY_TIME_PERIOD_USUALLY_BY_MONTH/thunderbird-desktop-answers-2023-07-11-2023-08-15.csv <-- to search the tables
+* search for all of wayne's replies aka answers:
+* SQLite is:
+  ```sql
+  select rowid, id, question_id, created, updated, content, creator, is_spam, num_helpful, num_unhelpful, link from [thunderbird-desktop-answers-2023-07-11-2023-08-15] where "creator" = :p0 order by rowid limit 101
+  p0=wsmwk
+  ````
+  * URL for above SQLite query is: https://lite.datasette.io/?csv=https://raw.githubusercontent.com/rtanglao/github-action-thunderbird-aaq/main/CSV_BY_TIME_PERIOD_USUALLY_BY_MONTH/thunderbird-desktop-questions-2023-07-11-2023-08-15.csv&csv=https://raw.githubusercontent.com/rtanglao/github-action-thunderbird-aaq/main/CSV_BY_TIME_PERIOD_USUALLY_BY_MONTH/thunderbird-desktop-answers-2023-07-11-2023-08-15.csv#/data?sql=select+rowid%2C+id%2C+question_id%2C+created%2C+updated%2C+content%2C+creator%2C+is_spam%2C+num_helpful%2C+num_unhelpful%2C+link+from+%5Bthunderbird-desktop-answers-2023-07-11-2023-08-15%5D+where+%22creator%22+%3D+%3Ap0+order+by+rowid+limit+101&p0=wsmwk
+
+
 ### 2023-08-02 csvstack doesn't work as well as mlr here's how to concat CSV files
 ```bash
 mlr --csv cat 2023-07-21-2023-07-21-thunderbird-creator-answers-desktop-all-locales.csv \
