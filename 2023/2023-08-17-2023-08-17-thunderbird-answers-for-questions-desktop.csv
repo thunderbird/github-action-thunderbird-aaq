@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1598070,1421411,2023-08-17 03:55:31 -0700,2023-08-17 03:55:31 -0700,"<p>In the settings&gt;general pane, in the 'advanced' button for font selection, notice the dropdown menu at top. It probably says 'latin' or 'other writing systems'. Set both of those to be IDENTICAL. Since TB refers to pixels and not points, you may need to set number higher than expected. </p>",davidsk,false,0,0
 1598071,1421403,2023-08-17 03:56:31 -0700,2023-08-17 03:56:31 -0700,<p>Check the accounts online. Gmail usually keeps all deleted mail for a month. </p>,davidsk,false,0,0
+1598073,1421402,2023-08-17 04:21:07 -0700,2023-08-17 04:21:07 -0700,"<p>The normal approach is to click Tools&gt;addressbook and then click 'new contact' and fill in the boxes. If the menu bar isn't visible, click the Alt key to have it displayed. </p>",davidsk,false,0,0
