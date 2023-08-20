@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1598666,1421677,2023-08-19 17:06:21 -0700,2023-08-19 17:06:21 -0700,"<p>try deleting your comcast passwords from Thunderbird. <a href=""https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-tb"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-tb</a> </p>",MattAuSupport,false,0,0
