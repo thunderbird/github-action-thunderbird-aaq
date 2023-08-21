@@ -1,0 +1,2 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1421763,2023-08-20 19:19:14 -0700,2023-08-20 19:19:14 -0700,TB Keeps checking a deleted account.,"<p>I removed an IMAP type account hosted at Google domains. </p><p>It is not on the list of accounts, yet, every 10 minutes, and at startup, it tries to connect, with the obvious error messages.  </p><p>How can I stop it? </p><p>Linux Mint 21 Thunderbird 102.13.0 (64-bit) </p>",fix-problems;,thunderbird,fix-slowness-crashing-error-messages-and-other-problems,en-US,"",mike661
