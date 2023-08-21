@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1598892,1421765,2023-08-20 21:59:25 -0700,2023-08-20 21:59:25 -0700,"<p>You might want to try making your suggestion on the <a href=""http://connect.mozilla.org/"" rel=""nofollow"">feedback forum</a>,  not the support forum. </p><p>I assume you are referring to this bug <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1771649"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1771649</a> when you talk about a thread. </p>",MattAuSupport,false,0,0
