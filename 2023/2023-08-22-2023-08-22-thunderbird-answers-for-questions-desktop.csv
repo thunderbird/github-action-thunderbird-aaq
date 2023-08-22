@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1599276,1421936,2023-08-22 12:18:13 -0700,2023-08-22 12:18:13 -0700,"<ol><li> * <a href=""http://example.com"" rel=""nofollow"">Numbered list item</a> </li></ol>",janegreenwasser,false,0,0
+1599298,1421935,2023-08-22 13:21:57 -0700,2023-08-22 13:21:57 -0700,"<p>Ok, I'm not sure what menu you're following. The one I see to export addressbooks goes to csv, ldif, or vcard. </p>",davidsk,false,0,0
 1599225,1421909,2023-08-22 09:24:21 -0700,2023-08-22 09:24:21 -0700,<p>Same problem here. Probably Gmail forcing the rest of world to use Gmail. </p>,lholcombe,false,0,0
 1599252,1421902,2023-08-22 11:14:57 -0700,2023-08-22 11:14:57 -0700,<p>insufficient disk space or too few permissions </p><p>Is where it starts </p>,googlethunderbird,false,0,0
 1599240,1421902,2023-08-22 10:08:39 -0700,2023-08-22 10:08:39 -0700,"<p>This regarding the nuisance of your compress with folder or inbox. </p><p>The possibility that you cannot send your messages should be configuring your settings for outgoing messages to third parties. </p><p>check your Smtp settings that are contained therein, for example. </p><p>Do you know how to get here? </p><p>regards firefox volunteer. ​ </p>",googlethunderbird,false,0,0
