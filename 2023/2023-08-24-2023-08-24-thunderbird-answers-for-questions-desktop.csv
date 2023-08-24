@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1599605,1422055,2023-08-24 07:02:11 -0700,2023-08-24 07:02:11 -0700,"<p>Welcome, ad.hensen, </p><p>Tell us which version of Thunderbird you are running, and we'll give you directions for getting Subject back in the columns list. It's easier in 102.x than in 115.x, but it's not rocket science in either of them. </p>",danawilson001,false,0,0
 1599544,1422043,2023-08-23 19:44:04 -0700,2023-08-23 19:44:04 -0700,"<p>See the All Mail section here: <a href=""http://kb.mozillazine.org/Gmail"" rel=""nofollow"">http://kb.mozillazine.org/Gmail</a> </p>",sfhowes,false,0,0
