@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1599683,1422116,2023-08-24 18:42:00 -0700,2023-08-24 18:42:00 -0700,"<p>Ok, it seems that it's not possible to add the PIV card to firefox, but it is to Thunderbird and then it works. Sorry for the noise. We can close this. </p>",ivanperezdominguez,false,0,0
