@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1600349,1422400,2023-08-28 13:29:13 -0700,2023-08-28 13:29:13 -0700,<p>That has happened to me. Tried the parentlock solution and tried ending the task. Only a reboot would solve it. </p>,TheWeaz,false,0,0
 1600335,1422400,2023-08-28 11:53:07 -0700,2023-08-28 11:53:07 -0700,"<p>Have you tried deleting the .parentlock file? </p><p><a href=""http://kb.mozillazine.org/Profile_in_use#Remove_the_profile_lock_file"" rel=""nofollow"">http://kb.mozillazine.org/Profile_in_use#Remove_the_profile_lock_file</a> </p>",sfhowes,false,0,0
 1600343,1422399,2023-08-28 12:52:12 -0700,2023-08-28 12:52:12 -0700,<p>thanks mate  that is what every one is saying!!!!!!! may have to go back a have older version </p>,geof.hovell,false,0,0
 1600342,1422399,2023-08-28 12:50:04 -0700,2023-08-28 12:50:04 -0700,"<p>Ok, I'm out of ideas on that. </p>",davidsk,false,0,0
