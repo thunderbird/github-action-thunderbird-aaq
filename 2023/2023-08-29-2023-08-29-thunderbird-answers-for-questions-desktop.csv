@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1600497,1422471,2023-08-29 09:56:01 -0700,2023-08-29 09:56:01 -0700,<p>When I highlight this email address and click on Settings&gt;Account settings&gt;Set as Default.  Set as Default is grayed out so I can't set this email to default. </p>,todd60,false,0,0
 1600493,1422471,2023-08-29 09:12:05 -0700,2023-08-29 09:12:05 -0700,"<p>What do you mean with ""it's greyed out""? </p>",davidsk,false,0,0
 1600479,1422470,2023-08-29 08:14:15 -0700,2023-08-29 08:14:15 -0700,<p>Thunderbird 115.1.1 (64-bit) </p>,TechByter,false,0,0
 1600478,1422468,2023-08-29 08:13:53 -0700,2023-08-29 08:13:53 -0700,<p>Should have mentioned that I'm using unified folders if that makes any difference. </p>,MrYossu,false,0,0
