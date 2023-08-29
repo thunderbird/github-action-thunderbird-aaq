@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1600533,1422484,2023-08-29 13:38:55 -0700,2023-08-29 13:38:55 -0700,"<p>Grazie Next per la risposta. Non ho trovato al momento instabilità sulla versione 117.0b6 che volevo provare. Mi hai indicato di provare a utilizzare il protocollo CALDAV, ma riguarda il calendario e non i contatti o sbaglio? Non ho nessun problema con i calendari ma vorrei sincronizzare i contatti e non trovo la soluzione. La versione 115 permette di utilizzare tbsync e tb4sync? Nel caso posso tornare dalla versione 117.0b6 alla 115 conservando la configurazione? Grazie </p>",antonio.lisi,false,0,0
 1600526,1422479,2023-08-29 13:15:31 -0700,2023-08-29 13:15:31 -0700,<p>I'm glad all is well. You're very welcome.&nbsp;:) </p>,davidsk,false,0,0
 1600525,1422479,2023-08-29 13:06:43 -0700,2023-08-29 13:06:43 -0700,"<p>Perfect.  Thanks, David.  That did the trick! </p><p>Regards, Lacoy </p>",LacoyLoescher,false,0,0
 1600514,1422479,2023-08-29 12:14:56 -0700,2023-08-29 12:14:56 -0700,"<p>If not a lot, you should be able to rightclick and click 'move to' option. </p>",davidsk,false,1,0
