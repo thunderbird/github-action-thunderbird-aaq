@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1600628,1422530,2023-08-30 01:20:29 -0700,2023-08-30 01:20:29 -0700,"<p>In Thunderbird's menu, go to Help &gt; Troubleshooting Information &gt; Copy text to clipboard then paste it in your next reply. </p>",stancestans,false,0,0
