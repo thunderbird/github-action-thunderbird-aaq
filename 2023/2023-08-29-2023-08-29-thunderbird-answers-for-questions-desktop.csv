@@ -13,6 +13,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1600515,1422477,2023-08-29 12:17:53 -0700,2023-08-29 12:17:53 -0700,<p>I was able to configure using your settings. Maybe you should omit password until the configuration is complete. I have seen that work multiple times. </p>,davidsk,false,0,0
 1600523,1422472,2023-08-29 12:59:32 -0700,2023-08-29 12:59:32 -0700,"<p>@sfhowes Thanks, that's so simple! </p>",MrYossu,false,0,0
 1600518,1422472,2023-08-29 12:31:24 -0700,2023-08-29 12:31:24 -0700,"<p>How did you save the sent messages?  If they were individual .eml files, they can be imported by drag and drop from File Explorer to a subfolder of Local Folders. </p>",sfhowes,false,0,0
+1600675,1422471,2023-08-30 05:58:21 -0700,2023-08-30 05:58:21 -0700,<p>This is the only account that is grayed out.  The others are not. </p>,todd60,false,0,0
 1600669,1422471,2023-08-30 05:27:03 -0700,2023-08-30 05:27:03 -0700,<p>How many accounts are there? Is the default option greyed out on the others? </p>,davidsk,false,0,0
 1600497,1422471,2023-08-29 09:56:01 -0700,2023-08-29 09:56:01 -0700,<p>When I highlight this email address and click on Settings&gt;Account settings&gt;Set as Default.  Set as Default is grayed out so I can't set this email to default. </p>,todd60,false,0,0
 1600493,1422471,2023-08-29 09:12:05 -0700,2023-08-29 09:12:05 -0700,"<p>What do you mean with ""it's greyed out""? </p>",davidsk,false,0,0
