@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1600960,1422698,2023-08-31 14:42:05 -0700,2023-08-31 14:42:05 -0700,<p>found it. </p><p>Had to run  thunderbird.exe -p and deselect default email. </p>,stanger,false,0,0
 1600958,1422694,2023-08-31 14:15:26 -0700,2023-08-31 14:15:26 -0700,"<p>No it’s my customers email just one recipient, that I’m trying to send an invoice to. I’ve sent them invoices in the past but now it’s not working </p>",lexxheckman22,false,0,0
 1600957,1422694,2023-08-31 14:14:25 -0700,2023-08-31 14:14:25 -0700,"<p>any attachments? is it to multiple recipients? If it looks like spam, it will be refused. </p>",davidsk,false,0,0
 1600956,1422694,2023-08-31 14:12:53 -0700,2023-08-31 14:12:53 -0700,<p>It said…. I’m sorry to inform you that your message couldn’t be delivered to one or more recipients. Then lists for more assistance to send the mail to post master </p>,lexxheckman22,false,0,0
