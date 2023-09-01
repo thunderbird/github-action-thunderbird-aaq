@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1600988,1422711,2023-08-31 18:20:44 -0700,2023-08-31 18:20:44 -0700,"<p>Fixed it!  Another posted question mentioned the utility for purging visited URLs, and once that was done the link turned blue again.  Shouldn't happen again now that I'm set up not to remember visited sites. </p>",Electrojim,false,0,0
