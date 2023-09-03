@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1601619,1422953,2023-09-03 15:37:11 -0700,2023-09-03 15:57:19 -0700,"<p>Hello there We have read the message We try to help you. </p><p><a href=""https://support.mozilla.org/en-US/kb/cannot-send-messages"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/cannot-send-messages</a> </p><p>Verify that your outgoing email is not being blocked by your firewall, antivirus  or your Internet Service Provider </p><p>Greetings firefox volunteer. </p>",googlethunderbird,false,0,0
 1601593,1422945,2023-09-03 12:44:48 -0700,2023-09-03 12:44:48 -0700,"<p>Since there's no Edit button, I'll add a reply. </p><p>To unpin the app: Launch TaskManager, and restart Windows Explorer. When right-clicking on the icon, you should now be able to choose ""Unpin"" from the pop-up menu. </p>",littlebigman,false,0,0
 1601534,1422930,2023-09-03 09:19:57 -0700,2023-09-03 09:19:57 -0700,<p>Nice. Would you please mark it solved? Thanks. </p>,davidsk,false,1,0
 1601531,1422930,2023-09-03 09:11:27 -0700,2023-09-03 09:11:27 -0700,<p>never mind I figured it out while describing the problem </p>,b_essary,false,0,0
