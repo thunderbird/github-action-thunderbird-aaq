@@ -1,5 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
-1601534,1422930,2023-09-03 09:19:57 -0700,2023-09-03 09:19:57 -0700,<p>Nice. Would you please mark it solved? Thanks. </p>,davidsk,false,0,0
+1601534,1422930,2023-09-03 09:19:57 -0700,2023-09-03 09:19:57 -0700,<p>Nice. Would you please mark it solved? Thanks. </p>,davidsk,false,1,0
 1601531,1422930,2023-09-03 09:11:27 -0700,2023-09-03 09:11:27 -0700,<p>never mind I figured it out while describing the problem </p>,b_essary,false,0,0
 1601535,1422927,2023-09-03 09:21:09 -0700,2023-09-03 09:21:09 -0700,<p>A portable version is going to have more startup overhead than the installed version. </p>,davidsk,false,0,0
 1601513,1422920,2023-09-03 08:22:03 -0700,2023-09-03 08:22:03 -0700,"<p>Scusa se ti disturbo, mi potresti dire per favore dove cercare ""Mostra originale"" o ""Mostra Intestazioni"" o simili? Grazie ancora. Franca </p>",fcaneve,false,0,0
