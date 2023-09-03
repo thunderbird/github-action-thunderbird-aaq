@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1601593,1422945,2023-09-03 12:44:48 -0700,2023-09-03 12:44:48 -0700,"<p>Since there's no Edit button, I'll add a reply. </p><p>To unpin the app: Launch TaskManager, and restart Windows Explorer. When right-clicking on the icon, you should now be able to choose ""Unpin"" from the pop-up menu. </p>",littlebigman,false,0,0
 1601534,1422930,2023-09-03 09:19:57 -0700,2023-09-03 09:19:57 -0700,<p>Nice. Would you please mark it solved? Thanks. </p>,davidsk,false,1,0
 1601531,1422930,2023-09-03 09:11:27 -0700,2023-09-03 09:11:27 -0700,<p>never mind I figured it out while describing the problem </p>,b_essary,false,0,0
 1601535,1422927,2023-09-03 09:21:09 -0700,2023-09-03 09:21:09 -0700,<p>A portable version is going to have more startup overhead than the installed version. </p>,davidsk,false,0,0
