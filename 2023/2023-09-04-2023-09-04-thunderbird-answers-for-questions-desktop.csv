@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1601761,1423018,2023-09-04 12:16:36 -0700,2023-09-04 12:16:36 -0700,"<p>Wait, update: I found the AppData folder (hidden), but the default folder is empty. </p>",mommajay,false,0,0
 1601749,1423014,2023-09-04 11:33:09 -0700,2023-09-04 11:33:09 -0700,"<p>You need to provide much more information, as I am unclear what you mean by the mozilla page. </p>",davidsk,false,0,0
 1601751,1423009,2023-09-04 11:39:43 -0700,2023-09-04 11:39:43 -0700,"<p>I am not aware of any feature for that, but I use the nickname field for that, as it is not part of the email address or name that appears in the message. It's a workaround, such as aajim, aajane, etc. but it works. </p>",davidsk,false,0,0
 1601740,1423005,2023-09-04 10:38:52 -0700,2023-09-04 10:38:52 -0700,<p>There is a small menu bar at the top of the message list pane. One of the entries on the right side is DATE. Click that to adjust sort by date. </p>,davidsk,false,0,0
