@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1601628,1422888,2023-09-03 16:24:50 -0700,2023-09-03 16:24:50 -0700,"<p><strong>UPDATE to original question/post.</strong> </p><p>Further experimentation with the subject phenomenon discovered that double-clicking on the ""unread"" account (red arrow, above) will clear the condition also.  Any ideas, anyone? </p>",Electrojim,false,0,0
+1601827,1422885,2023-09-04 23:46:08 -0700,2023-09-04 23:46:08 -0700,<p>That is the new layout for now. </p>,wsmwk,false,0,0
 1601396,1422885,2023-09-02 14:24:47 -0700,2023-09-02 14:24:47 -0700,"<p>I don't know why, but the image I attached didn't display. </p><p>Trying again. </p>",rabbithutch1,false,0,0
 1601384,1422874,2023-09-02 13:24:25 -0700,2023-09-02 13:24:25 -0700,"<p>Just a thought: if the message is coming from the server, you might contact the email provider to confirm whether this might be a setting of theirs. Thunderbird doesn't send messages from the server. </p>",davidsk,false,0,0
 1601574,1422873,2023-09-03 10:33:57 -0700,2023-09-03 10:33:57 -0700,<p>The colour of the bar might be red for scam warnings. </p>,sfhowes,false,0,0
