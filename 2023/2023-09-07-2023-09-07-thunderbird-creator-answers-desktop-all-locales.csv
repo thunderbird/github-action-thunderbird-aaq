@@ -1,0 +1,2 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1423215,2023-09-06 17:02:07 -0700,2023-09-06 17:02:07 -0700,"New Thunderbird account - when I send mail, it goes to me, not recipient","<p>I just downloaded and configured Thunderbird to access my Outlook email account. Seemed to go fine. But when I send a test message to my other (gmail) account, it does not arrive there but arrived in my Thunderbird/Outlook account. Must be a setup problem, but where? Thanks! </p>",other;,thunderbird,other,en-US,"",bostonguido
