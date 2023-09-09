@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1602536,1423397,2023-09-08 19:12:20 -0700,2023-09-08 19:12:20 -0700,"<p>Seems that this is triggered by the ""QuickFolders"" extension.  I disabled all my TBird extensions, and then re-enabled them one by one. With all disabled, the ""null"" text disappeared, and stayed away as all other extensions were re-enabled, but when I re-enabled QuickFolders, the ""null"" text returned. </p>",doug-TBird,false,0,0
