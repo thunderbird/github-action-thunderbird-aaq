@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1602693,1423479,2023-09-09 22:09:06 -0700,2023-09-09 22:09:06 -0700,"<p>See <a href=""https://support.mozilla.org/en-US/kb/rebuilding-global-database"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/rebuilding-global-database</a> that will probably fix it. </p>",MattAuSupport,false,0,0
+1602694,1423476,2023-09-09 22:11:17 -0700,2023-09-09 22:11:17 -0700,<p>right click the folder the sent mail is in and select properties.  Is the include the folder in the global search results selected? It should be. </p>,MattAuSupport,false,0,0
