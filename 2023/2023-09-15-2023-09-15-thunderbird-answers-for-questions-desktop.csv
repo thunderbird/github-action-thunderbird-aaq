@@ -1,4 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1604016,1424101,2023-09-15 14:51:45 -0700,2023-09-15 14:51:45 -0700,"<p>Are scrollbars enabled in OS X settings? </p><p><a href=""https://www.macrumors.com/how-to/make-scroll-bars-always-visible/"" rel=""nofollow"">https://www.macrumors.com/how-to/make-scroll-bars-always-visible/</a> </p>",sfhowes,false,0,0
+1604010,1424101,2023-09-15 14:27:33 -0700,2023-09-15 14:27:33 -0700,<p>Also I just noticed that Command Q no longer quits Thunderbird!! Why??? </p>,thayne,false,0,0
 1603999,1424097,2023-09-15 13:51:07 -0700,2023-09-15 13:51:07 -0700,<p>Hold the fort.  I found the problem.  It's not a header panel ... it's the top few inches of the message panel.  I discovered that I had both the message list panel AND the message panel enabled. </p><p>No points for solving this one myself.  Just a big egg in the face for wasting the time of anyone reading my initial inquiry. </p>,dncollins,false,0,0
 1604008,1424096,2023-09-15 14:10:40 -0700,2023-09-15 14:10:40 -0700,<p>You are safe with getting Thunderbird there. </p>,davidsk,false,1,0
 1603978,1424089,2023-09-15 12:55:13 -0700,2023-09-15 12:55:13 -0700,<p>Are you receiving any error messages? Those are usually a clue. </p>,davidsk,false,0,0
