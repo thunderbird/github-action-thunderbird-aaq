@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1604199,1424166,2023-09-16 10:34:17 -0700,2023-09-16 10:34:17 -0700,"<p>See <a href=""https://support.mozilla.org/en-US/questions/1423577"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1423577</a> </p>",sfhowes,false,0,0
 1604138,1424166,2023-09-16 07:09:35 -0700,2023-09-16 07:09:35 -0700,"<p>""pains""  &lt;-- ""panes"" </p>",dblevins1,false,0,0
 1604161,1424165,2023-09-16 08:34:26 -0700,2023-09-16 08:34:26 -0700,<p>Hi Ed. What you describe is a problem that identified recently and should hopefully have a fix within the next couple weeks. </p>,wsmwk,false,0,0
 1604187,1424160,2023-09-16 09:47:41 -0700,2023-09-16 09:47:41 -0700,"<p>TB115 is now more completely based on HTML and CSS.  As a result a user can override many of the default layouts, such as the location of that toolbar, by using custom CSS statements loaded into a user file which the program will read upon startup. </p><p>See this earlier <a href=""https://support.mozilla.org/en-US/questions/1422908"" rel=""nofollow"">reply</a> </p>",mjh,false,0,0
