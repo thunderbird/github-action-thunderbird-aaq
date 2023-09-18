@@ -3,6 +3,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1604495,1424298,2023-09-17 21:40:26 -0700,2023-09-17 21:40:26 -0700,"<p>Wayne, Thank you very much. Your solution was spot on. </p>",cohall46,false,0,0
 1604491,1424298,2023-09-17 21:16:02 -0700,2023-09-17 21:16:02 -0700,<p>Do you also see the problem after View &gt; Folders &gt; All Folders? </p>,wsmwk,false,1,0
 1604492,1424293,2023-09-17 21:19:16 -0700,2023-09-17 21:19:16 -0700,"<p>1. Is body filter enabled or disabled? 2. There is only one bug report on this issue <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1849650"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1849650</a> - we haven't yet determined what can be done with this report </p>",wsmwk,false,0,0
+1604547,1424289,2023-09-18 04:54:19 -0700,2023-09-18 04:54:19 -0700,<p>They're all there! </p><p>But still not in Unified view. I really like Unified view. What happened to Unified view? </p>,jonf2,false,0,0
 1604483,1424289,2023-09-17 20:51:27 -0700,2023-09-17 20:51:27 -0700,<p>How does it look with View &gt; Folders &gt; All Folders&nbsp;? </p>,wsmwk,false,0,0
 1604486,1424284,2023-09-17 21:13:04 -0700,2023-09-17 21:13:04 -0700,<p>Do all the accounts appear with View &gt; Folders &gt; All Folders? </p>,wsmwk,false,0,0
 1604405,1424280,2023-09-17 12:02:36 -0700,2023-09-17 12:02:36 -0700,<p>Please describe what isn't functioning correctly. Thanks </p>,wsmwk,false,0,0
