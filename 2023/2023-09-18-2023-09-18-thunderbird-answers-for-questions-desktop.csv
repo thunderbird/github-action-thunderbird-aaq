@@ -8,7 +8,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1604577,1424364,2023-09-18 07:27:48 -0700,2023-09-18 07:27:48 -0700,<p>mancava la foto </p>,d.piccoli,false,0,0
 1604598,1424358,2023-09-18 08:28:10 -0700,2023-09-18 08:28:10 -0700,"<p>Stavo provando a verificare il problema, ma non trovo l’impostazione Ordina per &gt; raggruppati per ordine di cui parli. </p><p>Puoi spiegare esattamente come ci si arriva? È una funzione nativa di Thunderbird o è ottenuta tramite estensioni? </p>",@next,false,0,0
 1604640,1424355,2023-09-18 11:09:57 -0700,2023-09-18 11:09:57 -0700,"<p>First, enable the From column by right-clicking any column button, then From is available in the Sort by menu. </p>",sfhowes,false,0,0
-1604644,1424352,2023-09-18 11:22:34 -0700,2023-09-18 11:22:34 -0700,"<p>Right-click the Unified Inbox, Properties, then Choose... and uncheck the unwanted subfolders. </p>",sfhowes,false,0,0
+1604644,1424352,2023-09-18 11:22:34 -0700,2023-09-18 11:22:34 -0700,"<p>Right-click the Unified Inbox, Properties, then Choose... and uncheck the unwanted subfolders. </p>",sfhowes,false,1,0
 1604645,1424346,2023-09-18 11:26:58 -0700,2023-09-18 11:26:58 -0700,"<p>The M key toggles between read and unread here, with TB 115. </p>",sfhowes,false,0,1
 1604607,1424343,2023-09-18 08:48:55 -0700,2023-09-18 08:48:55 -0700,<p>Come dicevo è un tipo di modifica ormai deprecato perché purtroppo ha creato spesso effetti imprevisti di cui è spesso impossibile venire a capo. </p>,@next,false,0,0
 1604603,1424343,2023-09-18 08:36:12 -0700,2023-09-18 08:36:12 -0700,"<p>Grazie per la risposta, avevo trovato qualche esempio sul file userChrome.css ma con la versione 115 di Thunderbird non hanno nessun effetto. </p>",m.chiarelli,false,0,0
