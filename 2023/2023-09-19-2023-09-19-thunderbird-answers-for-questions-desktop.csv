@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1604776,1424477,2023-09-19 02:19:33 -0700,2023-09-19 02:19:33 -0700,"<p>I see problem No. 2 (or similar) has occurred with more than one previous update. </p><p>""No. 2""? Yes, it is a bit sh*tty.&nbsp;;) </p>",rikardo.new,false,0,0
 1604771,1424465,2023-09-19 01:00:57 -0700,2023-09-19 01:00:57 -0700,<p>Update:   </p><p>A workaround was to create a new subfolder (named LocalFolders/Updated) and move all the local folders to the new subfolder.   </p><p>Then do the update.  </p><p>Moving all the folders back to the root of the local folders is a pain because you can no longer select multiple folders.  But it worked around the issue for me. </p>,smoothpp,false,0,0
 1604745,1424440,2023-09-18 18:55:45 -0700,2023-09-18 18:55:45 -0700,"<p>ps, the problem is intermittent, sometimes I can send, including with Encrypted Password, sometimes can't send at all </p>",valaoritis,false,0,0
