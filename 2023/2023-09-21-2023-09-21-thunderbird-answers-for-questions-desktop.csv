@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1605275,1424725,2023-09-21 11:45:27 -0700,2023-09-21 11:45:27 -0700,<p>That 'sounds like' you're receiving in plain text format. check view&gt;message body as&gt;original html </p>,davidsk,false,0,0
 1605261,1424718,2023-09-21 09:39:57 -0700,2023-09-21 09:39:57 -0700,"<p>The issue seems to have gone away and I have done nothing whatsoever. Very strange. The same thing happened with the ""Get Message"" option in the left of the menu bar. It was not retrieving my messages at first but suddenly started retrieving my messages. Again very strange. </p>",attride,false,0,0
 1605234,1424717,2023-09-21 07:46:23 -0700,2023-09-21 07:46:23 -0700,<p>How can I forward a pdf from one mail directly to another mail? </p>,email163,false,0,0
 1605242,1424716,2023-09-21 08:29:37 -0700,2023-09-21 08:29:37 -0700,<p>Puoi riportare esattamente la procedura che segui? Ed il messaggio di errore esatto che ti compare? Ed ancora la versione di Thunderbird e del sistema operativo? </p>,@next,false,0,0
