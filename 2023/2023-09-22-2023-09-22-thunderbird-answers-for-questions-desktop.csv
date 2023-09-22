@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1605343,1424773,2023-09-21 20:26:22 -0700,2023-09-21 20:26:22 -0700,"<p>I forgot the mention that I have my Thunderbird account server settings as ""Leave messages on server"" ""Until I delete them"". </p><p>Could this be temporarily overridden on either a restart or a crash to ""cancel"" the Leave messages settings? </p><p>Thank you </p>",msprinker,false,0,0
