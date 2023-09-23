@@ -24,6 +24,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1605487,1424829,2023-09-22 13:16:11 -0700,2023-09-22 13:16:11 -0700,"<p>If you have the full profile available, try the tools&gt;import&gt;import from another installation. </p>",davidsk,false,0,0
 1605521,1424824,2023-09-22 16:28:02 -0700,2023-09-22 16:28:02 -0700,"<p>I still don't understand about buttons.  In <a href=""https://support.mozilla.org/en-US/questions/1424758"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1424758</a> please describe where these buttons would be positioned. </p>",wsmwk,false,0,0
 1605519,1424824,2023-09-22 16:23:43 -0700,2023-09-22 16:23:43 -0700,"<p>You will want to post this in <a href=""https://support.mozilla.org/en-US/questions/1424758"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1424758</a> </p>",wsmwk,false,0,0
+1605580,1424815,2023-09-23 05:58:37 -0700,2023-09-23 05:58:37 -0700,"<p>Sorry, on a MacBook Air (M1) macOS Ventura, latest version. </p>",r2varney,false,0,0
 1605522,1424815,2023-09-22 16:28:56 -0700,2023-09-22 16:28:56 -0700,<p>On Mac or on Windows? </p>,wsmwk,false,0,0
 1605457,1424814,2023-09-22 10:51:56 -0700,2023-09-22 10:51:56 -0700,"<p>Right-click the account in the Folder Pane, Subscribe..., Refresh.  Are the missing folders shown in the list to be subscribed? </p>",sfhowes,false,0,0
 1605441,1424811,2023-09-22 09:45:27 -0700,2023-09-22 09:45:27 -0700,<p>What is your anti-virus software? </p>,christ1,false,0,0
