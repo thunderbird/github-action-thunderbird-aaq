@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1605603,1424919,2023-09-23 07:50:11 -0700,2023-09-23 07:53:20 -0700,<p>My in box cursor. </p>,pbrixey41,false,0,0
 1605587,1424904,2023-09-23 06:36:17 -0700,2023-09-23 06:36:17 -0700,"<p>Thanks, I don't use the Gmail web or app so did not know about how this worked. Looked into it and turned off there markers. </p>",william.bowser,false,0,0
 1605582,1424904,2023-09-23 06:02:40 -0700,2023-09-23 06:02:40 -0700,"<p>This sounds like a Gmail account. If so, I suggest you review this setting on the online Gmail setup. </p>",davidsk,false,0,0
 1605583,1424899,2023-09-23 06:08:12 -0700,2023-09-23 06:08:12 -0700,"<p>Be sure to highlight the unified JUNK folder, not an individual folder. Then, selecting properties should show the Choose button.  What you see should look like the attached screenshot. </p>",davidsk,false,0,0
