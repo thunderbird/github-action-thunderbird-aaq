@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1605821,1424978,2023-09-24 04:14:44 -0700,2023-09-24 04:14:44 -0700,<p>From your screenshot it looks like you did create a 'Local Folders' <strong>folder</strong> underneath the 'Local Folders' <strong>account</strong>. Is this the case? </p><p>Unfortunately your second screenshot is cut off at the right hand side. What's full path of the 'Local Directory' setting for the 'Local Folders' account? </p>,christ1,false,0,0
