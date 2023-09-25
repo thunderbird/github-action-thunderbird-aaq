@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1605969,1425034,2023-09-24 22:52:23 -0700,2023-09-24 22:52:23 -0700,<p>I attached a mockup of how it might look... </p>,gfwalker,false,0,0
 1605956,1425030,2023-09-24 20:51:12 -0700,2023-09-24 20:51:12 -0700,<p>Enable the From column and then you can sort on that item.  Right-click any column button to choose columns. </p>,sfhowes,false,0,0
