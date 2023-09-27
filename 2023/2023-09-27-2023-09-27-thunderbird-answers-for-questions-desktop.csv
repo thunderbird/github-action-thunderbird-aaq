@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1606480,1425294,2023-09-27 09:53:42 -0700,2023-09-27 09:53:42 -0700,"<p>Basta disinstallarlo: <a href=""https://support.mozilla.org/it/kb/disinstallare-thunderbird"" rel=""nofollow"">https://support.mozilla.org/it/kb/disinstallare-thunderbird</a> </p>",@next,false,0,0
 1606471,1425289,2023-09-27 08:49:53 -0700,2023-09-27 08:49:53 -0700,<p>In fact I would also prefer the FILE menu above the mail tabs as well. FILE menu has been at the top in every program I have used for like 20 years.... why do Mozilla think this is an improvement? </p>,Oscar71,false,0,0
 1606473,1425283,2023-09-27 08:51:43 -0700,2023-09-27 08:51:43 -0700,"<p>Heh, turns out it was a glitch in the version I had?  While checking settings I saw there was a version update which fixed it. </p>",presjpolk,false,0,0
 1606472,1425283,2023-09-27 08:50:35 -0700,2023-09-27 08:50:35 -0700,"<p>I just tried completely closing Thunderbird, moving out xulstore.json, and restarting Thunderbird. No difference. </p>",presjpolk,false,0,0
