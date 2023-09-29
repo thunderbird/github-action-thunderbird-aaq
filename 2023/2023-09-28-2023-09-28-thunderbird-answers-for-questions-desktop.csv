@@ -5,6 +5,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1606735,1425458,2023-09-28 14:36:20 -0700,2023-09-28 14:36:20 -0700,"<p>If you have attachments displayed inline, under View, and toggle the preference <em>mail.inline_attachments.text</em> to true in Settings/General/Config. editor, the eml attachments should be displayed in the body. </p>",sfhowes,false,0,0
 1606825,1425456,2023-09-28 21:48:31 -0700,2023-09-28 21:48:31 -0700,"<p>Hola, Esta configurado como SSL/TLS y Oauth2. Un saludo </p>",ricardo.silva91,false,0,0
 1606788,1425456,2023-09-28 17:46:01 -0700,2023-09-28 17:46:01 -0700,"<p>Hola,  Las cuentas Office365 requieren seguridad Auth2, que parámetros de configuracion tiene esa cuenta? Saludos </p>",pcp04,false,0,0
+1606868,1425453,2023-09-29 03:57:40 -0700,2023-09-29 03:57:40 -0700,"<p>Please see <a href=""https://support.mozilla.org/en-US/kb/ignore-threads"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/ignore-threads</a> </p>",wsmwk,false,0,0
 1606730,1425452,2023-09-28 13:38:24 -0700,2023-09-28 13:38:24 -0700,<p>I just checked and they are coming in on RoundCube fine. </p>,gvjeeper,false,0,0
 1606757,1425449,2023-09-28 16:34:34 -0700,2023-09-28 16:34:34 -0700,<p>Goit it working. I just had to keep trying to launch the app. It eventually started up. </p>,mike677,false,0,0
 1606736,1425445,2023-09-28 14:43:22 -0700,2023-09-28 14:43:22 -0700,"<p>See <a href=""https://support.mozilla.org/en-US/questions/1424127"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1424127</a> </p>",sfhowes,false,0,0
