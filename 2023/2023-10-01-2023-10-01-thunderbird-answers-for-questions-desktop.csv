@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1607578,1425778,2023-10-01 16:19:20 -0700,2023-10-01 16:19:20 -0700,"<p>Thank you Wisewiz for your response. However I tired Relaxed and Default densities and they both put too much space between lines, much more than I had previously. As for the mouse scrolling, it's set to 3 lines, which works for me on most applications. </p><p>Do you happen know why an update had this effect? I've had numerous updates in the past without any change in the layout. </p>",diegodad,false,0,0
 1607568,1425778,2023-10-01 15:39:58 -0700,2023-10-01 15:39:58 -0700,<p>Have you tried View &gt; Density &gt; Relaxed? Have you tried adjusting your mouse settings? </p>,danawilson001,false,0,0
 1607570,1425772,2023-10-01 15:43:43 -0700,2023-10-01 15:43:43 -0700,<p>Try going to Settings &gt; General &gt; Language ... and click Set Alternatives. Move the one you want to the top. OK. That should hold it. </p>,danawilson001,false,0,0
 1607540,1425759,2023-10-01 12:54:35 -0700,2023-10-01 12:54:35 -0700,<p>Try View&gt;toolbars&gt;status bar </p>,davidsk,false,0,0
