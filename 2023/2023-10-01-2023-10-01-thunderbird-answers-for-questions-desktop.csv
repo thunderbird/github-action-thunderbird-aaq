@@ -1,4 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1607568,1425778,2023-10-01 15:39:58 -0700,2023-10-01 15:39:58 -0700,<p>Have you tried View &gt; Density &gt; Relaxed? Have you tried adjusting your mouse settings? </p>,danawilson001,false,0,0
+1607570,1425772,2023-10-01 15:43:43 -0700,2023-10-01 15:43:43 -0700,<p>Try going to Settings &gt; General &gt; Language ... and click Set Alternatives. Move the one you want to the top. OK. That should hold it. </p>,danawilson001,false,0,0
 1607540,1425759,2023-10-01 12:54:35 -0700,2023-10-01 12:54:35 -0700,<p>Try View&gt;toolbars&gt;status bar </p>,davidsk,false,0,0
 1607493,1425757,2023-10-01 09:19:09 -0700,2023-10-01 09:19:09 -0700,<p>I don't think you can do that with Thunderbird. What are you trying to achieve in the first place? </p>,christ1,false,0,0
 1607538,1425753,2023-10-01 12:24:01 -0700,2023-10-01 12:24:01 -0700,"<p>You could try using MailStore Home as an intermediary: </p><p><a href=""https://support.mozilla.org/en-US/questions/1397983"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1397983</a> </p>",sfhowes,false,0,0
