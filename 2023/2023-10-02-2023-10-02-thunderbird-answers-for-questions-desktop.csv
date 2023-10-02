@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1607607,1425788,2023-10-01 18:42:14 -0700,2023-10-01 18:42:14 -0700,"<p>If you feel not savvy enough to use the update, then it's unlikely to be a good experience attempting the steps to go back to the old version. </p><p>You can make the update look more like the old version, just like you can make the update look even newer than the default you are seeing. </p><p>There really isn't anything in the new interface that should be unfamiliar.  What is it exactly that has you stumped? </p>",wsmwk,false,0,0
+1607602,1425787,2023-10-01 18:37:10 -0700,2023-10-01 18:37:10 -0700,<p>Using Windows 10 Pro.  Thunderbird 115.3.1 (64 bit). </p>,arik1,false,0,0
