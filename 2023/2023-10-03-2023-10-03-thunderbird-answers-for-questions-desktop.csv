@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1607958,1426002,2023-10-03 05:47:55 -0700,2023-10-03 05:47:55 -0700,"<p>To add to this confusion, it is only one of the three identities that appears to have the problem. The other two can send digitally signed e-mails that will be verified by all three identities. </p>",richard.bogle,false,0,0
 1607944,1425977,2023-10-03 03:29:11 -0700,2023-10-03 03:29:54 -0700,"<p>salve, mi sono rivolto a chi gestisce la mia casella di posta, mi chiedono i record MX-TXT dove posso recuperarli? </p>",maurizio.bilancione,false,0,0
 1607940,1425977,2023-10-03 02:59:13 -0700,2023-10-03 02:59:13 -0700,"<p>salve, ho contattato il mio provider per risolvere il problema mi chiedono i record MX-TXT dove posso recuperarli? </p>",maurizio.bilancione,false,0,0
 1607939,1425977,2023-10-03 02:48:09 -0700,2023-10-03 02:48:09 -0700,<p>Devi rivolgerti a chi gestisce la tua casella di posta. </p>,@next,false,0,0
