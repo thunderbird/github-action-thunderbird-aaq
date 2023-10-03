@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1607892,1425947,2023-10-02 20:54:43 -0700,2023-10-02 20:54:43 -0700,"<p>Never mind!  I have found the explanation for how to roll back, and that truly seems easier.  And for the best.  I think there is a security risk to rolling back?  It really is a shame that people are forced between accepting a security risk and having a usable program that fits their use case. </p>",Oh_Good_Grief,false,0,0
