@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1608602,1426408,2023-10-05 13:19:39 -0700,2023-10-05 13:19:39 -0700,"<p>Does the same thing happen in <a href=""http://kb.mozillazine.org/Safe_Mode"" rel=""nofollow"">safe/troubleshoot mode</a> (hold Shift when launching TB)? </p>",sfhowes,false,0,0
 1608591,1426404,2023-10-05 12:41:55 -0700,2023-10-05 12:41:55 -0700,"<p>This bug was fixed in the latest 119 beta, and should appear in the next 115 release within a week or so. </p><p>There are some workarounds: <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1847658#c26"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1847658#c26</a> </p>",sfhowes,false,0,0
 1608593,1426398,2023-10-05 12:47:03 -0700,2023-10-05 12:47:03 -0700,"<p>Enable the Message List Header under View/Layout, then click the icon next to the Quick Filter button to select Table View. </p>",sfhowes,false,0,0
 1608586,1426394,2023-10-05 12:16:02 -0700,2023-10-05 12:16:02 -0700,<p>Did you try view&gt;font size and view&gt;density? </p>,davidsk,false,0,0
