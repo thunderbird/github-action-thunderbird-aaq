@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1608423,1426292,2023-10-04 18:05:24 -0700,2023-10-04 18:05:24 -0700,"<p>Does this topic describe your issue? </p><p><a href=""https://support.mozilla.org/en-US/questions/1424127"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1424127</a> </p>",sfhowes,false,0,0
+1608413,1426291,2023-10-04 17:11:57 -0700,2023-10-04 17:11:57 -0700,"<p>Press Alt to show the Menu Bar, then enable it under View/Toolbars.  Message Source is under View, or Ctrl+U. </p><p>Keep in mind that viewing the source does open the message.  There is no such thing as a 'preview' that doesn't open the message.  Only the Subject, From, Date headers etc. can be seen without opening. </p>",sfhowes,false,0,0
