@@ -28,6 +28,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1608642,1426407,2023-10-05 17:12:11 -0700,2023-10-05 17:12:11 -0700,<p>Go into Config Editor and search for  layout.css.devPixelsPerPx  </p><p>mine was set to 1.65 and edited to 1.25 and now things are acceptable </p>,dixonjnk,false,0,0
 1608627,1426406,2023-10-05 15:31:08 -0700,2023-10-05 15:31:08 -0700,"<p>Thanks, still looks quite different but at least it's easier to read. </p>",gerry18,false,0,0
 1608610,1426406,2023-10-05 13:33:47 -0700,2023-10-05 13:33:47 -0700,<p>Try View&gt;font size </p>,davidsk,false,1,0
+1608840,1426405,2023-10-06 12:19:38 -0700,2023-10-06 12:19:38 -0700,"<p>Select the relevant text of the message, using Shift and Ctrl, then click Reply.  Only the selected portion is quoted. </p>",sfhowes,false,0,0
 1608816,1426405,2023-10-06 11:04:55 -0700,2023-10-06 11:04:55 -0700,"<p>If inline, don't quote the entire message. </p><p>sorry I don't understand this. I'm just replying to the email that has all the large images. </p>",JoeFromSD,false,0,0
 1608812,1426405,2023-10-06 10:46:34 -0700,2023-10-06 10:46:34 -0700,"<blockquote> how can I send a reply without including all the photos? </blockquote> <p>If inline, don't quote the entire message. If attachments, they are removed when pressing 'Reply'. Note, in case of 'Forward' attachments are kept. </p>",christ1,false,0,0
 1608747,1426405,2023-10-06 07:37:22 -0700,2023-10-06 07:37:22 -0700,<p>Darn I thought this would be an easy one? </p>,JoeFromSD,false,0,0
