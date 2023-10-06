@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1608632,1426425,2023-10-05 16:28:42 -0700,2023-10-05 16:28:42 -0700,<p>Set View/Headers to Normal.  Press Alt if the Menu Bar with View is hidden. </p>,sfhowes,false,0,0
 1608628,1426423,2023-10-05 15:41:24 -0700,2023-10-05 15:41:24 -0700,<p>Ještě přikládám výpis chyb z konzole: </p>,miroslav.sedlar,false,0,0
 1608617,1426418,2023-10-05 14:24:12 -0700,2023-10-05 14:24:12 -0700,<p>And my first issue is about the Menu Bar (what I called the standard text-only toolbar). </p>,doinkdoink,false,0,0
 1608615,1426418,2023-10-05 14:17:06 -0700,2023-10-05 14:17:06 -0700,<p>OH...my second issue is resolved with the Density control. </p>,doinkdoink,false,0,0
@@ -9,7 +10,8 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1608619,1426412,2023-10-05 14:31:16 -0700,2023-10-05 14:31:16 -0700,<p>I have two email accounts 1 being pop the otherr imap.  i want to be able sinc those two accounts on two diffent computers by using a ondrive file.  I did not realize iSENT TWO OF THE SAME QUESTION.  I HAPPEN TO BE BLIND AND THAT IS WHY THIS IS ALL CAPITAL LETTERS I REALIZED IT TO LATE. </p><p>THANKS </p>,heinl,false,0,0
 1608606,1426412,2023-10-05 13:26:53 -0700,2023-10-05 13:26:53 -0700,<p>Why do you ask this TWICE? Please close this copy as resolved. </p>,davidsk,false,0,0
 1608605,1426411,2023-10-05 13:25:34 -0700,2023-10-05 13:25:34 -0700,"<p>Tell us MUCH more. If they're both using IMAP, they will be in sync by default. </p>",davidsk,false,0,0
-1608626,1426408,2023-10-05 15:24:42 -0700,2023-10-05 15:24:42 -0700,"<p>Launch in safe mode, 'Reset toolbars &amp; controls', 'Make changes &amp; restart'.  Does it look correct? </p>",sfhowes,false,0,0
+1608637,1426408,2023-10-05 16:55:06 -0700,2023-10-05 16:55:06 -0700,"<em><p>sfhowes <a href=""#answer-1608626"" rel=""nofollow"">said</a></p></em> <blockquote>Launch in safe mode, 'Reset toolbars &amp; controls', 'Make changes &amp; restart'.  Does it look correct? </blockquote> <p>Yes!!! It certainly does the trick!  Thanks a lot!! </p>",gbpbox-ford,false,0,0
+1608626,1426408,2023-10-05 15:24:42 -0700,2023-10-05 15:24:42 -0700,"<p>Launch in safe mode, 'Reset toolbars &amp; controls', 'Make changes &amp; restart'.  Does it look correct? </p>",sfhowes,false,1,0
 1608616,1426408,2023-10-05 14:19:04 -0700,2023-10-05 14:19:04 -0700,"<p>Thanks @shfowes, no it not happens in trobuleshoot mode. Turning back to normal mode brings back the huge columns. </p>",gbpbox-ford,false,0,0
 1608602,1426408,2023-10-05 13:19:39 -0700,2023-10-05 13:19:39 -0700,"<p>Does the same thing happen in <a href=""http://kb.mozillazine.org/Safe_Mode"" rel=""nofollow"">safe/troubleshoot mode</a> (hold Shift when launching TB)? </p>",sfhowes,false,0,0
 1608627,1426406,2023-10-05 15:31:08 -0700,2023-10-05 15:31:08 -0700,"<p>Thanks, still looks quite different but at least it's easier to read. </p>",gerry18,false,0,0
