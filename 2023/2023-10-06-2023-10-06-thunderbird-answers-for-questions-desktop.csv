@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1608682,1426453,2023-10-06 01:17:21 -0700,2023-10-06 01:17:21 -0700,<p>I  eventually was able to revert the layout to what it was previously. Isn't the layout stored in our profiles so it shouldn't change? </p>,eugbug1,false,0,0
 1608675,1426438,2023-10-05 22:55:11 -0700,2023-10-05 22:55:11 -0700,"<p>Open Account Settings and select a Comcast account in the left pane, e.g. the one with username1@comcast.net.  Then click Edit SMTP server in the right pane.  Is the User Name for the smtp username1@comcast.net or something else?  Repeat for other accounts and report which, if any, have a mismatch between the account address and the smtp User Name. </p>",sfhowes,false,0,0
