@@ -1,4 +1,7 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1609068,1426631,2023-10-07 07:33:51 -0700,2023-10-07 07:33:51 -0700,<p>FIX MY PROBLEM  NOW!!! </p>,harmeyer,false,0,0
+1609067,1426631,2023-10-07 07:31:44 -0700,2023-10-07 07:31:44 -0700,<p>I NEED MY EMAIL MESSAGES   I HAVE REPEATEDLY REQUESTED HELP </p>,harmeyer,false,0,0
+1609066,1426631,2023-10-07 07:29:05 -0700,2023-10-07 07:29:05 -0700,<p>I NEED TO GET MY MESSAGES  WHAT CAN YOU DO TO MAKE THIS POSSIBLE OR DO I NEED TO SEEK OTHER SOURCES? </p>,harmeyer,false,0,0
 1608993,1426595,2023-10-07 00:44:47 -0700,2023-10-07 00:44:47 -0700,"<p>I have found out, right click and get messages is one of the options. </p>",jhb2,false,0,0
 1609040,1426589,2023-10-07 05:12:18 -0700,2023-10-07 05:12:18 -0700,"<p>Thanks @david! </p><p>Guess I was always searching for ""plain text"" or ""text"", will remember to (also) search for ""html"" in settings for related points. </p><p>Yes, currently I also have html display enabled for incoming messages, but want to always send pure text myself. </p>",jochen.kuepper,false,0,0
 1609025,1426589,2023-10-07 03:58:32 -0700,2023-10-07 03:58:32 -0700,"<p>- highlight account in left side of main pane - rightclick and select 'settings' - click 'composition&amp;addressing - UNtick the box to compose in HTML  </p><p>- as an aside, you control viewing of HTML messages in view&gt;message body as&gt; </p><p>I have TB set to view incoming HTML, but my replies are set as plain text, which appears to be what you want also. </p>",davidsk,false,0,0
