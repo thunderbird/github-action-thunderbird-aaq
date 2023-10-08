@@ -1,0 +1,5 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1609273,1426725,2023-10-08 05:15:43 -0700,2023-10-08 05:15:43 -0700,"<p>V ľavom stĺpci Thunderbirdu vidíte svoj účet, alebo je  ľavý stĺpec prázdny? </p>",Ansamb,false,0,0
+1609272,1426717,2023-10-08 05:13:03 -0700,2023-10-08 05:13:03 -0700,<p>Maybe I'm misunderstanding your questions. Installed extensions are in the extensions folder. </p>,davidsk,false,0,0
+1609274,1426713,2023-10-08 05:16:20 -0700,2023-10-08 05:16:20 -0700,"<p>I am not sure what you're seeking, but the addressbook opens by pressing F9 when in composition pane. </p>",davidsk,false,0,0
+1609275,1426705,2023-10-08 05:21:42 -0700,2023-10-08 05:21:42 -0700,"<p>That is a CSS question and not a good fit here. <a href=""https://stackoverflow.com/questions/602168/in-css-what-is-the-difference-between-and-when-declaring-a-set-of-styles"" rel=""nofollow"">https://stackoverflow.com/questions/602168/in-css-what-is-the-difference-between-and-when-declaring-a-set-of-styles</a> </p>",davidsk,false,0,0
