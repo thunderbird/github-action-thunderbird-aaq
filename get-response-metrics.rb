@@ -15,26 +15,8 @@ THREE_DAYS_IN_SECONDS = 3 * ONE_DAY_IN_SECONDS
 logger = Logger.new($stderr)
 logger.level = Logger::DEBUG
 
-def update_questions_for_yyyymmdd(y, m, d)
-  Dir.chdir(y.to_s) do
-    question_str = '../get-tb-creator-answers-questions-for-arbitrary-time-period.rb '
-    question_str += "#{y} #{m} #{d} #{y} #{m} #{d}"
-    warn "question_str: #{question_str}"
-    system(question_str)
-  end
-end
-
-def update_answers_for_yyyymmdd(y, m, d)
-  Dir.chdir(y.to_s) do
-    answer_str = '../get-tb-answers-from-questions-file-for-arbitrary-time-period.rb '
-    answer_str += "#{y} #{m} #{d} #{y} #{m} #{d}"
-    warn "answer_str: #{answer_str}"
-    system(answer_str)
-  end
-end
-
 if ARGV.length < 6
-  puts "usage: #{$0} startyyyy startmm startdd endyyyy endmm enddd"
+  puts "usage: #{$PROGRAM_NAME} startyyyy startmm startdd endyyyy endmm enddd"
   exit
 end
 
@@ -48,13 +30,14 @@ END_DD = ARGV[5].to_i
 
 current_date = Time.gm(START_YYYY, START_MM, START_DD).to_date
 end_date = Time.gm(END_YYYY, END_MM, END_DD).to_date
+logger.debug "current_date: #{current_date} end_date:#{end_date}"
 
 question_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d' # hardcoding fixme
 question_str += '-thunderbird-creator-answers-desktop-all-locales.csv'
 answer_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d' # hardcoding fixme
 answer_str += '-thunderbird-answers-for-questions-desktop.csv'
 output_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d' # hardcoding fixme
-output_str += '-thunderbird-metrics .csv'
+output_str += '-thunderbird-metrics.csv'
 OUTPUT_FILENAME = format(
   output_str,
   yyyy1: START_YYYY, mm1: START_MM, dd1: START_DD,
@@ -118,7 +101,7 @@ while current_date <= end_date
       num48 += 1
       num72 += 1
       logger.debug "question: #{question_id} replied to within 48 hours."
-    elsif answer_created < answered72
+    elsif answer_created_int < answered72
       num72 += 1
       logger.debug "question: #{question_id} replied to within 72 hours."
     else
