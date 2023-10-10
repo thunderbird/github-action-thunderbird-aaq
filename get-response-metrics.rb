@@ -49,23 +49,32 @@ END_DD = ARGV[5].to_i
 current_date = Time.gm(START_YYYY, START_MM, START_DD).to_date
 end_date = Time.gm(END_YYYY, END_MM, END_DD).to_date
 
-# metrics_row is:
-# date, num_questions, response24, response48, response72
-# 2023-04-01, 44, 0.50, 0.70, 0.80
-
 question_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d' # hardcoding fixme
 question_str += '-thunderbird-creator-answers-desktop-all-locales.csv'
 answer_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d' # hardcoding fixme
 answer_str += '-thunderbird-answers-for-questions-desktop.csv'
-
+output_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d' # hardcoding fixme
+output_str += '-thunderbird-metrics .csv'
+OUTPUT_FILENAME = format(
+  output_str,
+  yyyy1: START_YYYY, mm1: START_MM, dd1: START_DD,
+  yyyy2: END_YYYY, mm2: END_MM, dd2: END_DD
+)
 all_questions = []
 all_answers = []
+metrics = []
 
+# metrics_row is:
+# date, num_questions, response24, response48, response72, not answered
+# 2023-04-01, 44, 0.50, 0.70, 0.80, 0.10
+date_format = '%<yyyy>4.4d-%<mm>2.2d-%<dd>2.2d'
 while current_date <= end_date
   num_questions = 0
   num24 = 0
   num48 = 0
   num72 = 0
+  num_not_answered = 0
+  num_answered_after72 = 0
   y = current_date.year
   m = current_date.month
   d = current_date.day
@@ -85,32 +94,58 @@ while current_date <= end_date
     answered24 = question_created_int + ONE_DAY_IN_SECONDS
     answered48 = question_created_int + TWO_DAYS_IN_SECONDS
     answered72 = question_created_int + THREE_DAYS_IN_SECONDS
-    answers_for_this_question = all_answers.select { |a|
-    a['question_id'] == question_id && a['creator'] != question_creator}
-    answers_for_this_question.reverse_each do |a|
-      answer_id = a['id']
-      answer_created = a['created']
-      answer_creator = a['creator']
+    answers_for_this_question = all_answers.select do |a|
+      a['question_id'] == question_id && a['creator'] != question_creator
+    end
+    if answers_for_this_question.empty?
+      num_not_answered += 1
+      logger.debug "question: #{question_id} NOT replied to at all."
+      next
+    end
+    a = answers_for_this_question.reverse.first
+    answer_id = a['id']
+    answer_created = a['created']
+    answer_creator = a['creator']
 
-      logger.debug "answer id: #{answer_id} answer created: #{answer_created} answer_creator: #{answer_creator}"
-      answer_created_int = Time.parse(answer_created).to_i
-      if answer_created_int < answered24
-        num24 += 1
-        num48 += 1
-        num72 += 1
-        logger.debug "question: #{question_id} answered within 24 hours"
-      elsif answer_created_int < answered48
-        num48 += 1
-        num72 += 1
-        logger.debug "question: #{question_id} answered within 48 hours"
-      elsif answer_created < answered72
-        num72 += 1
-        logger.debug "question: #{question_id} answered within 48 hours"
-      else
-        logger.debug "question: #{question_id} NOT answered within 72 hours"
-      end
-      break
+    logger.debug "answer id: #{answer_id} answer created: #{answer_created} answer_creator: #{answer_creator}"
+    answer_created_int = Time.parse(answer_created).to_i
+    if answer_created_int < answered24
+      num24 += 1
+      num48 += 1
+      num72 += 1
+      logger.debug "question: #{question_id} replied to within 24 hours."
+    elsif answer_created_int < answered48
+      num48 += 1
+      num72 += 1
+      logger.debug "question: #{question_id} replied to within 48 hours."
+    elsif answer_created < answered72
+      num72 += 1
+      logger.debug "question: #{question_id} replied to within 72 hours."
+    else
+      num_answered_after72 += 1
+      logger.debug "question: #{question_id} NOT replied to within 72 hours."
     end
   end
+  # metrics_row is:
+  # date, num_questions, response24, response48, response72, not answered
+  # 2023-04-01, 44, 0.50, 0.70, 0.80, 0.10
+  date_str = format(date_format, yyyy: y, mm: m, dd: d)
+  metrics_row = {
+    date: date_str,
+    num_questions: num_questions,
+    response24: num24.fdiv(num_questions),
+    response48: num48.fdiv(num_questions),
+    response72: num72.fdiv(num_questions),
+    num_answered_after72: num_answered_after72.fdiv(num_questions),
+    num_not_answered: num_not_answered.fdiv(num_questions)
+  }
+  logger.debug "metrics_row : #{metrics_row}"
+  metrics.push(metrics_row)
   current_date += 1
+end
+Dir.chdir(START_YYYY.to_s) do
+  headers = metrics[0].keys 
+  CSV.open(OUTPUT_FILENAME, 'w', write_headers: true, headers: headers) do |csv_object|
+    metrics.each { |row_array| csv_object << row_array }
+  end
 end
