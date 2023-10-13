@@ -1,5 +1,7 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
-1610579,1427368,2023-10-12 21:59:56 -0700,2023-10-12 21:59:56 -0700,<p>Move the Smart Reply entry up or down to relocate the Followup button. </p>,sfhowes,false,0,0
+1610584,1427368,2023-10-12 22:51:23 -0700,2023-10-12 22:51:23 -0700,<p>Thank you! </p>,margochester,false,0,0
+1610579,1427368,2023-10-12 21:59:56 -0700,2023-10-12 21:59:56 -0700,<p>Move the Smart Reply entry up or down to relocate the Followup button. </p>,sfhowes,false,1,0
 1610554,1427368,2023-10-12 18:47:21 -0700,2023-10-12 18:47:21 -0700,<p>How do I correct the typos I made in the title of this question? </p>,margochester,false,0,0
 1610580,1427366,2023-10-12 22:04:17 -0700,2023-10-12 22:04:17 -0700,"<p>See <a href=""https://support.mozilla.org/en-US/questions/1424127"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1424127</a> </p>",sfhowes,false,0,0
-1610548,1427365,2023-10-12 18:25:00 -0700,2023-10-12 18:25:00 -0700,"<p>Fixed in ExQuilla 115.4: </p><p><a href=""https://addons.thunderbird.net/en-us/thunderbird/addon/exquilla-exchange-web-services/versions/"" rel=""nofollow"">https://addons.thunderbird.net/en-us/thunderbird/addon/exquilla-exchange-web-services/versions/</a> </p>",sfhowes,false,0,0
+1610585,1427365,2023-10-12 22:55:19 -0700,2023-10-12 22:55:19 -0700,"<p>Indeed it's fixed now.  Thanks a lot for your reply&nbsp;! </p><p>Regards, Emile. </p>",ejbax,false,0,0
+1610548,1427365,2023-10-12 18:25:00 -0700,2023-10-12 18:25:00 -0700,"<p>Fixed in ExQuilla 115.4: </p><p><a href=""https://addons.thunderbird.net/en-us/thunderbird/addon/exquilla-exchange-web-services/versions/"" rel=""nofollow"">https://addons.thunderbird.net/en-us/thunderbird/addon/exquilla-exchange-web-services/versions/</a> </p>",sfhowes,false,1,0
