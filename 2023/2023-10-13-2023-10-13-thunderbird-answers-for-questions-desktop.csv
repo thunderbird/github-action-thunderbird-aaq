@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1610612,1427384,2023-10-13 01:42:47 -0700,2023-10-13 01:42:47 -0700,<p>A better picture with what I want back blocked in red </p>,margochester,false,0,0
+1610613,1427383,2023-10-13 01:58:36 -0700,2023-10-13 01:58:36 -0700,"<p>Ciao, perché dici che il processo di indicizzazione si blocca dopo pochi secondi? Di solito procede per diverso tempo in background senza nessuna segnalazione verso l'utente. L'operazione può richiedere parecchio tempo anche perché nel caso degli account IMAP una parte delle informazioni va recuperata dal server. </p>",@next,false,0,0
 1610584,1427368,2023-10-12 22:51:23 -0700,2023-10-12 22:51:23 -0700,<p>Thank you! </p>,margochester,false,0,0
 1610579,1427368,2023-10-12 21:59:56 -0700,2023-10-12 21:59:56 -0700,<p>Move the Smart Reply entry up or down to relocate the Followup button. </p>,sfhowes,false,1,0
 1610554,1427368,2023-10-12 18:47:21 -0700,2023-10-12 18:47:21 -0700,<p>How do I correct the typos I made in the title of this question? </p>,margochester,false,0,0
