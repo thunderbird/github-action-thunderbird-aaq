@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1610671,1426427,2023-10-13 07:20:16 -0700,2023-10-13 07:20:16 -0700,<p>The drop down menu still doesn't work.  Opening the folder panel on the left and then closing it is a pain. </p><p>Any thoughts? </p>,pinnacle381,false,0,0
 1609219,1426427,2023-10-07 20:14:33 -0700,2023-10-07 20:14:33 -0700,"<p>So I'm able to see the Local Folders now by dragging the left side of the window to the right.  But the icon in the menu bar  that shows which folder I'm in still doesn't do anything.  When I select a folder on the left side, the icon changes to show I'm in that folder, but using the drop down menu within that menu does nothing when I try to select another folder (although it does show the folders). </p>",pinnacle381,false,0,0
 1608632,1426425,2023-10-05 16:28:42 -0700,2023-10-05 16:28:42 -0700,<p>Set View/Headers to Normal.  Press Alt if the Menu Bar with View is hidden. </p>,sfhowes,false,0,0
 1608795,1426424,2023-10-06 10:00:01 -0700,2023-10-06 10:00:01 -0700,"<p>It has happened twice that I know of. The problem is that if I am not right on my computer when the email arrives/is deleted, then I can't tell if it even happened. I have terminated use of Thunderbird due to this issue. Troubleshooting Mode didn't help. </p>",RussWalkerVB,false,0,0
@@ -59,8 +60,8 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1609344,1426395,2023-10-08 11:54:03 -0700,2023-10-08 11:54:03 -0700,"<p>yes thanks, looks it as an addon that caused it </p>",barabba.furlan,false,0,0
 1608738,1426395,2023-10-06 07:11:23 -0700,2023-10-06 07:11:23 -0700,<p>Help &gt; Troubleshoot Mode - does the problem go away? </p>,wsmwk,false,2,0
 1608692,1426394,2023-10-06 02:21:20 -0700,2023-10-06 02:21:20 -0700,"<p>OK - I've discovered View | Font Size | Increase Font Size isn't just one step - it keeps on enlarging, so now I can read the screen! </p>",alanlchambers,false,0,0
-1608613,1426394,2023-10-05 14:11:49 -0700,2023-10-05 14:11:49 -0700,"<p>Thanks - that has helped, although I'd prefer it a little larger! </p>",alanlchambers,false,0,0
-1608586,1426394,2023-10-05 12:16:02 -0700,2023-10-05 12:16:02 -0700,<p>Did you try view&gt;font size and view&gt;density? </p>,davidsk,false,0,0
+1608613,1426394,2023-10-05 14:11:49 -0700,2023-10-05 14:11:49 -0700,"<p>Thanks - that has helped, although I'd prefer it a little larger! </p>",alanlchambers,false,0,1
+1608586,1426394,2023-10-05 12:16:02 -0700,2023-10-05 12:16:02 -0700,<p>Did you try view&gt;font size and view&gt;density? </p>,davidsk,false,0,1
 1608614,1426390,2023-10-05 14:12:42 -0700,2023-10-05 14:12:42 -0700,<p>Thanks - I'll keep that in mind if I install the 64-bit. </p>,alanlchambers,false,0,0
 1608590,1426390,2023-10-05 12:26:15 -0700,2023-10-05 12:26:15 -0700,"<p>Yes, just don't check the box to remove data during the uninstall. </p>",sfhowes,false,1,0
 1608575,1426390,2023-10-05 11:38:05 -0700,2023-10-05 11:38:05 -0700,"<p>Thanks - so just to be sure, either method would keep all my profile settings and all my stored emails. </p>",alanlchambers,false,0,0
