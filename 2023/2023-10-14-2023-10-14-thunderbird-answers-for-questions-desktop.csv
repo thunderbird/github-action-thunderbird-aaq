@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1610869,1427502,2023-10-14 03:14:08 -0700,2023-10-14 03:14:08 -0700,"<p>Are you composing in HTML? If so, then: At the top right of the Thunderbird window, click the menu button ≡ &gt; Settings &gt; Composition &gt; HTML Style Uncheck ""Use Paragraph format instead of Body text by default"" </p>",christ1,false,0,0
 1610824,1427489,2023-10-13 21:57:28 -0700,2023-10-13 21:57:28 -0700,"<p>Have you tried to suggestions here <a href=""https://support.mozilla.org/en-US/kb/cannot-send-messages"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/cannot-send-messages</a> </p>",MattAuSupport,false,0,0
 1610828,1427487,2023-10-13 22:18:41 -0700,2023-10-13 22:18:41 -0700,<p>I think you are referring to the folder pane header.  It is on the view menu &gt; folders &gt; Folder pane header. </p>,MattAuSupport,false,0,0
 1610858,1427484,2023-10-14 01:30:03 -0700,2023-10-14 01:30:03 -0700,<p>Thank you! </p>,margochester,false,0,0
