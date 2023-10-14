@@ -31,6 +31,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1610831,1427412,2023-10-13 22:52:33 -0700,2023-10-13 22:52:33 -0700,<p>are you using filters or some other method? </p>,MattAuSupport,false,0,0
 1610881,1427411,2023-10-14 03:44:46 -0700,2023-10-14 03:44:46 -0700,"<p>When setting up an AOL account in Thunderbird the new account wizard will pick the correct server settings. If in doubt, check with AOL about the settings required. </p>",christ1,false,0,0
 1610747,1427409,2023-10-13 12:51:35 -0700,2023-10-13 12:51:35 -0700,<p>Mozbackup is out-of-date and even the developer states that on his website. DO NOT USE. </p>,davidsk,false,0,0
+1610945,1427408,2023-10-14 07:03:54 -0700,2023-10-14 07:03:54 -0700,<p>How would I know? New version with many changes so I can't see behind it.  I typed the version number on the attachment. </p>,richardCPreston,false,0,0
 1610843,1427408,2023-10-14 00:04:07 -0700,2023-10-14 00:04:07 -0700,<p>hiding which menu item? </p>,wsmwk,false,0,0
 1610844,1427406,2023-10-14 00:06:27 -0700,2023-10-14 00:06:27 -0700,<p>Can you post a full screen shot? </p>,wsmwk,false,0,0
 1610735,1427405,2023-10-13 11:51:11 -0700,2023-10-13 11:51:11 -0700,<p>Try changing the density from the View menu or the 3-bar AppMenu. </p>,sfhowes,false,1,0
