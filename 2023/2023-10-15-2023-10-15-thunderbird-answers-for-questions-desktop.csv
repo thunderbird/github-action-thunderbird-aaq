@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1611084,1427580,2023-10-14 19:55:50 -0700,2023-10-14 19:55:50 -0700,"<p>You might first want to check your preferences view etc. </p><p>If TB follows the same as policy as FF, then the previous version should be archived on the net somewhere [<a href=""http://thunderbird.en.uptodown.com"" rel=""nofollow"">thunderbird.en.uptodown.com</a>], and you could just uninstall then reinstall pointing to your existing data directory. </p>",calm.home5344,false,0,0
