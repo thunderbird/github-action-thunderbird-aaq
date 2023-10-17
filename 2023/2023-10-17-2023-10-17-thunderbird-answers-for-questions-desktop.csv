@@ -1,3 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1611581,1427791,2023-10-16 20:46:58 -0700,2023-10-16 20:46:58 -0700,<p>The other thing is that it is not updating. I see a mail come in on my phone and the inbox doesn't update unless I close TB down and reopen it. This blows. </p>,dsooley,false,0,0
+1611588,1427790,2023-10-16 22:09:03 -0700,2023-10-16 22:09:03 -0700,"<p>Right-click an account in the Folder Pane, Subscribe, and uncheck the unwanted folders.  Try also setting some folders as Favourites, then View/Folders/Favourite Folders. </p>",sfhowes,false,0,0
+1611589,1427788,2023-10-16 22:10:49 -0700,2023-10-16 22:10:49 -0700,<p>Click the icon next to the Quick Filter button and select Table View. </p>,sfhowes,false,0,0
 1611576,1427788,2023-10-16 19:04:04 -0700,2023-10-16 19:04:04 -0700,<p>that is CANNOT sort/widen/customize columns as there are no column labels?  How do I get column labels back?  Thanks </p>,marcyslawrence,false,0,0
+1611590,1427787,2023-10-16 22:14:47 -0700,2023-10-16 22:14:47 -0700,"<p>See <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1830262"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1830262</a> </p>",sfhowes,false,0,0
