@@ -1,5 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
-1611914,1427984,2023-10-18 09:25:51 -0700,2023-10-18 09:25:51 -0700,"<p>Please read info at this link to solve issue. <a href=""https://support.mozilla.org/en-US/questions/1423733"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1423733</a> </p>",Toad-Hall,false,0,0
+1611914,1427984,2023-10-18 09:25:51 -0700,2023-10-18 09:25:51 -0700,"<p>Please read info at this link to solve issue. <a href=""https://support.mozilla.org/en-US/questions/1423733"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1423733</a> </p>",Toad-Hall,false,0,1
 1611909,1427980,2023-10-18 09:05:52 -0700,2023-10-18 09:05:52 -0700,<p>You can stop display of the opening screen at settings&gt;general and UNtick the start page. </p>,davidsk,false,0,0
 1611908,1427979,2023-10-18 09:04:27 -0700,2023-10-18 09:04:27 -0700,<p>Have you checked the Default Apps on Windows to see what it has set for HTML links? That may be showing Edge. </p>,davidsk,false,0,0
 1611906,1427977,2023-10-18 09:02:04 -0700,2023-10-18 09:02:04 -0700,"<p>If this is the password for the email account, you need to contact the email provider to get a new password. </p>",davidsk,false,0,0
