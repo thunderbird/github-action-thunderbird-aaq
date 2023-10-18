@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1611933,1427997,2023-10-18 11:27:27 -0700,2023-10-18 11:27:27 -0700,"<p>I have switched to the 64 bit version, 115.3.3 and it seems to work fine wrt this problem. Seems to be constrained to 115.3.2 or to 32 bit. </p>",BMWRed735i,false,0,0
 1611925,1427984,2023-10-18 10:25:58 -0700,2023-10-18 10:25:58 -0700,"<p>Thanks, but minimum height for thread pane is not my issue. It's that the thread pane can't be lowered *below* the header for the most recent message.  The older versions could, so that a newly arriving msg would be peeking below the ""current"" header. </p>",mspiegel,false,0,0
 1611914,1427984,2023-10-18 09:25:51 -0700,2023-10-18 09:25:51 -0700,"<p>Please read info at this link to solve issue. <a href=""https://support.mozilla.org/en-US/questions/1423733"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1423733</a> </p>",Toad-Hall,false,0,1
 1611909,1427980,2023-10-18 09:05:52 -0700,2023-10-18 09:05:52 -0700,<p>You can stop display of the opening screen at settings&gt;general and UNtick the start page. </p>,davidsk,false,0,0
