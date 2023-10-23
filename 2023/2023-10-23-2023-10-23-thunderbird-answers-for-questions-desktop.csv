@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1613111,1428584,2023-10-23 08:18:42 -0700,2023-10-23 08:18:42 -0700,"<p>I tried to revert to a previous version, and I entered the following command: </p><p>sudo apt install thunderbird=1:68.10.0+build1-0ubuntu0.16.04.1 </p><p>(version 1.68 is very old, but was the only one listed by ""apt policy thunderbird""...) Now Thunderbird ask me to make a new profile at the start because the current profile was used by a most recent version...  I think made a mess... </p><p>Any solution? </p>",giulio.buccini,false,0,0
 1613100,1428582,2023-10-23 07:26:00 -0700,2023-10-23 07:26:00 -0700,<p>Also will add that the crash occurs even when booting in safe mode. </p>,472vc9b2tv,false,0,0
 1613108,1428578,2023-10-23 07:53:57 -0700,2023-10-23 07:53:57 -0700,<p>Viz příloha: </p>,poljos-moz,false,0,0
 1613048,1428566,2023-10-23 04:57:31 -0700,2023-10-23 04:57:31 -0700,<p>I have spoken with the icewarp support as well it seems it is on icwarps side. </p>,pkary86,false,0,0
