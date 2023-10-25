@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1613415,1428727,2023-10-24 17:33:52 -0700,2023-10-24 17:33:52 -0700,"<p>Create a secure mail key and use that in TB instead of the account password (the one used on the AT&amp;T site). </p><p><a href=""https://www.att.com/support/article/dsl-high-speed/KM1010523/"" rel=""nofollow"">https://www.att.com/support/article/dsl-high-speed/KM1010523/</a> </p>",sfhowes,false,0,0
