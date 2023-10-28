@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1614232,1429141,2023-10-27 23:21:19 -0700,2023-10-27 23:21:19 -0700,"<p>Hello Matt, It is configured as POP. </p>",nikkay,false,0,0
 1614224,1429141,2023-10-27 22:29:30 -0700,2023-10-27 22:29:30 -0700,<p>Is the account configured in Thunderbird as IMAP or POP? </p>,MattAuSupport,false,0,0
 1614218,1429139,2023-10-27 21:33:30 -0700,2023-10-27 21:33:30 -0700,<p>have you checked in setting that you do in fact have cookies enabled in Thunderbird?  Some security software is ever helpful in turning them off on your behalf. </p>,MattAuSupport,false,0,0
 1614219,1429137,2023-10-27 21:34:46 -0700,2023-10-27 21:34:46 -0700,<p>Generally the issue is software firewalls when hyperlinks stop working post update. </p>,MattAuSupport,false,0,0
