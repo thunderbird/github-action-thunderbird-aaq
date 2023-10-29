@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1614570,1429291,2023-10-29 08:57:44 -0700,2023-10-29 08:57:44 -0700,<p>does Thunderbird not work on windows 11? </p>,renee17,false,0,0
 1614532,1429274,2023-10-29 04:11:39 -0700,2023-10-29 04:11:39 -0700,"<p>I can select a message from a thread, and press Ctrl+Shift+O to open the message in conversation. Alternatively press Message (Alt-M) - Open in Conversation </p>",christ1,false,0,0
 1614534,1429273,2023-10-29 04:22:13 -0700,2023-10-29 04:22:13 -0700,"<p>See <a href=""https://support.mozilla.org/en-US/questions/1208841#answer-1087048"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1208841#answer-1087048</a> </p>",christ1,false,0,0
 1614533,1429254,2023-10-29 04:15:29 -0700,2023-10-29 04:15:29 -0700,"<p>Domanda duplicata -&gt; <a href=""https://support.mozilla.org/it/questions/1429191"" rel=""nofollow"">https://support.mozilla.org/it/questions/1429191</a> </p>",@next,false,0,0
