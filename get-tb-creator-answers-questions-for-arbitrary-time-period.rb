@@ -20,11 +20,11 @@ end
 # because of issue 3686, https://github.com/mozilla/kitsune/issues/3686,
 # go back one day and forward one day
 min_created_time = Time.gm(ARGV[0].to_i, ARGV[1].to_i, ARGV[2].to_i)
-greater_than_time = (min_created_time - 3600 * 24).strftime('%Y-%-m-%-e')
+greater_than_time = (min_created_time - (3600 * 24)).strftime('%Y-%-m-%-e')
 less_than = Time.gm(ARGV[3].to_i, ARGV[4].to_i, ARGV[5].to_i)
 end_time = Time.gm(ARGV[3].to_i, ARGV[4].to_i, ARGV[5].to_i, 23, 59, 59)
 
-less_than_time = (less_than + 3600 * 24).strftime('%Y-%-m-%-e')
+less_than_time = (less_than + (3600 * 24)).strftime('%Y-%-m-%-e')
 less_than_time_parsed = Time.parse(less_than_time + ' 00:00:00 UTC')
 logger.debug "min_created_time #{min_created_time}"
 logger.debug 'greater than time' + greater_than_time.to_s
@@ -109,8 +109,8 @@ until end_program
     logger.debug "next url:#{url}"
   end
   logger.debug "created: #{created.to_i}"
-  logger.debug "min_created_time: #{min_created_time.to_i}"
-  if (created.to_i < min_created_time.to_i) || url.nil?
+  logger.debug "end_time: #{end_time.to_i}"
+  if (created.to_i > end_time.to_i) || url.nil?
     end_program = true
     break
   else
