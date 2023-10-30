@@ -117,6 +117,7 @@ until end_program
     sleep(5) # sleep 5 seconds between API calls
   end
 end
+logger.debug "csv is empty for greater than: #{greater_than_time}  less than: #{less_than_time}" if csv.empty?
 exit if csv.empty?
 
 headers = %w[id created updated title content tags product topic locale answers creator]
