@@ -19,6 +19,8 @@ def get_answers(question_id, url_params, csv, url, logger)
   answer_number = 0
   until end_fn
     answers = getKitsuneResponse(url, url_params, logger)
+    next if answers.nil?
+
     logger.debug "url:#{url}"
     logger.debug "url_params:#{url_params}"
     logger.debug "answer count:#{answers['count']}"

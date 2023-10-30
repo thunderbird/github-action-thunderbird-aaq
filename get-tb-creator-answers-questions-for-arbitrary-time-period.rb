@@ -45,6 +45,10 @@ question_number = 0
 csv = []
 until end_program
   questions = getKitsuneResponse(url, url_params, logger)
+  if questions.nil?
+    end_program = true
+    next
+  end
   url_params = nil
   logger.debug "question count:#{questions['count']}"
   url_params = nil
