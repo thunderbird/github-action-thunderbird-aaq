@@ -36,7 +36,7 @@ url_params = {
   product: 'thunderbird',
   created__gt: greater_than_time,
   created__lt: less_than_time,
-  ordering: '+created'
+  ordering: 'created'
 }
 
 url = 'https://support.mozilla.org/api/2/question/'

@@ -82,7 +82,7 @@ api_url = 'https://support.mozilla.org/api/2/answer/'
 csv = []
 url_params = {
   format: 'json',
-  ordering: '+created'
+  ordering: 'created'
 }
 question_ids.each do |question_id|
   get_answers(question_id, url_params, csv, api_url, logger)
