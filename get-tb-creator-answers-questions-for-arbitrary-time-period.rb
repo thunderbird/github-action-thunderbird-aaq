@@ -114,7 +114,7 @@ until end_program
     end_program = true
     break
   else
-    sleep(5) # sleep 5 seconds between API calls
+    sleep(15) # sleep 15 seconds between API calls
   end
 end
 logger.debug "csv is empty for greater than: #{greater_than_time}  less than: #{less_than_time}" if csv.empty?
