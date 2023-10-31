@@ -20,7 +20,7 @@ def get_answers(question_id, url_params, csv, url, logger)
   until end_fn
     answers = getKitsuneResponse(url, url_params, logger)
     if answers.nil?
-      logger.debug "nil answers for question: #{question_id}. Going to next question"
+      logger.debug "nil answers for question: #{question_id}. EXITING"
       return nil
     end
 
@@ -90,7 +90,7 @@ url_params = {
   ordering: 'created'
 }
 question_ids.each do |question_id|
-  get_answers(question_id, url_params, csv, api_url, logger)
+  exit if get_answers(question_id, url_params, csv, api_url, logger).nil?
 end
 
 exit if csv.empty?
