@@ -44,6 +44,23 @@ Dir.chdir(YYYY.to_s) do
   all_answers = CSV.read(answer_filename, headers: true)
 end
 
+# See https://github.com/rtanglao/rt-tb-noto-emoji-2023/blob/main/create-emoji-question-graphics.rb
+all_questions.each do |q|
+  content = "#{q['title']} #{q['content']}"
+  question_creator = q['creator']
+  all_answers.each do |a|
+    content += " #{a['content']}" if a['creator'] == question_creator
+  end
+  content += " #{q['tags']}"
+  id = q['id']
+  logger.debug "id: #{id}"
+  created = Time.parse(q['created']).utc
+
+  os_emoji_content = get_emojis_from_regex(OS_EMOJI_ARRAY, content, logger)
+  topics_emoji_content = get_emojis_from_regex(TOPICS_EMOJI_ARRAY, q['tags'], logger)
+  email_emoji_content = get_emojis_from_regex(EMAIL_EMOJI_ARRAY, content, logger)
+  av_emoji_content = get_emojis_from_regex(ANTIVIRUS_EMOJI_ARRAY, content, logger)
+  userchrome_emoji_content = get_emojis_from_regex(USERCHROME_EMOJI_ARRAY, content, logger)
 #   all_questions.each do |q|
 #     num_questions += 1
 #     question_created = q['created']
