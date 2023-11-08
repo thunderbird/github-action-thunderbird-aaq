@@ -54,9 +54,9 @@ Dir.chdir(YYYY.to_s) do
 end
 
 # See https://github.com/rtanglao/rt-tb-noto-emoji-2023/blob/main/create-emoji-question-graphics.rb
-logger.debug "UNSORTED #{all_questions.ai}"
-all_questions = all_questions.sort_by.with_index { |h,i| [-h['id'], i] }
-logger.debug "SORTED #{all_questions.ai}"
+logger.debug "UNSORTED first id: #{all_questions[0]['id']}"
+all_questions = all_questions.sort_by.with_index { |h, i| [h['id'], i] }
+logger.debug "SORTED first id: #{all_questions[0]['id']}"
 exit
 
 # all_questions.each do |q|
