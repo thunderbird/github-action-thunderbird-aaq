@@ -87,14 +87,14 @@ all_questions.each do |q|
     topic: "#{topics_emoji_content[:emoji]};#{topics_emoji_content[:matching_text]}",
     email_provider: "#{email_emoji_content[:emoji]};#{email_emoji_content[:matching_text]}",
     antivirus: "#{av_emoji_content[:emoji]};#{av_emoji_content[:matching_text]}",
-    userchrome: "#{userchrome_emoji_content[:emoji]};#{userchrome_emoji_content[:matching_text]}",
+    userchrome: "#{userchrome_emoji_content[:emoji]};#{userchrome_emoji_content[:matching_text]}"
   }
   logger.debug "regular_expression_row : #{regular_expression_row}"
   regular_expressions.push(regular_expression_row)
 end
-# Dir.chdir(START_YYYY.to_s) do
-#   headers = metrics[0].keys
-#   CSV.open(OUTPUT_FILENAME, 'w', write_headers: true, headers: headers) do |csv_object|
-#     metrics.each { |row_array| csv_object << row_array }
-#   end
-# end
+Dir.chdir(YYYY.to_s) do
+  headers = regular_expressions[0].keys
+  CSV.open(OUTPUT_FILENAME, 'w', write_headers: true, headers: headers) do |csv_object|
+    regular_expressions.each { |row_array| csv_object << row_array }
+  end
+end
