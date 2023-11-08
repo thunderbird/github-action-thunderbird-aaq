@@ -12,9 +12,14 @@ GEM
     json (2.6.3)
     logger (1.6.0)
     method_source (1.0.0)
+    nokogiri (1.15.4-arm64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.15.4-x86_64-linux)
+      racc (~> 1.4)
     pry (0.14.2)
       coderay (~> 1.1)
       method_source (~> 1.0)
+    racc (1.7.3)
     time (0.3.0)
       date
     typhoeus (1.4.0)
@@ -32,6 +37,7 @@ DEPENDENCIES
   ffi
   json
   logger
+  nokogiri
   pry
   time
   typhoeus

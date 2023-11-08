@@ -10,7 +10,7 @@ require 'CSV'
 require 'pry'
 require 'facets/enumerable/find_yield'
 require_relative 'regexes'
-# require 'nokogiri'
+require 'nokogiri'
 
 def get_emojis_from_regex(emoji_regex, content, _logger)
   emoji_regex.find_yield({ emoji: UNKNOWN_EMOJI, matching_text: nil }) \
@@ -80,9 +80,13 @@ all_questions.each do |q|
   #  regular_expression_row is:
   #  id, date, title, os, topic, email, antivirus, userchrome
   #  128958, 2023-04-01, emoji;windows 10, emoji;fix-problems, emoji;outlook, emoji:avtext, emoji:userchrometext
+  parsed_content = Nokogiri::HTML.parse(q['content']).text
+  content_1st160 = "#{q['title']} #{parsed_content}"
+  content_1st160 = content_1st160[0..159]
   regular_expression_row = {
     id: id,
     date: DATE_STR,
+    content_1st160chars: content_1st160,
     os: "#{os_emoji_content[:emoji]};#{os_emoji_content[:matching_text]}",
     topic: "#{topics_emoji_content[:emoji]};#{topics_emoji_content[:matching_text]}",
     email_provider: "#{email_emoji_content[:emoji]};#{email_emoji_content[:matching_text]}",
