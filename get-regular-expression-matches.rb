@@ -10,7 +10,7 @@ require 'CSV'
 require 'pry'
 require 'facets/enumerable/find_yield'
 require_relative 'regexes'
-require 'nokogiri'
+#require 'nokogiri'
 
 def get_emojis_from_regex(emoji_regex, content, _logger)
   emoji_regex.find_yield({ emoji: UNKNOWN_EMOJI, matching_text: nil }) \
@@ -54,7 +54,9 @@ Dir.chdir(YYYY.to_s) do
 end
 
 # See https://github.com/rtanglao/rt-tb-noto-emoji-2023/blob/main/create-emoji-question-graphics.rb
-logger.debug all_questions.ai 
+logger.debug "UNSORTED #{all_questions.ai}"
+all_questions = all_questions.sort_by.with_index { |h,i| [-h['id'], i] }
+logger.debug "SORTED #{all_questions.ai}"
 exit
 
 # all_questions.each do |q|
