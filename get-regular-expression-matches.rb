@@ -7,6 +7,15 @@ require 'date'
 require 'logger'
 require 'pry'
 require 'CSV'
+require 'pry'
+require 'facets/enumerable/find_yield'
+require_relative 'regexes'
+require 'nokogiri'
+
+def get_emojis_from_regex(emoji_regex, content, _logger)
+  emoji_regex.find_yield({ emoji: UNKNOWN_EMOJI, matching_text: nil }) \
+  { |er| { emoji: er[:emoji], matching_text: Regexp.last_match(1) } if content =~ er[:regex] }
+end
 
 logger = Logger.new($stderr)
 logger.level = Logger::DEBUG
@@ -45,65 +54,26 @@ Dir.chdir(YYYY.to_s) do
 end
 
 # See https://github.com/rtanglao/rt-tb-noto-emoji-2023/blob/main/create-emoji-question-graphics.rb
-all_questions.each do |q|
-  content = "#{q['title']} #{q['content']}"
-  question_creator = q['creator']
-  all_answers.each do |a|
-    content += " #{a['content']}" if a['creator'] == question_creator
-  end
-  content += " #{q['tags']}"
-  id = q['id']
-  logger.debug "id: #{id}"
-  created = Time.parse(q['created']).utc
+logger.debug all_questions.ai 
+exit
 
-  os_emoji_content = get_emojis_from_regex(OS_EMOJI_ARRAY, content, logger)
-  topics_emoji_content = get_emojis_from_regex(TOPICS_EMOJI_ARRAY, q['tags'], logger)
-  email_emoji_content = get_emojis_from_regex(EMAIL_EMOJI_ARRAY, content, logger)
-  av_emoji_content = get_emojis_from_regex(ANTIVIRUS_EMOJI_ARRAY, content, logger)
-  userchrome_emoji_content = get_emojis_from_regex(USERCHROME_EMOJI_ARRAY, content, logger)
-#   all_questions.each do |q|
-#     num_questions += 1
-#     question_created = q['created']
-#     question_id = q['id']
-#     question_creator = q['creator']
-#     logger.debug "question id: #{question_id} question created: #{question_created}, question_creator: #{question_creator}"
-#     question_created_int = Time.parse(question_created).to_i
-#     answered24 = question_created_int + ONE_DAY_IN_SECONDS
-#     answered48 = question_created_int + TWO_DAYS_IN_SECONDS
-#     answered72 = question_created_int + THREE_DAYS_IN_SECONDS
-#     answers_for_this_question = all_answers.select do |a|
-#       a['question_id'] == question_id && a['creator'] != question_creator
-#     end
-#     if answers_for_this_question.empty?
-#       num_not_answered += 1
-#       logger.debug "question: #{question_id} NOT replied to at all."
-#       next
-#     end
-#
-#     a = answers_for_this_question.reverse.first
-#     answer_id = a['id']
-#     answer_created = a['created']
-#     answer_creator = a['creator']
-#
-#     logger.debug "answer id: #{answer_id} answer created: #{answer_created} answer_creator: #{answer_creator}"
-#     answer_created_int = Time.parse(answer_created).to_i
-#     if answer_created_int < answered24
-#       num24 += 1
-#       num48 += 1
-#       num72 += 1
-#       logger.debug "question: #{question_id} replied to within 24 hours."
-#     elsif answer_created_int < answered48
-#       num48 += 1
-#       num72 += 1
-#       logger.debug "question: #{question_id} replied to within 48 hours."
-#     elsif answer_created_int < answered72
-#       num72 += 1
-#       logger.debug "question: #{question_id} replied to within 72 hours."
-#     else
-#       num_answered_after72 += 1
-#       logger.debug "question: #{question_id} NOT replied to within 72 hours."
-#     end
+# all_questions.each do |q|
+#   content = "#{q['title']} #{q['content']}"
+#   question_creator = q['creator']
+#   all_answers.each do |a|
+#     content += " #{a['content']}" if a['creator'] == question_creator
 #   end
+#   content += " #{q['tags']}"
+#   id = q['id']
+#   logger.debug "id: #{id}"
+#   created = Time.parse(q['created']).utc
+#
+#   os_emoji_content = get_emojis_from_regex(OS_EMOJI_ARRAY, content, logger)
+#   topics_emoji_content = get_emojis_from_regex(TOPICS_EMOJI_ARRAY, q['tags'], logger)
+#   email_emoji_content = get_emojis_from_regex(EMAIL_EMOJI_ARRAY, content, logger)
+#   av_emoji_content = get_emojis_from_regex(ANTIVIRUS_EMOJI_ARRAY, content, logger)
+#   userchrome_emoji_content = get_emojis_from_regex(USERCHROME_EMOJI_ARRAY, content, logger)
+
 #   # metrics_row is:
 #   # date, num_questions, response24, response48, response72, not answered
 #   # 2023-04-01, 44, 0.50, 0.70, 0.80, 0.10
