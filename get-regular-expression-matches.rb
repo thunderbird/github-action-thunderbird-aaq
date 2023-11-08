@@ -10,7 +10,7 @@ require 'CSV'
 require 'pry'
 require 'facets/enumerable/find_yield'
 require_relative 'regexes'
-#require 'nokogiri'
+# require 'nokogiri'
 
 def get_emojis_from_regex(emoji_regex, content, _logger)
   emoji_regex.find_yield({ emoji: UNKNOWN_EMOJI, matching_text: nil }) \
@@ -28,6 +28,8 @@ end
 YYYY = ARGV[0].to_i
 MM = ARGV[1].to_i
 DD = ARGV[2].to_i
+
+DATE_STR = format('%<y>4.4d-%<m>2.2d-%<d>2.2d', y: YYYY, m: MM, d: DD)
 
 question_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d' # hardcoding fixme
 question_str += '-thunderbird-creator-answers-desktop-all-locales.csv'
@@ -57,42 +59,39 @@ end
 logger.debug "UNSORTED first id: #{all_questions[0]['id']}"
 all_questions = all_questions.sort_by.with_index { |h, i| [h['id'], i] }
 logger.debug "SORTED first id: #{all_questions[0]['id']}"
-exit
 
-# all_questions.each do |q|
-#   content = "#{q['title']} #{q['content']}"
-#   question_creator = q['creator']
-#   all_answers.each do |a|
-#     content += " #{a['content']}" if a['creator'] == question_creator
-#   end
-#   content += " #{q['tags']}"
-#   id = q['id']
-#   logger.debug "id: #{id}"
-#   created = Time.parse(q['created']).utc
-#
-#   os_emoji_content = get_emojis_from_regex(OS_EMOJI_ARRAY, content, logger)
-#   topics_emoji_content = get_emojis_from_regex(TOPICS_EMOJI_ARRAY, q['tags'], logger)
-#   email_emoji_content = get_emojis_from_regex(EMAIL_EMOJI_ARRAY, content, logger)
-#   av_emoji_content = get_emojis_from_regex(ANTIVIRUS_EMOJI_ARRAY, content, logger)
-#   userchrome_emoji_content = get_emojis_from_regex(USERCHROME_EMOJI_ARRAY, content, logger)
+regular_expressions = []
+all_questions.each do |q|
+  content = "#{q['title']} #{q['content']}"
+  question_creator = q['creator']
+  all_answers.each do |a|
+    content += " #{a['content']}" if a['creator'] == question_creator
+  end
+  content += " #{q['tags']}"
+  id = q['id']
+  logger.debug "question id: #{id}"
 
-#   # metrics_row is:
-#   # date, num_questions, response24, response48, response72, not answered
-#   # 2023-04-01, 44, 0.50, 0.70, 0.80, 0.10
-#   date_str = format(date_format, yyyy: y, mm: m, dd: d)
-#   metrics_row = {
-#     date: date_str,
-#     num_questions: num_questions,
-#     response24: num24.fdiv(num_questions),
-#     response48: num48.fdiv(num_questions),
-#     response72: num72.fdiv(num_questions),
-#     num_answered_after72: num_answered_after72.fdiv(num_questions),
-#     num_not_answered: num_not_answered.fdiv(num_questions)
-#   }
-#   logger.debug "metrics_row : #{metrics_row}"
-#   metrics.push(metrics_row)
-#   current_date += 1
-# end
+  os_emoji_content = get_emojis_from_regex(OS_EMOJI_ARRAY, content, logger)
+  topics_emoji_content = get_emojis_from_regex(TOPICS_EMOJI_ARRAY, q['tags'], logger)
+  email_emoji_content = get_emojis_from_regex(EMAIL_EMOJI_ARRAY, content, logger)
+  av_emoji_content = get_emojis_from_regex(ANTIVIRUS_EMOJI_ARRAY, content, logger)
+  userchrome_emoji_content = get_emojis_from_regex(USERCHROME_EMOJI_ARRAY, content, logger)
+
+  #  regular_expression_row is:
+  #  id, date, title, os, topic, email, antivirus, userchrome
+  #  128958, 2023-04-01, emoji;windows 10, emoji;fix-problems, emoji;outlook, emoji:avtext, emoji:userchrometext
+  regular_expression_row = {
+    id: id,
+    date: DATE_STR,
+    os: "#{os_emoji_content[:emoji]};#{os_emoji_content[:matching_text]}",
+    topic: "#{topics_emoji_content[:emoji]};#{topics_emoji_content[:matching_text]}",
+    email_provider: "#{email_emoji_content[:emoji]};#{email_emoji_content[:matching_text]}",
+    antivirus: "#{av_emoji_content[:emoji]};#{av_emoji_content[:matching_text]}",
+    userchrome: "#{userchrome_emoji_content[:emoji]};#{userchrome_emoji_content[:matching_text]}",
+  }
+  logger.debug "regular_expression_row : #{regular_expression_row}"
+  regular_expressions.push(regular_expression_row)
+end
 # Dir.chdir(START_YYYY.to_s) do
 #   headers = metrics[0].keys
 #   CSV.open(OUTPUT_FILENAME, 'w', write_headers: true, headers: headers) do |csv_object|
