@@ -109,6 +109,6 @@ EMAIL_EMOJI_ARRAY = [
     emoji: MICROSOFT_EMAIL_EMOJI },
   { regex: /(protonmail|proton\.me|pm\.me)/i, emoji: PROTONMAIL_EMOJI },
   { regex: /(fastmail.fm|fastmail)/i, emoji: FASTMAIL_EMOJI },
-  { regex: /(yahoo)/i, emoji: YAHOOEMAIL_EMOJI },
+  { regex: /(yahoo|ameritech|at&t|att.net|bellsouth|currently.com|nvbell|pacbell|prodigy|sbcglobal|snet|swbell|wans)/i, emoji: YAHOOEMAIL_EMOJI },
   { regex: /(mailfence)/i, emoji: MAILFENCE_EMOJI }
 ].freeze
