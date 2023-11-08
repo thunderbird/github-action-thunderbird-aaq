@@ -54,7 +54,7 @@ def get_answers(question_id, url_params, csv, url, logger)
       logger.debug "ANSWER number: #{answer_number}"
       creator = a['creator']['username']
       logger.debug "creator: #{creator}"
-      csv.push([id, question_id, created.to_s, updated.to_s, a['content'].tr("\n", ' '), 
+      csv.push([id, question_id, created.to_s, updated.to_s, a['content'].tr("\n", ' '),
                 creator, a['is_spam'], a['num_helpful_votes'], a['num_unhelpful_votes']])
     end
     url = answers['next']
@@ -90,7 +90,8 @@ url_params = {
   ordering: 'created'
 }
 question_ids.each do |question_id|
-  exit if get_answers(question_id, url_params, csv, api_url, logger).nil?
+  warn("question: #{question_id} has NO ANSWERS.") 
+    if get_answers(question_id, url_params, csv, api_url, logger).nil?
 end
 
 exit if csv.empty?
