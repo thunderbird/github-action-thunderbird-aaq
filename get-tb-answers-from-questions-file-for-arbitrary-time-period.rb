@@ -63,8 +63,9 @@ def get_answers(question_id, url_params, csv, url, logger)
       end_fn = true
     else
       logger.debug "next ANSWER url:#{url}"
-      sleep(5) # sleep 5 seconds between API calls
+      sleep(10) # sleep 10 seconds between API calls
     end
+    return answer_number
   end
 end
 
@@ -90,7 +91,12 @@ url_params = {
   ordering: 'created'
 }
 question_ids.each do |question_id|
-  warn("question: #{question_id} has NO ANSWERS.") if get_answers(question_id, url_params, csv, api_url, logger).nil?
+num_answers = get_answers(question_id, url_params, csv, api_url, logger)
+if num_answers.nil?
+  warn("question: #{question_id} has NO ANSWERS! EXITING without updating answers.") 
+  exit
+else
+  warn("question: #{question_id} has num_answers: #{num_answers}! UPDATING answers.") 
 end
 
 exit if csv.empty?
