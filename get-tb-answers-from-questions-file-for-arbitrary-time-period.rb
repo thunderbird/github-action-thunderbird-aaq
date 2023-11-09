@@ -64,7 +64,7 @@ def get_answers(question_id, url_params, csv, url, logger)
       end_fn = true
     else
       logger.debug "next ANSWER url:#{url}"
-      sleep(20) # sleep 20 seconds between API calls
+      sleep(30) # sleep 30 seconds between API calls
     end
     return answer_number
   end
