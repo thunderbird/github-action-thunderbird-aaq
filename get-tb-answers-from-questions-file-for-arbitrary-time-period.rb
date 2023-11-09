@@ -90,8 +90,7 @@ url_params = {
   ordering: 'created'
 }
 question_ids.each do |question_id|
-  warn("question: #{question_id} has NO ANSWERS.") 
-    if get_answers(question_id, url_params, csv, api_url, logger).nil?
+  warn("question: #{question_id} has NO ANSWERS.") if get_answers(question_id, url_params, csv, api_url, logger).nil?
 end
 
 exit if csv.empty?
