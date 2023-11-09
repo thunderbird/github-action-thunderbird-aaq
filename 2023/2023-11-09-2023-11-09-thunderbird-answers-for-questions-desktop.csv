@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1616912,1430456,2023-11-08 17:47:01 -0800,2023-11-08 17:47:01 -0800,"<p>See <a href=""https://support.mozilla.org/en-US/questions/1430345"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1430345</a> </p>",sfhowes,false,0,0
+1616911,1430461,2023-11-08 17:44:55 -0800,2023-11-08 17:44:55 -0800,"<p>Do you have multiple accounts?  The error suggests you're trying to send from account A through the smtp that has account B's User Name (email address).  Either that, or the setting for the smtp is wrong.  Spectrum suggests using <a href=""http://mail.twc.com"" rel=""nofollow"">mail.twc.com</a>, port 587, STARTTLS, normal password, User Name = email address. </p>",sfhowes,false,0,0
