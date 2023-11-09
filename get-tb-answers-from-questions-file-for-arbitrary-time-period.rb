@@ -54,8 +54,9 @@ def get_answers(question_id, url_params, csv, url, logger)
       logger.debug "ANSWER number: #{answer_number}"
       creator = a['creator']['username']
       logger.debug "creator: #{creator}"
-      csv.push([id, question_id, created.to_s, updated.to_s, a['content'].tr("\n", ' '),
-                creator, a['is_spam'], a['num_helpful_votes'], a['num_unhelpful_votes']])
+      csv.push([id, question_id, created.to_s, updated.to_s, 
+      a['content'].tr("\n", ' '), creator, a['is_spam'], a['num_helpful_votes'],
+                a['num_unhelpful_votes']])
     end
     url = answers['next']
     if url.nil?
@@ -91,12 +92,13 @@ url_params = {
   ordering: 'created'
 }
 question_ids.each do |question_id|
-num_answers = get_answers(question_id, url_params, csv, api_url, logger)
-if num_answers.nil?
-  warn("question: #{question_id} has NO ANSWERS! EXITING without updating answers.") 
-  exit
-else
-  warn("question: #{question_id} has num_answers: #{num_answers}! UPDATING answers.") 
+  num_answers = get_answers(question_id, url_params, csv, api_url, logger)
+  if num_answers.nil?
+    warn("question: #{question_id} has NO ANSWERS! EXITING without updating answers.")
+    exit
+  else
+    warn("question: #{question_id} has num_answers: #{num_answers}! UPDATING answers.")
+  end
 end
 
 exit if csv.empty?
