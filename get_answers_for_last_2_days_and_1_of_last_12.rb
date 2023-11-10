@@ -39,13 +39,13 @@ yesterday = today - 1
 
 update_questions_for_yyyymmdd(today.year, today.month, today.day)
 # update questions 50% of the time for yesterday
-update_questions_for_yyyymmdd(yesterday.year, yesterday.month, yesterday.day) if count % 2
+# update_questions_for_yyyymmdd(yesterday.year, yesterday.month, yesterday.day) if count % 2
 # update answers for today and yesterday
 update_answers_for_yyyymmdd(today.year, today.month, today.day)
-update_answers_for_yyyymmdd(yesterday.year, yesterday.month, yesterday.day)
+# update_answers_for_yyyymmdd(yesterday.year, yesterday.month, yesterday.day)
 
-day_to_refresh = today - ((count % 12) + 2)
-# update questions for one of the other 12 days of the last two weeks
+day_to_refresh = today - ((count % 13) + 1)
+# update questions for one of the other 13 days of the last two weeks
 update_questions_for_yyyymmdd(day_to_refresh.year, day_to_refresh.month, day_to_refresh.day)
 # update answers for the same day
 update_answers_for_yyyymmdd(day_to_refresh.year, day_to_refresh.month, day_to_refresh.day)

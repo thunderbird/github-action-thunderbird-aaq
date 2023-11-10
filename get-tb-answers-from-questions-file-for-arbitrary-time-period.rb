@@ -94,7 +94,7 @@ url_params = {
 question_ids.each do |question_id|
   num_answers = get_answers(question_id, url_params, csv, api_url, logger)
   if num_answers.nil?
-    warn("question: #{question_id} has NO ANSWERS! EXITING without updating answers.")
+    warn("question: #{question_id} has NO ANSWERS due to API exception! EXITING without updating answers.")
     exit
   else
     warn("question: #{question_id} has num_answers: #{num_answers}! UPDATING answers.")
