@@ -31,7 +31,7 @@ def get_answers(question_id, url_params, csv, url, logger)
     answers['results'].each do |a|
       logger.ap a
       answer_number += 1
-      logger.debug "ANSWER number:#{answer_number}"
+      logger.debug "QUESTION: #{question_id} ANSWER number:#{answer_number}"
       updated = a['updated']
       created = a['created']
       logger.debug "created from API (Pacific time despite the Z): #{created}"
@@ -102,6 +102,8 @@ question_ids.each do |question_id|
 end
 
 exit if csv.empty?
+
+logger.debug "CSV isn't empty, creating new version of #{FILENAME}"
 
 headers = %w[id question_id created updated content creator is_spam num_helpful num_unhelpful]
 fn_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d'
