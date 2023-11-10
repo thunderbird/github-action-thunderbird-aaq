@@ -35,7 +35,7 @@ end
 File.open(COUNT_FILEPATH, 'w') { |f| f.write("#{count}\n") }
 
 today = Time.now.utc.to_date
-yesterday = today - 1
+# yesterday = today - 1
 
 update_questions_for_yyyymmdd(today.year, today.month, today.day)
 # update questions 50% of the time for yesterday
