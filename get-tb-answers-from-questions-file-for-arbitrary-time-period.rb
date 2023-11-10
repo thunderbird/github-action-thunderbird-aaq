@@ -103,14 +103,13 @@ end
 
 exit if csv.empty?
 
-logger.debug "CSV isn't empty, creating new version of #{FILENAME}"
-
 headers = %w[id question_id created updated content creator is_spam num_helpful num_unhelpful]
 fn_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d'
 fn_str += '-thunderbird-answers-for-questions-desktop.csv'
 FILENAME = format(fn_str,
                   yyyy1: ARGV[0].to_i, mm1: ARGV[1].to_i, dd1: ARGV[2].to_i,
                   yyyy2: ARGV[3].to_i, mm2: ARGV[4].to_i, dd2: ARGV[5].to_i)
+logger.debug "CSV isn't empty, creating new version of #{FILENAME}"
 CSV.open(FILENAME, 'w', write_headers: true, headers: headers) do |csv_object|
   csv.each { |row_array| csv_object << row_array }
 end
