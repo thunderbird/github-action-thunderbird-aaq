@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1617647,1430815,2023-11-12 18:30:51 -0800,2023-11-12 18:30:51 -0800,"<p>Oh, and I have also checked threads and filters. </p>",kmonroe.morgan,false,0,0
+1617685,1430832,2023-11-13 02:09:25 -0800,2023-11-13 02:09:25 -0800,"<p>Found a solution there: <a href=""https://support.mozilla.org/en-US/kb/message-threading-thunderbird"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/message-threading-thunderbird</a> </p>",bul212,false,0,0
