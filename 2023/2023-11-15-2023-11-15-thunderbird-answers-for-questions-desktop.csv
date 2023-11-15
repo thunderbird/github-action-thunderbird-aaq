@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1618035,1431010,2023-11-14 23:13:26 -0800,2023-11-14 23:13:26 -0800,"<p>Portable Thunderbird and Portable Firefox from portableapps are not installed on Windows but are rather self contained as you can even run them completely off a usb flash drive for example unless it has a write-protect switch. </p><p><a href=""https://portableapps.com/support/thunderbird_portable"" rel=""nofollow"">https://portableapps.com/support/thunderbird_portable</a> </p>",James,false,0,0
