@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1618190,1431103,2023-11-15 18:01:33 -0800,2023-11-15 18:01:33 -0800,<p>None of the suggested on the right hand side  See also. </p>,jan.norwell,false,0,0
 1618202,1431113,2023-11-15 21:53:06 -0800,2023-11-15 21:53:06 -0800,<p>?????? </p>,jrvetter,false,0,0
+1618235,1431120,2023-11-16 02:54:41 -0800,2023-11-16 02:54:41 -0800,"<p>Thunderbird má ""modrou hrůzu"" jako ikonku už roky. Pokud sis tam nacpal domeček, snad víš, jak jsi to udělal. Jinak - ikony programů v systému Windows se mění například přes menu <strong>pravého tlačítka</strong> myši.  Příklad&gt; <strong>C:\ProgramData\Microsoft\Windows\Start Menu\Programs</strong> - Vlastnosti </p>",poljos-moz,false,0,0
