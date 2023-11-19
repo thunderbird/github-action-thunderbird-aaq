@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1618785,1431382,2023-11-18 19:34:08 -0800,2023-11-18 19:34:08 -0800,<p>Question not answered </p>,kennperl,false,0,0
+1618821,1431394,2023-11-19 04:59:03 -0800,2023-11-19 04:59:03 -0800,"<p>The addressbook is named abook.sqlite. Easiest way to access it is to click help&gt;troubleshootinginformation, scroll down to 'profile folder', click 'open profile' and then highlight the file and copy to USB stick.  Then, on the other PC, click tools&gt;import&gt;import from a file and then select the sqlite option. </p>",davidsk,false,0,0
 1618809,1431398,2023-11-19 03:11:55 -0800,2023-11-19 03:11:55 -0800,<p>Esattamente quale messaggio compare? </p>,@next,false,0,0
 1618817,1431398,2023-11-19 04:05:58 -0800,2023-11-19 04:05:58 -0800,"<p>Impossibile autenticarsi sul server. La configurazione, il nome utente o la password potrebbero essere errati </p>",blackiron01,false,0,0
