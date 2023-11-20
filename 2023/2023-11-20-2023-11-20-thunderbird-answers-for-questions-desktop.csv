@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1618931,1431456,2023-11-19 23:48:24 -0800,2023-11-19 23:48:24 -0800,"<p>Ciao, è un bug noto di Thunderbird. Al momento che io sappia non c'è soluzione. Si spera venga risolto in un futuro aggiornamento. </p>",@next,false,0,0
