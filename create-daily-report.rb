@@ -21,22 +21,21 @@ YYYY = ARGV[0].to_i
 MM = ARGV[1].to_i
 DD = ARGV[2].to_i
 
-DATE_STR = format('%<y>4.4d-%<m>2.2d-%<d>2.2d', y: YYYY, m: MM, d: DD)
+# hardcoding fixme:
+DATE_STR = format('%<y>4.4d-%<m>2.2d-%<d>2.2d', y: YYYY, m: MM, d: DD) 
+INPUT_FILENAME= "#{DATE_STR}-thunderbird-regex-matches.csv" # hardcoding fixme
+OUTPUT_FILENAME= "#{DATE_STR}-thunderbird-daily-question-report.md" # hardcoding fixme
 
-output_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d' # hardcoding fixme
-output_str += '-thunderbird-regex-matches.csv'
-OUTPUT_FILENAME = format(
-  output_str,
-  yyyy1: YYYY, mm1: MM, dd1: DD
-)
-logger.debug("output_filename: #{OUTPUT_FILENAME}")
+logger.debug("INPUT_FILENAME: #{INPUT_FILENAME}")
+logger.debug("OUTPUT_FILENAME: #{OUTPUT_FILENAME}")
+
 all_questions = []
 
 # regex row is:
 # id, os, topics, emailprovider, antivirus, userchrome
 # 192535, windows11, install, fastmail, norton, ?
 Dir.chdir(YYYY.to_s) do
-  all_questions = CSV.read(OUTPUT_FILENAME, headers: true)
+  all_questions = CSV.read(INPUT_FILENAME, headers: true)
 end
 
 logger.debug "first question id: #{all_questions[0]['id']}"
