@@ -1,0 +1,24 @@
+id,date,content_1st160chars,os,topic,email_provider,antivirus,userchrome
+1430682,2023-11-11,stupid no delete this sucks ,❓;,👽;other,❓;,❓;,❓;
+1430693,2023-11-11,Address Books Thunderbird upgraded itself to the latest version and I have had immense problems. My emails and address books did not load. Eventually the emails,❓;,🛠;download-and-install,❓;,❓;,❓;
+1430694,2023-11-11,Moving messages between accounts using Message Filters I'm using Thunderbird 115.4.1 on a Windows machine.  I have two IMAP accounts configured. I set up a mess,❓;,👽;other,❓;,❓;,❓;
+1430695,2023-11-11,"Last couple of weeks Thunderbird frequently hangs (never-ending blue spinning circle) Been using Thunderbird for years, seldom have problems. But starting to se",❓;,🚧;fix-problems,📮;gmail,❓;,❓;
+1430698,2023-11-11,"security.tls.version.min 1 not respected (Linux Fedora, flatpak) I am trying to connect to an email server that is still on tls 1.0 using Thunderbird on Fedora ",🐧;Linux,🔏;privacy-and-security,❓;,❓;,❓;
+1430701,2023-11-11,"last column not resizing version 115.4.1  table view. cant resize the FAR RIGHT column no matter what. instead of moving to right and DEcreasing in size, its IN",❓;,🚧;fix-problems,❓;,❓;,❓;
+1430702,2023-11-11,Problem replying to an email when I am only in BCC list. I am using Thunderbird 115.4.2 (64-bit) on Windows 11. I have received two emails where I am only in th,🪟;Windows 11,👽;other,📮;gmail,❓;,❓;
+1430707,2023-11-11,"How to make Thunderbird always hide IMAP marked-as-deleted emails? Hello,  how can I set Thunderbird to always hide emails that have been marked as deleted in a",❓;,🔩;customize,❓;,🇪;eset,❓;
+1430710,2023-11-11,reducing message header size and removing info duplication My Thunderbird standard display has the message displayed below the list of incoming messages. This m,❓;,👽;other,❓;,❓;,❓;
+1430715,2023-11-11,Change the density of message list in 115 (in correct way?) I would like to change the density for the messages list (thread row) and provide a custom value the,🐧;Linux,🔩;customize,❓;,❓;,❓;
+1430716,2023-11-11,"Folder error After I moved a folder containing many emails from beneath one folder to another, upon trying to access the folder's contents, I got this:  ""Unable",❓;,🚧;fix-problems,❓;,❓;,❓;
+1430722,2023-11-11,"EMAIL WHEN RECEIVING A NEW EMAIL, I GET A MESSAGE: ""ONLY THE HEADERS FOR THIS MESSAGE WERE DOWNLOADED FROM THE MAIL SERVER"", THEN I HAVE TO DOWNLOAD THE REST OF",❓;,👽;other,❓;,❓;,❓;
+1430724,2023-11-11,"Emails won't send on Thunderbird. Emails won't send on Thunderbird.  I get this message:  ""Sending of the message failed. The message could not be sent because ",❓;,👽;other,❓;,❓;,❓;
+1430726,2023-11-11,"Thunderbird Quick Filter SLOW Hello, After update Thunderbird quick filter became very very slow. If you type in quick filter field two words. At the beginning ",❓;,🚧;fix-problems,❓;,❓;,❓;
+1430727,2023-11-11,Supernova / Website Email Link When I'm on a website with an Email Link (Example: Support) and I click on the Email Link nothing is happening. Before the Supern,🪟;Windows 11,👽;other,❓;,❓;,❓;
+1430731,2023-11-11,NOT JUNK button missing from Customize Toolbar in v115 Prior to v115 I was able to add the NOT JUNK button to the Customize Toolbar. It would be hidden until I ,❓;,🔩;customize,❓;,❓;,❓;
+1430735,2023-11-11,"Problems with update 115 I have used Thunderbird for more than 15 years and have always liked the way it works and promote it to anyone needing an email client,",❓;,👽;other,❓;,❓;,❓;
+1430736,2023-11-11,Trying to delete e-mail has become slow My Thunderbird e-mail program is great. At least it was till this past week. Not sue what changed. When I try and delete,🪟;Windows 11,🚧;fix-problems,❓;,🇩;Defender,❓;
+1430737,2023-11-11,Recovering Thunderbird Failure of System Hard disk in  PC (Windows 10)  so lost all Mozilla programme stuff and info held in 'User' folders. Any suggestions how,🪟;Windows 10,🛠;download-and-install,❓;,❓;,❓;
+1430741,2023-11-11,Thunderbird crashes EVERY day This started a couple weeks ago and I have changed nothing on Thunderbird.  At this point I basically have to use gmail for any re,❓;,🚧;fix-problems,📮;gmail,❓;,❓;
+1430742,2023-11-11,no emails the last update stopped thunderbird emails working ,❓;,👽;other,❓;,❓;,❓;
+1430743,2023-11-11,"How can I set Thunderbird 115.4.2 (64-bit) to have html composition after a normal click on ""+New""? How can I set Thunderbird 115.4.2 (64-bit) to have html comp",❓;,👽;other,❓;,❓;,❓;
+1430746,2023-11-11,"Will SuperNova work normally if I delete ""Sent"" folders and Sent.msf from Profile/Local Folders (and retain ""SentCopies"" in  Mail/Local Folders)? I place a copy",❓;,🔩;customize,📮;Gmail,❓;,❓;
