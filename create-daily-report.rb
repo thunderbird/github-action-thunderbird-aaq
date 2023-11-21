@@ -57,10 +57,10 @@ logger.debug "LAST question id: #{all_questions[-1]['id']}"
 FileUtils.mkdir_p REPORTS_PATH
 output_markdown = []
 output_markdown.push(
-  '|id      | content                                                     | O|T|E|AV|uC |T|'
+  '|id      | content                                                                    | O|T|E|AV|uC |T|'
 )
 output_markdown.push(
-  '|--------|-------------------------------------------------------------|---|-------|----------------|-----------|------------|----|'
+  '|--------|----------------------------------------------------------------------------|---|-------|----------------|-----------|------------|----|'
 )
 
 all_questions.each do |q|
@@ -74,7 +74,7 @@ all_questions.each do |q|
   content = content.gsub(']', '\]')
   content = content.gsub("'", '&apos;')
 
-  truncated_content = content[0..65]
+  truncated_content = content[0..79]
   # Tooltips in markdown: https://stackoverflow.com/questions/49332718/is-it-possible-to-create-a-tool-tip-info-tip-or-hint-in-github-markdown
   # [Hover your mouse here to see the tooltip](https://stackoverflow.com/a/71729464/11465149 "This is a tooltip :)")
   # it works! see https://gist.github.com/rtanglao/3ec86f7680e712f8152594a880338538
