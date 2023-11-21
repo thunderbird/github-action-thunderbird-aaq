@@ -78,8 +78,8 @@ all_questions.each do |q|
   userchrome_emoji_content = get_emojis_from_regex(USERCHROME_EMOJI_ARRAY, content, logger)
 
   #  regular_expression_row is:
-  #  id, date, title, os, topic, email, antivirus, userchrome
-  #  128958, 2023-04-01, emoji;windows 10, emoji;fix-problems, emoji;outlook, emoji:avtext, emoji:userchrometext
+  #  id, date, title, os, topic, email, antivirus, userchrome, tags
+  #  128958, 2023-04-01, emoji;windows 10, emoji;fix-problems, emoji;outlook, emoji:avtext, emoji:userchrometext, tags
   parsed_content = Nokogiri::HTML.parse(q['content']).text
   content_1st160 = "#{q['title']} #{parsed_content}"
   content_1st160 = content_1st160[0..159]
@@ -91,7 +91,8 @@ all_questions.each do |q|
     topic: "#{topics_emoji_content[:emoji]};#{topics_emoji_content[:matching_text]}",
     email_provider: "#{email_emoji_content[:emoji]};#{email_emoji_content[:matching_text]}",
     antivirus: "#{av_emoji_content[:emoji]};#{av_emoji_content[:matching_text]}",
-    userchrome: "#{userchrome_emoji_content[:emoji]};#{userchrome_emoji_content[:matching_text]}"
+    userchrome: "#{userchrome_emoji_content[:emoji]};#{userchrome_emoji_content[:matching_text]}",
+    tags: q['tags']
   }
   logger.debug "regular_expression_row : #{regular_expression_row}"
   regular_expressions.push(regular_expression_row)
