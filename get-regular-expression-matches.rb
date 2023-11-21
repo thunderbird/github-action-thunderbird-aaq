@@ -91,7 +91,8 @@ all_questions.each do |q|
     email_provider: "#{email_emoji_content[:emoji]};#{email_emoji_content[:matching_text]}",
     antivirus: "#{av_emoji_content[:emoji]};#{av_emoji_content[:matching_text]}",
     userchrome: "#{userchrome_emoji_content[:emoji]};#{userchrome_emoji_content[:matching_text]}",
-    tags: q['tags']
+    tags: q['tags'],
+    created: q['created']
   }
   logger.debug "regular_expression_row : #{regular_expression_row}"
   regular_expressions.push(regular_expression_row)
