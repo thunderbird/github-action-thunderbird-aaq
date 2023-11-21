@@ -65,6 +65,10 @@ all_questions.each do |q|
   markdown_str = "|[#{id}](https://support.mozilla.org/questions/#{id})"
   markdown_str += "|#{q[:date]}"
   content = q[:content_1st160chars].gsub('|', '\|')
+  content = content.gsub('[', '\[')
+  content = content.gsub(']', '\]')
+  content = content.gsub("'", "\'")
+
   truncated_content = content[0..65]
   # Tooltips in markdown: https://stackoverflow.com/questions/49332718/is-it-possible-to-create-a-tool-tip-info-tip-or-hint-in-github-markdown
   # [Hover your mouse here to see the tooltip](https://stackoverflow.com/a/71729464/11465149 "This is a tooltip :)")
