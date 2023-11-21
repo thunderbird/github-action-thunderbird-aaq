@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1619117,1431543,2023-11-20 16:12:43 -0800,2023-11-20 16:13:02 -0800,"<p>Let me answer my own question. I found an error in the syslog. So I backed up the prefs.js file and copied the one from Seamonkey and now I have my accounts and folders. I think, I'm back... Hopefully, this will help someone else </p><p>gsd-media-keys[8952]: /home/XXXX/.thunderbird/68hg5gdd.default-release/prefs.js:60: prefs parse error: expected '(' after pref specifier </p>",larrysjunk,false,0,0
+1619159,1431543,2023-11-21 00:32:47 -0800,2023-11-21 00:32:47 -0800,"<p>Larry, thanks for updating your own problem report! </p>",wsmwk,false,0,0
 1619143,1431559,2023-11-20 22:25:28 -0800,2023-11-20 22:25:28 -0800,"<p>(For ""October"", read ""September"".) </p>",lawrence.buckley1,false,0,0
