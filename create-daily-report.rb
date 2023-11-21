@@ -10,6 +10,11 @@ require 'CSV'
 require 'facets/enumerable/find_yield'
 require 'fileutils'
 
+def format_emoji(emoji_with_semicolon)
+  return '❓' if emoji_with_semicolon == '❓;'
+
+  "[#{emoji_with_semicolon[0]}](## '#{emoji_with_semicolon[2..-1]})"
+end
 logger = Logger.new($stderr)
 logger.level = Logger::DEBUG
 
@@ -52,7 +57,7 @@ logger.debug "LAST question id: #{all_questions[-1]['id']}"
 FileUtils.mkdir_p REPORTS_PATH
 output_markdown = []
 output_markdown.push(
-  '|id      | date     |content                                                     | os | topic | email provider | antivirus | userChrome | tags|'
+  '|id      | content                                                     | O|T|E|AV|uC |T|'
 )
 output_markdown.push(
   '|--------|----------|-------------------------------------------------------------|---|-------|----------------|-----------|------------|----|'
@@ -62,25 +67,25 @@ all_questions.each do |q|
   q = q.to_h
   logger.debug "question: #{q.ai}"
   id = q[:id]
-  markdown_str = "|[#{id}](https://support.mozilla.org/questions/#{id})"
-  markdown_str += "|#{q[:date]}"
+  markdown_str = "|[#{id}](https://support.mozilla.org/questions/#{id} '#{q[:created]}')"
+  # markdown_str += "|#{q[:date]}"
   content = q[:content_1st160chars].gsub('|', '\|')
   content = content.gsub('[', '\[')
   content = content.gsub(']', '\]')
-  content = content.gsub("'", "&apos;")
+  content = content.gsub("'", '&apos;')
 
   truncated_content = content[0..65]
   # Tooltips in markdown: https://stackoverflow.com/questions/49332718/is-it-possible-to-create-a-tool-tip-info-tip-or-hint-in-github-markdown
   # [Hover your mouse here to see the tooltip](https://stackoverflow.com/a/71729464/11465149 "This is a tooltip :)")
   # it works! see https://gist.github.com/rtanglao/3ec86f7680e712f8152594a880338538
   markdown_str += "|[#{truncated_content}](## '#{content}')"
-  markdown_str += "|#{q[:os]}"
-  markdown_str += "|#{q[:topic]}"
-  markdown_str += "|#{q[:email_provider]}"
-  markdown_str += "|#{q[:antivirus]}"
-  markdown_str += "|#{q[:userchrome]}"
-  markdown_str += "|#{q[:tags]}|"
-  logger.debug "markdown_str:#{markdown_str}"
+  markdown_str += "|#{format_emoji(q[:os])}"
+  markdown_str += "|#{format_emoji(q[:topic])}"
+  markdown_str += "|#{format_emoji(q[:email_provider])}"
+  markdown_str += "|#{format_emoji(q[:antivirus])}"
+  markdown_str += "|#{format_emoji(q[:userchrome])}"
+  markdown_str += "|#{format_emoji(q[:tags])}|"
+  logger.debug "markdown_str:#{markdown_str})"
   output_markdown.push(markdown_str)
 end
 
