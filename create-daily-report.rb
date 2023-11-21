@@ -62,7 +62,7 @@ all_questions.each do |q|
   q = q.to_h
   logger.debug "question: #{q.ai}"
   id = q[:id]
-  markdown_str = "|[#{id}](https://support.mozila.org/questions/#{id})"
+  markdown_str = "|[#{id}](https://support.mozilla.org/questions/#{id})"
   markdown_str += "|#{q[:date]}"
   content = q[:content_1st160chars].gsub('|', '\|')
   truncated_content = content[0..65]
