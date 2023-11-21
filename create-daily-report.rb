@@ -41,7 +41,7 @@ Dir.chdir(YYYY.to_s) do
     logger.debug "#{YYYY}/#{INPUT_FILENAME} doesn't exist, so exiting."
     exit
   end
-  all_questions = CSV.read(INPUT_FILENAME, headers: true)
+  all_questions = CSV.read(INPUT_FILENAME, headers: true, header_converters: :symbol)
 end
 
 logger.debug "first question id: #{all_questions[0]['id']}"
@@ -50,22 +50,36 @@ logger.debug "LAST question id: #{all_questions[-1]['id']}"
 # https://stackoverflow.com/questions/19280341/create-directory-if-it-doesnt-exist-with-ruby
 # Create directory if it doesn't exist
 FileUtils.mkdir_p REPORTS_PATH
+output_markdown = []
+output_markdown.push(
+  '|id      | date     |content                                                     | os | topic | email provider | antivirus | userChrome | tags|'
+)
+output_markdown.push(
+  '|--------|----------|-------------------------------------------------------------|---|-------|----------------|-----------|------------|----|'
+)
 
-output_markdown += \
-"|id      | date     |content                                                     | os | topic | email provider | antivirus | userChrome | tags"
-output_markdown += "\n"
-output_markdown += \
-"|--------|----------|-------------------------------------------------------------|---|-------|----------------|-----------|------------|----|"
+all_questions.each do |q|
+  q = q.to_h
+  logger.debug "question: #{q.ai}"
+  id = q[:id]
+  markdown_str = "|[#{id}](https://support.mozila.org/questions/#{id})"
+  markdown_str += "|#{q[:date]}"
+  content = q[:content_1st160chars].gsub('|', '\|')
+  truncated_content = content[0..65]
+  # Tooltips in markdown: https://stackoverflow.com/questions/49332718/is-it-possible-to-create-a-tool-tip-info-tip-or-hint-in-github-markdown
+  # [Hover your mouse here to see the tooltip](https://stackoverflow.com/a/71729464/11465149 "This is a tooltip :)")
+  # it works! see https://gist.github.com/rtanglao/3ec86f7680e712f8152594a880338538
+  markdown_str += "|[#{truncated_content}](## '#{content}')"
+  markdown_str += "|#{q[:os]}"
+  markdown_str += "|#{q[:topic]}"
+  markdown_str += "|#{q[:email_provider]}"
+  markdown_str += "|#{q[:antivirus]}"
+  markdown_str += "|#{q[:userchrome]}"
+  markdown_str += "|#{q[:tags]}|"
+  logger.debug "markdown_str:#{markdown_str}"
+  output_markdown.push(markdown_str)
+end
 
-
-
-# Tooltips in markdown: https://stackoverflow.com/questions/49332718/is-it-possible-to-create-a-tool-tip-info-tip-or-hint-in-github-markdown
-# [Hover your mouse here to see the tooltip](https://stackoverflow.com/a/71729464/11465149 "This is a tooltip :)")
-# it works! see https://gist.github.com/rtanglao/3ec86f7680e712f8152594a880338538
-exit
 Dir.chdir(REPORTS_PATH) do
-  headers = regular_expressions[0].keys
-  CSV.open(OUTPUT_FILENAME, 'w', write_headers: true, headers: headers) do |csv_object|
-    regular_expressions.each { |row_array| csv_object << row_array }
-  end
+  File.write(OUTPUT_FILENAME, output_markdown.join("\n"), mode: 'w')
 end
