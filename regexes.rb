@@ -101,11 +101,11 @@ EMAIL_EMOJI_ARRAY = [
   { regex: /(gmail|google mail|googlemail)/i,
     emoji: GMAIL_EMOJI },
   { regex: /(live(\.|-)*com|msn|ms365|outlook|office365|office 365|\
-    hotmail|livemail|passport|microsoft365|microsoft 365|\
-    o365|ms 365|verizon|microsoft mail|microsoftmail|\
-    timewarner|twc|godaddy|msexchange|ms exchange|\
-    microsoft exchange|microsoftexchange|\
-    spectrum|time warner|roadrunner)/i,
+hotmail|livemail|passport|microsoft365|microsoft 365|\
+o365|ms 365|verizon|microsoft mail|microsoftmail|\
+timewarner|twc|godaddy|msexchange|ms exchange|\
+microsoft exchange|microsoftexchange|\
+spectrum|time warner|roadrunner)/i,
     emoji: MICROSOFT_EMAIL_EMOJI },
   { regex: /(protonmail|proton\.me|pm\.me)/i, emoji: PROTONMAIL_EMOJI },
   { regex: /(fastmail.fm|fastmail)/i, emoji: FASTMAIL_EMOJI },
