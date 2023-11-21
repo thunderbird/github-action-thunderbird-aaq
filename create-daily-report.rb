@@ -13,7 +13,7 @@ require 'fileutils'
 def format_emoji(emoji_with_semicolon)
   return '❓' if emoji_with_semicolon == '❓;'
 
-  "[#{emoji_with_semicolon[0]}](## '#{emoji_with_semicolon[2..-1]})"
+  "[#{emoji_with_semicolon[0]}](## '#{emoji_with_semicolon[2..]}')"
 end
 logger = Logger.new($stderr)
 logger.level = Logger::DEBUG
