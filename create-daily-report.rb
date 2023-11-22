@@ -10,6 +10,17 @@ require 'CSV'
 require 'facets/enumerable/find_yield'
 require 'fileutils'
 
+def format_tags(tags_string_with_semicolons)
+  tags = tags_string_with_semicolons.split(';')
+  return "[❓](## 'No tags :-)')" if tags.empty?
+
+  tags_str = ''
+  tags.each do |t|
+    tags_str += "[#{t}](https://support.mozilla.org/questions/thunderbird?tagged=#{t}), "
+  end
+  tags_str.chomp(', ')
+end
+
 def format_emoji(emoji_with_semicolon)
   if emoji_with_semicolon == '❓;'
     "[❓](## 'Troubleshooting details missing :-)')"
@@ -86,7 +97,7 @@ all_questions.each do |q|
   markdown_str += "|#{format_emoji(q[:email_provider])}"
   markdown_str += "|#{format_emoji(q[:antivirus])}"
   markdown_str += "|#{format_emoji(q[:userchrome])}"
-  markdown_str += "|#{format_emoji(q[:tags])}|"
+  markdown_str += "|#{format_tags(q[:tags])}|"
   logger.debug "markdown_str:#{markdown_str})"
   output_markdown.push(markdown_str)
 end
