@@ -11,9 +11,11 @@ require 'facets/enumerable/find_yield'
 require 'fileutils'
 
 def format_emoji(emoji_with_semicolon)
-  return '❓' if emoji_with_semicolon == '❓;'
-
-  "[#{emoji_with_semicolon[0]}](## '#{emoji_with_semicolon[2..]}')"
+  if emoji_with_semicolon == '❓;'
+    "[❓](## 'Troubleshooting details missing :-)')"
+  else
+    "[#{emoji_with_semicolon[0]}](## '#{emoji_with_semicolon[2..]}')"
+  end
 end
 logger = Logger.new($stderr)
 logger.level = Logger::DEBUG
