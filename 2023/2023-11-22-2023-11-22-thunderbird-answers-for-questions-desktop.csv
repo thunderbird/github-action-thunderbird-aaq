@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1619349,1431651,2023-11-21 21:06:10 -0800,2023-11-21 21:06:10 -0800,<p>Please state your bug number. </p>,wsmwk,false,0,0
+1619348,1431656,2023-11-21 21:05:23 -0800,2023-11-21 21:05:23 -0800,<p>But clicking the Junk button (flame icon) does work? </p>,wsmwk,false,0,0
