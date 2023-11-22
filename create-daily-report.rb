@@ -16,7 +16,7 @@ def format_tags(tags_string_with_semicolons)
 
   tags_str = ''
   tags.each do |t|
-    tags_str += "[#{t}](https://support.mozilla.org/questions/thunderbird?tagged=#{t}), "
+    tags_str += "[#{t}](https://support.mozilla.org/questions/thunderbird?tagged=#{t}&show=all), "
   end
   tags_str.chomp(', ')
 end
