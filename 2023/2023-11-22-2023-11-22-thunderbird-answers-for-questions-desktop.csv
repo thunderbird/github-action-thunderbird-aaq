@@ -1,5 +1,7 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1619349,1431651,2023-11-21 21:06:10 -0800,2023-11-21 21:06:10 -0800,<p>Please state your bug number. </p>,wsmwk,false,0,0
 1619361,1431651,2023-11-21 21:51:08 -0800,2023-11-21 21:51:08 -0800,"<p>1862302 Broken in 15.0, mostly fixed in 15.0.1, semi-broken in 15.4.1 but with a workaround (setting works backwards), totally broken in 15.4.3 (always jumps randomly). </p>",fred37,false,0,0
+1619402,1431652,2023-11-22 05:00:12 -0800,2023-11-22 05:00:12 -0800,<p>This may be happening if you have set View&gt;message body as &gt;plain text </p>,davidsk,false,0,0
 1619348,1431656,2023-11-21 21:05:23 -0800,2023-11-21 21:05:23 -0800,<p>But clicking the Junk button (flame icon) does work? </p>,wsmwk,false,0,0
 1619362,1431656,2023-11-21 21:55:53 -0800,2023-11-21 21:55:53 -0800,"<p>No, clicking the Junk button does not work </p>",cwhit,false,0,0
+1619404,1431667,2023-11-22 05:05:11 -0800,2023-11-22 05:05:11 -0800,"<p>Do they each have unique Yahoo accounts, or are they aliases from your account? I am unclear on what you mean by ""it redirects the Oauth login..."" </p>",davidsk,false,0,0
