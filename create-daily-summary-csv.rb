@@ -8,21 +8,21 @@ require 'logger'
 require 'pry'
 require 'CSV'
 require 'facets/enumerable/find_yield'
-require 'fileutils'
+require_relative 'regexes'
 
 def get_operating_system(os, summary)
   os = os.downcase
   emoji = os[0]
   case emoji
-  when '🪟'
+  when MACOS_EMOJI
     summary[:win] += 1
     summary[:win7] += 1 if os =~ /;win[a-z\- ]*7/
     summary[:win8] += 1 if os =~ /;win[a-z\- ]*8/
     summary[:win10] += 1 if os =~ /;win[a-z\- ]*10/
     summary[:win11] += 1 if os =~ /;win[a-z\- ]*11/
-  when '🍎'
+  when WINDOWS_EMOJI
     summary[:mac] += 1
-  when '🐧'
+  when LINUX_EMOJI
     summary[:linux] += 1
   else
     summary[:unknown] += 1
@@ -62,7 +62,6 @@ Dir.chdir(YYYY.to_s) do
   end
   all_questions = CSV.read(INPUT_FILENAME, headers: true, header_converters: :symbol)
 end
-
 
 logger.debug "first question id: #{all_questions[0]['id']}"
 logger.debug "LAST question id: #{all_questions[-1]['id']}"
