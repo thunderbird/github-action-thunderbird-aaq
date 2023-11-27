@@ -85,6 +85,7 @@ while current_date <= end_date
       logger.debug "question: #{question_id} NOT replied to at all."
       next
     end
+    # FIXME: https://github.com/thunderbird/github-action-thunderbird-aaq/issues/3
     a = answers_for_this_question.reverse.first
     answer_id = a['id']
     answer_created = a['created']
