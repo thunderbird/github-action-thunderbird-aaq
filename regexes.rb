@@ -72,7 +72,7 @@ ANTIVIRUS_EMOJI_ARRAY = [
     emoji: AVAST_EMOJI },
   { regex: /(avira)/i,
     emoji: AVIRA_EMOJI },
-  { regex: /(zonealarm|zone alarm|checkpoint|check point)/i,
+  { regex: /(zonealarm|zone alarm|checkpoint|check point|check-point)/i,
     emoji: ZONEALARM_EMOJI },
   { regex: /(comodo)/i,
     emoji: COMODO_EMOJI },
