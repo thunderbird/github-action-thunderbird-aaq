@@ -25,7 +25,7 @@ def get_operating_system(os, summary)
   when LINUX_EMOJI
     summary[:linux] += 1
   else
-    summary[:unknown] += 1
+    summary[:unknownos] += 1
   end
   summary
 end
@@ -66,21 +66,20 @@ end
 logger.debug "first question id: #{all_questions[0]['id']}"
 logger.debug "LAST question id: #{all_questions[-1]['id']}"
 summary = {}
-summary[:os] = {}
-summary[:os][:win] = 0
-summary[:os][:win7] = 0
-summary[:os][:win8] = 0
-summary[:os][:win10] = 0
-summary[:os][:win11] = 0
-summary[:os][:mac] = 0
-summary[:os][:linux] = 0
-summary[:os][:unknown] = 0
+summary[:win] = 0
+summary[:win7] = 0
+summary[:win8] = 0
+summary[:win10] = 0
+summary[:win11] = 0
+summary[:mac] = 0
+summary[:linux] = 0
+summary[:unknownos] = 0
 
 all_questions.each do |q|
   q = q.to_h
   logger.debug "question: #{q.ai}"
   id = q[:id]
-  summary[:os] = get_operating_system(q[:os], summary[:os])
+  summary = get_operating_system(q[:os], summary[:os])
   # markdown_str += "|#{format_emoji(q[:os])}"
   # markdown_str += "|#{format_emoji(q[:topic])}"
   # markdown_str += "|#{format_emoji(q[:email_provider])}"
@@ -93,7 +92,7 @@ all_questions.each do |q|
 end
 exit
 Dir.chdir(YYYY.to_s) do
-  headers = summary[0].keys
+  headers = summary.keys
   CSV.open(OUTPUT_FILENAME, 'w', write_headers: true, headers: headers) do |csv_object|
     summary.each { |row_array| csv_object << row_array }
   end
