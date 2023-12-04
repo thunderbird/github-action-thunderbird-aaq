@@ -12,8 +12,8 @@ require_relative 'regexes'
 require 'nokogiri'
 
 def get_emojis_from_regex(emoji_regex, content, _logger)
-  emoji_regex.find_yield({ emoji: UNKNOWN_EMOJI, matching_text: nil }) \
-  { |er| { emoji: er[:emoji], matching_text: Regexp.last_match(1) } if content =~ er[:regex] }
+  emoji_regex.find_yield({ emoji: UNKNOWN_EMOJI, matching_text: nil, name: nil }) \
+  { |er| { emoji: er[:emoji], matching_text: Regexp.last_match(1), name: er[:name] } if content =~ er[:regex] }
 end
 
 logger = Logger.new($stderr)
