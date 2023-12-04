@@ -61,8 +61,7 @@ OS_EMOJI_ARRAY = [
     win 10|windows 11|win 11|windows 7|win 7|windows 8|win 8|\
     win7|win10|win8|win11)/i,
     emoji: WINDOWS_EMOJI,
-  name: 'windows'
-}
+    name: 'windows' }
 ].freeze
 
 ANTIVIRUS_EMOJI_ARRAY = [
@@ -73,61 +72,57 @@ ANTIVIRUS_EMOJI_ARRAY = [
   },
   { regex: /(bitdefender)/i,
     emoji: BITDEFENDER_EMOJI,
-    name: 'bitdefender'
-  },
+    name: 'bitdefender' },
   { regex: /(avast|avg)/i,
     emoji: AVAST_EMOJI,
-    name: 'avast'
-  },
+    name: 'avast' },
   { regex: /(avira)/i,
     emoji: AVIRA_EMOJI,
-    name: 'avira'
-  },
-  { 
+    name: 'avira' },
+  {
     regex: /(zonealarm|zone alarm|checkpoint|check point|check-point)/i,
     emoji: ZONEALARM_EMOJI,
     name: 'zonealarm'
   },
-  { 
+  {
     regex: /(comodo)/i,
     emoji: COMODO_EMOJI,
-    name: 'comodo' 
+    name: 'comodo'
   },
-  { 
+  {
     regex: /(eset|nod32)/i,
     emoji: ESET_EMOJI,
     name: 'eset'
   },
-  { 
+  {
     regex: /(fsecure|f-secure|f secure)/i,
     emoji: FSECURE_EMOJI,
     name: 'fsecure'
   },
-  { 
+  {
     regex: /(malwarebytes)/i,
     emoji: MALWAREBYTES_EMOJI,
     name: 'malwarebytes'
   },
-  { 
+  {
     regex: /(mcafee)/i,
     emoji: MCAFEE_EMOJI,
     name: 'mcafee'
   },
-  { 
+  {
     regex: /(norton)/i,
     emoji: NORTON_EMOJI,
     name: 'norton'
   },
   { regex: /(sophos)/i,
     emoji: SOPHOS_EMOJI,
-    name: 'sophos'
-  },
-  { 
+    name: 'sophos' },
+  {
     regex: /(trendmicro|titanium)/i,
     emoji: TRENDMICRO_EMOJI,
     name: 'trendmicro'
   },
-  { 
+  {
     regex: /(defender)/i,
     emoji: MSDEFENDER_EMOJI,
     name: 'defender'
@@ -138,18 +133,38 @@ ANTIVIRUS_EMOJI_ARRAY = [
 # https://github.com/rtanglao/rt-tb-noto-emoji-2023/issues/3
 
 EMAIL_EMOJI_ARRAY = [
-  { regex: /(gmail|google mail|googlemail)/i,
-    emoji: GMAIL_EMOJI },
-  { regex: /(live(\.|-)*com|msn|ms365|outlook|office365|office 365|\
+  {
+    regex: /(gmail|google mail|googlemail)/i,
+    emoji: GMAIL_EMOJI,
+    name: 'gmail'
+  },
+  {
+    regex: /(live(\.|-)*com|msn|ms365|outlook|office365|office 365|\
 hotmail|livemail|passport|microsoft365|microsoft 365|\
 o365|ms 365|verizon|microsoft mail|microsoftmail|\
 timewarner|twc|godaddy|msexchange|ms exchange|\
 microsoft exchange|microsoftexchange|\
 spectrum|time warner|roadrunner)/i,
-    emoji: MICROSOFT_EMAIL_EMOJI },
-  { regex: /(protonmail|proton\.me|pm\.me)/i, emoji: PROTONMAIL_EMOJI },
-  { regex: /(fastmail.fm|fastmail)/i, emoji: FASTMAIL_EMOJI },
-  { regex: /(yahoo|ameritech|at&t|att.net|bellsouth|currently.com|nvbell|pacbell|prodigy|sbcglobal|snet|swbell|wans)/i,
-    emoji: YAHOOEMAIL_EMOJI },
-  { regex: /(mailfence)/i, emoji: MAILFENCE_EMOJI }
+    emoji: MICROSOFT_EMAIL_EMOJI,
+    name: 'microsoftemail'
+  },
+  {
+    regex: /(protonmail|proton\.me|pm\.me)/i, emoji: PROTONMAIL_EMOJI,
+    name: 'protonmail'
+  },
+  {
+    regex: /(fastmail.fm|fastmail)/i,
+    emoji: FASTMAIL_EMOJI,
+    name: 'fastmail'
+  },
+  {
+    regex: /(yahoo|ameritech|at&t|att.net|bellsouth|currently.com|nvbell|pacbell|prodigy|sbcglobal|snet|swbell|wans)/i,
+    emoji: YAHOOEMAIL_EMOJI,
+    name: 'yahooemail'
+  },
+  {
+    regex: /(mailfence)/i,
+    emoji: MAILFENCE_EMOJI,
+    name: 'mailfence'
+  }
 ].freeze
