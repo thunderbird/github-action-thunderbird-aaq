@@ -19,11 +19,11 @@ end
 def get_os_name(emoji, matching_text, name, logger)
   logger.debug "emoji: #{emoji} matching_text: #{matching_text} name: #{name}"
   return name if [MACOS_EMOJI, LINUX_EMOJI].include?(emoji)
-  return 'unknownos' if emoji == UNKNOWN_EMOJI
-  return 'win7' if matching_text =~ /win[a-z\- ]*7/i
-  return 'win8' if matching_text =~ /win[a-z\- ]*8/i
-  return 'win10' if matching_text =~ /win[a-z\- ]*10/i
-  return 'win11' if matching_text =~ /win[a-z\- ]*11/i
+  return 'os:unknown' if emoji == UNKNOWN_EMOJI
+  return 'os:win7' if matching_text =~ /win[a-z\- ]*7/i
+  return 'os:win8' if matching_text =~ /win[a-z\- ]*8/i
+  return 'os:win10' if matching_text =~ /win[a-z\- ]*10/i
+  return 'os:win11' if matching_text =~ /win[a-z\- ]*11/i
 
   name
 end
@@ -82,13 +82,13 @@ all_questions.each do |q|
   id = q['id']
   logger.debug "question id: #{id}"
 
-  os_emoji_content = get_emojis_from_regex(OS_EMOJI_ARRAY, content, 'unknownos')
+  os_emoji_content = get_emojis_from_regex(OS_EMOJI_ARRAY, content, 'os:unknown')
   os_emoji_content[:name] = get_os_name(os_emoji_content[:emoji], os_emoji_content[:matching_text],
                                         os_emoji_content[:name], logger)
-  topics_emoji_content = get_emojis_from_regex(TOPICS_EMOJI_ARRAY, q['tags'], 'unknowntopic')
-  email_emoji_content = get_emojis_from_regex(EMAIL_EMOJI_ARRAY, content, 'unknownemail')
-  av_emoji_content = get_emojis_from_regex(ANTIVIRUS_EMOJI_ARRAY, content, 'unknownav')
-  userchrome_emoji_content = get_emojis_from_regex(USERCHROME_EMOJI_ARRAY, content, 'unknowncustomization')
+  topics_emoji_content = get_emojis_from_regex(TOPICS_EMOJI_ARRAY, q['tags'], 't:unknown')
+  email_emoji_content = get_emojis_from_regex(EMAIL_EMOJI_ARRAY, content, 'm:unknown')
+  av_emoji_content = get_emojis_from_regex(ANTIVIRUS_EMOJI_ARRAY, content, 'av:unknown')
+  userchrome_emoji_content = get_emojis_from_regex(USERCHROME_EMOJI_ARRAY, content, 'uc:unknown')
 
   #  regular_expression_row is:
   #  id, date, title, os, topic, email, antivirus, userchrome, tags

@@ -46,18 +46,18 @@ end
 logger.debug "first question id: #{all_questions[0]['id']}"
 logger.debug "LAST question id: #{all_questions[-1]['id']}"
 summary = {}
-summary['win'] = 0
-summary['win7'] = 0
-summary['win8'] = 0
-summary['win10'] = 0
-summary['win11'] = 0
-summary['macos'] = 0
-summary['linux'] = 0
-summary['unknownos'] = 0
-summary['unknownemail'] = 0
-summary['unknowntopic'] = 0
-summary['unknownav'] = 0
-summary['unknowncustomization'] = 0
+summary['os:win'] = 0
+summary['os:win7'] = 0
+summary['os:win8'] = 0
+summary['os:win10'] = 0
+summary['os:win11'] = 0
+summary['os:macos'] = 0
+summary['os:linux'] = 0
+summary['os:unknown'] = 0
+summary['m:unknown'] = 0
+summary['t:unknown'] = 0
+summary['av:unknown'] = 0
+summary['uc:unknown'] = 0
 
 TOPICS_EMOJI_ARRAY.each { |t| summary[t[:name]] = 0 }
 USERCHROME_EMOJI_ARRAY.each { |u| summary[u[:name]] = 0 }

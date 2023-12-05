@@ -32,15 +32,15 @@ DOWNLOAD_AND_INSTALL_EMOJI = '🛠'.freeze # download-and-install
 PRIVACY_AND_SECURITY_EMOJI = '🔏'.freeze # privacy-and-security
 
 TOPICS_EMOJI_ARRAY = [
-  { regex: /(fix-problems)/i, emoji: FIX_PROBLEMS_EMOJI, name: 'fix_problems' },
-  { regex: /(calendar)/i, emoji: CALENDAR_EMOJI, name: 'calendar' },
-  { regex: /(download-and-install)/i, emoji: DOWNLOAD_AND_INSTALL_EMOJI, name: 'download_and_install' },
-  { regex: /(privacy-and-security)/i, emoji: PRIVACY_AND_SECURITY_EMOJI, name: 'privacy_and_security' },
-  { regex: /(customize)/i, emoji: CUSTOMIZE_EMOJI, name: 'customize' },
-  { regex: /(other)/i, emoji: OTHER_EMOJI, name: 'other' }
+  { regex: /(fix-problems)/i, emoji: FIX_PROBLEMS_EMOJI, name: 't:fix_problems' },
+  { regex: /(calendar)/i, emoji: CALENDAR_EMOJI, name: 't:calendar' },
+  { regex: /(download-and-install)/i, emoji: DOWNLOAD_AND_INSTALL_EMOJI, name: 't:download_and_install' },
+  { regex: /(privacy-and-security)/i, emoji: PRIVACY_AND_SECURITY_EMOJI, name: 't:privacy_and_security' },
+  { regex: /(customize)/i, emoji: CUSTOMIZE_EMOJI, name: 't:customize' },
+  { regex: /(other)/i, emoji: OTHER_EMOJI, name: 't:other' }
 ]
 USERCHROME_EMOJI_ARRAY = [
-  { regex: /(userchrome|usercontent)/i, emoji: USERCHROME_EMOJI, name: 'unsupported_customizations' }
+  { regex: /(userchrome|usercontent)/i, emoji: USERCHROME_EMOJI, name: 'uc:unsupported_customization' }
 ].freeze
 
 OS_EMOJI_ARRAY = [
@@ -50,82 +50,82 @@ OS_EMOJI_ARRAY = [
     sierra|el(-| )*capitan|mojave|catalina|big(-| )*sur|yosemite|\
     mac(-| )*os(-| )*x*[0-9]*\.*[0-9]*\.*[0-9]*|osx|os-x)/i,
     emoji: MACOS_EMOJI,
-    name: 'macos'
+    name: 'os:macos'
   },
   {
     regex: /(linux|ubuntu|redhat|debian|bsd)/i,
     emoji: LINUX_EMOJI,
-    name: 'linux'
+    name: 'os:linux'
   },
   { regex: /(windows-7|windows-8|windows-10|windows-11|windows 10|win 10|windows 11|win 11|windows 7|win 7|\
   windows 8|win 8|windows7|windows8|windows10|windows11|\
       win7|win10|win8|win11|win-7|win-8|win-10|win-11)/i,
     emoji: WINDOWS_EMOJI,
-    name: 'windows' }
+    name: 'os:windows' }
 ].freeze
 
 ANTIVIRUS_EMOJI_ARRAY = [
   {
     regex: /(kaspersky)/i,
     emoji: KASPERSKY_EMOJI,
-    name: 'kaspersky'
+    name: 'av:kaspersky'
   },
   { regex: /(bitdefender)/i,
     emoji: BITDEFENDER_EMOJI,
-    name: 'bitdefender' },
+    name: 'av:bitdefender' },
   { regex: /(avast|avg)/i,
     emoji: AVAST_EMOJI,
-    name: 'avast' },
+    name: 'av:avast' },
   { regex: /(avira)/i,
     emoji: AVIRA_EMOJI,
-    name: 'avira' },
+    name: 'av:avira' },
   {
     regex: /(zonealarm|zone alarm|checkpoint|check point|check-point)/i,
     emoji: ZONEALARM_EMOJI,
-    name: 'zonealarm'
+    name: 'av:zonealarm'
   },
   {
     regex: /(comodo)/i,
     emoji: COMODO_EMOJI,
-    name: 'comodo'
+    name: 'av:comodo'
   },
   {
     regex: /(eset|nod32)/i,
     emoji: ESET_EMOJI,
-    name: 'eset'
+    name: 'av:eset'
   },
   {
     regex: /(fsecure|f-secure|f secure)/i,
     emoji: FSECURE_EMOJI,
-    name: 'fsecure'
+    name: 'av:fsecure'
   },
   {
     regex: /(malwarebytes)/i,
     emoji: MALWAREBYTES_EMOJI,
-    name: 'malwarebytes'
+    name: 'av:malwarebytes'
   },
   {
     regex: /(mcafee)/i,
     emoji: MCAFEE_EMOJI,
-    name: 'mcafee'
+    name: 'av:mcafee'
   },
   {
     regex: /(norton)/i,
     emoji: NORTON_EMOJI,
-    name: 'norton'
+    name: 'av:norton'
   },
   { regex: /(sophos)/i,
     emoji: SOPHOS_EMOJI,
-    name: 'sophos' },
+    name: 'av:sophos' },
   {
     regex: /(trendmicro|titanium)/i,
     emoji: TRENDMICRO_EMOJI,
-    name: 'trendmicro'
+    name: 'av:trendmicro'
   },
   {
     regex: /(defender)/i,
     emoji: MSDEFENDER_EMOJI,
-    name: 'defender'
+    name: 'av:defender'
   }
 ]
 
@@ -136,7 +136,7 @@ EMAIL_EMOJI_ARRAY = [
   {
     regex: /(gmail|google mail|googlemail)/i,
     emoji: GMAIL_EMOJI,
-    name: 'gmail'
+    name: 'm:gmail'
   },
   {
     regex: /(live(\.|-)*com|msn|ms365|outlook|office365|office 365|\
@@ -146,25 +146,25 @@ timewarner|twc|godaddy|msexchange|ms exchange|\
 microsoft exchange|microsoftexchange|\
 spectrum|time warner|roadrunner)/i,
     emoji: MICROSOFT_EMAIL_EMOJI,
-    name: 'microsoftemail'
+    name: 'm:microsoftemail'
   },
   {
     regex: /(protonmail|proton\.me|pm\.me)/i, emoji: PROTONMAIL_EMOJI,
-    name: 'protonmail'
+    name: 'm:protonmail'
   },
   {
     regex: /(fastmail.fm|fastmail)/i,
     emoji: FASTMAIL_EMOJI,
-    name: 'fastmail'
+    name: 'm:fastmail'
   },
   {
     regex: /(yahoo|ameritech|at&t|att.net|bellsouth|currently.com|nvbell|pacbell|prodigy|sbcglobal|snet|swbell|wans)/i,
     emoji: YAHOOEMAIL_EMOJI,
-    name: 'yahooemail'
+    name: 'm:yahooemail'
   },
   {
     regex: /(mailfence)/i,
     emoji: MAILFENCE_EMOJI,
-    name: 'mailfence'
+    name: 'm:mailfence'
   }
 ].freeze
