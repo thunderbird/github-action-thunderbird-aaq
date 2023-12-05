@@ -22,8 +22,9 @@ def get_os_name(emoji, matching_text, name)
   return 'win7' if matching_text =~ /;win[a-z\- ]*7/
   return 'win8' if matching_text =~ /;win[a-z\- ]*8/
   return 'win10' if matching_text =~ /;win[a-z\- ]*10/
+  return 'win11' if matching_text =~ /;win[a-z\- ]*11/
 
-  'win11' if matching_text =~ /;win[a-z\- ]*11/
+  name
 end
 
 logger = Logger.new($stderr)
