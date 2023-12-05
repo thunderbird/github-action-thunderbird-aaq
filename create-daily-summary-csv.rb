@@ -10,26 +10,6 @@ require 'CSV'
 require 'facets/enumerable/find_yield'
 require_relative 'regexes'
 
-def get_operating_system(os, summary)
-  os = os.downcase
-  emoji = os[0]
-  case emoji
-  when MACOS_EMOJI
-    summary[:win] += 1
-    summary[:win7] += 1 if os =~ /;win[a-z\- ]*7/
-    summary[:win8] += 1 if os =~ /;win[a-z\- ]*8/
-    summary[:win10] += 1 if os =~ /;win[a-z\- ]*10/
-    summary[:win11] += 1 if os =~ /;win[a-z\- ]*11/
-  when WINDOWS_EMOJI
-    summary[:mac] += 1
-  when LINUX_EMOJI
-    summary[:linux] += 1
-  else
-    summary[:unknownos] += 1
-  end
-  summary
-end
-
 logger = Logger.new($stderr)
 logger.level = Logger::DEBUG
 
@@ -66,26 +46,33 @@ end
 logger.debug "first question id: #{all_questions[0]['id']}"
 logger.debug "LAST question id: #{all_questions[-1]['id']}"
 summary = {}
-summary[:win] = 0
-summary[:win7] = 0
-summary[:win8] = 0
-summary[:win10] = 0
-summary[:win11] = 0
-summary[:mac] = 0
-summary[:linux] = 0
-summary[:unknownos] = 0
+summary['win'] = 0
+summary['win7'] = 0
+summary['win8'] = 0
+summary['win10'] = 0
+summary['win11'] = 0
+summary['macos'] = 0
+summary['linux'] = 0
+summary['unknownos'] = 0
+TOPICS_EMOJI_ARRAY.each { |t| summary[t[:name]] = 0 }
+USERCHROME_EMOJI_ARRAY.each { |u| summary[u[:name]] = 0 }
+ANTIVIRUS_EMOJI_ARRAY.each { |av| summary[av[:name]] = 0 }
+EMAIL_EMOJI_ARRAY.each { |e| summary[e[:name]] = 0 }
 
 all_questions.each do |q|
   q = q.to_h
   logger.debug "question: #{q.ai}"
   id = q[:id]
-  summary = get_operating_system(q[:os], summary[:os])
   # markdown_str += "|#{format_emoji(q[:os])}"
   # markdown_str += "|#{format_emoji(q[:topic])}"
   # markdown_str += "|#{format_emoji(q[:email_provider])}"
   # markdown_str += "|#{format_emoji(q[:antivirus])}"
   # markdown_str += "|#{format_emoji(q[:userchrome])}"
   # markdown_str += "|#{format_tags(q[:tags])}|"
+  binding.pry
+  summary[q[:os].split(';').last] += 1
+  summary[q[:topic].split(';').last] += 1
+
   logger.debug "summary: #{summary})"
   # summary.push(summary_row)
   binding.pry

@@ -11,14 +11,15 @@ require 'facets/enumerable/find_yield'
 require_relative 'regexes'
 require 'nokogiri'
 
-def get_emojis_from_regex(emoji_regex, content, _ogger)
-  emoji_regex.find_yield({ emoji: UNKNOWN_EMOJI, matching_text: nil, name: nil }) \
+def get_emojis_from_regex(emoji_regex, content, unknown_name)
+  emoji_regex.find_yield({ emoji: UNKNOWN_EMOJI, matching_text: nil, name: unknown_name }) \
   { |er| { emoji: er[:emoji], matching_text: Regexp.last_match(1), name: er[:name] } if content =~ er[:regex] }
 end
 
-def get_os_name(emoji, matching_text, name)
+def get_os_name(emoji, matching_text, name, logger)
+  logger.debug "emoji: #{emoji} matching_text: #{matching_text} name: #{name}"
   return name if [MACOS_EMOJI, LINUX_EMOJI].include?(emoji)
-
+  return 'unknownos' if emoji == UNKNOWN_EMOJI
   return 'win7' if matching_text =~ /;win[a-z\- ]*7/
   return 'win8' if matching_text =~ /;win[a-z\- ]*8/
   return 'win10' if matching_text =~ /;win[a-z\- ]*10/
@@ -81,13 +82,13 @@ all_questions.each do |q|
   id = q['id']
   logger.debug "question id: #{id}"
 
-  os_emoji_content = get_emojis_from_regex(OS_EMOJI_ARRAY, content, logger)
+  os_emoji_content = get_emojis_from_regex(OS_EMOJI_ARRAY, content, 'unknownos')
   os_emoji_content[:name] = get_os_name(os_emoji_content[:emoji], os_emoji_content[:matching_text],
-                                        os_emoji_content[:name])
-  topics_emoji_content = get_emojis_from_regex(TOPICS_EMOJI_ARRAY, q['tags'], logger)
-  email_emoji_content = get_emojis_from_regex(EMAIL_EMOJI_ARRAY, content, logger)
-  av_emoji_content = get_emojis_from_regex(ANTIVIRUS_EMOJI_ARRAY, content, logger)
-  userchrome_emoji_content = get_emojis_from_regex(USERCHROME_EMOJI_ARRAY, content, logger)
+                                        os_emoji_content[:name], logger)
+  topics_emoji_content = get_emojis_from_regex(TOPICS_EMOJI_ARRAY, q['tags'], 'unknowntopic')
+  email_emoji_content = get_emojis_from_regex(EMAIL_EMOJI_ARRAY, content, 'unknownemail')
+  av_emoji_content = get_emojis_from_regex(ANTIVIRUS_EMOJI_ARRAY, content, 'unknownav')
+  userchrome_emoji_content = get_emojis_from_regex(USERCHROME_EMOJI_ARRAY, content, 'unknowncustomization')
 
   #  regular_expression_row is:
   #  id, date, title, os, topic, email, antivirus, userchrome, tags
