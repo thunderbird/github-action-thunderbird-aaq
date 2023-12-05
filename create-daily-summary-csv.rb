@@ -46,7 +46,8 @@ end
 logger.debug "first question id: #{all_questions[0]['id']}"
 logger.debug "LAST question id: #{all_questions[-1]['id']}"
 summary = {}
-summary['os:win'] = 0
+summary[:date] = DATE_STR
+summary['os:win'] = 0 # initialize it here to make it the second column
 summary['os:win7'] = 0
 summary['os:win8'] = 0
 summary['os:win10'] = 0
@@ -67,7 +68,6 @@ EMAIL_EMOJI_ARRAY.each { |e| summary[e[:name]] = 0 }
 all_questions.each do |q|
   q = q.to_h
   logger.debug "question: #{q.ai}"
-  id = q[:id]
   summary[q[:os].split(';').last] += 1
   summary[q[:topic].split(';').last] += 1
   summary[q[:email_provider].split(';').last] += 1
@@ -75,11 +75,15 @@ all_questions.each do |q|
   summary[q[:userchrome].split(';').last] += 1
   logger.debug "summary: #{summary})"
 end
-binding.pry
-exit
+
+summary['os:win'] = summary['os:win7'] + summary['os:win8'] +
+                    summary['os:win10'] + summary['os:win11']
+
+rows = []
+rows.push(summary)
 Dir.chdir(YYYY.to_s) do
   headers = summary.keys
   CSV.open(OUTPUT_FILENAME, 'w', write_headers: true, headers: headers) do |csv_object|
-    summary.each { |row_array| csv_object << row_array }
+    rows.each { |row_array| csv_object << row_array }
   end
 end
