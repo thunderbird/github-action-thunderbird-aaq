@@ -37,7 +37,7 @@ TOPICS_EMOJI_ARRAY = [
   { regex: /(download-and-install)/i, emoji: DOWNLOAD_AND_INSTALL_EMOJI, name: 'download_and_install' },
   { regex: /(privacy-and-security)/i, emoji: PRIVACY_AND_SECURITY_EMOJI, name: 'privacy_and_security' },
   { regex: /(customize)/i, emoji: CUSTOMIZE_EMOJI, name: 'customize' },
-  { regex: /(other)/i, emoji: OTHER_EMOJI, name: 'others' }
+  { regex: /(other)/i, emoji: OTHER_EMOJI, name: 'other' }
 ]
 USERCHROME_EMOJI_ARRAY = [
   { regex: /(userchrome|usercontent)/i, emoji: USERCHROME_EMOJI, name: 'unsupported_customizations' }
