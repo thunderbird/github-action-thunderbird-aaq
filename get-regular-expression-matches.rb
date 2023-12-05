@@ -20,10 +20,10 @@ def get_os_name(emoji, matching_text, name, logger)
   logger.debug "emoji: #{emoji} matching_text: #{matching_text} name: #{name}"
   return name if [MACOS_EMOJI, LINUX_EMOJI].include?(emoji)
   return 'unknownos' if emoji == UNKNOWN_EMOJI
-  return 'win7' if matching_text =~ /;win[a-z\- ]*7/
-  return 'win8' if matching_text =~ /;win[a-z\- ]*8/
-  return 'win10' if matching_text =~ /;win[a-z\- ]*10/
-  return 'win11' if matching_text =~ /;win[a-z\- ]*11/
+  return 'win7' if matching_text =~ /win[a-z\- ]*7/i
+  return 'win8' if matching_text =~ /win[a-z\- ]*8/i
+  return 'win10' if matching_text =~ /win[a-z\- ]*10/i
+  return 'win11' if matching_text =~ /win[a-z\- ]*11/i
 
   name
 end

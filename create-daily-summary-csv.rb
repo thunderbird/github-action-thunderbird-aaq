@@ -54,6 +54,11 @@ summary['win11'] = 0
 summary['macos'] = 0
 summary['linux'] = 0
 summary['unknownos'] = 0
+summary['unknownemail'] = 0
+summary['unknowntopic'] = 0
+summary['unknownav'] = 0
+summary['unknowncustomization'] = 0
+
 TOPICS_EMOJI_ARRAY.each { |t| summary[t[:name]] = 0 }
 USERCHROME_EMOJI_ARRAY.each { |u| summary[u[:name]] = 0 }
 ANTIVIRUS_EMOJI_ARRAY.each { |av| summary[av[:name]] = 0 }
@@ -63,20 +68,14 @@ all_questions.each do |q|
   q = q.to_h
   logger.debug "question: #{q.ai}"
   id = q[:id]
-  # markdown_str += "|#{format_emoji(q[:os])}"
-  # markdown_str += "|#{format_emoji(q[:topic])}"
-  # markdown_str += "|#{format_emoji(q[:email_provider])}"
-  # markdown_str += "|#{format_emoji(q[:antivirus])}"
-  # markdown_str += "|#{format_emoji(q[:userchrome])}"
-  # markdown_str += "|#{format_tags(q[:tags])}|"
-  binding.pry
   summary[q[:os].split(';').last] += 1
   summary[q[:topic].split(';').last] += 1
-
+  summary[q[:email_provider].split(';').last] += 1
+  summary[q[:antivirus].split(';').last] += 1
+  summary[q[:userchrome].split(';').last] += 1
   logger.debug "summary: #{summary})"
-  # summary.push(summary_row)
-  binding.pry
 end
+binding.pry
 exit
 Dir.chdir(YYYY.to_s) do
   headers = summary.keys
