@@ -59,7 +59,7 @@ OS_EMOJI_ARRAY = [
   },
   { regex: /(windows-7|windows-8|windows-10|windows-11|windows 10|\
     win 10|windows 11|win 11|windows 7|win 7|windows 8|win 8|\
-    win7|win10|win8|win11)/i,
+    win7|win10|win8|win11|win-7|win-8|win-10|win-11)/i,
     emoji: WINDOWS_EMOJI,
     name: 'windows' }
 ].freeze

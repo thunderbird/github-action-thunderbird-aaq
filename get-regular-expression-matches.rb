@@ -11,9 +11,19 @@ require 'facets/enumerable/find_yield'
 require_relative 'regexes'
 require 'nokogiri'
 
-def get_emojis_from_regex(emoji_regex, content, _logger)
+def get_emojis_from_regex(emoji_regex, content, _ogger)
   emoji_regex.find_yield({ emoji: UNKNOWN_EMOJI, matching_text: nil, name: nil }) \
   { |er| { emoji: er[:emoji], matching_text: Regexp.last_match(1), name: er[:name] } if content =~ er[:regex] }
+end
+
+def get_os_name(emoji, matching_text, name)
+  return name if [MACOS_EMOJI, LINUX_EMOJI].include?(emoji)
+
+  return 'win7' if matching_text =~ /;win[a-z\- ]*7/
+  return 'win8' if matching_text =~ /;win[a-z\- ]*8/
+  return 'win10' if matching_text =~ /;win[a-z\- ]*10/
+
+  'win11' if matching_text =~ /;win[a-z\- ]*11/
 end
 
 logger = Logger.new($stderr)
@@ -71,6 +81,8 @@ all_questions.each do |q|
   logger.debug "question id: #{id}"
 
   os_emoji_content = get_emojis_from_regex(OS_EMOJI_ARRAY, content, logger)
+  os_emoji_content[:name] = get_os_name(os_emoji_content[:emoji], os_emoji_content[:matching_text],
+                                        os_emoji_content[:name])
   topics_emoji_content = get_emojis_from_regex(TOPICS_EMOJI_ARRAY, q['tags'], logger)
   email_emoji_content = get_emojis_from_regex(EMAIL_EMOJI_ARRAY, content, logger)
   av_emoji_content = get_emojis_from_regex(ANTIVIRUS_EMOJI_ARRAY, content, logger)
@@ -78,7 +90,7 @@ all_questions.each do |q|
 
   #  regular_expression_row is:
   #  id, date, title, os, topic, email, antivirus, userchrome, tags
-  #  128958, 2023-04-01, emoji;windows 10, emoji;fix-problems, emoji;outlook, emoji:avtext, emoji:userchrometext, tags
+  #  128958, 2023-04-01, emoji;windows 10;win10, emoji;fix-problems;fix_problmes, emoji;outlook;microsoftemail, emoji:avtext;kaspersky, emoji:userchrometext;unsupported_customizations, tags
   parsed_content = Nokogiri::HTML.parse(q['content']).text
   content_1st160 = "#{q['title']} #{parsed_content}"
   content_1st160 = content_1st160[0..159]
@@ -86,11 +98,11 @@ all_questions.each do |q|
     id: id,
     date: DATE_STR,
     content_1st160chars: content_1st160,
-    os: "#{os_emoji_content[:emoji]};#{os_emoji_content[:matching_text]}",
-    topic: "#{topics_emoji_content[:emoji]};#{topics_emoji_content[:matching_text]}",
-    email_provider: "#{email_emoji_content[:emoji]};#{email_emoji_content[:matching_text]}",
-    antivirus: "#{av_emoji_content[:emoji]};#{av_emoji_content[:matching_text]}",
-    userchrome: "#{userchrome_emoji_content[:emoji]};#{userchrome_emoji_content[:matching_text]}",
+    os: "#{os_emoji_content[:emoji]};#{os_emoji_content[:matching_text]};#{os_emoji_content[:name]}",
+    topic: "#{topics_emoji_content[:emoji]};#{topics_emoji_content[:matching_text]};#{topics_emoji_content[:name]}",
+    email_provider: "#{email_emoji_content[:emoji]};#{email_emoji_content[:matching_text]};#{email_emoji_content[:name]}",
+    antivirus: "#{av_emoji_content[:emoji]};#{av_emoji_content[:matching_text]};#{av_emoji_content[:name]}",
+    userchrome: "#{userchrome_emoji_content[:emoji]};#{userchrome_emoji_content[:matching_text]};#{userchrome_emoji_content[:name]}",
     tags: q['tags'],
     created: q['created']
   }
