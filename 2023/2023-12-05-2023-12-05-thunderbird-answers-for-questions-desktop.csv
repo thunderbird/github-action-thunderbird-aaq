@@ -45,3 +45,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1622281,1433067,2023-12-05 13:39:54 -0800,2023-12-05 13:39:54 -0800,<p>It may help if you post screenshots of both accounts' SMTP server panes. </p>,davidsk,false,0,0
 1622292,1433067,2023-12-05 14:47:04 -0800,2023-12-05 14:47:04 -0800,"<p>See <a href=""https://support.mozilla.org/en-US/questions/1350593"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1350593</a> </p>",sfhowes,false,0,0
 1622287,1433070,2023-12-05 14:24:38 -0800,2023-12-05 14:24:38 -0800,<p>I suggest writing to the author of the addon. </p>,davidsk,false,0,0
+1622302,1433078,2023-12-05 15:26:27 -0800,2023-12-05 15:26:27 -0800,"<p>When I say showing in a funny order, since I 'repaired folder', dates on emails from a while ago have changed and are showing as today... (they all seem to be school emails though) </p>",jt20,false,0,0
