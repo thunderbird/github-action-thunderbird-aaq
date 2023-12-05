@@ -61,9 +61,9 @@ summary['av:unknown'] = 0
 summary['uc:unknown'] = 0
 
 TOPICS_EMOJI_ARRAY.each { |t| summary[t[:name]] = 0 }
-USERCHROME_EMOJI_ARRAY.each { |u| summary[u[:name]] = 0 }
+USERCHROME_EMOJI_ARRAY.each { |uc| summary[uc[:name]] = 0 }
 ANTIVIRUS_EMOJI_ARRAY.each { |av| summary[av[:name]] = 0 }
-EMAIL_EMOJI_ARRAY.each { |e| summary[e[:name]] = 0 }
+EMAIL_EMOJI_ARRAY.each { |m| summary[m[:name]] = 0 }
 
 all_questions.each do |q|
   q = q.to_h
