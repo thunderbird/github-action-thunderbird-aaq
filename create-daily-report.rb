@@ -70,7 +70,7 @@ logger.debug "LAST question id: #{all_questions[-1]['id']}"
 FileUtils.mkdir_p REPORTS_PATH
 output_markdown = []
 output_markdown.push(
-  "|id      | content                                                                    |[O](## 'Operating System')|[T](## 'Topic')|[E](## 'Email Provider')|[A](## 'Antivirus')|[U](## 'User Chrome or other unsupported mod') |[Tags](## 'All Tags')|"
+  "|id      | content                                                                    |[O](## 'Operating System')|[T](## 'Topic')|[M](## 'Email Provider')|[A](## 'Antivirus')|[U](## 'User Chrome or other unsupported mod') |[Tags](## 'All Tags')|"
 )
 output_markdown.push(
   '|--------|----------------------------------------------------------------------------|---|-------|----------------|-----------|------------|----|'
