@@ -1,6 +1,13 @@
 # github-action-thunderbird-aaq
 github action to get all the Thunderbird SUMO forum questions aka Ask a Question or AAQ
 
+### 2023-12-05 get daily regular expression summaries
+```bash
+./get_regular_expression_matches_for_n_days_starting.rb 2023 4 1 247
+./get_daily-summary-csv-for-n-days-starting.rb 2023 4 1 247
+cd 2023
+mlr --csv cat 2023*-thunderbird-daily*.csv >2023-thunderbird-daily-regex-summmary.csv
+```
 ### 2023-08-15 concat all the questions and answers from July 11-August 15, 2023 i.e. from start of TB115 release and then search them
 ```bash
 ./concatenate-multiple-sumo-question-or-answer-files.rb 2023 7 11 2023 8 15 questions
