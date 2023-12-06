@@ -76,11 +76,11 @@ output_markdown.push(
   '|--------|----------------------------------------------------------------------------|---|-------|----------------|-----------|------------|----|'
 )
 
-all_questions.each do |q|
+all_questions.each.with_index(1) do |q,i|
   q = q.to_h
   logger.debug "question: #{q.ai}"
   id = q[:id]
-  markdown_str = "|[#{id}](https://support.mozilla.org/questions/#{id} '#{q[:created]}')"
+  markdown_str = "|#{i}: [#{id}](https://support.mozilla.org/questions/#{id} '#{q[:created]}')"
   # markdown_str += "|#{q[:date]}"
   content = q[:content_1st160chars].gsub('|', '\|')
   content = content.gsub('[', '\[')
