@@ -22,10 +22,10 @@ def format_tags(tags_string_with_semicolons)
 end
 
 def format_emoji(emoji_with_semicolon)
-  if emoji_with_semicolon == '❓;'
+  if emoji_with_semicolon[0] == '❓'
     "[❓](## 'Troubleshooting details missing :-)')"
   else
-    "[#{emoji_with_semicolon[0]}](## '#{emoji_with_semicolon[2..]}')"
+    "[#{emoji_with_semicolon[0]}](## '#{emoji_with_semicolon.split(';').last}')"
   end
 end
 logger = Logger.new($stderr)
