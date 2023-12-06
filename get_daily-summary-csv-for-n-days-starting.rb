@@ -1,0 +1,34 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'bundler/setup'
+require 'amazing_print'
+require 'time'
+require 'date'
+require 'logger'
+require 'pry'
+
+def get_daily_summary_for_yyyymmdd(y, m, d)
+  regex_str = './create-daily-summary-csv.rb '
+  regex_str += "#{y} #{m} #{d} #{y} #{m} #{d}"
+  warn "regex_str: #{regex_str}"
+  system(regex_str)
+end
+
+if ARGV.length < 4 || ARGV[3].to_i < 1
+  puts "usage: #{$PROGRAM_NAME} yyyy mm dd num_days"
+  exit
+end
+
+YYYY = ARGV[0].to_i
+MM = ARGV[1].to_i
+DD = ARGV[2].to_i
+NUM_DAYS = ARGV[3].to_i
+
+current_date = Time.gm(YYYY, MM, DD).to_date
+(NUM_DAYS + 1).times do
+  y = current_date.year
+  m = current_date.month
+  d = current_date.day
+  get_daily_summary_for_yyyymmdd(y, m, d)
+  current_date += 1
+end
