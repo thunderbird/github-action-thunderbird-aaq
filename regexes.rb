@@ -90,7 +90,7 @@ ANTIVIRUS_EMOJI_ARRAY = [
     name: 'av:comodo'
   },
   {
-    regex: /(eset|nod32)/i,
+    regex: /( eset |nod32)/i,
     emoji: ESET_EMOJI,
     name: 'av:eset'
   },
