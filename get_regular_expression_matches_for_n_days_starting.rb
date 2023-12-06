@@ -8,12 +8,10 @@ require 'logger'
 require 'pry'
 
 def update_regex_matches_for_yyyymmdd(y, m, d)
-  Dir.chdir(y.to_s) do
-    regex_str = '../get-regular-expression-matches.rb '
-    regex_str += "#{y} #{m} #{d} #{y} #{m} #{d}"
-    warn "regex_str: #{regex_str}"
-    system(regex_str)
-  end
+  regex_str = './get-regular-expression-matches.rb '
+  regex_str += "#{y} #{m} #{d} #{y} #{m} #{d}"
+  warn "regex_str: #{regex_str}"
+  system(regex_str)
 end
 
 if ARGV.length < 4 || ARGV[3].to_i < 1
