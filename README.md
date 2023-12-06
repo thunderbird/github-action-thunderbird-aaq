@@ -7,7 +7,7 @@ github action to get all the Thunderbird SUMO forum questions aka Ask a Question
 ./get_daily-summary-csv-for-n-days-starting.rb 2023 4 1 247
 cd 2023
 mlr --csv cat 2023*-thunderbird-daily*.csv >2023-thunderbird-daily-regex-summmary.csv
-csvs-to-sqlite 2023-thunderbird-daily-regex-summmary.csv -dt date ../SQLITE/2023-thunderbird-daily-regex-summmary.db 
+csvs-to-sqlite 2023-thunderbird-daily-regex-summmary.csv -dt date ../SQLITE/2023-thunderbird-daily-regex-summary.db 
 ```
 ### 2023-08-15 concat all the questions and answers from July 11-August 15, 2023 i.e. from start of TB115 release and then search them
 ```bash
