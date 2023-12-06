@@ -81,7 +81,7 @@ all_questions.each.with_index(1) do |q, i|
   logger.debug "question: #{q.ai}"
   id = q[:id]
   question_link_str = "https://support.mozilla.org/questions/#{id}"
-  index = format('%3.3d', i)
+  index = format('%3d', i)
   markdown_str = "|#{index}: [#{id}](#{question_link_str} '#{q[:created]}')"
   # markdown_str += "|#{q[:date]}"
   content = q[:content_1st160chars].gsub('|', '\|')
