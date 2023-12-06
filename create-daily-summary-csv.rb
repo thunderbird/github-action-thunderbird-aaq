@@ -46,8 +46,11 @@ end
 logger.debug "first question id: #{all_questions[0]['id']}"
 logger.debug "LAST question id: #{all_questions[-1]['id']}"
 summary = {}
+
+num_questions = all_questions.length
 summary[:date] = DATE_STR
-summary['os:win'] = 0 # initialize it here to make it the second column
+summary[:num_questions] = num_questions
+summary['os:win'] = 0 # initialize it here to make it the 3rd column
 summary['os:win7'] = 0
 summary['os:win8'] = 0
 summary['os:win10'] = 0
