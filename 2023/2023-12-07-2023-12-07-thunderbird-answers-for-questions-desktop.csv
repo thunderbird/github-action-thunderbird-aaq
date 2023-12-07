@@ -1,2 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1622576,1433200,2023-12-06 18:32:02 -0800,2023-12-06 18:32:02 -0800,"<p>I don't see a way to edit my question, but I've allowed third party access on the Xfinity website and checked to make sure that was still the same. </p>",cnyhyh4vsh,false,0,0
+1622585,1433200,2023-12-06 21:45:42 -0800,2023-12-06 21:45:42 -0800,"<p>Did you remove the old password for incoming and outgoing from Saved Passwords in Settings, restart TB, and enter the new password when prompted? </p>",sfhowes,false,0,0
+1622584,1433202,2023-12-06 21:41:49 -0800,2023-12-06 21:41:49 -0800,"<p>Do you mean the font of the text in message bodies?  Be specific, as there are ways to set the font of several elements, including the message list, folder pane, menus etc.  For message bodies, there is a straightforward method based on userContent.css, but some users might not call it 'simple'. </p>",sfhowes,false,0,0
