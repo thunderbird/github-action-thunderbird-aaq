@@ -69,12 +69,29 @@ logger.debug "LAST question id: #{all_questions[-1]['id']}"
 # Create directory if it doesn't exist
 FileUtils.mkdir_p REPORTS_PATH
 output_markdown = []
-output_markdown.push(
-  "|id           | content                                                                    |[O](## 'Operating System')|[T](## 'Topic')|[M](## 'Email Provider')|[A](## 'Antivirus')|[U](## 'User Chrome or other unsupported mod') |[Tags](## 'All Tags')|"
-)
-output_markdown.push(
-  '|-----------------|------------------------------------------------------------------------------------|---|-------|----------------|-----------|------------|----|'
-)
+ID_HEADER_LENGTH = '001: 1234567'.length
+ID_STR = 'id'.freeze
+NBSP_STR = '&nbsp;'.freeze
+DASH_STR = '-'
+id_header = "#{ID_STR}#{NBSP_STR * (ID_HEADER_LENGTH - ID_STR.length)}"
+header_string = "|#{id_header}"
+TITLE_HEADER_LENGTH = 80
+TITLE_STR = 'Title'.freeze
+title_header = "#{TITLE_STR}#{NBSP_STR * (TITLE_HEADER_LENGTH - TITLE_STR.length)}"
+header_string += "|#{title_header}"
+header_string += "|[O](## 'Operating System')|[T](## 'Topic')|[M](## 'Email Provider')|[A](## 'Antivirus')|[U](## 'User Chrome or other unsupported mod')|[Tags](## 'All Tags')|"
+output_markdown.push(header_string)
+EMOJI_HEADER_LENGTH = 3
+TAGS_HEADER_LENGTH = 40
+second_row_str =  "|#{DASH_STR * ID_HEADER_LENGTH}"
+second_row_str += "|#{DASH_STR * ID_HEADER_LENGTH}"
+second_row_str += "|#{DASH_STR * EMOJI_HEADER_LENGTH}" # OS
+second_row_str += "|#{DASH_STR * EMOJI_HEADER_LENGTH}" # TOPIC
+second_row_str += "|#{DASH_STR * EMOJI_HEADER_LENGTH}" # EMAIL PROVIDER
+second_row_str += "|#{DASH_STR * EMOJI_HEADER_LENGTH}" # ANTI VIRUS
+second_row_str += "|#{DASH_STR * EMOJI_HEADER_LENGTH}" # USERCHROME
+second_row_str += "|#{DASH_STR * TAGS_HEADER_LENGTH}|" # TAGS
+output_markdown.push(second_row_str)
 
 all_questions.each.with_index(1) do |q, i|
   q = q.to_h
