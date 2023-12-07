@@ -83,7 +83,7 @@ all_questions.each.with_index(1) do |q, i|
   question_link_str = "https://support.mozilla.org/questions/#{id}"
   index = format('%3d', i)
   index = index.gsub(' ', '&nbsp;')
-  markdown_str = "|#{index}:&nbsp;[#{id}](#{question_link_str}&nbsp;'#{q[:created]}')"
+  markdown_str = "|#{index}:&nbsp;[#{id}](#{question_link_str} '#{q[:created]}')"
   # markdown_str += "|#{q[:date]}"
   content = q[:content_1st160chars].gsub('|', '\|')
   content = content.gsub('[', '\[')
