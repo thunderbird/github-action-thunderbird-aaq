@@ -78,7 +78,7 @@ header_string = "|#{id_header}"
 TITLE_HEADER_LENGTH = 80
 TITLE_STR = 'Title'.freeze
 title_header = "#{TITLE_STR}#{NBSP_STR * ((TITLE_HEADER_LENGTH - TITLE_STR.length) + 1)}"
-header_string = "|#{title_header}"
+header_string += "|#{title_header}"
 header_string += "|[O](## 'Operating System')|[T](## 'Topic')|[M](## 'Email Provider')|[A](## 'Antivirus')|[U](## 'User Chrome or other unsupported mod')|[Tags](## 'All Tags')|"
 output_markdown.push(header_string)
 EMOJI_HEADER_LENGTH = 1
