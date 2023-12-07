@@ -73,7 +73,7 @@ output_markdown.push(
   "|id           | content                                                                    |[O](## 'Operating System')|[T](## 'Topic')|[M](## 'Email Provider')|[A](## 'Antivirus')|[U](## 'User Chrome or other unsupported mod') |[Tags](## 'All Tags')|"
 )
 output_markdown.push(
-  '|:-----------------:|------------------------------------------------------------------------------------|---|-------|----------------|-----------|------------|----|'
+  '|-----------------|------------------------------------------------------------------------------------|---|-------|----------------|-----------|------------|----|'
 )
 
 all_questions.each.with_index(1) do |q, i|
@@ -82,7 +82,8 @@ all_questions.each.with_index(1) do |q, i|
   id = q[:id]
   question_link_str = "https://support.mozilla.org/questions/#{id}"
   index = format('%3d', i)
-  markdown_str = "|#{index}: [#{id}](#{question_link_str} '#{q[:created]}')"
+  index = index.gsub(' ', '&nbsp;')
+  markdown_str = "|#{index}:&nbsp;[#{id}](#{question_link_str}&nbsp;'#{q[:created]}')"
   # markdown_str += "|#{q[:date]}"
   content = q[:content_1st160chars].gsub('|', '\|')
   content = content.gsub('[', '\[')
@@ -93,7 +94,7 @@ all_questions.each.with_index(1) do |q, i|
   # Tooltips in markdown: https://stackoverflow.com/questions/49332718/is-it-possible-to-create-a-tool-tip-info-tip-or-hint-in-github-markdown
   # [Hover your mouse here to see the tooltip](https://stackoverflow.com/a/71729464/11465149 "This is a tooltip :)")
   # it works! see https://gist.github.com/rtanglao/3ec86f7680e712f8152594a880338538
-  markdown_str += "|[#{truncated_content}](#{question_link_str} '#{content}')"
+  markdown_str += "|[#{truncated_content}](#{question_link_str}&nbsp;'#{content}')"
   markdown_str += "|#{format_emoji(q[:os])}"
   markdown_str += "|#{format_emoji(q[:topic])}"
   markdown_str += "|#{format_emoji(q[:email_provider])}"
