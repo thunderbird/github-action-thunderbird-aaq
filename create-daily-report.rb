@@ -81,7 +81,7 @@ title_header = "#{TITLE_STR}#{NBSP_STR * (TITLE_HEADER_LENGTH - TITLE_STR.length
 header_string += "|#{title_header}"
 header_string += "|[O](## 'Operating System')|[T](## 'Topic')|[M](## 'Email Provider')|[A](## 'Antivirus')|[U](## 'User Chrome or other unsupported mod')|[Tags](## 'All Tags')|"
 output_markdown.push(header_string)
-EMOJI_HEADER_LENGTH = 3
+EMOJI_HEADER_LENGTH = 1
 TAGS_HEADER_LENGTH = 40
 second_row_str =  "|#{DASH_STR * ID_HEADER_LENGTH}"
 second_row_str += "|#{DASH_STR * ID_HEADER_LENGTH}"
