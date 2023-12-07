@@ -72,12 +72,13 @@ output_markdown = []
 ID_HEADER_LENGTH = '001: 1234567'.length
 ID_STR = 'id'.freeze
 NBSP_STR = '&nbsp;'.freeze
-DASH_STR = '-'
+DASH_STR = '-'.freeze
 id_header = "#{ID_STR}#{NBSP_STR * (ID_HEADER_LENGTH - ID_STR.length)}"
 header_string = "|#{id_header}"
 TITLE_HEADER_LENGTH = 80
 TITLE_STR = 'Title'.freeze
-title_header = "#{TITLE_STR}#{NBSP_STR * ((TITLE_HEADER_LENGTH - TITLE_STR.length) + 25)}-"
+#title_header = "#{TITLE_STR}#{NBSP_STR * ((TITLE_HEADER_LENGTH - TITLE_STR.length) + 25)}-"
+title_header = "#{TITLE_STR}--#{NBSP_STR * ((TITLE_HEADER_LENGTH - TITLE_STR.length) + 0)}"
 header_string += "|#{title_header}"
 header_string += "|[O](## 'Operating System')|[T](## 'Topic')|[M](## 'Email Provider')|[A](## 'Antivirus')|[U](## 'User Chrome or other unsupported mod')|[Tags](## 'All Tags')|"
 output_markdown.push(header_string)
