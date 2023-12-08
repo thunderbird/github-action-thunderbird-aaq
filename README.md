@@ -2,10 +2,13 @@
 github action to get all the Thunderbird SUMO forum questions aka Ask a Question or AAQ
 
 ### No need for a script to combine CSV files! use mlr!
-
+tl;dr don't use concatenate-multiple-sumo-question-or-answer-files.rb :-)
 ```bash
 cd SQLITE
-mlr --csv sort -f id ../2023/*hunderbird-creator-answers-desktop-all-locales.csv > 2023-yearly-thunderbird-questions.csv
+mlr --csv sort -f id ../2023/*thunderbird-creator-answers-desktop-all-locales.csv \
+> 2023-yearly-thunderbird-questions.csv
+mlr --csv sort -f id ../2023/*thunderbird-answers-for-questions-desktop.csv \
+> 2023-yearly-thunderbird-answers.csv
 ```
 
 ### 2023-12-05 get daily regular expression summaries
