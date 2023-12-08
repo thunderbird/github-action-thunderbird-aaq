@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1622863,1433316,2023-12-07 23:57:39 -0800,2023-12-07 23:57:39 -0800,"<p>when I deleted a folder, it appears as a sub folder of trash.  Are you saying it is not there to simply move back where you want it? </p>",MattAuSupport,false,0,0
