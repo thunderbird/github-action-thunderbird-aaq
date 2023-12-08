@@ -77,10 +77,14 @@ id_header = "#{ID_STR}#{NBSP_STR * (ID_HEADER_LENGTH - ID_STR.length)}"
 header_string = "|#{id_header}"
 TITLE_HEADER_LENGTH = 80
 TITLE_STR = 'Title'.freeze
+## FIXME: I don't know why github doesn't use a proportional font hence the '24-'' kludge
 title_header = "#{TITLE_STR}#{NBSP_STR * ((TITLE_HEADER_LENGTH - TITLE_STR.length) + 24)}-"
 # title_header = "#{TITLE_STR}--#{NBSP_STR * ((TITLE_HEADER_LENGTH - TITLE_STR.length) + 0)}" <-- doesn't work
 header_string += "|#{title_header}"
-header_string += "|[O](## 'Operating System')|[T](## 'Topic')|[M](## 'Email Provider')|[A](## 'Antivirus')|[U](## 'User Chrome or other unsupported mod')|[Tags](## 'All Tags')|"
+header_string += "|[O](## 'Operating System')|[T](## 'Topic')"
+header_string += "|[M](## 'Email Provider')|[A](## 'Antivirus')"
+header_string += "|[U](## 'User Chrome or other unsupported mod')"
+header_string += "|[Tags](## 'All Tags')|"
 output_markdown.push(header_string)
 EMOJI_HEADER_LENGTH = 1
 TAGS_HEADER_LENGTH = 40
