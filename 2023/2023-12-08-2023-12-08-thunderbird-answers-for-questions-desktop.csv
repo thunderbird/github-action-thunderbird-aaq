@@ -1,2 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1622863,1433316,2023-12-07 23:57:39 -0800,2023-12-07 23:57:39 -0800,"<p>when I deleted a folder, it appears as a sub folder of trash.  Are you saying it is not there to simply move back where you want it? </p>",MattAuSupport,false,0,0
+1622924,1433337,2023-12-08 04:30:19 -0800,2023-12-08 04:30:19 -0800,<p>You could notify your email provider of the issue. This might also be the sender's problem if these error occur when sending to a large list of recipients. </p>,davidsk,false,0,0
+1622927,1433337,2023-12-08 04:35:22 -0800,2023-12-08 04:35:22 -0800,"<p>David - thanks for your thoughts, but when I contacted Talktalk, they suggested I contact Thunderbird.  The sender was sending only to me. </p>",colin.jannaway,false,0,0
