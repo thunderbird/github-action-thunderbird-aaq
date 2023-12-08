@@ -7,3 +7,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1622933,1433337,2023-12-08 04:44:34 -0800,2023-12-08 04:44:34 -0800,"<p>Unless any other suggestions are received, perhaps I need to go back to Talktalk, and hopefully get a different ""adviser"". </p>",colin.jannaway,false,0,0
 1622935,1433337,2023-12-08 04:55:50 -0800,2023-12-08 04:55:50 -0800,"<p>Yes, if there is web access to the message, tell them it's not coming there. Don't even mention Thunderbird. </p>",davidsk,false,0,0
 1622932,1433340,2023-12-08 04:42:42 -0800,2023-12-08 04:42:42 -0800,"<p>If you are receiving error messages, those may prove helpful. </p>",davidsk,false,0,0
+1622941,1433347,2023-12-08 05:57:57 -0800,2023-12-08 05:57:57 -0800,<p>Please provide full text of email error message. </p>,davidsk,false,0,0
+1622945,1433350,2023-12-08 06:23:04 -0800,2023-12-08 06:23:04 -0800,<p>We only provide support here on the forum. Please describe your problem and someone here will attempt to assist. Thank you. </p>,davidsk,false,0,0
+1622944,1433351,2023-12-08 06:14:49 -0800,2023-12-08 06:14:49 -0800,"<p>Be sure you have Thunderbird set to allow cookies at settings&gt;privacy&amp;security when attempting to set up account, omit the password. That often works. </p>",davidsk,false,0,0
