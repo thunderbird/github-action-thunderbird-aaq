@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1623072,1433409,2023-12-08 17:56:39 -0800,2023-12-08 17:56:39 -0800,"<p>Sounds like you are crashing.  Please post some of your recent crash IDs here.  Instructions at <a href=""https://support.mozilla.org/en-US/kb/mozilla-crash-reporter-tb"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/mozilla-crash-reporter-tb</a> </p>",wsmwk,false,0,0
