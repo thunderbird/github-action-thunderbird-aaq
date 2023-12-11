@@ -98,6 +98,9 @@ THIS_WEEK_SPARKLINE_FILENAME = "sparklines/#{six_days_ago_str}-#{TODAY_STR}-thun
 LAST_WEEK_SPARKLINE_FILENAME = "sparklines/#{thirteen_days_ago_str}-#{seven_days_ago_str}-thunderbird_questions-thunderbird-sparkline.png".freeze # hardcoding fixme
 
 logger.debug ("sparkline path: #{SPARKLINE_PATH}")
+logger.debug("THIS_WEEK_SPARKLINE_FILENAME: #{THIS_WEEK_SPARKLINE_FILENAME}")
+logger.debug("LAST_WEEK_SPARKLINE_FILENAME: #{LAST_WEEK_SPARKLINE_FILENAME}")
+
 binding.pry
 Dir.chdir(SPARKLINE_PATH) do
   output_markdown.push('### THIS WEEK')
