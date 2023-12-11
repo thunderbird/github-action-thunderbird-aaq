@@ -42,6 +42,8 @@ DD = ARGV[2].to_i
 
 # hardcoding fixme:
 DATE_STR = format('%<y>4.4d-%<m>2.2d-%<d>2.2d', y: YYYY, m: MM, d: DD).freeze
+today = Date.new(YYYY, MM, DD)
+yesterday = today - 1
 INPUT_FILENAME = "#{DATE_STR}-thunderbird-regex-matches.csv".freeze # hardcoding fixme
 OUTPUT_FILENAME = "#{DATE_STR}-thunderbird-daily-question-report.md".freeze # hardcoding fixme
 REPORTS_PATH = "#{YYYY}/reports".freeze
@@ -73,7 +75,7 @@ logger.debug "LAST question id: #{all_questions[-1]['id']}"
 FileUtils.mkdir_p REPORTS_PATH
 output_markdown = []
 output_markdown.push "**generated**: #{Time.now.strftime('%c %z')} "
-output_markdown.push "## TODAY: #{DATE_STR}, compared to yesterday: #{yesterday_str}, (UTC)"
+output_markdown.push "## TODAY: #{today.strftime('%a, %B %e, %Y')}, compared to yesterday: #{yesterday.strftime('%a, %B %e, %Y')}, (UTC)"
 num_today = all_questions.length
 num_yesterday = all_daily_summaries.find { |s| s[:date].to_date.to_s == yesterday_str }[:num_questions].to_f
 percent_change = (((num_today - num_yesterday) / 100) * 100).round(1)
