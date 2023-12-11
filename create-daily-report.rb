@@ -57,7 +57,7 @@ logger.debug "LAST week: 13 days ago: #{thirteen_days_ago} UNTIL seven days_ago:
 
 INPUT_FILENAME = "#{TODAY_STR}-thunderbird-regex-matches.csv".freeze # hardcoding fixme
 OUTPUT_FILENAME = "#{TODAY_STR}-thunderbird-daily-question-report.md".freeze # hardcoding fixme
-REPORTS_PATH = "#{YYYY}/reports".freeze
+REPORTS_PATH = "#{YYYY}/reports/sparklines".freeze
 
 logger.debug("INPUT_FILENAME: #{INPUT_FILENAME}")
 logger.debug("OUTPUT_FILENAME: #{OUTPUT_FILENAME}")
