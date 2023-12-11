@@ -88,7 +88,7 @@ num_today = all_questions.length
 num_yesterday = all_daily_summaries.find { |s| s[:date].to_date.to_s == yesterday_str }[:num_questions].to_f
 percent_change = (((num_today - num_yesterday) / 100) * 100).round(1)
 output_markdown.push "Yesterday: #{num_yesterday} Today: #{num_today} %change: #{percent_change} "
-output_markdown.push "## THIS WEEK: #{today.strftime('%a, %B %e, %Y')}, compared to LASTWEEK: #{yesterday.strftime('%a, %B %e, %Y')}, (UTC)"
+output_markdown.push "## THIS WEEK: #{six_days_ago.strftime('%a, %B %e, %Y')}-#{today.strftime('%a, %B %e, %Y')}, compared to LASTWEEK: #{thirteen_days_ago.strftime('%B %e, %Y')}-#{seven_days_ago.strftime('%B %e, %Y')}"
 output_markdown.push '## Details'
 ID_HEADER_LENGTH = '001: 1234567'.length
 ID_STR = 'id'.freeze
