@@ -32,13 +32,13 @@ DATE1_STR = format('%<y>4.4d-%<m>2.2d-%<d>2.2d', y: YYYY1, m: MM1, d: DD1).freez
 DATE2_STR = format('%<y>4.4d-%<m>2.2d-%<d>2.2d', y: YYYY2, m: MM2, d: DD2).freeze
 
 INPUT_FILENAME = 'ALLTIME/alltime-thunderbird-daily-summary.csv'.freeze # hardcoding fixme
-OUTPUT_FILENAME = "#{DATE1_STR}-#{DATE2_STR}-#[metric}-thunderbird-sparkline.png".freeze # hardcoding fixme
+OUTPUT_FILENAME = "#{DATE1_STR}-#{DATE2_STR}-#{metric}-thunderbird-sparkline.png".freeze # hardcoding fixme
 SPARKLINE_PATH = "#{YYYY1}/reports/sparklines".freeze
 
 logger.debug("INPUT_FILENAME: #{INPUT_FILENAME}")
 logger.debug("OUTPUT_FILENAME: #{OUTPUT_FILENAME}")
 
-all_daily_summaries = CSV.table('ALLTIME/alltime-thunderbird-daily-summary.csv', converters: :all)
+all_daily_summaries = CSV.table('ALLTIME/alltime-thunderbird-daily-summary.csv', headers: true)
 start_date = Date.new(YYYY1, MM1, DD1)
 end_date = Date.new(YYYY2, MM2, DD2)
 # https://stackoverflow.com/questions/19280341/create-directory-if-it-doesnt-exist-with-ruby
@@ -47,7 +47,8 @@ FileUtils.mkdir_p SPARKLINE_PATH
 metrics = []
 current_date = start_date
 while current_date <= end_date
-  metrics.push(all_daily_summaries.find { |s| s[:date].to_date.to_s == current_date.to_s }[metric_sym])
+  logger.debug "curent_date: #{current_date}"
+  metrics.push(all_daily_summaries.find { |s| s[:date] == current_date.to_s }[metric_sym].to_i)
   logger.debug "metric: #{metric}: #{metrics.last}"
   current_date += 1
 end
@@ -61,7 +62,8 @@ Dir.chdir(SPARKLINE_PATH) do
       has_max: true,
       has_last: true,
       height: 40,
-      step: 10
+      step: 10,
+      normalize: 'logarithmic'
     )
   end
 end
