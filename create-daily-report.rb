@@ -94,8 +94,8 @@ percent_change = (((num_today - num_yesterday) / 100) * 100).round(1)
 output_markdown.push "Yesterday: #{num_yesterday} Today: #{num_today} %change: #{percent_change} "
 output_markdown.push "## THIS WEEK: #{six_days_ago.strftime('%a, %B %e, %Y')}-#{today.strftime('%a, %B %e, %Y')}, compared to LAST WEEK: #{thirteen_days_ago.strftime('%B %e, %Y')}-#{seven_days_ago.strftime('%B %e, %Y')}"
 
-THIS_WEEK_SPARKLINE_FILENAME = "sparklines/#{six_days_ago_str}-#{TODAY_STR}-thunderbird_questions-thunderbird-sparkline.png".freeze # hardcoding fixme
-LAST_WEEK_SPARKLINE_FILENAME = "sparklines/#{thirteen_days_ago_str}-#{seven_days_ago_str}-thunderbird_questions-thunderbird-sparkline.png".freeze # hardcoding fixme
+THIS_WEEK_SPARKLINE_FILENAME = "sparklines/#{six_days_ago_str}-#{TODAY_STR}-num_questions-thunderbird-sparkline.png".freeze # hardcoding fixme
+LAST_WEEK_SPARKLINE_FILENAME = "sparklines/#{thirteen_days_ago_str}-#{seven_days_ago_str}-num_questions-thunderbird-sparkline.png".freeze # hardcoding fixme
 
 logger.debug("sparkline path: #{SPARKLINE_PATH}")
 logger.debug("THIS_WEEK_SPARKLINE_FILENAME: #{THIS_WEEK_SPARKLINE_FILENAME}")

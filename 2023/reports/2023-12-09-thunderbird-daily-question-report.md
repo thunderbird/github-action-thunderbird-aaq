@@ -1,12 +1,12 @@
-**generated**: Mon Dec 11 15:11:57 2023 -0800 
+**generated**: Mon Dec 11 15:15:25 2023 -0800 
 ## TODAY: Sat, December  9, 2023, compared to yesterday: Fri, December  8, 2023, (UTC)
 ### Questions
 Yesterday: 36.0 Today: 22 %change: -14.0 
 ## THIS WEEK: Sun, December  3, 2023-Sat, December  9, 2023, compared to LAST WEEK: November 26, 2023-December  2, 2023
 ### THIS WEEK
-![This week](sparklines/2023-12-03-2023-12-09-thunderbird_questions-thunderbird-sparkline.png 'sparklines/2023-12-03-2023-12-09-thunderbird_questions-thunderbird-sparkline.png')
+![This week](sparklines/2023-12-03-2023-12-09-num_questions-thunderbird-sparkline.png 'sparklines/2023-12-03-2023-12-09-num_questions-thunderbird-sparkline.png')
 ### LAST WEEK
-![Last week](sparklines/2023-11-26-2023-12-02-thunderbird_questions-thunderbird-sparkline.png 'sparklines/2023-11-26-2023-12-02-thunderbird_questions-thunderbird-sparkline.png')
+![Last week](sparklines/2023-11-26-2023-12-02-num_questions-thunderbird-sparkline.png 'sparklines/2023-11-26-2023-12-02-num_questions-thunderbird-sparkline.png')
 ## Details
 |id&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[O](## 'Operating System')|[T](## 'Topic')|[M](## 'Email Provider')|[A](## 'Antivirus')|[U](## 'User Chrome or other unsupported mod')|[Tags](## 'All Tags')|
 |------------|--------------------------------------------------------------------------------|-|-|-|-|-|----------------------------------------|
