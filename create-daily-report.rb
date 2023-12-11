@@ -47,8 +47,8 @@ yesterday = today - 1
 six_days_ago = today - 6
 seven_days_ago = today - 7
 thirteen_days_ago = seven_days_ago - 6
-logger.debug "THIS week: six days_ago:#{six_days_ago} until today: #{today}"
-logger.debug "LAST week: seven days_ago:#{seven_days_ago} until 13 days ago: #{thirteen_days_ago}"
+logger.debug "THIS week: six days_ago:#{six_days_ago} UNTIL today: #{today}"
+logger.debug "LAST week: 13 days ago: #{thirteen_days_ago} UNTIL seven days_ago:#{seven_days_ago}"
 binding.pry
 
 INPUT_FILENAME = "#{DATE_STR}-thunderbird-regex-matches.csv".freeze # hardcoding fixme
