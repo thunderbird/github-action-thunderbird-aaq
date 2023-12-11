@@ -1,6 +1,11 @@
 # github-action-thunderbird-aaq
 github action to get all the Thunderbird SUMO forum questions aka Ask a Question or AAQ
 
+### 2023-12-11 bundle install if you change the Gemfile
+```bash
+# REMINDER :-) if you change the gemfile, bundle install!!!!!
+bundle install
+```
 ### 2023-12-10 get all time CSVs
 ```bash
 mlr --csv sort -f id ../2023/*-thunderbird-regex-matches.csv > alltime-thunderbird-regex-matches.csv
