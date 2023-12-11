@@ -1,6 +1,11 @@
 # github-action-thunderbird-aaq
 github action to get all the Thunderbird SUMO forum questions aka Ask a Question or AAQ
 
+### 2023-12-10 get all time CSVs
+```bash
+mlr --csv sort -f id ../2023/*-thunderbird-regex-matches.csv > alltime-thunderbird-regex-matches.csv
+mlr --csv sort -f date ../2023/*-thunderbird-daily-summary.csv > alltime-thunderbird-daily-summary.csv
+```
 ### No need for a script to combine CSV files! use mlr!
 tl;dr don't use concatenate-multiple-sumo-question-or-answer-files.rb :-)
 ```bash
