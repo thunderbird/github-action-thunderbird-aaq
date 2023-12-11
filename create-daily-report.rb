@@ -72,7 +72,8 @@ logger.debug "LAST question id: #{all_questions[-1]['id']}"
 # Create directory if it doesn't exist
 FileUtils.mkdir_p REPORTS_PATH
 output_markdown = []
-output_markdown.push '## Compared to yesterday'
+output_markdown.push "**generated**: #{Time.now.strftime('%c %z')} "
+output_markdown.push "## TODAY: #{DATE_STR}, compared to yesterday: #{yesterday_str}, (UTC)"
 num_today = all_questions.length
 num_yesterday = all_daily_summaries.find { |s| s[:date].to_date.to_s == yesterday_str }[:num_questions].to_f
 percent_change = (((num_today - num_yesterday) / 100) * 100).round(1)
