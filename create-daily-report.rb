@@ -40,19 +40,23 @@ YYYY = ARGV[0].to_i
 MM = ARGV[1].to_i
 DD = ARGV[2].to_i
 
+SPARKLINE_PATH = "#{YYYY}/reports/sparklines".freeze
 # hardcoding fixme:
-DATE_STR = format('%<y>4.4d-%<m>2.2d-%<d>2.2d', y: YYYY, m: MM, d: DD).freeze
+TODAY_STR = format('%<y>4.4d-%<m>2.2d-%<d>2.2d', y: YYYY, m: MM, d: DD).freeze
 today = Date.new(YYYY, MM, DD)
 yesterday = today - 1
 six_days_ago = today - 6
+six_days_ago_str = six_days_ago.strftime('%F')
 seven_days_ago = today - 7
+seven_days_ago_str = seven_days_ago.strftime('%F')
 thirteen_days_ago = seven_days_ago - 6
+thirteen_days_ago_str = thirteen_days_ago.strftime('%F')
+
 logger.debug "THIS week: six days_ago:#{six_days_ago} UNTIL today: #{today}"
 logger.debug "LAST week: 13 days ago: #{thirteen_days_ago} UNTIL seven days_ago:#{seven_days_ago}"
-binding.pry
 
-INPUT_FILENAME = "#{DATE_STR}-thunderbird-regex-matches.csv".freeze # hardcoding fixme
-OUTPUT_FILENAME = "#{DATE_STR}-thunderbird-daily-question-report.md".freeze # hardcoding fixme
+INPUT_FILENAME = "#{TODAY_STR}-thunderbird-regex-matches.csv".freeze # hardcoding fixme
+OUTPUT_FILENAME = "#{TODAY_STR}-thunderbird-daily-question-report.md".freeze # hardcoding fixme
 REPORTS_PATH = "#{YYYY}/reports".freeze
 
 logger.debug("INPUT_FILENAME: #{INPUT_FILENAME}")
@@ -88,7 +92,18 @@ num_today = all_questions.length
 num_yesterday = all_daily_summaries.find { |s| s[:date].to_date.to_s == yesterday_str }[:num_questions].to_f
 percent_change = (((num_today - num_yesterday) / 100) * 100).round(1)
 output_markdown.push "Yesterday: #{num_yesterday} Today: #{num_today} %change: #{percent_change} "
-output_markdown.push "## THIS WEEK: #{six_days_ago.strftime('%a, %B %e, %Y')}-#{today.strftime('%a, %B %e, %Y')}, compared to LASTWEEK: #{thirteen_days_ago.strftime('%B %e, %Y')}-#{seven_days_ago.strftime('%B %e, %Y')}"
+output_markdown.push "## THIS WEEK: #{six_days_ago.strftime('%a, %B %e, %Y')}-#{today.strftime('%a, %B %e, %Y')}, compared to LAST WEEK: #{thirteen_days_ago.strftime('%B %e, %Y')}-#{seven_days_ago.strftime('%B %e, %Y')}"
+
+THIS_WEEK_SPARKLINE_FILENAME = "#{six_days_ago_str}-#{TODAY_STR}-thunderbird_questions-thunderbird-sparkline.png".freeze # hardcoding fixme
+LAST_WEEK_SPARKLINE_FILENAME = "#{thirteen_days_ago_str}-#{seven_days_ago_str}-thunderbird_questions-thunderbird-sparkline.png".freeze # hardcoding fixme
+
+Dir.chdir(SPARKLINE_PATH) do
+  output_markdown.push('### THIS WEEK')
+  output_markdown.push("![This week](#{THIS_WEEK_SPARKLINE_FILENAME} '#{THIS_WEEK_SPARKLINE_FILENAME}')")
+  output_markdown.push('### LAST WEEK')
+  output_markdown.push("![Last week](#{LAST_WEEK_SPARKLINE_FILENAME} '#{LAST_WEEK_SPARKLINE_FILENAME}')")
+end
+
 output_markdown.push '## Details'
 ID_HEADER_LENGTH = '001: 1234567'.length
 ID_STR = 'id'.freeze
