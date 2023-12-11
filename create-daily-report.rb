@@ -57,7 +57,7 @@ logger.debug "LAST week: 13 days ago: #{thirteen_days_ago} UNTIL seven days_ago:
 
 INPUT_FILENAME = "#{TODAY_STR}-thunderbird-regex-matches.csv".freeze # hardcoding fixme
 OUTPUT_FILENAME = "#{TODAY_STR}-thunderbird-daily-question-report.md".freeze # hardcoding fixme
-REPORTS_PATH = "#{YYYY}/reports/sparklines".freeze
+REPORTS_PATH = "#{YYYY}/reports".freeze
 
 logger.debug("INPUT_FILENAME: #{INPUT_FILENAME}")
 logger.debug("OUTPUT_FILENAME: #{OUTPUT_FILENAME}")
@@ -97,17 +97,15 @@ output_markdown.push "## THIS WEEK: #{six_days_ago.strftime('%a, %B %e, %Y')}-#{
 THIS_WEEK_SPARKLINE_FILENAME = "sparklines/#{six_days_ago_str}-#{TODAY_STR}-thunderbird_questions-thunderbird-sparkline.png".freeze # hardcoding fixme
 LAST_WEEK_SPARKLINE_FILENAME = "sparklines/#{thirteen_days_ago_str}-#{seven_days_ago_str}-thunderbird_questions-thunderbird-sparkline.png".freeze # hardcoding fixme
 
-logger.debug ("sparkline path: #{SPARKLINE_PATH}")
+logger.debug("sparkline path: #{SPARKLINE_PATH}")
 logger.debug("THIS_WEEK_SPARKLINE_FILENAME: #{THIS_WEEK_SPARKLINE_FILENAME}")
 logger.debug("LAST_WEEK_SPARKLINE_FILENAME: #{LAST_WEEK_SPARKLINE_FILENAME}")
 
 binding.pry
-Dir.chdir(SPARKLINE_PATH) do
-  output_markdown.push('### THIS WEEK')
-  output_markdown.push("![This week](#{THIS_WEEK_SPARKLINE_FILENAME} '#{THIS_WEEK_SPARKLINE_FILENAME}')")
-  output_markdown.push('### LAST WEEK')
-  output_markdown.push("![Last week](#{LAST_WEEK_SPARKLINE_FILENAME} '#{LAST_WEEK_SPARKLINE_FILENAME}')")
-end
+output_markdown.push('### THIS WEEK')
+output_markdown.push("![This week](#{THIS_WEEK_SPARKLINE_FILENAME} '#{THIS_WEEK_SPARKLINE_FILENAME}')")
+output_markdown.push('### LAST WEEK')
+output_markdown.push("![Last week](#{LAST_WEEK_SPARKLINE_FILENAME} '#{LAST_WEEK_SPARKLINE_FILENAME}')")
 
 output_markdown.push '## Details'
 ID_HEADER_LENGTH = '001: 1234567'.length
