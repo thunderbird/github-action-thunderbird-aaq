@@ -44,6 +44,13 @@ DD = ARGV[2].to_i
 DATE_STR = format('%<y>4.4d-%<m>2.2d-%<d>2.2d', y: YYYY, m: MM, d: DD).freeze
 today = Date.new(YYYY, MM, DD)
 yesterday = today - 1
+six_days_ago = today - 6
+seven_days_ago = today - 7
+thirteen_days_ago = seven_days_ago - 6
+logger.debug "THIS week: six days_ago:#{six_days_ago} until today: #{today}"
+logger.debug "LAST week: seven days_ago:#{seven_days_ago} until 13 days ago: #{thirteen_days_ago}"
+binding.pry
+
 INPUT_FILENAME = "#{DATE_STR}-thunderbird-regex-matches.csv".freeze # hardcoding fixme
 OUTPUT_FILENAME = "#{DATE_STR}-thunderbird-daily-question-report.md".freeze # hardcoding fixme
 REPORTS_PATH = "#{YYYY}/reports".freeze
@@ -76,11 +83,12 @@ FileUtils.mkdir_p REPORTS_PATH
 output_markdown = []
 output_markdown.push "**generated**: #{Time.now.strftime('%c %z')} "
 output_markdown.push "## TODAY: #{today.strftime('%a, %B %e, %Y')}, compared to yesterday: #{yesterday.strftime('%a, %B %e, %Y')}, (UTC)"
+output_markdown.push '### Questions'
 num_today = all_questions.length
 num_yesterday = all_daily_summaries.find { |s| s[:date].to_date.to_s == yesterday_str }[:num_questions].to_f
 percent_change = (((num_today - num_yesterday) / 100) * 100).round(1)
 output_markdown.push "Yesterday: #{num_yesterday} Today: #{num_today} %change: #{percent_change} "
-
+output_markdown.push "## THIS WEEK: #{today.strftime('%a, %B %e, %Y')}, compared to LASTWEEK: #{yesterday.strftime('%a, %B %e, %Y')}, (UTC)"
 output_markdown.push '## Details'
 ID_HEADER_LENGTH = '001: 1234567'.length
 ID_STR = 'id'.freeze
