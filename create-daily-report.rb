@@ -62,7 +62,7 @@ Dir.chdir(YYYY.to_s) do
   all_questions = CSV.read(INPUT_FILENAME, headers: true, header_converters: :symbol)
 end
 
-all_daily_summaries = CSV.read('ALLTIME/alltime-thunderbird-daily-summary.csv')
+all_daily_summaries = CSV.table('ALLTIME/alltime-thunderbird-daily-summary.csv', converters: :all)
 yesterday_str = (Time.gm(YYYY, MM, DD).to_date - 1).to_s
 
 logger.debug "first question id: #{all_questions[0]['id']}"
@@ -74,7 +74,7 @@ FileUtils.mkdir_p REPORTS_PATH
 output_markdown = []
 output_markdown.push '## Compared to yesterday'
 num_today = all_questions.length
-num_yesterday = all_daily_summaries.find { |s| s[0] == yesterday_str }[1].to_f
+num_yesterday = all_daily_summaries.find { |s| s[:date].to_date.to_s == yesterday_str }[:num_questions].to_f.round(1)
 percent_change = ((num_today - num_yesterday) / 100.0) * 100.0
 output_markdown.push "Yesterday: Today: %change: #{percent_change} "
 
