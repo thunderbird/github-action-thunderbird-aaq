@@ -78,7 +78,7 @@ header_string = "|#{id_header}"
 TITLE_HEADER_LENGTH = 80
 TITLE_STR = 'Title'.freeze
 ## FIXME: I don't know why github doesn't use a proportional font hence the '24-'' kludge
-title_header = "#{TITLE_STR}#{NBSP_STR * ((TITLE_HEADER_LENGTH - TITLE_STR.length) + 24)}-"
+title_header = "#{TITLE_STR}#{NBSP_STR * ((TITLE_HEADER_LENGTH - TITLE_STR.length) + 25)}"
 # title_header = "#{TITLE_STR}--#{NBSP_STR * ((TITLE_HEADER_LENGTH - TITLE_STR.length) + 0)}" <-- doesn't work
 header_string += "|#{title_header}"
 header_string += "|[O](## 'Operating System')|[T](## 'Topic')"
