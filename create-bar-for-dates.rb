@@ -32,8 +32,8 @@ DATE1_STR = format('%<y>4.4d-%<m>2.2d-%<d>2.2d', y: YYYY1, m: MM1, d: DD1).freez
 DATE2_STR = format('%<y>4.4d-%<m>2.2d-%<d>2.2d', y: YYYY2, m: MM2, d: DD2).freeze
 
 INPUT_FILENAME = 'ALLTIME/alltime-thunderbird-daily-summary.csv'.freeze # hardcoding fixme
-OUTPUT_FILENAME = "#{DATE1_STR}-#{DATE2_STR}-#{metric}-thunderbird-sparkline.png".freeze # hardcoding fixme
-SPARKLINE_PATH = "#{YYYY1}/reports/sparklines".freeze
+OUTPUT_FILENAME = "#{DATE1_STR}-#{DATE2_STR}-#{metric}-thunderbird-barplot.png".freeze # hardcoding fixme
+BAR_PATH = "#{YYYY1}/reports/barplots".freeze
 
 logger.debug("INPUT_FILENAME: #{INPUT_FILENAME}")
 logger.debug("OUTPUT_FILENAME: #{OUTPUT_FILENAME}")
@@ -43,7 +43,7 @@ start_date = Date.new(YYYY1, MM1, DD1)
 end_date = Date.new(YYYY2, MM2, DD2)
 # https://stackoverflow.com/questions/19280341/create-directory-if-it-doesnt-exist-with-ruby
 # Create directory if it doesn't exist
-FileUtils.mkdir_p SPARKLINE_PATH
+FileUtils.mkdir_p BAR_PATH
 metrics = []
 current_date = start_date
 while current_date <= end_date
@@ -53,17 +53,12 @@ while current_date <= end_date
   current_date += 1
 end
 
-Dir.chdir(SPARKLINE_PATH) do
+Dir.chdir(BAR_PATH) do
   File.open(OUTPUT_FILENAME, 'wb') do |png|
     png << Spark.plot(
       metrics,
-      type: 'smooth',
-      has_min: true,
-      has_max: true,
-      has_last: true,
-      height: 40,
-      step: 10,
-      normalize: 'linear'
+      type: 'bar',
+      height: 40
     )
   end
 end
