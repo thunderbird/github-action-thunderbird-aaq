@@ -1,8 +1,8 @@
-**generated**: Mon Dec 11 14:05:22 2023 -0800 
+**generated**: Mon Dec 11 14:12:35 2023 -0800 
 ## TODAY: Sat, December  9, 2023, compared to yesterday: Fri, December  8, 2023, (UTC)
 ### Questions
 Yesterday: 36.0 Today: 22 %change: -14.0 
-## THIS WEEK: Sat, December  9, 2023, compared to LASTWEEK: Fri, December  8, 2023, (UTC)
+## THIS WEEK: Sun, December  3, 2023-Sat, December  9, 2023, compared to LASTWEEK: November 26, 2023-December  2, 2023
 ## Details
 |id&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[O](## 'Operating System')|[T](## 'Topic')|[M](## 'Email Provider')|[A](## 'Antivirus')|[U](## 'User Chrome or other unsupported mod')|[Tags](## 'All Tags')|
 |------------|--------------------------------------------------------------------------------|-|-|-|-|-|----------------------------------------|
