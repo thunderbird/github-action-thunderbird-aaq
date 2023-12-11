@@ -31,7 +31,7 @@ DATE1_STR = format('%<y>4.4d-%<m>2.2d-%<d>2.2d', y: YYYY1, m: MM1, d: DD1).freez
 DATE2_STR = format('%<y>4.4d-%<m>2.2d-%<d>2.2d', y: YYYY2, m: MM2, d: DD2).freeze
 
 INPUT_FILENAME = 'ALLTIME/alltime-thunderbird-daily-summary.csv'.freeze # hardcoding fixme
-OUTPUT_FILENAME = "#{DATE1_STR}-#{DATE2_STR}-#{metric}-thunderbird-sparkline.png".freeze # hardcoding fixme
+OUTPUT_FILENAME = "#{DATE1_STR}-#{DATE2_STR}-#{metric}-thunderbird-unicode-sparkline.png".freeze # hardcoding fixme
 SPARKLINE_PATH = "#{YYYY1}/reports/sparklines".freeze
 
 logger.debug("INPUT_FILENAME: #{INPUT_FILENAME}")
@@ -46,7 +46,7 @@ FileUtils.mkdir_p SPARKLINE_PATH
 metrics = []
 current_date = start_date
 while current_date <= end_date
-  logger.debug "curent_date: #{current_date}"
+  logger.debug "current_date: #{current_date}"
   metrics.push(all_daily_summaries.find { |s| s[:date] == current_date.to_s }[metric_sym].to_i)
   logger.debug "metric: #{metric}: #{metrics.last}"
   current_date += 1
