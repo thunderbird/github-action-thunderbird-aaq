@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1623687,1433664,2023-12-11 19:04:44 -0800,2023-12-11 19:04:44 -0800,"<p>Google <strong>pays Mozilla</strong>, for it's placement in the <strong>Firefox</strong> product. </p><p>Thunderbird is in a separate company from Firefox, has no such arrangement. </p>",wsmwk,false,0,0
+1623691,1433665,2023-12-11 19:51:51 -0800,2023-12-11 19:51:51 -0800,"<p>Fixed... For the record, if anyone else encounters something like this then it can be turned off from the menu bar via File &gt; Subscribed. </p>",gh108,false,0,0
