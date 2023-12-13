@@ -92,7 +92,11 @@ week1_average = week1_counts.sum { |day| day[:num_questions] }.to_f / week1_coun
 minmax = week1_counts.minmax { |day| -day[:num_questions] }
 week1_min = minmax[0][:num_questions]
 week1_max = minmax[1][:num_questions]
-binding.pry
+week2_counts = all_daily_summaries.select { |s| s[:date] >= thirteen_days_ago && s[:date] <= seven_days_ago }
+week2_average = week2_counts.sum { |day| day[:num_questions] }.to_f / week2_counts.size
+minmax = week2_counts.minmax { |day| -day[:num_questions] }
+week2_min = minmax[0][:num_questions]
+week2_max = minmax[1][:num_questions]
 num_yesterday = all_daily_summaries.find { |s| s[:date].to_date.to_s == yesterday_str }[:num_questions].to_f
 percent_change = (((num_today - num_yesterday) / 100) * 100).round(1)
 output_markdown.push "Yesterday: #{num_yesterday} Today: #{num_today} %change: #{percent_change} "
@@ -113,6 +117,7 @@ output_markdown.push("**min**: #{week1_min} **max**: #{week1_max} **avg**: #{wee
 output_markdown.push("![This week](#{THIS_WEEK_SPARKLINE_FILENAME} '#{THIS_WEEK_SPARKLINE_FILENAME}')")
 
 output_markdown.push('### LAST WEEK')
+output_markdown.push("**min**: #{week2_min} **max**: #{week2_max} **avg**: #{week2_average.round(1)}")
 output_markdown.push("![Last week](#{LAST_WEEK_SPARKLINE_FILENAME} '#{LAST_WEEK_SPARKLINE_FILENAME}')")
 
 output_markdown.push '## Details'

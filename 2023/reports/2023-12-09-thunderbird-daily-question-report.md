@@ -1,4 +1,4 @@
-**generated**: Tue Dec 12 22:35:36 2023 -0800 
+**generated**: Tue Dec 12 22:41:16 2023 -0800 
 ## TODAY: Sat, December  9, 2023, compared to yesterday: Fri, December  8, 2023, (UTC)
 ### Questions
 Yesterday: 36.0 Today: 22 %change: -14.0 
@@ -7,6 +7,7 @@ Yesterday: 36.0 Today: 22 %change: -14.0
 **min**: 22 **max**: 47 **avg**: 39.1
 ![This week](sparklines/2023-12-03-2023-12-09-num_questions-thunderbird-sparkline.png 'sparklines/2023-12-03-2023-12-09-num_questions-thunderbird-sparkline.png')
 ### LAST WEEK
+**min**: 37 **max**: 51 **avg**: 42.4
 ![Last week](sparklines/2023-11-26-2023-12-02-num_questions-thunderbird-sparkline.png 'sparklines/2023-11-26-2023-12-02-num_questions-thunderbird-sparkline.png')
 ## Details
 |id&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[O](## 'Operating System')|[T](## 'Topic')|[M](## 'Email Provider')|[A](## 'Antivirus')|[U](## 'User Chrome or other unsupported mod')|[Tags](## 'All Tags')|
