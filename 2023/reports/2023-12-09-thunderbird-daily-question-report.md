@@ -1,10 +1,10 @@
-**generated**: Tue Dec 12 22:18:09 2023 -0800 
+**generated**: Tue Dec 12 22:35:36 2023 -0800 
 ## TODAY: Sat, December  9, 2023, compared to yesterday: Fri, December  8, 2023, (UTC)
 ### Questions
 Yesterday: 36.0 Today: 22 %change: -14.0 
 ## THIS WEEK: Sun, December  3, 2023-Sat, December  9, 2023, compared to LAST WEEK: November 26, 2023-December  2, 2023
 ### THIS WEEK
-**min**: 47 **max**: 22 **avg**: 39.1
+**min**: 22 **max**: 47 **avg**: 39.1
 ![This week](sparklines/2023-12-03-2023-12-09-num_questions-thunderbird-sparkline.png 'sparklines/2023-12-03-2023-12-09-num_questions-thunderbird-sparkline.png')
 ### LAST WEEK
 ![Last week](sparklines/2023-11-26-2023-12-02-num_questions-thunderbird-sparkline.png 'sparklines/2023-11-26-2023-12-02-num_questions-thunderbird-sparkline.png')

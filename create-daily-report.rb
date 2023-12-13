@@ -89,7 +89,7 @@ output_markdown.push '### Questions'
 num_today = all_questions.length
 week1_counts = all_daily_summaries.select { |s| s[:date] >= six_days_ago && s[:date] <= today }
 week1_average = week1_counts.sum { |day| day[:num_questions] }.to_f / week1_counts.size
-minmax = week1_counts.minmax { |day| day[:num_questions] }
+minmax = week1_counts.minmax { |day| -day[:num_questions] }
 week1_min = minmax[0][:num_questions]
 week1_max = minmax[1][:num_questions]
 binding.pry
