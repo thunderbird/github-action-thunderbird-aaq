@@ -181,7 +181,7 @@ all_questions.each.with_index(1) do |q, i|
   logger.debug "markdown_str:#{markdown_str})"
   output_markdown.push(markdown_str)
 end
-output_markdown.push '/<details>'
+output_markdown.push '</details>'
 
 
 Dir.chdir(REPORTS_PATH) do
