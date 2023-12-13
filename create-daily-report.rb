@@ -121,7 +121,9 @@ output_markdown.push('### LAST WEEK')
 output_markdown.push("**min**: #{week2_min} **max**: #{week2_max} **avg**: #{week2_average.round(1)}")
 output_markdown.push("![Last week](#{LAST_WEEK_SPARKLINE_FILENAME} '#{LAST_WEEK_SPARKLINE_FILENAME}')")
 
-output_markdown.push '## Details'
+output_markdown.push '<details><summary>Click here for a detailed daily report</summary>'
+
+output_markdown.push '## Detailed'
 ID_HEADER_LENGTH = '001: 1234567'.length
 ID_STR = 'id'.freeze
 NBSP_STR = '&nbsp;'.freeze
@@ -179,6 +181,8 @@ all_questions.each.with_index(1) do |q, i|
   logger.debug "markdown_str:#{markdown_str})"
   output_markdown.push(markdown_str)
 end
+output_markdown.push '/<details>'
+
 
 Dir.chdir(REPORTS_PATH) do
   File.write(OUTPUT_FILENAME, output_markdown.join("\n"), mode: 'w')
