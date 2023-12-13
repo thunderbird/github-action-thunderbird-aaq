@@ -97,6 +97,7 @@ week2_average = week2_counts.sum { |day| day[:num_questions] }.to_f / week2_coun
 minmax = week2_counts.minmax { |day| -day[:num_questions] }
 week2_min = minmax[0][:num_questions]
 week2_max = minmax[1][:num_questions]
+# FIXME above ^^^ b.minmax_by{ |bb| bb[:count]}.map{ |bb| bb[:count]}
 num_yesterday = all_daily_summaries.find { |s| s[:date].to_date.to_s == yesterday_str }[:num_questions].to_f
 percent_change = (((num_today - num_yesterday) / 100) * 100).round(1)
 output_markdown.push "Yesterday: #{num_yesterday} Today: #{num_today} %change: #{percent_change} "
