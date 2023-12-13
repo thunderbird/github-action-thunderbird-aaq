@@ -1,4 +1,4 @@
-**generated**: Wed Dec 13 14:51:13 2023 -0800 
+**generated**: Wed Dec 13 14:57:31 2023 -0800 
 ## TODAY: Sat, December  9, 2023, compared to yesterday: Fri, December  8, 2023, (UTC)
 ### Questions
 Yesterday: 36.0 Today: 22 %change: -14.0 
@@ -9,8 +9,8 @@ Yesterday: 36.0 Today: 22 %change: -14.0
 ### LAST WEEK
 **min**: 37 **max**: 51 **avg**: 42.4
 ![Last week](sparklines/2023-11-26-2023-12-02-num_questions-thunderbird-sparkline.png 'sparklines/2023-11-26-2023-12-02-num_questions-thunderbird-sparkline.png')
-<details><summary>Click here for a detailed daily report</summary>
-## Detailed
+\n<details><summary>Click here for a detailed daily report</summary>\n
+## Detailed Report
 |id&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[O](## 'Operating System')|[T](## 'Topic')|[M](## 'Email Provider')|[A](## 'Antivirus')|[U](## 'User Chrome or other unsupported mod')|[Tags](## 'All Tags')|
 |------------|--------------------------------------------------------------------------------|-|-|-|-|-|----------------------------------------|
 |&nbsp;&nbsp;1:&nbsp;[1433405](https://support.mozilla.org/questions/1433405 '2023-12-08 16:16:02 -0800')|[Default page - account central - for thunderbird 115.5.1 I am using the current ](https://support.mozilla.org/questions/1433405 'Default page - account central - for thunderbird 115.5.1 I am using the current Thunderbird and when I have the email clients collapsed the page is a general on')|[❓](## 'Troubleshooting details missing :-)')|[🔩](## 't:customize')|[❓](## 'Troubleshooting details missing :-)')|[❓](## 'Troubleshooting details missing :-)')|[❓](## 'Troubleshooting details missing :-)')|[customize](https://support.mozilla.org/questions/thunderbird?tagged=customize&show=all)|
