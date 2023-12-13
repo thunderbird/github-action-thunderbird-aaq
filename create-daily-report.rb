@@ -64,9 +64,6 @@ logger.debug("OUTPUT_FILENAME: #{OUTPUT_FILENAME}")
 
 all_questions = []
 
-# regex row is:
-# id, os, topics, emailprovider, antivirus, userchrome
-# 192535, windows11, install, fastmail, norton, ?
 Dir.chdir(YYYY.to_s) do
   unless File.exist?(INPUT_FILENAME)
     logger.debug "#{YYYY}/#{INPUT_FILENAME} doesn't exist, so exiting."
@@ -86,9 +83,16 @@ logger.debug "LAST question id: #{all_questions[-1]['id']}"
 FileUtils.mkdir_p REPORTS_PATH
 output_markdown = []
 output_markdown.push "**generated**: #{Time.now.strftime('%c %z')} "
-output_markdown.push "## TODAY: #{today.strftime('%a, %B %e, %Y')}, compared to yesterday: #{yesterday.strftime('%a, %B %e, %Y')}, (UTC)"
+output_markdown.push "## TODAY: #{today.strftime('%a, %B %e, %Y')}, compared to yesterday: \
+#{yesterday.strftime('%a, %B %e, %Y')}, (UTC)"
 output_markdown.push '### Questions'
 num_today = all_questions.length
+week1_counts = all_daily_summaries.select { |s| s[:date] >= six_days_ago && s[:date] <= today }
+week1_average = week1_counts.sum { |day| day[:num_questions] }.to_f / week1_counts.size
+minmax = week1_counts.minmax { |day| day[:num_questions] }
+week1_min = minmax[0][:num_questions]
+week1_max = minmax[1][:num_questions]
+binding.pry
 num_yesterday = all_daily_summaries.find { |s| s[:date].to_date.to_s == yesterday_str }[:num_questions].to_f
 percent_change = (((num_today - num_yesterday) / 100) * 100).round(1)
 output_markdown.push "Yesterday: #{num_yesterday} Today: #{num_today} %change: #{percent_change} "
@@ -104,9 +108,10 @@ logger.debug("sparkline path: #{SPARKLINE_PATH}")
 logger.debug("THIS_WEEK_SPARKLINE_FILENAME: #{THIS_WEEK_SPARKLINE_FILENAME}")
 logger.debug("LAST_WEEK_SPARKLINE_FILENAME: #{LAST_WEEK_SPARKLINE_FILENAME}")
 
-binding.pry
 output_markdown.push('### THIS WEEK')
+output_markdown.push("**min**: #{week1_min} **max**: #{week1_max} **avg**: #{week1_average.round(1)}")
 output_markdown.push("![This week](#{THIS_WEEK_SPARKLINE_FILENAME} '#{THIS_WEEK_SPARKLINE_FILENAME}')")
+
 output_markdown.push('### LAST WEEK')
 output_markdown.push("![Last week](#{LAST_WEEK_SPARKLINE_FILENAME} '#{LAST_WEEK_SPARKLINE_FILENAME}')")
 
