@@ -121,7 +121,7 @@ output_markdown.push('### LAST WEEK')
 output_markdown.push("**min**: #{week2_min} **max**: #{week2_max} **avg**: #{week2_average.round(1)}")
 output_markdown.push("![Last week](#{LAST_WEEK_SPARKLINE_FILENAME} '#{LAST_WEEK_SPARKLINE_FILENAME}')")
 
-output_markdown.push '\n<details><summary>Click here for a detailed daily report</summary>\n'
+output_markdown.push "\n<details><summary>Click here for a detailed daily report</summary>\n"
 
 output_markdown.push '## Detailed Report'
 ID_HEADER_LENGTH = '001: 1234567'.length
