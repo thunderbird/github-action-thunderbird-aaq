@@ -29,4 +29,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1624669,1434142,2023-12-16 12:15:23 -0800,2023-12-16 12:15:23 -0800,"<p>There may be something more going on here. I am using a low-level laptop and my gmail account comes in very fast, too fast to measure. </p>",davidsk,false,0,0
 1624677,1434142,2023-12-16 12:45:22 -0800,2023-12-16 12:45:22 -0800,<p>Okay.. so do you have any ideas on what I can do to try and fix it? </p>,edaily940,false,0,0
 1624687,1434142,2023-12-16 13:21:59 -0800,2023-12-16 13:21:59 -0800,"<p>Since this is a network connection, there may be network problems that are interfering. Thunderbird is just the indicator, not the cause. </p>",davidsk,false,0,0
-1624686,1434146,2023-12-16 13:19:53 -0800,2023-12-16 13:19:53 -0800,"<p>A quick check indicates that the Dark Fox hasn't been updated since 2019. It doesn't appear to do what you want, but you can try it, if desired. Documentation doesn't appear to offer a switch capability. </p>",davidsk,false,0,0
+1624686,1434146,2023-12-16 13:19:53 -0800,2023-12-16 13:19:53 -0800,"<p>A quick check indicates that the Dark Fox hasn't been updated since 2019. It doesn't appear to do what you want, but you can try it, if desired. Documentation doesn't appear to offer a switch capability. </p>",davidsk,false,1,0
+1624702,1434146,2023-12-16 14:38:42 -0800,2023-12-16 14:38:42 -0800,<p>Thank you!!! </p>,bullishbob,false,0,0
+1624703,1434146,2023-12-16 14:39:11 -0800,2023-12-16 14:39:11 -0800,<p>I also checked solved..and gave it a thumbs up!!!! </p>,bullishbob,false,0,0
