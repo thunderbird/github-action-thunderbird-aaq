@@ -2,3 +2,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1625627,1434558,2023-12-20 21:21:45 -0800,2023-12-20 21:21:45 -0800,<p>This didn't happen with last week's version? </p>,wsmwk,false,0,0
 1625625,1434564,2023-12-20 21:18:47 -0800,2023-12-20 21:18:47 -0800,"<p>See this topic about grey, italic folders: <a href=""https://support.mozilla.org/en-US/questions/1371846"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1371846</a> </p>",sfhowes,false,0,0
 1625651,1434570,2023-12-21 00:23:21 -0800,2023-12-21 00:23:21 -0800,"<p>è un account IMAP o POP3? Accedi allo stesso account anche da altre postazioni (Browser, smartphone, app, etc.)? </p>",@next,false,0,0
+1625654,1434570,2023-12-21 00:32:27 -0800,2023-12-21 00:32:27 -0800,"<p>Pop 3 di Aruba , si accedo anche dal cellulare </p>",corrado.pantarelli,false,0,0
+1625655,1434570,2023-12-21 00:34:44 -0800,2023-12-21 00:34:44 -0800,<p>E' successo dopo la compattazione delle cartelle richiesta da thunderbird </p>,corrado.pantarelli,false,0,0
+1625656,1434570,2023-12-21 00:35:08 -0800,2023-12-21 00:35:08 -0800,"<p>Quindi sul cellulare le mail ci sono ancora? E se accedi dal sito di Aruba Mail, trovi i messaggi scomparsi? Inoltre, hai fatto dei backup di recente? </p>",@next,false,0,0
+1625657,1434570,2023-12-21 00:44:20 -0800,2023-12-21 00:44:20 -0800,"<p>Non ho fatto backup , si sulla webmail le vedo e sul cell anche </p>",corrado.pantarelli,false,0,0
