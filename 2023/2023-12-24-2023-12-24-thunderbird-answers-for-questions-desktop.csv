@@ -6,3 +6,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1626222,1434828,2023-12-24 03:04:41 -0800,2023-12-24 03:04:41 -0800,<p>laccaount di uscita è IMAP </p>,rmgovoni,false,0,0
 1626223,1434828,2023-12-24 03:07:07 -0800,2023-12-24 03:07:07 -0800,<p>IMAO  porta server 993 </p>,rmgovoni,false,0,0
 1626292,1434830,2023-12-24 13:07:21 -0800,2023-12-24 13:07:21 -0800,<p>Are you receiving error messages? Such as incorrect password? Please share more details. Thank you. </p>,davidsk,false,0,0
+1626301,1434861,2023-12-24 13:33:42 -0800,2023-12-24 13:33:42 -0800,<p>Hello there  We have read the message. We try to help. </p><p><br> Can you send me a screenshot of the message? </p><p><br> </p><p>Greetings Firefox volunteer. </p>,googlethunderbird,false,0,0
+1626303,1434861,2023-12-24 13:36:34 -0800,2023-12-24 13:36:34 -0800,"<p>Hello there </p><p><br> <a href=""https://support.mozilla.org/en-US/kb/how-do-i-create-screenshot-my-problem"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/how-do-i-create-screenshot-my-problem</a> </p><p><br> Greetings Firefox volunteer </p>",googlethunderbird,false,0,0
