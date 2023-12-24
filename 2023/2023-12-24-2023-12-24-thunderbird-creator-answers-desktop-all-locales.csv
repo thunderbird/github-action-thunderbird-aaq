@@ -1,0 +1,2 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1434817,2023-12-23 16:12:54 -0800,2023-12-23 16:12:54 -0800,Login fails when I open Thunderbird,"<p>I get this message when I open Thunderbird. ""Sending of password for user jhtimmons@embarqmail.com did not succeed. Mail server <a href=""http://pop.centurylink.net"" rel=""nofollow"">pop.centurylink.net</a> responded: service temporarily unavailable."" </p>",privacy-and-security_1;,thunderbird,privacy-and-security-settings,en-US,"",john.h.timmons.jr
