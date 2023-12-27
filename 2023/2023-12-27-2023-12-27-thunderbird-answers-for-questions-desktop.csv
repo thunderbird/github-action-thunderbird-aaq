@@ -16,4 +16,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1626844,1435061,2023-12-27 08:18:01 -0800,2023-12-27 08:18:01 -0800,<p>Hai verificato che non sia il tuo antivirus a rimuovere la mail e/o l'allegato? </p>,@next,false,0,0
 1626852,1435061,2023-12-27 08:35:38 -0800,2023-12-27 08:35:38 -0800,"<p>Lo sta facendo da 3 settimane circa, prima sono sempre andate bene e non ho cambiato niente sull'antivirus </p>",andrea83,false,0,0
 1626861,1435061,2023-12-27 09:05:05 -0800,2023-12-27 09:05:05 -0800,<p>L'antivirus cambia modo di funzionare ogni volta che lo aggiorni. Comunque controllare non ti costa nulla... </p>,@next,false,0,0
+1626867,1435061,2023-12-27 10:00:59 -0800,2023-12-27 10:00:59 -0800,"<p>L'antivirus non aveva lo scaan sulle mail, quindi non c'entra ... comunque ho risolto chiedendo su google </p>",andrea83,false,0,0
 1626863,1435066,2023-12-27 09:06:44 -0800,2023-12-27 09:06:44 -0800,"<p>Con così poche informazioni, non saprei che dirti... Hai dei backup? Sono ancora presenti nella webmail? Si tratta di account POP o IMAP? </p>",@next,false,0,0
