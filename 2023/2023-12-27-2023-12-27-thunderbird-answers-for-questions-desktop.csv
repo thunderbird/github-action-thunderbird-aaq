@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1626710,1435010,2023-12-26 17:22:49 -0800,2023-12-26 17:22:49 -0800,"<p>Is your authentication method set to oauth2.0.  Yahoo uses tokens under oath to authenticate,  not passwords unless you are using a web browser. </p>",MattAuSupport,false,0,0
