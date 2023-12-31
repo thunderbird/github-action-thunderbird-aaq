@@ -1,2 +1,3 @@
 id,created,updated,title,content,tags,product,topic,locale,answers,creator
-1435354,2023-12-30 17:10:22 -0800,2023-12-30 17:10:22 -0800,Setting Up Email Client,"<p>Setting up Thunderbird, and keeps coming up 'Incoming Server Already Exists'. Have Windows 7 64 bit and the latest Thunderbird. Worked alright on 32 bit version, but no luck with 64 bit. </p>",other;,thunderbird,other,en-US,"",skoot1
+1435354,2023-12-30 17:10:22 -0800,2023-12-30 17:58:54 -0800,Setting Up Email Client,"<p>Setting up Thunderbird, and keeps coming up 'Incoming Server Already Exists'. Have Windows 7 64 bit and the latest Thunderbird. Worked alright on 32 bit version, but no luck with 64 bit. </p>",other;,thunderbird,other,en-US,1627436;,skoot1
+1435358,2023-12-30 17:59:00 -0800,2023-12-30 18:11:31 -0800,forgot Thunderbird password,<p>provide method to change password without knowing previous password </p>,privacy-and-security_1;,thunderbird,privacy-and-security-settings,en-US,1627440;,Jerryser
