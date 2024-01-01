@@ -13,3 +13,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1627685,1435430,2024-01-01 10:17:31 -0800,2024-01-01 10:17:31 -0800,"<p>I checked the full contents of the message and the name 'Dan' appears nowhere. You stated that the display corrected itself, so all is well. Thank you. </p>",davidsk,false,0,0
 1627667,1435431,2024-01-01 07:14:07 -0800,2024-01-01 07:14:07 -0800,<p>Is the account IMAP or POP? </p>,davidsk,false,0,0
 1627687,1435443,2024-01-01 10:36:13 -0800,2024-01-01 10:36:13 -0800,<p>Restarting fixed this </p>,mozilla505,false,0,0
+1627701,1435454,2024-01-01 13:27:53 -0800,2024-01-01 13:27:53 -0800,"<p>You are asking a windows question. This URL gives some info:  <a href=""https://yoast.com/developer-blog/guide-mailto-links/"" rel=""nofollow"">https://yoast.com/developer-blog/guide-mailto-links/</a> </p>",davidsk,false,0,0
+1627703,1435462,2024-01-01 13:52:35 -0800,2024-01-01 13:52:35 -0800,<p>I apologize for my typos above; I am disabled and missed them. </p>,caroGlou9815,false,0,0
