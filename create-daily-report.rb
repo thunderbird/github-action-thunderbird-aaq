@@ -89,14 +89,9 @@ output_markdown.push '### Questions'
 num_today = all_questions.length
 week1_counts = all_daily_summaries.select { |s| s[:date] >= six_days_ago && s[:date] <= today }
 week1_average = week1_counts.sum { |day| day[:num_questions] }.to_f / week1_counts.size
-minmax = week1_counts.minmax { |day| -day[:num_questions] }
-week1_min = minmax[0][:num_questions]
-week1_max = minmax[1][:num_questions]
+week1_min, week1_max = week1_counts.minmax_by { |bb| bb[:num_questions]}.map{ |bb| bb[:num_questions] }
 week2_counts = all_daily_summaries.select { |s| s[:date] >= thirteen_days_ago && s[:date] <= seven_days_ago }
 week2_average = week2_counts.sum { |day| day[:num_questions] }.to_f / week2_counts.size
-# minmax = week2_counts.minmax { |day| -day[:num_questions] }
-# week2_min = minmax[0][:num_questions]
-# week2_max = minmax[1][:num_questions]
 week2_min, week2_max = week2_counts.minmax_by { |bb| bb[:num_questions]}.map{ |bb| bb[:num_questions] }
 # FIXME: above ^^^ b.minmax_by{ |bb| bb[:count]}.map{ |bb| bb[:count]}
 num_yesterday = all_daily_summaries.find { |s| s[:date].to_date.to_s == yesterday_str }[:num_questions].to_f
