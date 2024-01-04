@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1628213,1435677,2024-01-04 04:57:11 -0800,2024-01-04 04:57:11 -0800,"<p>This may be way off, but worth checking. You are using POP, and 'maybe' so is your phone. That is, if the phone receives mail via POP, it may be causing mail to be deleted from inbox, causing your computer to not receive messages. </p>",davidsk,false,0,1
+1628366,1435677,2024-01-04 15:44:27 -0800,2024-01-04 15:44:27 -0800,<p>Thanks David unfortunately that doesn't apply the phone is using IMAP </p>,homar231,false,0,0
 1628225,1435685,2024-01-04 06:37:06 -0800,2024-01-04 06:37:06 -0800,"<p>My guess is you are viewing the message list pane in 'card view.' If you see a 'quick filter' button just above the message list pane, there is an icon to its right. Click that and select 'table view', which will show a menu bar where you can select ascending or descending date order. You can then revert to card view if desired. </p>",davidsk,false,0,0
 1628295,1435685,2024-01-04 10:25:20 -0800,2024-01-04 10:25:20 -0800,<p>I am now unable to bring up that menu. And even when I previously could it wouldn't allow me to change the selections. </p>,petewalton,false,0,0
 1628311,1435685,2024-01-04 11:43:31 -0800,2024-01-04 11:43:31 -0800,<p>I am not sure what you mean by 'that menu.' </p>,davidsk,false,0,0
