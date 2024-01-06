@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1628572,1435881,2024-01-05 17:27:22 -0800,2024-01-05 17:27:22 -0800,"<p>Use the <a href=""https://addons.thunderbird.net/en-us/thunderbird/addon/folderflags/"" rel=""nofollow"">FolderFlags</a> add-on to check if the Inbox has mistakenly become identified as a Templates folder. </p><p><a href=""https://support.mozilla.org/en-US/questions/1414262"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1414262</a> </p>",sfhowes,false,0,0
