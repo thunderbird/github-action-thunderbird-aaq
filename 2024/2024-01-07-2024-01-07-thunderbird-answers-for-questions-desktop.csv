@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1628757,1435963,2024-01-06 20:00:23 -0800,2024-01-06 20:00:23 -0800,"<p>A followup... I cleared the ""startup cache"", Thunderbird restarted; and this time upon trying, it did the same thing as in the third paragraph above.   </p><p>The ""thing that went wrong"" is a Google screen that says:   </p> <hr> <p>400.  That's an error.   </p><p>The server cannot process the request because it is malformed.  It should not be retried.  That's all we know.   </p> <hr>",Vance32768,false,0,0
