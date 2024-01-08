@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1628976,1436034,2024-01-07 17:21:04 -0800,2024-01-07 17:21:04 -0800,"<p>Sent email does show up in earthlink's online mail account, </p>",brad.rose,false,0,0
 1628980,1436034,2024-01-07 17:33:42 -0800,2024-01-07 17:33:42 -0800,<p>Windows 11 Home Version	23H2 OS build	22631.2861 </p>,brad.rose,false,0,0
+1628989,1436040,2024-01-07 20:15:21 -0800,2024-01-07 20:15:21 -0800,<p>I can Recieve Emails but not send them </p>,morgaz,false,0,0
