@@ -19,7 +19,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1629364,1436208,2024-01-09 08:42:00 -0800,2024-01-09 08:42:00 -0800,"<p>Just something to check: If you start Thunderbird from a desktop icon, right-click to see if you had set a ""-p"" parameter that invokes profile manager. </p>",davidsk,false,0,0
 1629369,1436208,2024-01-09 08:52:07 -0800,2024-01-09 08:52:07 -0800,"<p>Thanks David. I don't know how the ""-p"" got there, but removing solved that minor problem </p>",doncodling,false,0,0
 1629370,1436208,2024-01-09 08:53:13 -0800,2024-01-09 08:53:13 -0800,<p>You are most welcome. </p>,davidsk,false,0,0
-1629342,1436214,2024-01-09 07:52:41 -0800,2024-01-09 07:52:41 -0800,<p>what is your full version number? </p>,wsmwk,false,0,0
+1629342,1436214,2024-01-09 07:52:41 -0800,2024-01-09 07:52:41 -0800,<p>what is your full version number? </p>,wsmwk,false,0,1
 1629368,1436214,2024-01-09 08:48:01 -0800,2024-01-09 14:56:42 -0800,"<p>Hi Wayne, it's 115.6.0 (64-bit), portable mode </p><p><a href=""https://we.tl/t-4JoR0kC5AK"" rel=""nofollow"">https://we.tl/t-4JoR0kC5AK</a> </p>",utente.extra,false,0,0
 1629372,1436214,2024-01-09 09:04:44 -0800,2024-01-09 09:04:44 -0800,"<p>Hi Wayne, it's 115.6.0 (64-bit), portable mode </p><p><a href=""https://we.tl/t-4JoR0kC5AK"" rel=""nofollow"">https://we.tl/t-4JoR0kC5AK</a> </p>",utente.extra,false,0,0
 1629362,1436215,2024-01-09 08:39:20 -0800,2024-01-09 08:39:20 -0800,"<p>Hai lo stesso problema in Modalità risoluzione dei problemi? -&gt; <a href=""https://support.mozilla.org/it/kb/modalita-risoluzione-problemi-thunderbird"" rel=""nofollow"">https://support.mozilla.org/it/kb/modalita-risoluzione-problemi-thunderbird</a> </p>",@next,false,0,0
