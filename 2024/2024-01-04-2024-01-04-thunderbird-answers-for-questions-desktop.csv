@@ -22,6 +22,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1629449,1435685,2024-01-09 13:06:22 -0800,2024-01-09 13:06:22 -0800,<p>How do I unlock the 'sort by' menu so that I can change the preferences? </p>,petewalton,false,0,0
 1629458,1435685,2024-01-09 13:23:32 -0800,2024-01-09 13:23:32 -0800,<p>When you click 'unthreaded' you're saying that threaded stays ticked? I've never seen that. </p>,davidsk,false,0,0
 1629466,1435685,2024-01-09 14:05:25 -0800,2024-01-09 14:05:25 -0800,"<p>Yes, I cannot change that. Also, I am unable to select 'from' as a choice. </p>",petewalton,false,0,0
+1629553,1435685,2024-01-09 23:29:28 -0800,2024-01-09 23:29:28 -0800,<p>Helpful discussion – thanks to all who joined this conversation. </p>,jhoneybairstow101,false,0,0
 1628211,1435686,2024-01-04 04:36:39 -0800,2024-01-04 04:36:39 -0800,<p>Do you have any addons that might do that? Or a filter? Thunderbird doesn't do that on its own. </p>,davidsk,false,0,1
 1628301,1435686,2024-01-04 10:55:51 -0800,2024-01-04 10:55:51 -0800,"<p>No add-ons.  This behavior  began after I upgraded to 115.6.0.  Look at the web page for 'welcome to 115.6.0'.  There is a 'fixed' on this subject.  <a href=""https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/"" rel=""nofollow"">https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/</a> Dave </p>",djn,false,0,0
 1628315,1435686,2024-01-04 11:47:34 -0800,2024-01-04 11:47:34 -0800,<p>I don't see anything in that URL that addresses your issue. What am I missing? </p>,davidsk,false,0,0
