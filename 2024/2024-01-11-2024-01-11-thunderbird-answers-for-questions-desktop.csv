@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1629814,1436367,2024-01-10 18:45:33 -0800,2024-01-10 18:45:59 -0800,"<p>Oh wow...apparently POP does not download ""SENT"" / ""Sent Items"" folder on Thunderbird, as per <a href=""https://www.reddit.com/r/Thunderbird/comments/14x1oei/syncing_the_sent_folder_using_pop3_an_issue_both/"" rel=""nofollow"">here</a>.... </p>",jsid001,true,0,0
