@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1629312,1435572,2024-01-09 05:19:09 -0800,2024-01-09 05:19:09 -0800,<p>How many accounts do you have? Imap or pop? </p>,wsmwk,false,0,0
+1630001,1435572,2024-01-11 19:28:56 -0800,2024-01-11 19:28:56 -0800,<p>I have two currently and I am considering whether to add a third. One account uses POP and the second one uses IMAP. </p>,hepgugl56,false,0,0
 1627965,1435579,2024-01-02 22:37:49 -0800,2024-01-02 22:37:49 -0800,"<p>Never Mind. I found a solution. The Address Book still was intact. So, I tried another solution I found online: Recreate the accounts, and then in the server settings of the email account, change the folder to redirect to the old mailbox in the mail folder. I did have to reconfigure all add-ons. </p>",manu7,false,0,0
 1628307,1435587,2024-01-04 11:15:49 -0800,2024-01-04 11:15:49 -0800,"<p>Now, 2 days later, those previously lost emails mysteriously appeared in my Thunderbird 2023 Archived emails.  Problem resolved!!! </p>",drc4,false,0,0
 1627969,1435589,2024-01-02 23:52:04 -0800,2024-01-02 23:52:04 -0800,<p>Da dove hai scaricato Thunderbird Portable? </p>,@next,false,0,0
