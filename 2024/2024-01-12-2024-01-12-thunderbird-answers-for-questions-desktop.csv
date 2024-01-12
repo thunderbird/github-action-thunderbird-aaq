@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1630010,1436469,2024-01-11 22:00:41 -0800,2024-01-11 22:00:41 -0800,"<p>The authentication method should be OAuth2. </p><p><a href=""https://support.mozilla.org/en-US/questions/1417298#answer-1588949"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1417298#answer-1588949</a> </p>",sfhowes,false,0,0
