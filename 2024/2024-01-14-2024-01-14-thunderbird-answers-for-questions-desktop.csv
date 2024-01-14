@@ -11,6 +11,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1630509,1436676,2024-01-14 07:46:58 -0800,2024-01-14 07:46:58 -0800,<p>But surely any posts go to whichever folder TB puts them in. This particular email does not appear to be in any. </p>,r101gtx,false,0,0
 1630510,1436676,2024-01-14 07:48:54 -0800,2024-01-14 07:48:54 -0800,<p>Your statement contradicts the reality you posted. The message isn't there. Did you check online and identify where the message is filed? </p>,davidsk,false,0,0
 1630527,1436676,2024-01-14 08:57:37 -0800,2024-01-14 08:57:37 -0800,<p>OK Sorted now. Thanks David. </p>,r101gtx,false,0,0
+1630533,1436676,2024-01-14 09:34:56 -0800,2024-01-14 09:34:56 -0800,<p>Great! I'm glad you worked it out.&nbsp;:) </p>,davidsk,false,0,0
 1630489,1436679,2024-01-14 04:38:14 -0800,2024-01-14 04:38:14 -0800,<p>A simple way would be - delete the folder at c:\users\l&lt;yourid&gt;\appdata\roaming\thunderbird - reinstall thunderbird </p>,davidsk,false,1,0
 1630492,1436679,2024-01-14 05:01:27 -0800,2024-01-14 05:01:27 -0800,<p>Thank you David.  That worked. </p>,olivermoffatt,false,0,0
 1630497,1436679,2024-01-14 06:04:25 -0800,2024-01-14 06:04:25 -0800,<p>Kewl!  You're welcome. </p>,davidsk,false,0,0
