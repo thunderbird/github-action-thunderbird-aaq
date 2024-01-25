@@ -18,3 +18,8 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1632935,1437734,2024-01-25 06:55:27 -0800,2024-01-25 06:55:27 -0800,"<p>First, I do not have the answer you seek: all l have are questions.  - Have you tried running with McAfee turned off? - Is there a McAfee setting to bypass email checks?  - any chance of posting screenshots of the explicit errors you are seeing? </p>",davidsk,false,0,0
 1632940,1437735,2024-01-25 07:11:47 -0800,2024-01-25 07:11:47 -0800,<p>The keys are cntl and 'L' key </p>,davidsk,false,0,0
 1632942,1437735,2024-01-25 07:14:00 -0800,2024-01-25 07:14:00 -0800,<p>I know this combination. I need exactly CTRL + F </p>,vitaly579,false,0,0
+1632945,1437735,2024-01-25 07:31:37 -0800,2024-01-25 07:31:37 -0800,<p>You were probably using an addon to do that. </p>,davidsk,false,0,0
+1632948,1437735,2024-01-25 07:37:00 -0800,2024-01-25 07:37:00 -0800,<p>Do you know an addon that assigns CTRL + F for forwarding? I searched without success before asking here. </p>,vitaly579,false,0,0
+1632949,1437735,2024-01-25 07:41:46 -0800,2024-01-25 07:41:46 -0800,<p>try tbkeys-lite </p>,davidsk,false,0,0
+1632951,1437735,2024-01-25 07:47:26 -0800,2024-01-25 07:47:26 -0800,"<p>I tried it, but it only set F (without CTRL + F) and works unstable. But if this is the only option, I will continue to experiment with it. Many thanks for the help! </p>",vitaly579,false,0,0
+1632953,1437740,2024-01-25 07:57:56 -0800,2024-01-25 07:57:56 -0800,<p>tell me how to delete firefox </p>,keithaugustnuutinen505,false,0,0
