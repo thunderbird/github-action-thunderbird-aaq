@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1632792,1437684,2024-01-24 16:45:23 -0800,2024-01-24 16:45:23 -0800,"<p>Sorry, it wouldn't me edit the question to clarify...We have had Thunderbird running on all three systems, with everyone being able to read and respond to emails.  The question is directed at ensuring that Thunderbird on each system ""is made aware of"" actions taken on one of the other systems, on the shared (office@) email account. </p>",office743,false,0,0
