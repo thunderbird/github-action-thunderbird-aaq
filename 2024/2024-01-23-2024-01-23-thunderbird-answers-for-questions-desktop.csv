@@ -51,6 +51,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1632502,1437537,2024-01-23 09:54:39 -0800,2024-01-23 09:54:39 -0800,<p>Thunderbird will not accept my log in credentials </p>,alandebuono656,false,0,0
 1632503,1437537,2024-01-23 09:57:52 -0800,2024-01-23 09:57:52 -0800,<p>Please help me login to Thunderbird. My computer was updated and now it won't accept my credentials </p>,alandebuono656,false,0,0
 1633183,1437537,2024-01-26 04:33:26 -0800,2024-01-26 04:33:26 -0800,<p>who is your mail provider? </p>,wsmwk,false,0,0
+1634131,1437537,2024-01-30 12:08:26 -0800,2024-01-30 12:08:26 -0800,"<p>Can't log into Thunderbird from either of my email accounts with <a href=""http://uplink.net"" rel=""nofollow"">uplink.net</a>. </p>",dogman6,true,0,0
 1632517,1437539,2024-01-23 10:40:09 -0800,2024-01-23 10:40:09 -0800,"<p>Right-click the toolbar, Customize..., Restore Default Set, Done. </p>",sfhowes,false,0,0
 1632880,1437540,2024-01-25 00:53:02 -0800,2024-01-25 00:53:02 -0800,<p>are you connecting to the internet using a cox net service? If I recall correctly they do not allow the use of their email server unless you do.  So no WiFi hotspots when you are on holidays. </p>,MattAuSupport,false,0,0
 1632879,1437541,2024-01-25 00:51:30 -0800,2024-01-25 00:51:30 -0800,"<p>The failure sounds like you have a firewall issue,  probably linked with your antivirus product.  Try disabling both by using your system in safe mode with networking and see if you do better. </p>",MattAuSupport,false,0,0
