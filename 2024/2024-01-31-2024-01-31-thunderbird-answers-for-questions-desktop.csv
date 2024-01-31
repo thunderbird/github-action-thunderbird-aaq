@@ -1,3 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1634170,1438323,2024-01-30 18:19:28 -0800,2024-01-30 18:19:28 -0800,"<p>In normal mode, disable hardware acceleration in Settings/General, then restart TB in normal mode.  Is the display correct? </p><p><a href=""http://kb.mozillazine.org/Safe_Mode"" rel=""nofollow"">http://kb.mozillazine.org/Safe_Mode</a> </p>",sfhowes,false,0,0
+1634173,1438323,2024-01-30 19:08:01 -0800,2024-01-30 19:08:01 -0800,<p>No.  No change. </p>,agentfoxspookymulder,false,0,0
+1634176,1438323,2024-01-30 19:19:33 -0800,2024-01-30 19:19:33 -0800,"<p>As you can see from the kb link, safe mode mainly disables add-ons, hardware acceleration, themes, and applies the default layout ('reset toolbars &amp; controls').  If you work through those options, you should be able to uncover the source of the problem. </p>",sfhowes,false,0,0
 1634169,1438327,2024-01-30 18:17:19 -0800,2024-01-30 18:17:19 -0800,"<p>See <a href=""https://support.mozilla.org/en-US/questions/1438310"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1438310</a> </p>",sfhowes,false,0,0
