@@ -1,0 +1,2 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1439324,2024-02-09 17:14:45 -0800,2024-02-09 17:14:45 -0800,"I have two email accounts, and now TB only downloads from one of them. It gets stuck on ""checking""","<p>Today Thunderbird only downloads new messages from my gmail, not my yahoo. It stops at ""checking for new messages"". </p>",fix-problems;,thunderbird,fix-slowness-crashing-error-messages-and-other-problems,en-US,"",arbrus
