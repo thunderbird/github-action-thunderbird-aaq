@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1636144,1439394,2024-02-11 00:10:28 -0800,2024-02-11 00:10:28 -0800,"<p>did you some how miss the tabbed interface and that closing open email tabs makes it usable,  just as closing tabs in a web browser makes the number of tabs usable. </p><p>Right click a tab and select close all tabs to close your open emails so you can see your message list and folders.. </p>",MattAuSupport,false,0,0
+1636143,1439396,2024-02-11 00:07:46 -0800,2024-02-11 00:07:46 -0800,"<p>See <a href=""https://support.mozilla.org/en-US/kb/rebuilding-global-database"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/rebuilding-global-database</a> </p>",MattAuSupport,false,0,0
