@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1636736,1439651,2024-02-13 16:37:27 -0800,2024-02-13 16:37:27 -0800,"<p>for clarification, I'm using IMAP </p>",r_matz,false,0,0
+1636746,1439652,2024-02-13 21:42:42 -0800,2024-02-13 21:42:42 -0800,"<p>Use <a href=""https://support.mozilla.org/en-US/questions/1418832#answer-1591669"" rel=""nofollow"">the code</a> in the topic cited in your post, but copy it into a userChrome.css file, not a userContent.css file. </p>",sfhowes,false,0,0
