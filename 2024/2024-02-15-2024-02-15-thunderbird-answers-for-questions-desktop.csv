@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1636947,1439772,2024-02-15 04:33:47 -0800,2024-02-15 04:33:47 -0800,"<p>This article explains your options, but it also states that there is no guarantee, since you are dependent on the recipient's decision to send the receipt, plus the recipient's email client's ability to do so, plus the recipient's email provider's policy on allowing return receipts. </p>",davidsk,false,0,0
