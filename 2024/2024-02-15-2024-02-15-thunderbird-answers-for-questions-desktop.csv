@@ -21,3 +21,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1636952,1439787,2024-02-15 05:01:59 -0800,2024-02-15 05:01:59 -0800,"<p>Your main issue is to convert OLM to mbox, as it's then straightforward to import mbox. I am aware of no free product, though, to do that, but there are proprietary apps that do exactly that. Others may have information on other options. </p>",davidsk,false,1,0
 1636976,1439798,2024-02-15 07:05:46 -0800,2024-02-15 07:05:46 -0800,"<p>Let me respond by saying, I HAVE the signature, I just don't remember how to edit it. </p>",boggett2001,false,0,0
 1636978,1439798,2024-02-15 07:13:27 -0800,2024-02-15 07:13:27 -0800,<p>HEY!!!  Got it answered!  Thanks anyway!  Whoo-hoo! </p>,boggett2001,false,0,0
+1636984,1439802,2024-02-15 08:31:14 -0800,2024-02-15 08:31:14 -0800,<p>what error messages do you receive when you use the recommended settings? What are the settings used on your phone? </p>,davidsk,false,0,0
