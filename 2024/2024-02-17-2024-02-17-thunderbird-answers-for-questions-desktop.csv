@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1637159,1439943,2024-02-17 04:10:01 -0800,2024-02-17 04:10:01 -0800,<p>Try pressing F11 to see if expanding the window allows the OK button to show. </p>,davidsk,false,0,0
 1637154,1439963,2024-02-17 03:45:56 -0800,2024-02-17 03:45:56 -0800,<p>Gmail only works with an email client if there is NO PASSWORD found. Be sure you remove any remnants of password and then check mail. Google will prompt for your id and password and will then show an 'allow' button. Click that and Google will store a unique passcode in Thunderbird for you. that passcode is for your PC only and is not transferable. </p>,davidsk,false,0,0
