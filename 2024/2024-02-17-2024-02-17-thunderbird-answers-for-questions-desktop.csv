@@ -8,3 +8,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1637173,1439977,2024-02-17 08:10:54 -0800,2024-02-17 08:10:54 -0800,"<p>You can select view&gt;sort by from menu bar and select unthreaded . If you do not see menu bar, click alt key. </p>",davidsk,false,0,0
 1637177,1439980,2024-02-17 08:44:24 -0800,2024-02-17 08:44:24 -0800,"<p>Yes, you can use any number of email clients on your PC at the same time. </p>",davidsk,false,1,0
 1637188,1439982,2024-02-17 09:52:42 -0800,2024-02-17 09:52:42 -0800,"<p>It may be insufficient authentication on SMTP server. If you post the complete SMTP server pane, some suggestions may surface. </p>",davidsk,false,0,0
+1637189,1439987,2024-02-17 10:35:16 -0800,2024-02-17 10:35:16 -0800,<p>Check in account settings and then look at composition&amp;settings pane. </p>,davidsk,false,0,0
