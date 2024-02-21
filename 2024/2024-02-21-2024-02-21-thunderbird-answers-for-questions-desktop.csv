@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1637646,1440324,2024-02-21 05:04:47 -0800,2024-02-21 05:04:47 -0800,"<p>Puzzling. I have used Thunderbird for two decades and word wrap has always worked. Possibly knowing more about your settings may prove helpful. Word wrap is the default, so I'm surprised that it isn't working for you. </p>",davidsk,false,0,0
 1637626,1440329,2024-02-21 04:03:48 -0800,2024-02-21 04:03:48 -0800,"<p>Well, it does retain read messages, so you will need to share more information on your issue. Thank you. </p>",davidsk,false,0,0
 1637628,1440343,2024-02-21 04:12:43 -0800,2024-02-21 04:12:43 -0800,<p>You did not explain how the first account is acting weirdly. Please provide more information. Thank you. </p>,davidsk,false,0,0
 1637605,1440344,2024-02-21 01:06:37 -0800,2024-02-21 01:06:37 -0800,"<p>Please read <a href=""/en-US/kb/microsoft-oauth-authentication-and-thunderbird-202"" rel=""nofollow"">Microsoft OAuth Authentication and Thunderbird in 2024</a> </p>",TyDraniu,false,0,0
