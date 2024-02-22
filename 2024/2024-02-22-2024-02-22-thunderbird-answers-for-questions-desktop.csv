@@ -5,3 +5,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1637837,1440451,2024-02-22 02:11:36 -0800,2024-02-22 02:11:36 -0800,"<p>I have about 10 email addresses in TB, so I really want to avoid having a ""new install"" to populate.  Not to mention setting up the Account Settings. </p>",s1s1s11,false,0,0
 1637855,1440454,2024-02-22 04:53:54 -0800,2024-02-22 04:53:54 -0800,"<p>Remove the thunderbird program (not profile) files, and reinstall. </p>",wsmwk,false,0,0
 1637856,1440454,2024-02-22 04:56:33 -0800,2024-02-22 04:56:33 -0800,"<p>I can't uninstall.... because he keeps asking for a reboot. I installed now the beta version, which works (hopefully) </p>",Tolstoi,false,0,0
+1637861,1440464,2024-02-22 05:12:48 -0800,2024-02-22 05:12:48 -0800,<p>Try this:  - highlight account in left column of main view - right click and select 'subscribe' to see if the missing folders appear. </p>,davidsk,false,0,0
+1637863,1440464,2024-02-22 05:16:57 -0800,2024-02-22 05:16:57 -0800,"<p>I've done this and tried hitting the refresh button. There are no folders at all under the Folder List tab, so none to subscribe to. </p>",sherri.tombarge,false,0,0
