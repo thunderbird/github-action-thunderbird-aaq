@@ -12,4 +12,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1638575,1440745,2024-02-25 05:41:54 -0800,2024-02-25 05:41:54 -0800,"<p>Pam Price Re leftyb39@comcast.net Thunderbird via Comcast </p><p>Recently created folder, not required. </p>",leftyb39,false,0,0
 1638582,1440745,2024-02-25 06:04:15 -0800,2024-02-25 06:04:15 -0800,<p>'Pam Price Re' is the folder name? Why did the folder exist initially? Have you attempted to delete from the online account first? </p>,davidsk,false,0,0
 1638592,1440748,2024-02-25 06:52:50 -0800,2024-02-25 06:52:50 -0800,<p>Are you attempting to log into this email account and being prompted for password? Your issue is unclear. </p>,davidsk,false,0,0
+1638601,1440748,2024-02-25 07:16:12 -0800,2024-02-25 07:16:12 -0800,<p>When I open Thunderbird it just asks for a donation and does not give me the option to sign in </p>,helenlcarter,false,0,0
 1638593,1440751,2024-02-25 06:55:12 -0800,2024-02-25 06:55:12 -0800,"<p>Have you tried highlighting account in left side of main view, rightclicking and selecting 'subscribe'? That is often the issue. If not, more info may be needed. </p>",davidsk,false,0,0
