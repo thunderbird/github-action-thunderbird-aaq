@@ -1,3 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1639287,1441018,2024-02-28 00:54:20 -0800,2024-02-28 00:54:20 -0800,"<p>Dopo aver inserito l'indirizzo email da configurare, K-9 ti da la possibilità di fare la configurazione manuale. Hai già provato? -&gt; https://docs.k9mail.app/en/6.400/accounts/add/ </p>",@next,false,0,0
 1639289,1441018,2024-02-28 01:18:25 -0800,2024-02-28 01:18:25 -0800,"<p>Grazie per la tua rapida risposta, ho già provato tutte le opzioni ma senza successo </p>",INFO10910,false,0,0
+1639293,1441018,2024-02-28 02:41:40 -0800,2024-02-28 02:41:40 -0800,"<p>Se non accetta neppure la configurazione manuale, non saprei proprio che suggerirti... </p>",@next,false,0,0
+1639292,1441022,2024-02-28 02:40:04 -0800,2024-02-28 02:40:04 -0800,<p>Chi è il gestore della tua casella di posta? Qual è l'esatto messaggio di errore che compare? </p>,@next,false,0,0
