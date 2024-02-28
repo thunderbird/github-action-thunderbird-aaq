@@ -19,4 +19,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1639312,1441035,2024-02-28 05:29:37 -0800,2024-02-28 05:29:37 -0800,"<p>Okay, click 'account settings'  - the three accounts will show in left sidebar, highlight the desired one for default  - slightly lower on left is 'Account Actions' menu. Click that and select 'set as default' </p>",davidsk,false,1,0
 1639315,1441035,2024-02-28 05:35:04 -0800,2024-02-28 05:35:04 -0800,"<p>Yay, thank you so much! </p>",gfinley,false,0,0
 1639319,1441035,2024-02-28 05:38:21 -0800,2024-02-28 05:38:21 -0800,<p>You are most welcome.&nbsp;:) </p>,davidsk,false,0,0
-1639326,1441038,2024-02-28 05:55:54 -0800,2024-02-28 05:55:54 -0800,"<p>rightclick on account in left side of main view, click 'settings' and the email address should be there. </p>",davidsk,false,0,0
+1639326,1441038,2024-02-28 05:55:54 -0800,2024-02-28 05:55:54 -0800,"<p>rightclick on account in left side of main view, click 'settings' and the email address should be there. </p>",davidsk,false,1,0
