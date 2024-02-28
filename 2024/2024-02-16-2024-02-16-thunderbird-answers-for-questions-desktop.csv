@@ -51,6 +51,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1638970,1439922,2024-02-26 21:12:26 -0800,2024-02-26 21:12:26 -0800,"<p>Dark them is not applied. I don't know what you mean by ""CSS statements in a userControl.css file stored in a folder named chrome in your profile.' Do you mean my Thunderbird profile? My Chrome profile? Thanks. </p>",musiclady1949,false,0,0
 1639037,1439922,2024-02-27 05:33:41 -0800,2024-02-27 05:33:41 -0800,"<p>- apply the dark theme - then, I suggest adding the addon, Dark Reader.  The CSS comment was about a more technical option, but not needed here. </p>",davidsk,false,0,0
 1639227,1439922,2024-02-27 16:16:00 -0800,2024-02-27 16:16:00 -0800,"<p>There is no ""Dark Reader"". Any other ideas? Thanks. </p>",musiclady1949,false,0,0
+1639329,1439922,2024-02-28 06:00:17 -0800,2024-02-28 06:00:17 -0800,<p>Are you using the release level? The addon is 'Dark Reader' and I just verified it shows up when doing a search from the addon pane. </p>,davidsk,false,0,0
 1637178,1439929,2024-02-17 08:48:32 -0800,2024-02-17 08:48:32 -0800,"<p>A suggestion: exit Thunderbird, remove the .msf files and try again. There is only one profiles.ini and it will not be in the profiles. </p>",davidsk,false,0,0
 1639168,1439929,2024-02-27 11:51:54 -0800,2024-02-27 11:51:54 -0800,<p>Cleaned Mail and Local folders but no old files reappeared </p>,vicki_n_john,false,0,0
 1639198,1439929,2024-02-27 13:01:44 -0800,2024-02-27 13:01:44 -0800,<p>There were files in your prior screenshot. </p>,davidsk,false,0,0
