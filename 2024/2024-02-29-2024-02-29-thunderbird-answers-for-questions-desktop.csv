@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1639515,1441116,2024-02-28 18:33:09 -0800,2024-02-28 18:33:09 -0800,"<p>Generally the issue is antivirus programs that are helping you.  Personally I can not make the auto configuration wizard work with the Nortons product, other offer rather patchy results.  Nortons can be relied on to make sure no settings are ever detected. </p><p>You might try pressing the advanced config button and manually entering the settings for your account. </p>",MattAuSupport,false,0,0
