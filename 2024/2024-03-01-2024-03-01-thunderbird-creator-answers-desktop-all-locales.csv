@@ -1,0 +1,2 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1441210,2024-02-29 18:29:15 -0800,2024-02-29 18:29:15 -0800,Unable to change default size for composing a message,<p>I went to Tools&gt;Settings&gt;Composition&gt;HTML Style and specified a new Font Name. After a restart of TB the Font was correctly changed. But the Size did not change. </p><p>See Image. </p><p>Thanks for your help. SweetTasha </p>,other;,thunderbird,other,en-US,"",sweettasha
