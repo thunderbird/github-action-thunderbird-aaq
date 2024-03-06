@@ -16,3 +16,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1640715,1441634,2024-03-06 06:25:13 -0800,2024-03-06 06:25:13 -0800,"<p>OK, found it!&nbsp;:D </p><p>Thanks </p>",Richard541,false,0,0
 1640700,1441638,2024-03-06 05:14:48 -0800,2024-03-06 05:14:48 -0800,<p>Direi che il problema è nel client che riceve il messaggio e su quello non puoi certo decidere tu. </p><p>Probabilmente dovresti utilizzare una formattazione più semplice e compatibile. </p>,@next,false,0,0
 1640708,1441651,2024-03-06 05:44:14 -0800,2024-03-06 05:44:14 -0800,"<p>Also I'm running Windows 11, version 23H2 </p>",steve609,false,0,0
+1640741,1441659,2024-03-06 09:00:39 -0800,2024-03-06 09:00:39 -0800,"<p>yes, highlight the unified folder, rightclick and select 'properties. on next pane select 'choose' and untick that account, </p>",davidsk,false,0,0
