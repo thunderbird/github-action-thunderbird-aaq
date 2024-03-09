@@ -1,4 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1641261,1441869,2024-03-09 04:37:27 -0800,2024-03-09 04:37:27 -0800,"<p>the tab line only exists if you have a tab open.  So open a tab. </p><p>See <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1871995"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1871995</a> </p>",MattAuSupport,false,0,0
+1641259,1441878,2024-03-09 04:34:10 -0800,2024-03-09 04:34:10 -0800,"<p><a href=""https://support.mozilla.org/en-US/kb/rebuilding-global-database"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/rebuilding-global-database</a> </p>",MattAuSupport,false,0,0
 1641250,1441884,2024-03-09 03:31:33 -0800,2024-03-09 03:31:33 -0800,<p>What is your anti-virus software? </p>,christ1,false,0,0
 1641255,1441884,2024-03-09 04:11:33 -0800,2024-03-09 04:11:33 -0800,<p>AVG free </p>,amral,false,0,0
 1641258,1441884,2024-03-09 04:33:05 -0800,2024-03-09 04:33:05 -0800,"<p>Try to start <a href=""https://support&#46;microsoft&#46;com/help/12376/windows-10-start-your-pc-in-safe-mode"" rel=""nofollow"">Windows 10 in safe mode</a> with networking enabled. </p><p>Does the problem go away? </p><p>Windows safe mode disables anti-virus software. This is a troubleshooting step, not a solution. </p>",christ1,false,0,0
