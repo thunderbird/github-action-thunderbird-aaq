@@ -22,3 +22,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1642411,1442420,2024-03-15 13:30:24 -0700,2024-03-15 13:30:24 -0700,"<p>For sfhowwes, it's difficult to configure the wanadoo's account because it's not mine? Thank for all. </p>",lpma1957,false,0,0
 1642402,1442423,2024-03-15 11:26:23 -0700,2024-03-15 11:26:23 -0700,"<p>Maybe I'm not understanding your issue, but the CardDAV menu allows accessing Google contacts, so I presume it will accept a Google userid. </p>",davidsk,false,0,0
 1642403,1442423,2024-03-15 11:30:42 -0700,2024-03-15 11:33:23 -0700,"<p>In the newest version of Thunderbird for Windows, the only Google ID the app seems to recognize as Google, is a Gmail address. </p>",mcg2,false,0,0
+1642426,1442444,2024-03-15 16:09:51 -0700,2024-03-15 16:09:51 -0700,<p>Setting <em>mail.strictly_mime</em> to true in Config. editor will apply quoted-printable format. </p>,sfhowes,false,0,0
