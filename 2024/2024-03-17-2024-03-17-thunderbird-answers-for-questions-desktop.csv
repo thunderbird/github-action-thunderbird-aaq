@@ -2,6 +2,8 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1642663,1442520,2024-03-17 04:01:17 -0700,2024-03-17 04:01:17 -0700,<p>In the main Thunderbird window press F8 to turn on the message pane. </p>,christ1,false,0,0
 1642690,1442520,2024-03-17 05:45:35 -0700,2024-03-17 05:45:35 -0700,<p>it opens on the right side... is it possible to have it show at the bottom as in the old version </p>,yawstick,false,0,0
 1642691,1442520,2024-03-17 05:52:53 -0700,2024-03-17 05:52:53 -0700,<p>Click view&gt;Layout&gt;classic view </p>,davidsk,false,0,0
+1642697,1442520,2024-03-17 06:41:26 -0700,2024-03-17 06:41:57 -0700,<p>A little more detail please.... I don't see that in settings... where do you find that. </p>,yawstick,false,0,0
+1642699,1442520,2024-03-17 06:46:54 -0700,2024-03-17 06:46:54 -0700,<p>It isn't in settings. Click either the hamburger menu at upper right or the menu bar (press alt key if not visible.) Either option shows the View option. </p>,davidsk,false,0,0
 1642655,1442544,2024-03-17 02:29:40 -0700,2024-03-17 02:29:40 -0700,<p>picture of error message </p>,thunderbird10,false,0,0
 1642668,1442544,2024-03-17 04:23:20 -0700,2024-03-17 04:23:20 -0700,<p>The indication is that you need to delete some of your messages to reduce your storage use. </p>,davidsk,false,0,0
 1642687,1442544,2024-03-17 05:37:49 -0700,2024-03-17 05:37:49 -0700,"<p>Yeah, I get that, but from where? Why do I have a limit? How much is it? How much have I used? </p><p>I have deleted some messages, but problem persists. </p>",thunderbird10,false,0,0
