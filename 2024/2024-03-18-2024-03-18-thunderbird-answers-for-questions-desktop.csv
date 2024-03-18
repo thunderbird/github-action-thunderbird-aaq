@@ -16,3 +16,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1642863,1442632,2024-03-18 09:35:18 -0700,2024-03-18 09:35:18 -0700,<p>Check that view&gt;message body as is set to 'original html' </p>,davidsk,false,1,0
 1642870,1442632,2024-03-18 10:20:23 -0700,2024-03-18 10:20:23 -0700,"<p>Thanks!  I searched for quite some time in the Settings without success. I have no idea, how that was changed. </p>",newsletters2,false,0,0
 1642873,1442632,2024-03-18 10:31:00 -0700,2024-03-18 10:31:00 -0700,<p>There are gremlins among us... &nbsp;:)   I'm glad it was a easy fix... </p>,davidsk,false,0,0
+1642916,1442656,2024-03-18 16:11:35 -0700,2024-03-18 16:11:35 -0700,"<p>If Okanagan Vision Therapy &lt;notifications@janeapp.com&gt; is added to your address book, does mail from that source show up with the same name? </p>",sfhowes,false,0,0
