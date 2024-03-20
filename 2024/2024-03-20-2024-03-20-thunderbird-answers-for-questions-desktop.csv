@@ -1,3 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1643193,1442749,2024-03-20 05:44:41 -0700,2024-03-20 05:44:41 -0700,"<p>Click file&gt;new&gt;existing email account. Then enter your name and email address, but omit the password. Follow through the prompts and Google will eventually prompt for your password. If the menu bar isn't shown, click the alt key and then the File option will appear. </p>",davidsk,false,0,0
+1643192,1442756,2024-03-20 05:38:19 -0700,2024-03-20 05:38:19 -0700,<p>Please post screenshot of your SMTP settings. Thank you. </p>,davidsk,false,0,0
 1643191,1442763,2024-03-20 05:36:23 -0700,2024-03-20 05:36:23 -0700,<p>Click the 'X' in upper right corner. </p>,davidsk,false,0,0
 1643187,1442774,2024-03-20 05:14:00 -0700,2024-03-20 05:14:00 -0700,"<p>The easiest approach is the import-export NG addon. highlight the highest level (e.g, Local Folders), rightclick and select one of the export options. </p>",davidsk,false,0,0
