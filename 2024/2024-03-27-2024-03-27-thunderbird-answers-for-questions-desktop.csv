@@ -5,3 +5,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1644397,1443369,2024-03-27 05:51:57 -0700,2024-03-27 05:51:57 -0700,"<p>This works:   <a href=""https://support.mozilla.org/en-US/questions/1438626"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1438626</a>     I still suggest periodically undoing it for occasional updates. </p>",davidsk,false,0,0
 1644394,1443372,2024-03-27 05:45:07 -0700,2024-03-27 05:45:07 -0700,<p>The error message states that you have exceeded your storage allotment. Are you saying that is incorrect? </p>,davidsk,false,0,0
 1644387,1443379,2024-03-27 05:03:19 -0700,2024-03-27 05:03:19 -0700,"<p>Sempre per confraternitemrgt@libero.it da molto tempo mi dice  ""connessione al server imap non riuscita"" </p>",d.giov,false,0,0
+1644405,1443379,2024-03-27 06:49:52 -0700,2024-03-27 06:49:52 -0700,<p>Non funziona su thunderbird la mail di confraternitemrgt@libero.it da settembre 2023 in entrata e in uscita </p>,d.giov,false,0,0
+1644406,1443379,2024-03-27 06:54:53 -0700,2024-03-27 06:54:53 -0700,<p>No. Esce la scritta connessione al server imap non riuscita </p>,d.giov,false,0,0
