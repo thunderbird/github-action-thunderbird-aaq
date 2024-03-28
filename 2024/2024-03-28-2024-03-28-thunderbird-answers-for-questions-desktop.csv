@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1644522,1443448,2024-03-27 17:38:21 -0700,2024-03-27 17:38:21 -0700,<p>I meant Thunderbird v115.9.0 </p>,bkoopers,false,0,0
+1644524,1443448,2024-03-27 18:06:05 -0700,2024-03-27 18:06:05 -0700,<p>I removed and installed Quick Folder Move and ReplyWithHeader and they both now work. I did not install ReFwdFormatter because it appears that ReplyWithHeader does what ReFwdFormatter does plus more. </p><p>Is it expected to have to re-install Add-ons to get them to work after migration? </p><p>I still would like to know what happened to my 24 hours worth of new emails. </p><p>Thanks to anybody who can provide the answers. </p>,bkoopers,false,0,0
