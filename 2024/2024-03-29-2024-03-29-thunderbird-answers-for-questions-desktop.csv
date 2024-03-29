@@ -1,2 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1644719,1443549,2024-03-28 19:48:31 -0700,2024-03-28 19:48:31 -0700,"<p>For feedback, use the link on the Thunderbird help menu. That link will take you to this website <a href=""https://connect.mozilla.org"" rel=""nofollow"">https://connect.mozilla.org</a> not Thunderbird support. </p>",MattAuSupport,false,0,0
+1644725,1443549,2024-03-28 20:02:38 -0700,2024-03-28 20:05:57 -0700,"<p>Thunderbird version 115 ""get help"" takes me to support@mozilla.org. </p>",JudsonMcCranie,true,0,0
+1644726,1443549,2024-03-28 20:07:01 -0700,2024-03-28 20:07:01 -0700,"<p>Thunderbird version 115 ""get help"" takes me to <a href=""http://support.mozilla.org"" rel=""nofollow"">support.mozilla.org</a> </p>",JudsonMcCranie,false,0,0
