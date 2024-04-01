@@ -1,5 +1,8 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1645190,1443736,2024-04-01 01:17:54 -0700,2024-04-01 01:17:54 -0700,"<p>Right click the folder, select properties and then use the repair button. </p>",MattAuSupport,false,0,0
+1645203,1443736,2024-04-01 05:01:42 -0700,2024-04-01 05:01:42 -0700,<p>the thunderbird  folder or the mesage folder </p>,mdm54,false,0,0
+1645204,1443736,2024-04-01 05:03:27 -0700,2024-04-01 05:03:27 -0700,<p>i am not sure what you mean    i se no repair button </p>,mdm54,false,0,0
+1645208,1443736,2024-04-01 05:28:41 -0700,2024-04-01 05:28:41 -0700,<p>i right click o in box and found repair thanks.         why did it do that is it something  i did. thanks  for your  reply. I run CCleaner and  Glary  utilities but iun check thunderbird. so why does it do that.  i fi  ti happens again  i know now how to fix it thanks </p>,mdm54,false,0,0
 1645200,1443737,2024-04-01 04:44:58 -0700,2024-04-01 04:44:58 -0700,<p>Please provide explicit details on how you are importing messages. That info may help. </p>,davidsk,false,0,0
 1645195,1443744,2024-04-01 03:12:17 -0700,2024-04-01 03:12:17 -0700,"<p>I couldn't send email, so I deleted and re-setup my email account. This lost my remembered passwords, so now I can neither receive or send email. My basic password still lets me onto TB though. </p>",flowersebf,false,0,0
 1645199,1443744,2024-04-01 04:44:11 -0700,2024-04-01 04:44:11 -0700,"<p>By 'basic password', are you referring to Primary Password? </p>",davidsk,false,0,0
