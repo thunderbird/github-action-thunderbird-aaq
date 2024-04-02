@@ -1,0 +1,2 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1443812,2024-04-01 18:16:12 -0700,2024-04-01 18:16:12 -0700,POP to IMAP saving old messages,"<p>I recently converted from POP to IMAP.  It appears old messages from POP were automatically migrated to the IMAP Local Folder, but how can I confirm that before I remove the old POP account?  The conversion instructions said I needed to manually move the old messages, but they are already in the Local Folder. </p>",download-and-install_1;,thunderbird,download-install-and-migration,en-US,"",cfnord
