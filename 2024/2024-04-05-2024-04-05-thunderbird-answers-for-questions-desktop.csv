@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1645720,1444075,2024-04-04 23:57:13 -0700,2024-04-04 23:57:13 -0700,<p>Probabilmente il tuo provider blocca l'accesso perché arrivi con un indirizzo IP di un altro paese. Prova a contattarlo eventualmente. </p><p>Di certo non dipende da Thunderbird. </p>,@next,false,0,0
