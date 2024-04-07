@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1646093,1444226,2024-04-06 22:13:26 -0700,2024-04-06 22:13:26 -0700,<p>UPDATE: Figured out how to import my old profile. Now I have 2 email accounts! How can I tell which one is the active and from which account (both have the same e-mail address!) should I move the content to the newest account so I can delete the old account? </p>,paulp575123,false,0,0
+1646141,1444242,2024-04-07 04:41:29 -0700,2024-04-07 04:41:29 -0700,<p>Thank you for your donation. These are never required and that screen is a default to remind users. You can stop the display at settings&gt;general and untick the startup page. </p>,davidsk,false,0,0
