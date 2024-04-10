@@ -10,4 +10,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1646661,1444481,2024-04-10 06:43:23 -0700,2024-04-10 06:43:23 -0700,<p>stupid me  i fixed it  and then contacted you.   id like to have a  cs can  i save this  and contact you when it happens again screen shot but right now every thing is working </p>,mdm54,false,0,0
 1646663,1444481,2024-04-10 06:53:43 -0700,2024-04-10 06:53:43 -0700,<p>I suggest just mark it that you solved it. That removes it from the active list. Congrats on fixing it. &nbsp;:) </p>,davidsk,false,0,0
 1646665,1444481,2024-04-10 07:13:46 -0700,2024-04-10 07:13:46 -0700,<p>fixed for now but not always </p>,mdm54,false,0,0
+1646674,1444482,2024-04-10 07:56:45 -0700,2024-04-10 07:56:45 -0700,"<p>Domanda duplicata, fare riferimento qui -&gt; <a href=""https://support.mozilla.org/it/questions/1444483"" rel=""nofollow"">https://support.mozilla.org/it/questions/1444483</a> </p>",@next,false,0,0
+1646675,1444483,2024-04-10 07:57:38 -0700,2024-04-10 07:57:38 -0700,<p>Hai un backup del profilo di Thunderbird? L'account è configurato con IMAP o con POP3? </p>,@next,false,0,0
 1646658,1444486,2024-04-10 06:31:22 -0700,2024-04-10 06:31:22 -0700,"<p>Thunderbird is just an email client. If you deleted the account, you would need to contact mailfence to reestablish it. </p>",davidsk,false,0,0
