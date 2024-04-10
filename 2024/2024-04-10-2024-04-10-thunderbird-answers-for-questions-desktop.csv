@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1646615,1444473,2024-04-10 02:12:38 -0700,2024-04-10 02:12:38 -0700,"<p>Hai lo stesso problema avviando Thunderbird in modalità risoluzione dei problemi? -&gt; <a href=""https://support.mozilla.org/it/kb/modalita-risoluzione-problemi-thunderbird"" rel=""nofollow"">https://support.mozilla.org/it/kb/modalita-risoluzione-problemi-thunderbird</a> </p>",@next,false,0,0
+1646621,1444473,2024-04-10 02:50:52 -0700,2024-04-10 02:50:52 -0700,"<p>In modalità risoluzione dei problemi COMPAIONO i simboli suddetti ... quindi, ora, che fare? </p>",ambrodell,false,0,0
