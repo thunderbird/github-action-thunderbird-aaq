@@ -26,3 +26,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1647032,1444703,2024-04-12 09:33:21 -0700,2024-04-12 09:33:21 -0700,"<p>Sometimes, I have found just reinstalling over the top of the installation fixes nagging technical problems. Corruptions do occur and that often fixes them. </p>",davidsk,false,0,0
 1647045,1444703,2024-04-12 11:29:47 -0700,2024-04-12 11:29:47 -0700,<p>Would my custom menus and other modifications be intact? </p>,rehawkpe,false,0,0
 1647049,1444703,2024-04-12 11:54:23 -0700,2024-04-12 11:54:23 -0700,"<p>I re-installed T'bird over the existing installation, as you suggested.  The problem still exists exactly as before. </p>",rehawkpe,false,0,0
+1647055,1444703,2024-04-12 12:49:01 -0700,2024-04-12 12:49:01 -0700,"<p>Sorry to know. Sometimes that quick fix works. Some on this forum have extensive tech skills, but not I. </p>",davidsk,false,0,0
