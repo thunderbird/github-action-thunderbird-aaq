@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1647096,1444734,2024-04-12 19:31:17 -0700,2024-04-12 19:31:17 -0700,<p>MERGE PROBLEM </p>,bput71,false,0,0
 1647105,1444739,2024-04-12 21:52:21 -0700,2024-04-12 21:52:21 -0700,<p>PS I don't have any add-ons or extensions except LocalFolders. Certainly nothing related to calendars or tasks that could add more complexity and trouble to shoot. Just a pure TB install. </p>,bhernonBoy,false,0,0
+1647112,1444739,2024-04-12 22:45:50 -0700,2024-04-12 22:45:50 -0700,"<p>perhaps look in the error console (ctrl+shift+J) for any error related to the storage file or the loading of the tasks. </p><p>It is always a good idea to try the troubleshooting mode on the help menu as well.  While you don't have addons it disables more than that.  It has also, for reasons that defy me, fixed problems permanently.  Or so folk have reported. </p>",MattAuSupport,false,0,0
