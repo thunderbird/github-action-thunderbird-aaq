@@ -8,3 +8,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1647121,1444745,2024-04-13 02:34:32 -0700,2024-04-13 02:34:32 -0700,<p>click view&gt;folders&gt;unified folders </p>,davidsk,false,0,0
 1647124,1444745,2024-04-13 02:51:35 -0700,2024-04-13 02:51:35 -0700,<p>Thank you for your answer. I already did that before I asked the question. When I click on unified folders I see all the inboxes of the different accounts in separate folders. Thanks again Stefan </p>,sliebe,false,0,0
 1647125,1444745,2024-04-13 02:54:44 -0700,2024-04-13 02:54:44 -0700,"<p>When collapsed, the inbox shows all in a virtual folder, which is what is being achieve by the smartphone app. </p>",davidsk,false,0,0
+1647129,1444750,2024-04-13 03:30:37 -0700,2024-04-13 03:30:37 -0700,<p>There should be a draft folder accessible. </p>,davidsk,false,0,0
