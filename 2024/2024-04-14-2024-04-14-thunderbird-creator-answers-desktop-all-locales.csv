@@ -1,0 +1,2 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1444799,2024-04-13 17:49:49 -0700,2024-04-13 18:13:36 -0700,Message filter setup isn't saved,"<p>I have had message filters set up for a long time.  Recently I tried to make some changes (adding one filter, deleting others, changing the response).  I find that if I close Thunderbird and reopen it, all my changes are gone!  How can I get the filter changes to stick? </p>",fix-problems;,thunderbird,fix-slowness-crashing-error-messages-and-other-problems,en-US,1647274;,coffent1
