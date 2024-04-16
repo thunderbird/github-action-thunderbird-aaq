@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1647639,1444954,2024-04-16 02:03:00 -0700,2024-04-16 02:03:00 -0700,"<p>If you lost menu bar, press alt key If you lost 'new message' button, press view&gt;folders&gt;folder pane header To restore SEND button, click 'new message' and then click View&gt;toolbars&gt;composition toolbar (again, if menu bar is not showing, press alt key) </p>",davidsk,false,0,0
