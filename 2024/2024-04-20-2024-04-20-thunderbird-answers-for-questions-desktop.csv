@@ -1,5 +1,11 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1648510,1445346,2024-04-20 03:17:30 -0700,2024-04-20 03:17:30 -0700,<p>You need a password to login to your account on your email provider's server. Thunderbird is just passing on the password you type to the server. </p><p>What error message do you get? </p><p>Can you login to your account via webmail? </p>,christ1,false,0,0
+1648512,1445350,2024-04-20 03:21:52 -0700,2024-04-20 03:21:52 -0700,<p>Would you please post a screenshot of the screen asking for &lt;your login&gt;? That may help. Thank you. </p>,davidsk,false,0,0
+1648508,1445353,2024-04-20 03:15:14 -0700,2024-04-20 03:15:14 -0700,<p>Is your photo an attachment to a message you have received? In that case you can right-click the attachment at the bottom bar of the message window - Save As. </p>,christ1,false,0,0
 1648501,1445356,2024-04-20 02:51:51 -0700,2024-04-20 02:51:51 -0700,"<p>Yes, that should do it. Be sure thunderbird is not running during that copy. </p>",davidsk,false,0,0
 1648489,1445359,2024-04-20 00:19:20 -0700,2024-04-20 00:19:20 -0700,"<p>Sembra siano in corso dei problemi, prova a leggere qui -&gt; <a href=""https://support.mozilla.org/it/questions/1444971"" rel=""nofollow"">https://support.mozilla.org/it/questions/1444971</a> </p>",@next,false,0,0
 1648495,1445359,2024-04-20 01:09:27 -0700,2024-04-20 01:09:27 -0700,<p>Grazie per la risposta. La cosa buffa è che sul portatile tutto funziona come prima&nbsp;!! </p>,giorgio.tomasina,false,0,0
+1648506,1445360,2024-04-20 03:12:27 -0700,2024-04-20 03:12:27 -0700,<p>You'll have to talk to your email provider. This has got nothing to do with Thunderbird. </p>,christ1,false,0,0
 1648497,1445365,2024-04-20 01:31:17 -0700,2024-04-20 01:31:17 -0700,<p>ora va </p>,ceramicabutterflycs,false,0,0
+1648505,1445370,2024-04-20 03:10:26 -0700,2024-04-20 03:10:26 -0700,"<p>See <a href=""https://support.mozilla.org/kb/automatic-conversion-google-mail-accounts-oauth20"" rel=""nofollow"">https://support.mozilla.org/kb/automatic-conversion-google-mail-accounts-oauth20</a> </p>",christ1,false,0,0
+1648504,1445372,2024-04-20 03:08:39 -0700,2024-04-20 03:08:39 -0700,"<p><a href=""https://support.mozilla.org/kb/cannot-send-messages"" rel=""nofollow"">https://support.mozilla.org/kb/cannot-send-messages</a> </p>",christ1,false,0,0
