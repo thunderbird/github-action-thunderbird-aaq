@@ -16,3 +16,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1648547,1445382,2024-04-20 07:48:44 -0700,2024-04-20 07:48:44 -0700,<p>See the little icon to the right of the 'quick filter' button in your screenshot? Click that and select 'table view' </p>,davidsk,false,0,0
 1648548,1445384,2024-04-20 07:53:21 -0700,2024-04-20 07:53:21 -0700,"<p>That is sometimes an error in the SMTP server configuration. If you post a screenshot of the SMTP settings, some suggestions may be offered. Thank you. </p>",davidsk,false,0,0
 1648565,1445387,2024-04-20 08:33:02 -0700,2024-04-20 08:33:02 -0700,"<p>This was fixed, I believe, in 115.10.1. </p>",davidsk,false,0,0
+1648572,1445387,2024-04-20 09:16:00 -0700,2024-04-20 09:16:00 -0700,<p>Synaptic does not yet show 115.10.1  --  is there a way to get it before it shows up in the available program versions?   Thx. </p>,gandsnut,false,0,0
+1648575,1445387,2024-04-20 09:21:37 -0700,2024-04-20 09:21:37 -0700,"<p>That release just came out yesterday, so it may be available shortly. I am a Linux novice with no awareness of the mechanics of Synaptic. Sorry. </p>",davidsk,false,0,0
