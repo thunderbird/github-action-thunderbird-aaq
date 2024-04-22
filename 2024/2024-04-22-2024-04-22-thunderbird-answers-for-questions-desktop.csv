@@ -1,2 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1648798,1445485,2024-04-21 23:48:29 -0700,2024-04-21 23:48:29 -0700,"<p>Hi, To reset your password you need to go to the e-mail provider website and follow their instructions! Good luck! </p>",shopov.bogomil,false,0,0
+1648822,1445503,2024-04-22 03:49:14 -0700,2024-04-22 03:49:14 -0700,"<p>To nesouvisí s TB, ale předpokládám, že nedorazí. Pokud je úložiště plné, maily nikde ve frontě nečekají. </p>",luka7,false,0,0
+1648823,1445515,2024-04-22 03:50:48 -0700,2024-04-22 03:50:48 -0700,<p>Have you upgraded to 115.10.1? There was a bug in 115.10. </p>,davidsk,false,0,0
+1648827,1445515,2024-04-22 03:54:46 -0700,2024-04-22 03:54:46 -0700,"<p>Are you referring to the Thunderbird shortcut on the desktop? I would try launching Thunderbird another way, such as via the Start menu, to see if the shortcut may be broken. Additionally, does Thunderbird appear in the processes list at all in Task Manager when the shortcut is clicked? </p>",bbonacci,false,0,0
