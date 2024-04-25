@@ -1,0 +1,2 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1445789,2024-04-24 17:02:35 -0700,2024-04-24 17:02:35 -0700,Hotmail not able to send emails,"<p>I'm trying to send an email from thunderbird but I get this error in the terminal as well as this popup. this only happens on hotmail, gmail works fine. </p>",fix-problems;,thunderbird,fix-slowness-crashing-error-messages-and-other-problems,en-US,"",injy.cs
