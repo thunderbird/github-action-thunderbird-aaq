@@ -1,2 +1,2 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
-1649335,1445800,2024-04-24 23:53:42 -0700,2024-04-24 23:53:42 -0700,"<p>Sembra un problema analogo a quello discusso qui -&gt; <a href=""https://support.mozilla.org/it/questions/1445562"" rel=""nofollow"">https://support.mozilla.org/it/questions/1445562</a> vedi se le soluzioni proposte ti sono di aiuto </p>",@next,false,0,0
+1649335,1445800,2024-04-24 23:53:42 -0700,2024-04-24 23:53:42 -0700,"<p>Sembra un problema analogo a quello discusso qui -&gt; <a href=""https://support.mozilla.org/it/questions/1445562"" rel=""nofollow"">https://support.mozilla.org/it/questions/1445562</a> vedi se le soluzioni proposte ti sono di aiuto </p>",@next,false,0,1
