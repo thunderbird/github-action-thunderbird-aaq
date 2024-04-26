@@ -7,3 +7,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1649545,1445891,2024-04-25 22:21:15 -0700,2024-04-25 22:21:15 -0700,<p>Profile manager can't see the profile folder I added to the rest of the profiles so I'm stumped a bit </p>,blondyrussian,false,0,0
 1649551,1445891,2024-04-25 23:00:27 -0700,2024-04-25 23:00:27 -0700,"<p>In Profile Manager, create a new profile then point it to that folder. </p>",stancestans,false,0,0
 1649604,1445903,2024-04-26 05:30:45 -0700,2024-04-26 05:30:45 -0700,"<p>Bunun için Thunderbird'ü ""dizili"" modda kullanmanız gerekiyor. </p><p>Gelen kutunuzdayken <strong>Alt</strong> tuşuna basarak üst menü çubuğunu açın. <strong>Görünüm &gt; Sıralama koşulu &gt; Dizili</strong> seçeneğini seçin. </p>",maxcoder,false,0,0
+1649609,1445914,2024-04-26 05:41:37 -0700,2024-04-26 05:43:46 -0700,<p>Account screenshot </p>,adstern,false,0,0
