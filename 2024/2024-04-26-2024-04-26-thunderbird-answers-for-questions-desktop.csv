@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1649548,1445884,2024-04-25 22:53:52 -0700,2024-04-25 22:53:52 -0700,<p>Post the screenshots. </p>,stancestans,false,0,0
+1649562,1445888,2024-04-26 00:02:43 -0700,2024-04-26 00:02:43 -0700,<p>I have also a problem with the language pack 'german'. </p>,sirbasti78,false,0,0
 1649544,1445891,2024-04-25 22:13:15 -0700,2024-04-25 22:13:15 -0700,<p>Update: I found the profile information folder and moved it to where the other profiles are. Now I guess I need to know how to change profiles. </p>,blondyrussian,false,0,0
 1649545,1445891,2024-04-25 22:21:15 -0700,2024-04-25 22:21:15 -0700,<p>Profile manager can't see the profile folder I added to the rest of the profiles so I'm stumped a bit </p>,blondyrussian,false,0,0
 1649551,1445891,2024-04-25 23:00:27 -0700,2024-04-25 23:00:27 -0700,"<p>In Profile Manager, create a new profile then point it to that folder. </p>",stancestans,false,0,0
