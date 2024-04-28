@@ -16,3 +16,8 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1650064,1446053,2024-04-28 09:38:43 -0700,2024-04-28 09:38:43 -0700,"<p>I could delete, not I got just delete, in above message. </p>",CFogelman,false,0,0
 1650068,1446053,2024-04-28 09:45:05 -0700,2024-04-28 09:45:05 -0700,"<p>Well, here's a bizarre followup.  I had rebooted once, to no effect. I just rebooted again, and everything returned to normal, including the gmail inbox.  So the problem, at least for now, has sorted itself. (""Go Figure"", we used to say in the Bronx). Thanks for your help. Perhaps I'll be back again with the same problem or a variant, but for now at least it's solved. </p>",CFogelman,false,0,0
 1650072,1446059,2024-04-28 10:27:29 -0700,2024-04-28 10:27:29 -0700,"<p>Maybe if you post a screenshot of your smtp settings, it will present a more complete picture of your issue. Thank you. </p>",davidsk,false,0,0
+1650077,1446059,2024-04-28 11:01:00 -0700,2024-04-28 11:01:00 -0700,<p>Of course here it is. These settings work perfectly fine in any other email client except Thunderbird. </p>,kompak1,false,0,0
+1650078,1446059,2024-04-28 11:05:53 -0700,2024-04-28 11:05:53 -0700,<p>Are you including your full email id or just the prefix before the @? </p>,davidsk,false,0,0
+1650079,1446059,2024-04-28 11:08:19 -0700,2024-04-28 11:08:19 -0700,<p>Just my username. </p>,kompak1,false,0,0
+1650081,1446059,2024-04-28 11:09:04 -0700,2024-04-28 11:09:04 -0700,<p>Please try with full email address. </p>,davidsk,false,0,0
+1650082,1446059,2024-04-28 11:16:51 -0700,2024-04-28 11:16:51 -0700,<p>It won't work as I have a specific username for the server. </p>,kompak1,false,0,0
