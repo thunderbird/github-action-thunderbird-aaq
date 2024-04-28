@@ -21,3 +21,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1650079,1446059,2024-04-28 11:08:19 -0700,2024-04-28 11:08:19 -0700,<p>Just my username. </p>,kompak1,false,0,0
 1650081,1446059,2024-04-28 11:09:04 -0700,2024-04-28 11:09:04 -0700,<p>Please try with full email address. </p>,davidsk,false,0,0
 1650082,1446059,2024-04-28 11:16:51 -0700,2024-04-28 11:16:51 -0700,<p>It won't work as I have a specific username for the server. </p>,kompak1,false,0,0
+1650086,1446059,2024-04-28 11:31:50 -0700,2024-04-28 11:31:50 -0700,<p>You mentioned that you changed settings to password manager. How was that done? My suggestion would have been to go to settings&gt;privacy&amp;security and delete both entries for the account and let Thunderbird then prompt for password. </p>,davidsk,false,0,0
+1650085,1446065,2024-04-28 11:30:27 -0700,2024-04-28 11:30:27 -0700,"<p>By the way, I'm using Windows 10. </p>",LeeHSkinner,false,0,0
+1650087,1446065,2024-04-28 11:46:19 -0700,2024-04-28 11:46:19 -0700,<p>I just realized that all the messages in my inbox were just from today. Sorry! </p>,LeeHSkinner,false,0,0
