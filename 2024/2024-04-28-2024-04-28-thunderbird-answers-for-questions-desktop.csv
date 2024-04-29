@@ -29,3 +29,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1650087,1446065,2024-04-28 11:46:19 -0700,2024-04-28 11:46:19 -0700,<p>I just realized that all the messages in my inbox were just from today. Sorry! </p>,LeeHSkinner,false,0,0
 1650105,1446067,2024-04-28 13:55:15 -0700,2024-04-28 13:55:15 -0700,<p>does view&gt;headers&gt;all suffice for you? </p>,davidsk,false,0,0
 1650113,1446067,2024-04-28 15:34:22 -0700,2024-04-28 15:34:22 -0700,"<p>Hi, thanks for replying View/Headers is not in the list off the main menu </p><p>Am I missing a setting, like 'admin mode' to turn that on? Thunderbird 115.10.1 (64-bit) </p>",rich.ward,false,0,0
+1650116,1446067,2024-04-28 17:00:48 -0700,2024-04-28 17:00:48 -0700,<p>Press Alt to show the Menu Bar with the View submenu. </p>,sfhowes,false,0,0
+1650118,1446067,2024-04-28 17:47:31 -0700,2024-04-28 17:55:41 -0700,"<p>The option was moved, maybe in 115.10.1 (64-bit). Now it's on the left side drop down menu and no need to press ALT. See attachment </p><p>Thanks to all for the support. </p>",rich.ward,false,0,0
