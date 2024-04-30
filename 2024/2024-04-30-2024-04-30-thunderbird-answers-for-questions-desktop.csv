@@ -29,3 +29,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1650362,1446215,2024-04-30 09:20:51 -0700,2024-04-30 09:20:51 -0700,<p>Thunderbird è il programma di posta predefinito in Windows? </p>,@next,false,0,0
 1650363,1446215,2024-04-30 09:21:50 -0700,2024-04-30 09:21:50 -0700,<p>Per la versione Android -&gt; https://k9mail.app/ (A breve cambierà anche il nome) </p>,@next,false,0,0
 1650374,1446217,2024-04-30 10:06:46 -0700,2024-04-30 10:06:46 -0700,"<p>You're using the beta version. You can post or participate in the beta forum at   </p><pre> <a href=""https://thunderbird.topicbox.com/groups/beta"" rel=""nofollow"">https://thunderbird.topicbox.com/groups/beta</a>    Thank you. </pre>",davidsk,false,0,0
+1650379,1446226,2024-04-30 11:10:34 -0700,2024-04-30 11:10:34 -0700,"<p>You are using a prerelease copy, not intended for any distribution. Please reinstall a release version, 115.10.1. </p>",davidsk,false,0,0
