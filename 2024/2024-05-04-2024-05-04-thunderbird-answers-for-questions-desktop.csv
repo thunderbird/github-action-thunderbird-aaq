@@ -1,0 +1,4 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1651232,1446535,2024-05-04 01:12:22 -0700,2024-05-04 01:12:22 -0700,"<p>Hi, To manage your order: 1. Go to Settings &gt; Account Settings&gt; 2. Then select the account and drag it in the order you want 3. Done! </p>",shopov.bogomil,false,0,0
+1651233,1446537,2024-05-04 01:16:54 -0700,2024-05-04 01:16:54 -0700,"<p>Hi, Can you read this conversation here and explore the solution: <a href=""https://support.mozilla.org/en-US/questions/1398181"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1398181</a> </p>",shopov.bogomil,false,0,0
+1651230,1446539,2024-05-04 01:10:07 -0700,2024-05-04 01:10:07 -0700,"<p>Hi, How many accounts do you have? I just tested it on 115(Stable) 126(Beta) and 127(Daily) with 3 accounts and it works like a charm. Maybe it depends on the number of the accounts. Just thinking out loud. </p>",shopov.bogomil,false,0,0
