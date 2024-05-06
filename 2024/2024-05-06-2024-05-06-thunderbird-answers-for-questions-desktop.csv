@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
-1651536,1446669,2024-05-05 19:05:11 -0700,2024-05-05 19:05:11 -0700,"<p>See <a href=""https://support.mozilla.org/en-US/kb/moving-thunderbird-data-to-a-new-computer"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/moving-thunderbird-data-to-a-new-computer</a> </p>",MattAuSupport,false,0,0
+1651536,1446669,2024-05-05 19:05:11 -0700,2024-05-05 19:05:11 -0700,"<p>See <a href=""https://support.mozilla.org/en-US/kb/moving-thunderbird-data-to-a-new-computer"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/moving-thunderbird-data-to-a-new-computer</a> </p>",MattAuSupport,false,0,1
+1651555,1446669,2024-05-05 21:02:47 -0700,2024-05-05 21:02:47 -0700,"<p>Thanks for your reply, but I can't find the data on my old hard drive so Im guessing they're gone. </p>",sales388,false,0,0
