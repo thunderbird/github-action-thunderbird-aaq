@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1651718,1446757,2024-05-07 00:25:44 -0700,2024-05-07 00:25:44 -0700,"<p>Vypnite Thunderbird. Presvedčte sa ešte v Správcovi úloh že nie je spustený žiaden Thunderbird. Potom choďte do zložky s profilom Thunderbirdu a odstráňte súbor parent.lock <a href=""https://support.mozilla.org/cs/kb/profily-thunderbirdu"" rel=""nofollow"">https://support.mozilla.org/cs/kb/profily-thunderbirdu</a>. </p>",Ansamb,false,0,0
