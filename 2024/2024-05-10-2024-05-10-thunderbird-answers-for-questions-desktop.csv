@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1652194,1447011,2024-05-10 00:02:10 -0700,2024-05-10 00:02:10 -0700,"<p>Hi, Here is how you can do it: <a href=""https://support.mozilla.org/en-US/questions/1446535#answer-1651232"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1446535#answer-1651232</a> </p><p>Have a nice day! </p>",shopov.bogomil,false,0,0
+1652196,1447014,2024-05-10 00:19:59 -0700,2024-05-10 00:19:59 -0700,"<p>OK. By comparing the new installation with the old, I've worked out that you need to customise the new installation. What a PITA. </p><p>Got it how I'm used to seeing it now. </p>",dhanslip,false,0,0
