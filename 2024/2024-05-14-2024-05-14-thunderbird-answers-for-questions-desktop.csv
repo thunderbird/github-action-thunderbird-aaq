@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1652726,1447293,2024-05-13 20:24:56 -0700,2024-05-13 20:24:56 -0700,"<p>How did you install TB?  If the icon isn't dragged to the Applications folder, the account setup details aren't retained between restarts. </p><p><a href=""https://support.mozilla.org/en-US/kb/installing-thunderbird-on-mac"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/installing-thunderbird-on-mac</a> </p>",sfhowes,false,0,0
