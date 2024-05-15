@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1652933,1447371,2024-05-14 21:28:36 -0700,2024-05-14 21:28:36 -0700,"<p>The preamble can be customized with this add-on: </p><p><a href=""https://addons.thunderbird.net/en-us/thunderbird/addon/changequote/"" rel=""nofollow"">https://addons.thunderbird.net/en-us/thunderbird/addon/changequote/</a> </p><p>Add-on Options/Reply header/Customized reply header, e.g. %%6 wrote on %%5 about %%4: </p>",sfhowes,false,0,0
