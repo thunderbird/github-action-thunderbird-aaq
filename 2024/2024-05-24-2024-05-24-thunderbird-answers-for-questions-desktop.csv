@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1654215,1448158,2024-05-23 22:59:35 -0700,2024-05-23 22:59:35 -0700,"<p>I don't see that on my setup.  In the attached picture, I pasted (Ctrl+V) the content of your topic into a message after selecting it and copying (Ctrl+C).  Make sure the message format is HTML. </p>",sfhowes,false,0,0
 1654214,1448161,2024-05-23 22:50:47 -0700,2024-05-23 22:50:47 -0700,"<p>If I change the day start to 6am and end it at 9pm, the grid doesn't change to only show that period, but the hours outside 6am - 9pm are given a darker highlight compared to 6am - 9pm.  So I guess that is the intended way to 'hide' a period. </p>",sfhowes,false,0,0
