@@ -9,3 +9,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1654364,1448263,2024-05-25 01:19:05 -0700,2024-05-25 01:19:05 -0700,<p>E non compare nessun messaggio di errore? </p>,@next,false,0,0
 1654371,1448270,2024-05-25 03:51:12 -0700,2024-05-25 03:51:12 -0700,<p>I suggest this - exit thunderbird  - install 115.11 again right on top of the installation. My guess is that an error occurred during the original install. </p>,davidsk,false,0,1
 1654378,1448270,2024-05-25 05:21:42 -0700,2024-05-25 05:21:42 -0700,"<p>to complete, I'm under OSX </p>",luc.jaquet,false,0,0
+1654380,1448270,2024-05-25 05:40:53 -0700,2024-05-25 05:40:53 -0700,"<p>Thank you for your feedback, I tried but it doesn't change anything... </p>",luc.jaquet,false,0,0
