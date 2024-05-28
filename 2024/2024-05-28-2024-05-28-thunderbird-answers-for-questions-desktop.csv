@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1654770,1448452,2024-05-27 21:25:12 -0700,2024-05-27 21:25:12 -0700,"<p>As it is showing the ""selected"" email  I think you are asking how to not move the selected message to the next message in the list after you delete.  Is that the case?  </p><p>Why would you even enable that column unless you have a disability that makes selecting an email with a mouse of keyboard difficult? </p>",MattAuSupport,false,0,0
