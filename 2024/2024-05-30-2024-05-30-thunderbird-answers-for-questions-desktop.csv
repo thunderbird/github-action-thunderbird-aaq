@@ -1,0 +1,6 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1655090,1448621,2024-05-30 04:46:40 -0700,2024-05-30 04:46:40 -0700,"<p>How did you create this backup? Thunderbird doesn't create backups on its own. If you created a new profile, the old one should be in the Profiles folder at c:\users\&lt;yourid&gt;\appdata\roaming\thunderbird\profiles </p>",davidsk,false,0,0
+1655086,1448627,2024-05-30 04:42:21 -0700,2024-05-30 04:42:21 -0700,<p>Try view&gt;Threads&gt;Expand all threads </p>,davidsk,false,0,0
+1655083,1448628,2024-05-30 04:40:39 -0700,2024-05-30 04:40:39 -0700,<p>It may help to see screenshots of your 'copies&amp;folders' pane for each account. Thank you. </p>,davidsk,false,0,0
+1655080,1448643,2024-05-30 04:21:32 -0700,2024-05-30 04:21:32 -0700,"<p>Check the online account to confirm that the messages are being deleted. If so, then the PC is likely a POP setup that is downloading and leaving on server. A check of the setup will clarify this. </p>",davidsk,false,0,0
+1655081,1448644,2024-05-30 04:26:08 -0700,2024-05-30 04:26:08 -0700,"<p>Seeing a screenshot of the account folders within the imapmail and mail folders may help. Sometimes, compacting fails and leaves detritus that can be readily removed. I make that request because my inference is that the large disk usage is due to the accounts, </p>",davidsk,false,0,0
