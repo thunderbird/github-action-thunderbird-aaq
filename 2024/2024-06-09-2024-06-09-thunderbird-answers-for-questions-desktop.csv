@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1656470,1449424,2024-06-09 02:22:38 -0700,2024-06-09 02:22:38 -0700,"<p>A parte che mi sembra che il messaggio sia incompleto, se il server SMTP ti rifiuta un messaggio con un errore generico dovresti contattare chi gestisce il tuo server SMTP. </p>",@next,false,0,0
