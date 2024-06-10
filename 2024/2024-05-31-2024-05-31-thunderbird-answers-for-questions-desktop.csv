@@ -52,5 +52,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1655330,1448764,2024-06-01 02:19:44 -0700,2024-06-01 02:19:44 -0700,<p>You'll have to talk to your email provider. </p>,christ1,false,1,0
 1655404,1448764,2024-06-01 16:05:21 -0700,2024-06-01 16:05:21 -0700,"<p>I can get to my email other ways, just not through Thunderbird. </p>",r.decristofaro,false,0,0
 1655283,1448767,2024-05-31 13:13:29 -0700,2024-05-31 13:13:29 -0700,<p>what error message are you receiving? </p>,davidsk,false,0,0
+1656724,1448767,2024-06-10 10:54:10 -0700,2024-06-10 10:54:10 -0700,<p>Sys/temp error </p>,mwebsurfer,false,0,0
+1656728,1448767,2024-06-10 11:11:54 -0700,2024-06-10 11:11:54 -0700,"<p>Ok, I'm far from knowing your problem, but it may be a configuration setup problem. Maybe if you post a screenshot of incoming server settings and the SMTP server settings, either I or another may have ideas to suggest. </p>",davidsk,false,0,0
 1655344,1448777,2024-06-01 04:31:00 -0700,2024-06-01 04:31:00 -0700,"<p>This forum can't fix your Firefox problem, as this forum is for Thunderbird support. If you're using a new email address, you need to create a new account there on Firefox. </p>",davidsk,false,0,0
 1655355,1448777,2024-06-01 05:30:19 -0700,2024-06-01 05:30:19 -0700,<p>I think your best bet is to work with Quantum to get your account going again. If they can't do it then I don't know who can. </p>,christ1,false,0,0
