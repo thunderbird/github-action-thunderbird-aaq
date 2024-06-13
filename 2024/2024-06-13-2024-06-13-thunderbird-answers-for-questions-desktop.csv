@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1657129,1449733,2024-06-13 12:24:35 -0700,2024-06-13 12:24:35 -0700,"<p>I tried adding a new folder to several existing folder with no success. I tried renaming, didn't work. Finally I went to the next-to-last folder. It worked!  I'm pleased that I now have a FAMILY folder, <em>but I'd like to understand why it worked and the others failed.</em> Thanks, SweetTasha </p>",sweettasha,false,0,0
 1657089,1449747,2024-06-13 05:27:03 -0700,2024-06-13 05:27:03 -0700,"<p>An upcoming release will support Exchange , but for now you will need to use either the OWL addon or the EXQUILLA addon. Neither is free, but neither is expensive. I think fee is roughly $11 a year. </p>",davidsk,false,0,0
 1657054,1449750,2024-06-12 23:38:20 -0700,2024-06-12 23:38:20 -0700,<p>Si tratta di account POP3 o IMAP? </p>,@next,false,0,0
 1657055,1449750,2024-06-12 23:39:50 -0700,2024-06-12 23:39:50 -0700,<p>sono tutte imap </p>,manhattan,false,0,0
