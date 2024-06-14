@@ -3,5 +3,8 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1657210,1449851,2024-06-14 01:43:45 -0700,2024-06-14 01:43:45 -0700,<p>Scarica cioè più copie dello stesso messaggio? </p>,@next,false,0,0
 1657213,1449851,2024-06-14 01:54:17 -0700,2024-06-14 01:54:17 -0700,"<p>Continua a scaricare le cartelle di messaggi, tipo tutti i messaggi, posta inviata ecc, me ne fa vedere una copia sola dei messaggi ma è costantemente in download </p>",prone.gabriele,false,0,0
 1657220,1449853,2024-06-14 02:41:03 -0700,2024-06-14 02:41:03 -0700,"<p>Ale mówiłem Panu, że to jest blokada na serwerze poczty, a nie w kliencie (aplikacji). </p>",TyDraniu,false,0,0
+1657229,1449853,2024-06-14 04:04:23 -0700,2024-06-14 04:04:23 -0700,"<p>Ok, rozmawiał Pan z moim zmiennikiem, czyli co mogę zrobić żeby zdjąć blokadę? </p>",cichypl3,false,0,0
+1657231,1449853,2024-06-14 04:09:43 -0700,2024-06-14 04:09:43 -0700,"<p>Proszę napisać do dostawcy usługi poczty, np. WP, powinni mieć jakiś kontakt do admina na stronie. </p>",TyDraniu,false,0,0
 1657224,1449855,2024-06-14 03:10:34 -0700,2024-06-14 03:10:34 -0700,<p>Is this the same mailbox provider? </p>,TyDraniu,false,0,0
 1657228,1449855,2024-06-14 03:43:11 -0700,2024-06-14 03:43:11 -0700,"<p>Yes, the same provider </p>",isara.catrinel.p,false,0,0
+1657230,1449855,2024-06-14 04:08:15 -0700,2024-06-14 04:08:15 -0700,<p>Please post the exact message. The term 'memory' doesn't seem to fit. What is the 4 GB limit to which you refer? </p>,davidsk,false,0,0
