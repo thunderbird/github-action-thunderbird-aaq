@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1657236,1449830,2024-06-14 04:35:31 -0700,2024-06-14 04:35:31 -0700,"<p>Thunderbird is an email client, but you need an email account. If you no longer have a Spectrum account, you could consider some email providers, such as Gmail, Outlook, GMX, Fastmail(fee), and others. </p>",davidsk,false,0,0
 1657194,1449845,2024-06-13 22:48:43 -0700,2024-06-13 22:48:43 -0700,"<p><a href=""https://support.mozilla.org/en-US/kb/profiles-where-thunderbird-stores-user-data#w_moving-a-profile"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/profiles-where-thunderbird-stores-user-data#w_moving-a-profile</a> isn't outdated afaik </p>",wsmwk,false,0,0
 1657210,1449851,2024-06-14 01:43:45 -0700,2024-06-14 01:43:45 -0700,<p>Scarica cioè più copie dello stesso messaggio? </p>,@next,false,0,0
 1657213,1449851,2024-06-14 01:54:17 -0700,2024-06-14 01:54:17 -0700,"<p>Continua a scaricare le cartelle di messaggi, tipo tutti i messaggi, posta inviata ecc, me ne fa vedere una copia sola dei messaggi ma è costantemente in download </p>",prone.gabriele,false,0,0
@@ -8,3 +9,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1657224,1449855,2024-06-14 03:10:34 -0700,2024-06-14 03:10:34 -0700,<p>Is this the same mailbox provider? </p>,TyDraniu,false,0,0
 1657228,1449855,2024-06-14 03:43:11 -0700,2024-06-14 03:43:11 -0700,"<p>Yes, the same provider </p>",isara.catrinel.p,false,0,0
 1657230,1449855,2024-06-14 04:08:15 -0700,2024-06-14 04:08:15 -0700,<p>Please post the exact message. The term 'memory' doesn't seem to fit. What is the 4 GB limit to which you refer? </p>,davidsk,false,0,0
+1657237,1449855,2024-06-14 04:36:12 -0700,2024-06-14 04:36:12 -0700,"<p>it is not a message, it is just written the memory capacity next to inbox folder and bottom down it shows how much memory is used. i just deleted now some messages and it's down to 77 </p>",isara.catrinel.p,false,0,0
