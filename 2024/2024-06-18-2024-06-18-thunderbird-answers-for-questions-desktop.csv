@@ -1,0 +1,4 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1657854,1450175,2024-06-18 03:32:47 -0700,2024-06-18 03:32:47 -0700,"<p>I suggest you contact the addon developer, as addons are not supported by Thunderbird. It appears the last update was done in2023. </p>",davidsk,false,0,1
+1657855,1450179,2024-06-18 03:34:45 -0700,2024-06-18 03:34:45 -0700,"<p>This is your third post on this topic, and you never responded to my request for information from your last post. PLEASE keep your issues within the original post to avoid confusion and any wasted time of volunteers. </p>",davidsk,false,0,0
+1657856,1450181,2024-06-18 03:37:43 -0700,2024-06-18 03:37:43 -0700,<p>Please provide more information on why this is a Thunderbird issue. Google is known to use popups for verification. Maybe I'm missing something here. Thank you. </p>,davidsk,false,0,0
