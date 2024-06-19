@@ -8,6 +8,9 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1658108,1450266,2024-06-19 12:14:07 -0700,2024-06-19 12:14:07 -0700,<p>my first guess is that you need to put entire email address there for user id. Try that first and let us know. </p>,davidsk,false,0,1
 1658112,1450266,2024-06-19 12:25:52 -0700,2024-06-19 12:25:52 -0700,"<p>Actually, your English is quite good.&nbsp;:) </p>",davidsk,false,0,0
 1658116,1450266,2024-06-19 12:39:48 -0700,2024-06-19 12:39:48 -0700,<p>same error </p>,FranXiscopt,false,0,0
+1658118,1450266,2024-06-19 12:59:43 -0700,2024-06-19 12:59:43 -0700,<p>if turn off avast </p>,FranXiscopt,false,0,0
+1658119,1450266,2024-06-19 13:00:27 -0700,2024-06-19 13:00:27 -0700,<p>Please see screenshot attached. </p>,davidsk,false,0,1
+1658130,1450266,2024-06-19 13:13:50 -0700,2024-06-19 13:13:50 -0700,<p>another error .... </p>,FranXiscopt,false,0,0
 1658019,1450272,2024-06-19 04:52:11 -0700,2024-06-19 04:52:11 -0700,<p>Please delete the account and start over and post a screenshot of the failed setup. I request that because I was just successful. </p>,davidsk,false,0,0
 1658077,1450273,2024-06-19 10:19:53 -0700,2024-06-19 10:19:53 -0700,"<p>Try <a href=""https://addons.thunderbird.net/en-us/thunderbird/addon/standardtexter/"" rel=""nofollow"">https://addons.thunderbird.net/en-us/thunderbird/addon/standardtexter/</a> </p>",sfhowes,false,0,0
 1657995,1450274,2024-06-19 00:12:09 -0700,2024-06-19 00:12:09 -0700,"<p>""Connection to server X with username and password failed"" ** I apologize for the typo. </p>",hamsterushh,false,0,0
