@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1657969,1450256,2024-06-18 18:27:41 -0700,2024-06-18 18:27:41 -0700,"<p>The first obvious question is how do you know the content is remote?  Simply showing images for instance does not mean that they are coming from a remote location,  they may be embedded in the body of the email. </p>",MattAuSupport,false,0,0
