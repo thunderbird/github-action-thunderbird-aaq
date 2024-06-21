@@ -1,0 +1,4 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1658354,1450469,2024-06-20 19:17:57 -0700,2024-06-20 19:17:57 -0700,"<p>Duplicated here <a href=""https://support.mozilla.org/en-US/questions/1450470"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1450470</a> </p>",MattAuSupport,false,0,0
+1658353,1450470,2024-06-20 19:17:19 -0700,2024-06-20 19:17:19 -0700,"<p>And so I, and others on this forum,  have some Idea why Thunderbird is as you say is refusing,  perhaps you could share the error message being presented. </p>",MattAuSupport,false,0,0
+1658352,1450472,2024-06-20 19:15:51 -0700,2024-06-20 19:15:51 -0700,"<p>Perhaps try some of these suggestions <a href=""https://support.mozilla.org/en-US/kb/cannot-receive-messages"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/cannot-receive-messages</a> </p>",MattAuSupport,false,0,0
