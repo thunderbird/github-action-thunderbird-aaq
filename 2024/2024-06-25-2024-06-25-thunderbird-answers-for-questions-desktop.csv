@@ -1,2 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1659057,1450768,2024-06-25 03:53:13 -0700,2024-06-25 03:53:13 -0700,"<p>People here can probably assist you if you share the email provider information, such as comcast, spectrum, gmail, etc. You, of course, need to contact each email provider to secure your password. You mentioned historic emails. If these were on an IMAP account, they can be accessed, but if it was a POP account, they would have been lost unless consciously saved when rebuilding or replacing the PC. </p>",davidsk,false,0,0
 1659054,1450788,2024-06-25 02:45:04 -0700,2024-06-25 02:45:04 -0700,<p>Here's the screenshot: </p>,tania.ad,false,0,0
+1659058,1450791,2024-06-25 03:55:29 -0700,2024-06-25 03:55:29 -0700,"<p>Try highlighting the message folder, rightclicking and selecting properties and then clicking repair. That  often works. </p>",davidsk,false,0,0
