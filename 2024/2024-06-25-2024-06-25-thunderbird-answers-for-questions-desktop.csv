@@ -4,3 +4,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1659054,1450788,2024-06-25 02:45:04 -0700,2024-06-25 02:45:04 -0700,<p>Here's the screenshot: </p>,tania.ad,false,0,0
 1659058,1450791,2024-06-25 03:55:29 -0700,2024-06-25 03:55:29 -0700,"<p>Try highlighting the message folder, rightclicking and selecting properties and then clicking repair. That  often works. </p>",davidsk,false,0,0
 1659104,1450799,2024-06-25 08:24:23 -0700,2024-06-25 08:24:23 -0700,"<p>Stai usando account di tipo IMAP o di tipo POP3? Comunque se si tratta solo di poche email, prova ad salvarle dalla webmail in formato .eml che può facilmente essere importato da Thunderbird. In caso, a quando risale l'ultimo backup di cui disponi? </p>",@next,false,0,0
+1659111,1450812,2024-06-25 09:36:31 -0700,2024-06-25 09:36:31 -0700,<p>looks like the .msf files change and/or a rebuilt continuously&nbsp;? </p>,kathy.duncan,false,0,0
+1659113,1450812,2024-06-25 09:39:54 -0700,2024-06-25 09:39:54 -0700,<p>more info on files </p>,kathy.duncan,false,0,0
