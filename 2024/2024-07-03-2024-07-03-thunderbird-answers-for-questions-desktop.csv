@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1660136,1451375,2024-07-02 17:44:33 -0700,2024-07-02 17:44:33 -0700,"<p>update - used EM email to backup my IMAP account subfolders - have them on my computer aok - then used thunderbird import with option import BeckyMail - it didn't error - and it did setup all the folders - but, unfortunately they are all empty... thought i was a step closer </p>",dillenger2006,false,0,0
+1660139,1451375,2024-07-02 18:35:10 -0700,2024-07-02 18:35:10 -0700,"<p>try clicking the account name in left sidebar, rightclick and click'subscribe', as those other folders may not be subscribed. </p>",davidsk,false,0,0
