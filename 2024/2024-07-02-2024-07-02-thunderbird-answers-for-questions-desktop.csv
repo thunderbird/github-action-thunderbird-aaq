@@ -37,3 +37,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1660141,1451370,2024-07-02 18:43:35 -0700,2024-07-02 18:43:35 -0700,<p>JPEG file?  Many attachments aren't JPEG's.  What do we do with the various other file types? </p>,DorothyJ,false,0,0
 1660178,1451370,2024-07-03 03:37:15 -0700,2024-07-03 03:37:15 -0700,"<p>Notice there is only ONE place to store attachments. The arrow was to ensure you noticed it, since you couldn't find it. </p>",davidsk,false,1,0
 1660197,1451370,2024-07-03 07:40:50 -0700,2024-07-03 07:40:50 -0700,"<p>Oh!  So, they aren't saved automatically the way they were in Eudora.  Thank you! </p>",DorothyJ,false,0,0
+1660286,1451370,2024-07-04 04:14:31 -0700,2024-07-04 04:14:31 -0700,"<p>No, look in the list of attachments. You have the option to specify 'always ask' or set to automatically save. </p>",davidsk,false,0,0
