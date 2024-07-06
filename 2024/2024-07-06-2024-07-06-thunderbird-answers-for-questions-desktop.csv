@@ -44,3 +44,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1660649,1451619,2024-07-06 13:12:25 -0700,2024-07-06 13:12:25 -0700,<p>These are messages I have already read and deleted in Thunderbird. TIA Linda </p>,linbow47,false,0,0
 1660652,1451620,2024-07-06 13:31:37 -0700,2024-07-06 13:31:37 -0700,<p>Change the incoming port to 995 and the outgoing to port 587 with STARTTLS security. </p>,sfhowes,false,0,0
 1660660,1451620,2024-07-06 14:57:34 -0700,2024-07-06 14:57:34 -0700,"<p>Thanks for the response...however this did not help.  The screen shot attached shows at the bottom left....""Checking mail server capabilities"" for 3 or 4 mins. and then disappears with no error message. </p>",rhowarth,false,0,0
+1660662,1451620,2024-07-06 15:58:30 -0700,2024-07-06 15:58:30 -0700,<p>Try with Windows running in safe mode to test if a security/AV app is interfering.  They are a frequent cause of timeouts. </p>,sfhowes,false,0,0
