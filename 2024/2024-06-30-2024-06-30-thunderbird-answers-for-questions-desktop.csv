@@ -45,4 +45,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1659906,1451205,2024-06-30 18:56:05 -0700,2024-06-30 18:56:05 -0700,"<p>Yes, post the info. There are folks here with more insight than I, and with account info, you're more likely to get feedback. </p>",davidsk,false,0,0
 1659907,1451205,2024-06-30 19:06:30 -0700,2024-07-01 03:01:43 -0700,<p>Thank you. </p>,grigware,false,0,1
 1659887,1451208,2024-06-30 17:01:58 -0700,2024-06-30 17:01:58 -0700,<p>Please expand. I don't understand. </p>,davidsk,false,0,0
+1660836,1451208,2024-07-07 19:36:18 -0700,2024-07-07 19:36:18 -0700,<p>&gt; It would be nice to nice to have this facility for any type of account. </p><p>Unified inbox works for all accounts. </p>,wsmwk,false,0,0
 1659886,1451209,2024-06-30 17:01:00 -0700,2024-06-30 17:01:00 -0700,<p>On one of your screenshots in upper right is 'quick filter' with a tiny icon to its right. Click that and select 'table view' </p>,davidsk,false,0,0
