@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1660957,1451803,2024-07-08 22:16:47 -0700,2024-07-08 22:16:47 -0700,"<p>When you say ""crash"" do you mean ""not responding"", as in your previous report at <a href=""https://support.mozilla.org/en-US/questions/1429345&nbsp;?"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1429345&nbsp;?</a> </p>",wsmwk,false,0,0
