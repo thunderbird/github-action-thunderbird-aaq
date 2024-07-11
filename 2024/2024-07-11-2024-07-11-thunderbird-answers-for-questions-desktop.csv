@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1661295,1452174,2024-07-11 00:19:10 -0700,2024-07-11 00:19:10 -0700,"<p>This is only for passwords, you can skip the monit and use Thunderbird without entering anything.  </p><p>There should be a description in Settings similar to this: <strong>A Primary Password protects all your passwords.</strong>   </p><p>Please read this article explaining what does it do: <a href=""/en-US/kb/protect-your-thunderbird-passwords-primary-password"" rel=""nofollow"">Protect your Thunderbird passwords with a Primary Password</a>. </p>",TyDraniu,false,0,0
+1661293,1452186,2024-07-11 00:15:46 -0700,2024-07-11 00:15:46 -0700,<p>I forgot to mention I use version 115.12.2 (64-bit) </p>,m.soutopico,false,0,0
