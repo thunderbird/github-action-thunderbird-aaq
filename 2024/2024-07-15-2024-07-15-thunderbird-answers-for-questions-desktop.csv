@@ -30,4 +30,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1661999,1452806,2024-07-15 03:46:07 -0700,2024-07-15 03:46:07 -0700,<p>i see server settings but which item on that page? </p>,gooddogs1,false,0,0
 1662001,1452806,2024-07-15 03:49:38 -0700,2024-07-15 03:49:38 -0700,<p>Is the account POP or IMAP? </p>,davidsk,false,0,0
 1662003,1452806,2024-07-15 03:55:32 -0700,2024-07-15 03:55:32 -0700,<p>it's an imap </p>,gooddogs1,false,0,0
+1662042,1452810,2024-07-15 06:19:43 -0700,2024-07-15 06:19:43 -0700,<p>Afbeelding ontdaan van privacyzaken. Nieuwe versie hier toegevoegd. </p>,Fjoerfoks,false,0,0
+1662043,1452810,2024-07-15 06:22:26 -0700,2024-07-15 06:22:26 -0700,"<p>Klik eens met de rechtermuisknop op 'Postvak IN' en selecteer Map comprimeren. Komen er nu berichten bij, of wordt het juiste aantal getoond? </p>",Mozilla-assistent,false,0,0
 1662033,1452813,2024-07-15 05:40:29 -0700,2024-07-15 05:40:29 -0700,"<p>Hola,  No entiendo como se puede bloquear el acceso a Internet cuando la cuenta esta llena, queras decir el acceso a la cuenta de correo? Si es una cuenta Imap por lo general los servidores de correo tienen una interfaz web para administrar o ver los correos tendrias que contactar a tu proveedor del servicio de correo. Saludos </p>",pcp04,false,0,0
