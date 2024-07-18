@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1662583,1453330,2024-07-17 23:20:52 -0700,2024-07-17 23:20:52 -0700,"<p>hai già fatto la migrazione ad Oauth? -&gt; <a href=""https://support.mozilla.org/it/kb/autenticazione-oauth-microsoft-thunderbird-2023"" rel=""nofollow"">https://support.mozilla.org/it/kb/autenticazione-oauth-microsoft-thunderbird-2023</a> Qual è l'esatto messaggio di errore che compare? </p>",@next,false,0,0
