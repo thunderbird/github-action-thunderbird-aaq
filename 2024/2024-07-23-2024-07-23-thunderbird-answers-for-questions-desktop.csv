@@ -40,3 +40,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1663728,1454188,2024-07-23 11:37:37 -0700,2024-07-23 11:37:37 -0700,"<p>Mi dà errore password o contatto mail, ma sono giusti </p>",pagajonny,false,0,0
 1663738,1454188,2024-07-23 13:16:47 -0700,2024-07-23 13:16:47 -0700,<p>Si ho capito ma ho chiesto di riportare <strong>esattamente</strong> il messaggio di errore che compare </p>,@next,false,0,0
 1663746,1454188,2024-07-23 13:47:24 -0700,2024-07-23 13:47:24 -0700,"<p>Non mi dà nessun errore mi esce solo impossibile connettere al server  e mi dice che la password o email può essere sbagliata, ma è tutto giusto </p>",pagajonny,false,0,0
+1663755,1454221,2024-07-23 14:05:16 -0700,2024-07-23 14:05:16 -0700,<p>Can you post a screenshot of this? </p>,davidsk,false,0,0
