@@ -1,3 +1,7 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1664466,1454838,2024-07-26 20:31:00 -0700,2024-07-26 20:31:00 -0700,<p>well lets start with the folder name.  Some just don't work on some operating systems. </p>,MattAuSupport,false,0,0
+1664465,1454839,2024-07-26 20:30:05 -0700,2024-07-26 20:30:05 -0700,"<p>See <a href=""https://support.mozilla.org/en-US/kb/cannot-receive-messages"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/cannot-receive-messages</a> </p>",MattAuSupport,false,0,0
 1664463,1454843,2024-07-26 20:23:20 -0700,2024-07-26 20:23:20 -0700,"<p>Open Account Settings, select an account (except Local Folders or the Default account), then Account Actions at the bottom of the left pane, Remove Account. </p>",sfhowes,false,0,0
+1664468,1454843,2024-07-26 20:35:55 -0700,2024-07-26 20:35:55 -0700,"<p>Thanks but yeah, I want to remove the default account </p>",forstori,false,0,0
 1664462,1454844,2024-07-26 20:21:11 -0700,2024-07-26 20:21:11 -0700,"<p>The set of open tabs at closing are stored in session.json.  If it becomes corrupted, close TB, open the profile folder, delete or rename the json file, then restart TB a few times and see if the tab set is retained. </p><p>Check also that you don't have an app like CCLeaner that resets some TB settings. </p>",sfhowes,false,0,0
+1664469,1454844,2024-07-26 20:50:14 -0700,2024-07-26 20:50:14 -0700,<p>no didn't work </p>,grizzlysmit,false,0,0
