@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1664656,1454969,2024-07-27 19:51:55 -0700,2024-07-27 19:51:55 -0700,"<p>Yes, you should be able to. Copy the profile into the following location. </p><p>in Windows, TB-profile sub-folders are under below folder:   ""%APPDATA%\Thunderbird\Profiles\""   thats usually located here:   ""C:\Users\&lt;WindowsUserName&gt;\AppData\Roaming\Thunderbird\Profiles\""   </p><p>Make sure it's set as the default profile in Thunderbird. </p>",FoxT3cH,false,0,0
