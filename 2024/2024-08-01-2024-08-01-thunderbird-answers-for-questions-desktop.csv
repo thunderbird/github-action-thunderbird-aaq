@@ -6,3 +6,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1665613,1455750,2024-07-31 22:52:30 -0700,2024-07-31 22:52:30 -0700,<p>Non ho capito se sul server le hai cancellate o sono ancora presenti? Il fatto che siano in grigio e corsivo mi fa pensare che siano ancora presenti sul server e che tu stia usando IMAP. </p>,@next,false,0,0
 1665619,1455754,2024-08-01 01:07:44 -0700,2024-08-01 01:07:44 -0700,<p>Non riesci a leggerli in che senso? Non si aprono? Puoi aggiungere uno screenshot del problema? (oscurando i dati privati) </p>,@next,false,0,0
 1665622,1455761,2024-08-01 01:37:30 -0700,2024-08-01 01:37:30 -0700,"<p>A quando risale l’ultimo backup di cui disponi? Le mail che non visualizzi, sono ancora presenti sul server? </p>",@next,false,0,0
+1665625,1455771,2024-08-01 03:18:29 -0700,2024-08-01 03:18:29 -0700,<p>I had to install a dictionary to get it to work. </p>,thepillenwerfer,false,0,0
