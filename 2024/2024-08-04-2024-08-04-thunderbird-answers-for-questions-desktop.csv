@@ -33,7 +33,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1666264,1456317,2024-08-04 09:00:33 -0700,2024-08-04 09:00:33 -0700,"<p>-click alt key to see menu bar if it's not visible - then, click view&gt;layout and tick 'message list header' - then, lick the little icon to the right of the 'quick filter' button and select 'table view' </p>",davidsk,false,1,0
 1666287,1456317,2024-08-04 09:20:07 -0700,2024-08-04 09:20:07 -0700,"<p>David, you have made my day. All back to normal. Have kept a note of your answer in my 'How to' file. Thank you very much   Anthea  x x </p>",Swann,false,0,0
 1666290,1456317,2024-08-04 09:26:56 -0700,2024-08-04 09:26:56 -0700,<p>You are very welcome.&nbsp;:) </p>,davidsk,false,0,0
-1666394,1456319,2024-08-04 13:55:39 -0700,2024-08-04 13:55:39 -0700,"<p>Stuck with what ""update message""? </p>",wsmwk,false,0,0
+1666394,1456319,2024-08-04 13:55:39 -0700,2024-08-04 13:55:39 -0700,"<p>Stuck with what ""update message""? </p>",wsmwk,false,0,1
 1666248,1456320,2024-08-04 08:00:25 -0700,2024-08-04 08:00:25 -0700,"<p>when you are in the compose window and select 'contacts', you are able to display them in a different sequence. The top line in contact list has the ability to reverse the sort order. </p>",davidsk,false,0,0
 1666246,1456326,2024-08-04 07:27:56 -0700,2024-08-04 07:27:56 -0700,<p>I just discovered same problem on my laptop. Different version of Windows (7) and different version of Thunderbird.  Thank you to anyone who can help </p>,rjmail,false,0,0
 1666268,1456327,2024-08-04 09:03:51 -0700,2024-08-04 09:03:51 -0700,<p>what is the DVHH mailing list and what is it's relation to Thunderbird? </p>,davidsk,false,0,0
