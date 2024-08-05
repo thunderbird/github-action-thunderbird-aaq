@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1666456,1456410,2024-08-04 23:45:52 -0700,2024-08-04 23:45:52 -0700,"<p>Se si tratta di caselle gestite da Aruba, un utente ha segnalato che la richiesta della password è dovuta alla sincronizzazione del calendario e non alla casella di posta in se. L'informazione gli è stata girata dal supporto di Aruba. Qui i dettagli -&gt; <a href=""https://support.mozilla.org/it/questions/1451357"" rel=""nofollow"">https://support.mozilla.org/it/questions/1451357</a> </p>",@next,false,0,0
