@@ -29,7 +29,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1664309,1454721,2024-07-26 05:40:38 -0700,2024-07-26 05:40:38 -0700,"<p>If message list pane shows columns, click the little icon on the right of the column headings. </p>",davidsk,false,0,0
 1664380,1454721,2024-07-26 09:31:50 -0700,2024-07-26 09:31:50 -0700,<p>I don't appear to have an icon on the column header - can you please give more detail? </p>,njwardle,false,0,0
 1664383,1454721,2024-07-26 09:39:17 -0700,2024-07-26 09:39:17 -0700,<p>see attached </p>,davidsk,false,0,0
-1664386,1454721,2024-07-26 09:49:04 -0700,2024-07-26 09:49:04 -0700,"<p>If your version is 128, see Settings/General/Reading &amp; Display, Message List. </p>",sfhowes,false,4,0
+1664386,1454721,2024-07-26 09:49:04 -0700,2024-07-26 09:49:04 -0700,"<p>If your version is 128, see Settings/General/Reading &amp; Display, Message List. </p>",sfhowes,false,5,0
 1664310,1454724,2024-07-26 05:41:25 -0700,2024-07-26 05:41:25 -0700,<p>What do you have the setting for opening messages set to? </p>,davidsk,false,0,0
 1664313,1454724,2024-07-26 05:47:21 -0700,2024-07-26 05:47:21 -0700,<p>These. </p>,project8,false,0,0
 1664323,1454724,2024-07-26 06:23:39 -0700,2024-07-26 06:23:39 -0700,"<p>All I can guess is that something is touching the messages, possibly a filter. </p>",davidsk,false,0,0
