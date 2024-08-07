@@ -21,8 +21,9 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1666922,1456872,2024-08-07 07:53:49 -0700,2024-08-07 07:53:49 -0700,"<p>super, thanks, solved! </p>",lucia16,false,0,0
 1666923,1456872,2024-08-07 07:54:38 -0700,2024-08-07 07:54:38 -0700,<p>You're welcome.&nbsp;:) </p>,davidsk,false,0,0
 1666926,1456877,2024-08-07 08:18:56 -0700,2024-08-07 09:57:50 -0700,"<p>I just noticed that Thunderbird is already offering to upgrade me to version 116, although I can't see if it'd fix these problems - unless they're related to the digital signature fixes or the GnuPG fixes (whatever they are..?) </p><p>I'll consider updating to ver 116 (unless it's possible to try a  roll-back first?) </p>",john391,false,0,0
-1666921,1456880,2024-08-07 07:53:12 -0700,2024-08-07 07:53:12 -0700,<p>It is on my menu. Please recheck. Thanks. </p>,davidsk,false,0,0
-1666920,1456884,2024-08-07 07:49:28 -0700,2024-08-07 07:49:28 -0700,<p>Try changing the theme at addons&amp;themes to see if another theme is a better fit. </p>,davidsk,false,0,0
+1666921,1456880,2024-08-07 07:53:12 -0700,2024-08-07 07:53:12 -0700,<p>It is on my menu. Please recheck. Thanks. </p>,davidsk,false,0,1
+1666920,1456884,2024-08-07 07:49:28 -0700,2024-08-07 07:49:28 -0700,<p>Try changing the theme at addons&amp;themes to see if another theme is a better fit. </p>,davidsk,false,1,0
+1666957,1456884,2024-08-07 10:19:57 -0700,2024-08-07 10:19:57 -0700,"<p>Thanks, Dark works. Auto and Light don't. Wonder why it changed?! </p>",jax1,false,0,0
 1666941,1456909,2024-08-07 08:57:40 -0700,2024-08-07 08:57:40 -0700,<p>1. Odstráňte z Thunderbirdu elektronický podpis 2. Reštartujte Thunderbird 3. Importujte do Thunderbirdu elektronický podpis (ten odstránený) 4. Reštartujte Thunderbird </p>,Ansamb,false,0,0
 1666942,1456912,2024-08-07 09:00:30 -0700,2024-08-07 09:00:30 -0700,"<p>I suggest you post a screenshot of your SMTP server pane, as that may open up suggestions. Thank you, </p>",davidsk,false,1,0
 1666945,1456912,2024-08-07 09:05:58 -0700,2024-08-07 09:05:58 -0700,<p>Thank you for the quick response.  Attached are my SMTP settings.  I have no issues sending emails from my phone (Android) just the Thunderbird app on my laptop started giving me this error this morning. </p><p>Dave </p>,84biarritz,false,0,0
