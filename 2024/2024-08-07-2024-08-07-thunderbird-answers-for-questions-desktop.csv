@@ -17,5 +17,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1666918,1456872,2024-08-07 07:41:00 -0700,2024-08-07 07:41:00 -0700,<p>look for 'use name only' in settings&gt;general </p>,davidsk,false,0,0
 1666922,1456872,2024-08-07 07:53:49 -0700,2024-08-07 07:53:49 -0700,"<p>super, thanks, solved! </p>",lucia16,false,0,0
 1666923,1456872,2024-08-07 07:54:38 -0700,2024-08-07 07:54:38 -0700,<p>You're welcome.&nbsp;:) </p>,davidsk,false,0,0
+1666926,1456877,2024-08-07 08:18:56 -0700,2024-08-07 08:18:56 -0700,"<p>I just noticed that Thunderbird is already offering to upgrade me to version 116, although I can't see if it'd fix these problems - unless they're related to the digital signature fixes or the GnuPG fixes (whatever they are..?) </p><p>If it's not possible to roll-back, should I consider updating to ver 116? </p>",john391,false,0,0
 1666921,1456880,2024-08-07 07:53:12 -0700,2024-08-07 07:53:12 -0700,<p>It is on my menu. Please recheck. Thanks. </p>,davidsk,false,0,0
 1666920,1456884,2024-08-07 07:49:28 -0700,2024-08-07 07:49:28 -0700,<p>Try changing the theme at addons&amp;themes to see if another theme is a better fit. </p>,davidsk,false,0,0
