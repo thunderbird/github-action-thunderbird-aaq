@@ -2,5 +2,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1667066,1457003,2024-08-07 21:06:33 -0700,2024-08-07 21:06:33 -0700,"<p>See <a href=""https://support.mozilla.org/en-US/kb/microsoft-oauth-authentication-and-thunderbird-202"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/microsoft-oauth-authentication-and-thunderbird-202</a> </p>",sfhowes,false,0,0
 1667065,1457010,2024-08-07 21:04:49 -0700,2024-08-07 21:04:49 -0700,"<p>See <a href=""https://support.mozilla.org/en-US/questions/1456673"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1456673</a> </p>",sfhowes,false,0,0
 1667064,1457011,2024-08-07 21:03:24 -0700,2024-08-07 21:03:24 -0700,<p>If you hover on the star it will show Default account. </p>,sfhowes,false,1,0
-1667076,1457011,2024-08-07 22:43:01 -0700,2024-08-07 22:43:01 -0700,"<p>Thanks for that, I have now set another account as the default account. </p>",Hawkeye58,false,0,0
+1667076,1457011,2024-08-07 22:43:01 -0700,2024-08-07 22:43:01 -0700,"<p>Thanks for that, I have now set another account as the default account. </p>",RedJock_46,false,0,0
 1667063,1457018,2024-08-07 20:58:29 -0700,2024-08-07 20:58:29 -0700,"<p>If it's an IMAP account, sent messages are automatically copied to Sent Mail, so that is the folder that should be subscribed. </p>",sfhowes,false,0,0
