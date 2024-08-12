@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1667911,1457788,2024-08-12 03:44:00 -0700,2024-08-12 03:44:00 -0700,"<p>Per quel poco che si vede nella foto, chi ti ha inoltrato l'email ha codificato male la parte inoltrata. Senza poter analizzare il sorgente però non posso dire di più. </p>",@next,false,0,0
+1667917,1457788,2024-08-12 04:18:00 -0700,2024-08-12 04:18:00 -0700,<p>Grazie per la rapidissima risposta. Come posso inoltrare quanto richiesto? Silvio </p>,s.desiderati,false,0,0
 1667913,1457792,2024-08-12 03:46:14 -0700,2024-08-12 03:46:14 -0700,<p>Ma la nuova mail appena arrivata rientra nei criteri del filtro attivo? Puoi fare un esempio più chiaro di cosa fai e di cosa vorresti accadesse? Quale versione di Thunderbird stai usando? </p>,@next,false,0,0
 1667909,1457799,2024-08-12 03:40:23 -0700,2024-08-12 03:40:23 -0700,"<p>Cosa significa ""non parte""? Compare un messaggio di errore? </p>",@next,false,0,0
 1667912,1457799,2024-08-12 03:46:14 -0700,2024-08-12 03:46:14 -0700,"<p>Quando scrivo qualcosa in Oggetto, e invio, ricevo un avviso di ""Mail refused"". Se lascio il campo Oggetto vuoto, la mail parte regolarmente </p>",marisa.bucchi,false,0,0
