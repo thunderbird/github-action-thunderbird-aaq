@@ -42,3 +42,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1667998,1457847,2024-08-12 10:08:33 -0700,2024-08-12 10:08:33 -0700,<p>You are right it is a windows password and I never set it up. I still do know why tb would use it? Thank you </p>,GeneWo,false,0,0
 1667990,1457853,2024-08-12 09:45:23 -0700,2024-08-12 09:45:23 -0700,"<p>Are these NSTMP files? If so, just delete them. </p>",davidsk,false,0,0
 1667997,1457859,2024-08-12 10:02:54 -0700,2024-08-12 10:03:34 -0700,"<p>Opps, sorry my HTML code was acted upon above.  Try again: </p><p>img src=""EmbeddedImages-3/0.jpg"" class="""" width=""800"" </p><pre>       height=""682"" </pre>",rayandrews,false,0,0
+1668012,1457870,2024-08-12 10:56:58 -0700,2024-08-12 10:56:58 -0700,"<p>See <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1855900"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1855900</a> </p>",sfhowes,false,0,0
