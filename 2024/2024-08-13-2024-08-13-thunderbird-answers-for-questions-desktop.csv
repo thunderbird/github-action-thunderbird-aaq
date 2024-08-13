@@ -10,6 +10,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1668154,1458042,2024-08-13 08:39:46 -0700,2024-08-13 08:39:46 -0700,<p>It will also fail and tell me that it's failed and to submit an error report.  This is getting frustrating because I need to get into my email. </p>,j.lanham,false,0,0
 1668168,1458051,2024-08-13 10:25:38 -0700,2024-08-13 10:25:38 -0700,"<p>Right-click an address book, Export..., Save as type, vCard (*.vcf).  To export single contacts as vCards, use the CardBook add-on. </p>",sfhowes,false,0,0
 1668157,1458056,2024-08-13 09:33:43 -0700,2024-08-13 09:33:43 -0700,"<p>Domanda duplicata -&gt; <a href=""https://support.mozilla.org/it/questions/1457148"" rel=""nofollow"">https://support.mozilla.org/it/questions/1457148</a> </p>",@next,false,0,0
+1668195,1458057,2024-08-13 13:16:26 -0700,2024-08-13 13:16:26 -0700,<p>This usually works:  Exit Thunderbird if running. </p><pre>   click windows key and 'r' key    Enter: thunderbird.exe -P --allow-downgrade    click on 'OK' </pre>,davidsk,false,0,0
 1668167,1458058,2024-08-13 10:20:44 -0700,2024-08-13 10:20:44 -0700,"<p>In TB 128, the colour of buttons and other items is taken from the Windows Settings accent colour, if the TB theme is the system theme.  Switch to the light theme to apply standard TB colours. </p>",sfhowes,false,0,0
 1668165,1458065,2024-08-13 10:18:03 -0700,2024-08-13 10:18:03 -0700,<p>Set View/Headers to Normal.  Press Alt if the Menu Bar with View is hidden. </p>,sfhowes,false,0,0
 1668187,1458070,2024-08-13 11:56:01 -0700,2024-08-13 11:56:01 -0700,<p>is the server set to port 587 and Oauth2 and StARTTLS? </p>,davidsk,false,0,0
@@ -21,3 +22,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1668184,1458082,2024-08-13 11:47:30 -0700,2024-08-13 11:47:30 -0700,<p>Ah! Would a fraud report be the way to go? </p>,dencolngaming,false,0,0
 1668185,1458084,2024-08-13 11:51:18 -0700,2024-08-13 11:51:18 -0700,<p>Sorry - bad typing. Why does Thunderbird not accept my password and repeatedly asks for it for all hotmail accounts? I enter the password (repeatedly) and sometimes it will accept it but mostly not. How can this be permanently fixed? </p>,ahaideas,false,0,0
 1668188,1458087,2024-08-13 11:56:54 -0700,2024-08-13 11:56:54 -0700,<p>Is this the Primary Password or an account password? </p>,davidsk,false,0,0
+1668197,1458096,2024-08-13 13:17:28 -0700,2024-08-13 13:17:28 -0700,<p>I suggest logging on to online account and changing your contact information. </p>,davidsk,false,0,0
