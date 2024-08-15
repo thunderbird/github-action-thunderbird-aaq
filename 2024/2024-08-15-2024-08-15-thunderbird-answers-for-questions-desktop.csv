@@ -12,3 +12,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1668415,1458415,2024-08-15 06:33:44 -0700,2024-08-15 06:33:44 -0700,"<p>if you downloaded from <a href=""http://thunderbird.net"" rel=""nofollow"">thunderbird.net</a>, it is safe. </p>",davidsk,false,0,0
 1668418,1458422,2024-08-15 06:49:08 -0700,2024-08-15 06:49:08 -0700,"<p>Myslím si, že bude stačiť aktualizovať Thunderbird na najnovšiu verziu. Nes je to  verzia 128.1.0 </p>",Ansamb,false,0,0
 1668414,1458429,2024-08-15 06:32:37 -0700,2024-08-15 06:32:37 -0700,"<p>please post screenshot of your SMTP server pane setup and the complete error message, </p>",davidsk,false,0,0
+1668439,1458472,2024-08-15 10:12:28 -0700,2024-08-15 10:12:28 -0700,"<p>Appears to have been an issue with the ""Check and Send"" add-in. When I disabled it, emails sent fine. </p>",geo-mech,false,0,0
