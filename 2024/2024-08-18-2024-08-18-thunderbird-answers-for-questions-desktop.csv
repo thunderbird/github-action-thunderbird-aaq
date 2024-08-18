@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1668865,1458869,2024-08-17 19:14:02 -0700,2024-08-17 19:14:02 -0700,"<p>To answer my own post..... Unfortunately, I don't think that it is possible? </p><p>However, I can create a Saved Search Folder that exclude messages that matches the search criteria. (Although that causes other issues...) </p>",viking2,false,0,0
