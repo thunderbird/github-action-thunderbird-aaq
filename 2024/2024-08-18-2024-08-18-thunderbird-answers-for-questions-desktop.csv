@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1668865,1458869,2024-08-17 19:14:02 -0700,2024-08-17 19:14:02 -0700,"<p>To answer my own post..... Unfortunately, I don't think that it is possible? </p><p>However, I can create a Saved Search Folder that exclude messages that matches the search criteria. (Although that causes other issues...) </p>",viking2,false,0,0
+1668926,1458900,2024-08-18 04:38:41 -0700,2024-08-18 04:38:41 -0700,"<p>I believe it is an addon. Click the hamburger menu in upper right, select addons&amp;themes, and it should appear there. Just remove it. </p>",davidsk,false,0,0
