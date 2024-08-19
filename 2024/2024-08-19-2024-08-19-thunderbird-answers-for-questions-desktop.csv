@@ -45,3 +45,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1669242,1459299,2024-08-19 10:16:54 -0700,2024-08-19 10:16:54 -0700,"<p>Hello </p><p>In addition <a href=""https://support.mozilla.org/en-US/questions/1458245"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1458245</a> </p>",Agentvirtuel,false,0,0
 1669269,1459307,2024-08-19 12:15:08 -0700,2024-08-19 12:15:08 -0700,<p>Right-click a message in the thread pane - Organize - Convert To - Event </p>,christ1,false,0,0
 1669295,1459327,2024-08-19 14:09:44 -0700,2024-08-19 14:09:44 -0700,"<p>Take the same info you used to set the account up (server name, smtp server name, port numbers, authentication, etc. and the phone's email app has setup to allow entry of that data. That is, the info for PC is the same for phone. </p>",davidsk,false,0,0
+1669302,1459344,2024-08-19 15:29:33 -0700,2024-08-19 15:29:33 -0700,<p>Problem resolved </p>,sharyn.felton,false,0,0
