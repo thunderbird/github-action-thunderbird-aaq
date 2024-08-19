@@ -12,4 +12,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1669129,1459207,2024-08-19 01:01:08 -0700,2024-08-19 01:01:08 -0700,<p>Quale messaggio di errore compare esattamente? </p>,@next,false,0,0
 1669131,1459207,2024-08-19 01:07:55 -0700,2024-08-19 01:07:55 -0700,<p>tempo di connessione in  alice fuori tempo massimo </p>,d.scorrano,false,0,0
 1669135,1459207,2024-08-19 01:22:51 -0700,2024-08-19 01:22:51 -0700,<p>Allora devi chiedere a TIM/Alice.  Se il server non risponde Thunderbird non può ne inviare ne ricevere messaggi. </p>,@next,false,0,0
+1669148,1459207,2024-08-19 02:20:17 -0700,2024-08-19 02:20:17 -0700,"<p>ma il server alice funziona perfettamente, Thuderbird invia i messaggi regolarmente </p>",d.scorrano,false,0,0
 1669144,1459215,2024-08-19 01:53:57 -0700,2024-08-19 01:53:57 -0700,"<p>Sorry, forgot to say, that it's the Windows desktop version I'm using. </p>",rumbero49,false,0,0
