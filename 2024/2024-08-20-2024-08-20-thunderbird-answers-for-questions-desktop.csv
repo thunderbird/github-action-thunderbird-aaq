@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1669324,1459356,2024-08-19 19:22:44 -0700,2024-08-19 19:22:44 -0700,"<p>The port 587 is correct, but it might work better with the connection security set to STARTTLS, the standard for port 587.  But some users have succeeded with SSL/TLS on 587, which only seems to be an option with Spectrum and no other provider. </p>",sfhowes,false,0,0
+1669322,1459368,2024-08-19 19:17:25 -0700,2024-08-19 19:17:25 -0700,"<p>When the Message List Header is enabled from View/Layout, there is an icon next to the Quick Filter button that allows switching between Table and Cards View. </p>",sfhowes,false,0,0
