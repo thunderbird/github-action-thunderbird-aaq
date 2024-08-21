@@ -1,8 +1,8 @@
 # github-action-thunderbird-aaq
 github action to get all the Thunderbird SUMO forum questions aka Ask a Question or AAQ
 
-### 2024-08-21 A better way to open a day's questions (that skips the CSV header row)
-* to skip the CSV header row use the following option: `--headerless-csv-output`
+### 2024-08-21 A better way to open a day's questions (that doesn't output the CSV header row)
+* to not output the CSV header row, use the following option: `--headerless-csv-output`
 ```bash
  mlr --csv --headerless-csv-output put -f ../make-question-link.mlr \
 then cut -f link \
