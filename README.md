@@ -1,6 +1,14 @@
 # github-action-thunderbird-aaq
 github action to get all the Thunderbird SUMO forum questions aka Ask a Question or AAQ
 
+### 2024-08-21 A better way to open a day's questions
+```bash
+mlr --csv --headerless-csv-output put -f ../make-question-link.mlr \
+then --csv cut -f link \
+-f 2024-08-20-2024-08-20-thunderbird-creator-answers-desktop-all-locales.csv \
+| xargs -n 1 -I % sh -c 'sleep 5; open %;' #5 seconds is better than 10, 10 is too long
+```
+
 ### 2023-12-11 bundle install if you change the Gemfile
 ```bash
 # REMINDER :-) if you change the gemfile, bundle install!!!!!
