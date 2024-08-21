@@ -2,3 +2,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1669510,1459558,2024-08-20 19:05:24 -0700,2024-08-20 19:05:24 -0700,<p>My Version of Thunderbird is: 128.1.0esr (64-bit) on a Windows 11 computer. </p>,rauf.hammad,false,0,0
 1669512,1459558,2024-08-20 19:07:00 -0700,2024-08-20 19:13:38 -0700,<p>My Version of Thunderbird is: 128.1.0esr (64-bit) on a Windows 11 computer. </p>,rauf.hammad,false,0,0
 1669513,1459558,2024-08-20 19:10:11 -0700,2024-08-20 19:14:04 -0700,<p>My Version of Thunderbird is: 128.1.0esr (64-bit) on a Windows 11 computer. </p>,rauf.hammad,false,0,0
+1669525,1459565,2024-08-20 21:53:59 -0700,2024-08-20 21:53:59 -0700,"<p>Added: It says ""sending of password did not succeed"".  I'm able to receive email on TB but not send it from my Comcast account. </p>",JudsonMcCranie,false,0,0
