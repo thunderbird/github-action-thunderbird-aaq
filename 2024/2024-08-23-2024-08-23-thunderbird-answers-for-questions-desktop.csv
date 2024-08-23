@@ -8,3 +8,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1670041,1459950,2024-08-23 02:07:01 -0700,2024-08-23 02:07:01 -0700,"<p>Fare riferimento qui -&gt; <a href=""https://forum.mozillaitalia.org/index.php?topic=79081.0"" rel=""nofollow"">https://forum.mozillaitalia.org/index.php?topic=79081.0</a> </p>",@next,false,0,0
 1670043,1459955,2024-08-23 02:11:01 -0700,2024-08-23 02:11:01 -0700,<p>Puoi inserire uno screenshoot dell'intera colonna sinistra dove sia visibile il problema (oscurando i dati privati)? </p>,@next,false,0,0
 1670046,1459955,2024-08-23 02:19:32 -0700,2024-08-23 02:19:32 -0700,<p>eccolo </p>,dir.lullibrico,false,0,0
+1670052,1459955,2024-08-23 02:49:23 -0700,2024-08-23 02:49:23 -0700,<p>Con quella striscia non posso verificare nulla. Chiedevo l'intera colonna per tutta l'altezza della finestra e per una larghezza sufficiente a vedere le impostazioni attive </p>,@next,false,0,0
+1670054,1459960,2024-08-23 02:51:30 -0700,2024-08-23 02:51:30 -0700,<p>Puoi dirmi esattamente quali procedure ha usato per l'esportazione e per l'importazione? </p>,@next,false,0,0
