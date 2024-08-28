@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1671119,1460739,2024-08-27 17:30:27 -0700,2024-08-27 17:30:27 -0700,"<p>Press Alt-e and choose Account Settings from the drop-down menu that appears.  At the bottom of the left-hand column of the screen that opens is am ""Account Actions"" button.  Click that then Add Mail Account. </p>",thepillenwerfer,false,0,0
 1671160,1460749,2024-08-27 21:55:27 -0700,2024-08-27 21:55:27 -0700,<p>Le trovi nella cartella Posta Inviata </p>,@next,false,0,0
+1671174,1460775,2024-08-28 00:16:32 -0700,2024-08-28 00:16:32 -0700,<p>Cosa significa che riesci a visualizzarli? Selezioni l'email ma il contenuto è vuoto? Oppure le mail non sono neppure elencate? </p><p>L'account è di tipo POP3 o IMAP? </p><p>Eventualmente a quando risale l'ultimo backup di cui disponi? </p>,@next,false,0,0
