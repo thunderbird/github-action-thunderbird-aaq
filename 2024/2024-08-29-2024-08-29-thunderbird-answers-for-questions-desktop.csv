@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1671410,1460937,2024-08-28 18:08:43 -0700,2024-08-28 18:08:43 -0700,"<p>Probably the first step in preventing spam &amp; scam is don't post your email address in a public forum, as you just did. </p>",steven_brown,false,1,0
+1671440,1460940,2024-08-28 20:18:38 -0700,2024-08-28 20:18:38 -0700,"<p>On the account setup window, click Manual config. and use the settings given here: </p><p><a href=""https://reagancom.zendesk.com/hc/en-us/articles/30010048230931-General-Email-Client-IMAP-Settings"" rel=""nofollow"">https://reagancom.zendesk.com/hc/en-us/articles/30010048230931-General-Email-Client-IMAP-Settings</a> </p>",sfhowes,false,0,0
