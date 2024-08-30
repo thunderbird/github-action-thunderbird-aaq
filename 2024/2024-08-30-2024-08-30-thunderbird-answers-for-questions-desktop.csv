@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1671751,1461122,2024-08-29 22:57:27 -0700,2024-08-29 22:57:27 -0700,<p>Francamente io non ho capito nulla... Se puoi spiegare passo a passo cosa hai fatto e che problema vuoi risolvere... </p>,@next,false,0,0
+1671761,1461147,2024-08-30 01:10:20 -0700,2024-08-30 01:10:20 -0700,"<p>Vuol dire che il server non riconosce la tua password. Se hai cambiato password la devi aggiornare. Se il tuo provider ha cambiato configurazione, devi aggiornare le impostazioni Altrimenti devi segnalare il problema al gestore della tua casella email </p>",@next,false,0,0
