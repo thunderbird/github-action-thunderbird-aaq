@@ -49,4 +49,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1672416,1461657,2024-09-02 11:41:57 -0700,2024-09-02 11:41:57 -0700,<p>View - Layout - Classic View </p>,bbawt1,false,0,0
 1672417,1461657,2024-09-02 12:01:41 -0700,2024-09-02 12:01:41 -0700,"<p>It may be that the dividing line from list of messages to content is at bottom of screen. Move cursor to bottom of screen, click left mouse and drag upwards to show content. </p>",davidsk,false,0,0
 1672412,1461660,2024-09-02 11:20:44 -0700,2024-09-02 11:20:44 -0700,"<p>Do you have thunderbird on another PC? If so, depending on the email account, you may be able to copy from that PC. Tell us more. </p>",davidsk,false,0,0
+1672422,1461660,2024-09-02 12:51:36 -0700,2024-09-02 12:51:36 -0700,"<p>No, i dont have thunderbird on another pc and i need my email for work. </p>",1337lillan,false,0,0
+1672423,1461660,2024-09-02 12:54:45 -0700,2024-09-02 12:54:45 -0700,"<p>In that case, you should contact your email provider to reset the password. </p>",davidsk,false,0,0
 1672418,1461661,2024-09-02 12:04:53 -0700,2024-09-02 12:04:53 -0700,"<p>Please restate your issue and someone here will attempt to assist you, Thank you. </p>",davidsk,false,0,0
