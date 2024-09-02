@@ -12,3 +12,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1672299,1461555,2024-09-02 00:41:17 -0700,2024-09-02 00:41:17 -0700,"<p>Domanda duplicata -&gt; <a href=""https://support.mozilla.org/it/questions/1458523"" rel=""nofollow"">https://support.mozilla.org/it/questions/1458523</a> </p>",@next,false,0,0
 1672304,1461568,2024-09-02 01:59:38 -0700,2024-09-02 01:59:38 -0700,<p>Kan de agenda niet afdrukken </p>,michelbollen,false,0,0
 1672306,1461569,2024-09-02 02:01:13 -0700,2024-09-02 02:01:13 -0700,<p>Ti mostra qualche messaggio di errore? </p>,@next,false,0,0
+1672314,1461578,2024-09-02 02:52:17 -0700,2024-09-02 02:52:17 -0700,"<p>Ho risolto, sono andato su visualizza -&gt; discussioni -&gt; ignorate, poi ho premuto nuovamente K  e sono ricomparse </p>",vita.mail.bs,false,0,0
