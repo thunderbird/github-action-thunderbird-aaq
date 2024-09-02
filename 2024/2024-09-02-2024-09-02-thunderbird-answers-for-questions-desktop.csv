@@ -52,4 +52,9 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1672422,1461660,2024-09-02 12:51:36 -0700,2024-09-02 12:51:36 -0700,"<p>No, i dont have thunderbird on another pc and i need my email for work. </p>",1337lillan,false,0,0
 1672423,1461660,2024-09-02 12:54:45 -0700,2024-09-02 12:54:45 -0700,"<p>In that case, you should contact your email provider to reset the password. </p>",davidsk,false,0,0
 1672428,1461660,2024-09-02 13:14:24 -0700,2024-09-02 13:14:24 -0700,<p>who is that? </p>,1337lillan,false,0,0
+1672432,1461660,2024-09-02 13:59:20 -0700,2024-09-02 13:59:20 -0700,<p>What is the info to the right of the @ in your email address? </p>,davidsk,false,0,0
 1672418,1461661,2024-09-02 12:04:53 -0700,2024-09-02 12:04:53 -0700,"<p>Please restate your issue and someone here will attempt to assist you, Thank you. </p>",davidsk,false,0,0
+1672435,1461690,2024-09-02 14:03:59 -0700,2024-09-02 14:03:59 -0700,<p>there is an icon to the right of the <em>new contac't button. click that and it opens to create a new list.</em> </p>,davidsk,false,0,0
+1672434,1461691,2024-09-02 14:01:23 -0700,2024-09-02 14:01:23 -0700,<p>check for a possible calendar entry. </p>,davidsk,false,1,0
+1672436,1461691,2024-09-02 14:05:48 -0700,2024-09-02 14:05:48 -0700,<p>There was a calendar subscription and its deletion solved it! Thanks.. CC </p>,cbc1952,false,0,0
+1672433,1461692,2024-09-02 14:00:33 -0700,2024-09-02 14:00:33 -0700,"<p>IF that is the address of the recipient, it means that the account does not exist or that you spelled it incorrectly. </p>",davidsk,false,0,0
