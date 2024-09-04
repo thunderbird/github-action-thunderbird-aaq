@@ -9,6 +9,9 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1672671,1461937,2024-09-04 02:31:58 -0700,2024-09-04 02:31:58 -0700,<p>I nomi ti vengono proposti in auto-completamento solo se sono in rubrica... Per cui basta eliminarli dalla rubrica. Sempre se ho capito bene la tua richiesta... </p>,@next,false,0,0
 1672690,1461940,2024-09-04 04:32:52 -0700,2024-09-04 04:32:52 -0700,"<p>Local folders exist only on the device where stored and are not available on internet. To be visible from another device, the folders would all have to be uploaded to your IMAP account. </p>",davidsk,false,0,0
 1672702,1461970,2024-09-04 06:45:26 -0700,2024-09-04 06:45:26 -0700,"<p>No, but maybe in the future. </p>",davidsk,false,0,0
-1672701,1461972,2024-09-04 06:44:44 -0700,2024-09-04 06:44:44 -0700,"<p>try changing SMTP to <a href=""http://smtp.office365.com"" rel=""nofollow"">smtp.office365.com</a> </p>",davidsk,false,0,0
+1672701,1461972,2024-09-04 06:44:44 -0700,2024-09-04 06:44:44 -0700,"<p>try changing SMTP to <a href=""http://smtp.office365.com"" rel=""nofollow"">smtp.office365.com</a> </p>",davidsk,false,1,0
+1672704,1461972,2024-09-04 07:05:38 -0700,2024-09-04 07:05:38 -0700,"<p>Thanks, @David, </p><p>I just tried your changes, restarted, and still it returns the same error message... </p>",xnu1ty4b,false,0,0
+1672707,1461972,2024-09-04 07:18:03 -0700,2024-09-04 07:18:03 -0700,<p>please post a screenshot of the SMTP server settings pane. </p>,davidsk,false,0,0
+1672708,1461972,2024-09-04 07:20:38 -0700,2024-09-04 07:20:38 -0700,"<p>here, thanks... </p>",xnu1ty4b,false,0,0
 1672699,1461974,2024-09-04 06:39:07 -0700,2024-09-04 06:39:07 -0700,<p>Quali sono i fornitori di queste tre caselle email? </p>,@next,false,0,0
 1672700,1461974,2024-09-04 06:40:35 -0700,2024-09-04 06:40:35 -0700,<p>E quali messaggi di errori ricevi quando provi a scaricare o inviare la posta? </p>,@next,false,0,0
