@@ -9,6 +9,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1672671,1461937,2024-09-04 02:31:58 -0700,2024-09-04 02:31:58 -0700,<p>I nomi ti vengono proposti in auto-completamento solo se sono in rubrica... Per cui basta eliminarli dalla rubrica. Sempre se ho capito bene la tua richiesta... </p>,@next,false,0,0
 1672690,1461940,2024-09-04 04:32:52 -0700,2024-09-04 04:32:52 -0700,"<p>Local folders exist only on the device where stored and are not available on internet. To be visible from another device, the folders would all have to be uploaded to your IMAP account. </p>",davidsk,false,0,0
 1672722,1461963,2024-09-04 08:25:10 -0700,2024-09-04 08:25:10 -0700,<p>Is the contact in a local address book?  Or is it a carddav or other type of address book. </p>,wsmwk,false,0,0
+1672748,1461963,2024-09-04 11:00:35 -0700,2024-09-04 11:00:35 -0700,"<p>Hi, the contact is in ""all adress books"" they are imported from MacOS mail program </p>",keesm57,false,0,0
 1672702,1461970,2024-09-04 06:45:26 -0700,2024-09-04 06:45:26 -0700,"<p>No, but maybe in the future. </p>",davidsk,false,0,0
 1672701,1461972,2024-09-04 06:44:44 -0700,2024-09-04 06:44:44 -0700,"<p>try changing SMTP to <a href=""http://smtp.office365.com"" rel=""nofollow"">smtp.office365.com</a> </p>",davidsk,false,1,0
 1672704,1461972,2024-09-04 07:05:38 -0700,2024-09-04 07:05:38 -0700,"<p>Thanks, @David, </p><p>I just tried your changes, restarted, and still it returns the same error message... </p>",xnu1ty4b,false,0,0
