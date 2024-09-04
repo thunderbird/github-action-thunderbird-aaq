@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1672623,1461890,2024-09-03 19:12:44 -0700,2024-09-03 19:12:44 -0700,<p>When I open an email there is no content </p>,wattos073,false,0,0
 1672650,1461920,2024-09-04 00:03:10 -0700,2024-09-04 00:03:10 -0700,<p>Si apre in Thunderbird o nel browser? </p>,@next,false,0,0
+1672652,1461920,2024-09-04 00:34:11 -0700,2024-09-04 00:34:11 -0700,<p>Si apre nel browser </p>,luigivanini55,false,0,0
 1672651,1461923,2024-09-04 00:04:34 -0700,2024-09-04 00:04:34 -0700,"<p>Verifica se si tratta di questo problema -&gt; <a href=""https://forum.mozillaitalia.org/index.php?topic=79061.0"" rel=""nofollow"">https://forum.mozillaitalia.org/index.php?topic=79061.0</a> </p>",@next,false,0,0
