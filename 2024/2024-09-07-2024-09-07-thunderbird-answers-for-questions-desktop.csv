@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1673194,1462480,2024-09-07 01:21:54 -0700,2024-09-07 01:21:54 -0700,"<p>Se ti riferisci alla funzione <strong>Filtro veloce</strong>, leggi qui -&gt; <a href=""https://support.mozilla.org/it/questions/1462328"" rel=""nofollow"">https://support.mozilla.org/it/questions/1462328</a> (c'è anche una soluzione temporanea) </p><p>Per la lentezza in invio, non saprei. Sicuro che non sia il server ad essere lento? </p>",@next,false,0,0
+1673206,1462493,2024-09-07 04:19:43 -0700,2024-09-07 04:19:43 -0700,<ul><li> highlight the spam folder </li><li> rightclick and select properties </li><li> tick the box to have this folder check when you retrieve mail. </li></ul>,davidsk,false,0,0
