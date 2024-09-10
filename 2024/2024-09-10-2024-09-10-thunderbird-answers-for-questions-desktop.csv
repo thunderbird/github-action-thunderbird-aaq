@@ -37,7 +37,9 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1673792,1463025,2024-09-10 11:05:46 -0700,2024-09-10 11:05:46 -0700,<p>What version of Thunderbird? What is your account Type - POP or IMAP? What is your anti-virus software? </p>,christ1,false,0,0
 1673803,1463025,2024-09-10 12:11:24 -0700,2024-09-10 12:11:24 -0700,<p>I am using Thunderbird Version 128.2.0esr (64 Bit) I am using IMAP I use McAfee anti-virus </p>,gdknelsen,false,0,0
 1673788,1463026,2024-09-10 10:31:54 -0700,2024-09-10 10:31:54 -0700,<p>Al 99% il problema è l'antivirus. Quale hai? Prova a disattivarlo temporaneamente. </p>,@next,false,0,0
+1673817,1463039,2024-09-10 13:35:54 -0700,2024-09-10 13:35:54 -0700,<p>If it isn't working on your 'phone it isn't a Thunderbird problem and you'll need to seek help with whoever your e-mail provider is. </p><p>A lot of them provide the ability to deal with e-mail on a web-site in a browser so you could try that.  Obviously I don't know your details so can't be more specific. </p>,thepillenwerfer,false,0,0
 1673809,1463040,2024-09-10 13:01:52 -0700,2024-09-10 13:01:52 -0700,<p>Thunderbird has no effective limits here. </p><p>Perhaps share what you are seeing - a screen shot. </p>,wsmwk,false,0,0
 1673811,1463040,2024-09-10 13:08:43 -0700,2024-09-10 13:08:43 -0700,<p>Thanks.  Next time it happens I'll get a screenshot. </p>,KJS-LES,false,0,0
 1673815,1463042,2024-09-10 13:20:15 -0700,2024-09-10 13:20:15 -0700,<p>one option is to just go into windows file explorer and delete the folder. </p>,davidsk,false,0,0
 1673814,1463044,2024-09-10 13:17:38 -0700,2024-09-10 13:17:38 -0700,<p>Are you using any addons that do this? </p>,davidsk,false,0,0
+1673822,1463047,2024-09-10 13:55:35 -0700,2024-09-10 13:55:35 -0700,"<p>to the right of the button for 'new contact'  is an icon to create mailing list. And it was NEVER on the main screen, but on the addressbook pane ( I just verified with a copy of 102) </p>",davidsk,false,0,0
