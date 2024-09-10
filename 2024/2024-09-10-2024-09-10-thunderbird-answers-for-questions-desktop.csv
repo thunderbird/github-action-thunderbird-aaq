@@ -5,3 +5,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1673681,1462956,2024-09-10 00:11:43 -0700,2024-09-10 00:11:43 -0700,<p>A quale provider appartengono? L'hosting è attivo e funzionante? </p>,@next,false,0,0
 1673691,1462956,2024-09-10 00:53:28 -0700,2024-09-10 00:53:28 -0700,"<p>Buongiorno, ho risolto eliminando l'email e poi inserendole nuovamente sono tutte funzionanti, grazie. </p>",m.rosco,false,0,0
 1673694,1462957,2024-09-10 01:10:06 -0700,2024-09-10 01:10:06 -0700,"<p>See if <a href=""https://addons.thunderbird.net/en-US/thunderbird/addon/filtaquilla/"" rel=""nofollow"">https://addons.thunderbird.net/en-US/thunderbird/addon/filtaquilla/</a> offers what you need </p>",wsmwk,false,0,0
+1673710,1462967,2024-09-10 02:27:11 -0700,2024-09-10 02:27:11 -0700,<p>Additional Information: It seems that only emails with attachments are experiencing this issue. </p>,Barosh,false,0,0
