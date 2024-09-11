@@ -21,3 +21,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1673901,1463145,2024-09-11 06:44:37 -0700,2024-09-11 06:44:37 -0700,<p>It may help to post screenshot of your SMTP server pane. </p>,davidsk,false,0,0
 1673903,1463146,2024-09-11 06:49:34 -0700,2024-09-11 06:49:34 -0700,"<p>No, it is not a Thunderbird problem. It is an IP blacklist, not a thunderbird blacklist. It may be due to content being sent. I suggest you contact Comcast on this. </p>",davidsk,false,0,0
 1673906,1463148,2024-09-11 06:54:41 -0700,2024-09-11 06:54:41 -0700,<p>Create a filter for that domain appearing in FROM field and mark as not junk. </p>,davidsk,false,0,0
+1673910,1463148,2024-09-11 07:11:38 -0700,2024-09-11 07:11:38 -0700,<p>Thanks.  Tried that but emails still end up in the Junk folder. </p>,gargya2001,false,0,0
+1673911,1463148,2024-09-11 07:17:42 -0700,2024-09-11 07:17:42 -0700,<p>Try changing the filter to 'after' junk classification </p>,davidsk,false,0,0
+1673913,1463148,2024-09-11 07:27:35 -0700,2024-09-11 07:27:35 -0700,<p>That didn't make any difference.   </p><p>I think that the Message Filter is simply/only marking the email as Junk but then not moving it to inbox. </p>,gargya2001,false,0,0
