@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1673843,1463082,2024-09-10 19:37:13 -0700,2024-09-10 19:37:13 -0700,"<p>If you have a support issue, please post the problem or question in a new topic with the full information <a href=""https://support.mozilla.org/en-US/questions/new/thunderbird"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/new/thunderbird</a> </p>",wsmwk,false,0,0
