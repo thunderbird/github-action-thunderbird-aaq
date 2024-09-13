@@ -36,7 +36,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1673910,1463148,2024-09-11 07:11:38 -0700,2024-09-11 07:11:38 -0700,<p>Thanks.  Tried that but emails still end up in the Junk folder. </p>,forgotten1,false,0,0
 1673911,1463148,2024-09-11 07:17:42 -0700,2024-09-11 07:17:42 -0700,<p>Try changing the filter to 'after' junk classification </p>,davidsk,false,0,0
 1673913,1463148,2024-09-11 07:27:35 -0700,2024-09-11 07:27:35 -0700,<p>That didn't make any difference.   </p><p>I think that the Message Filter is simply/only marking the email as Junk but then not moving it to inbox. </p>,forgotten1,false,0,0
-1673927,1463148,2024-09-11 08:32:12 -0700,2024-09-11 08:32:12 -0700,"<p>then, add that action to the filter. </p>",davidsk,false,0,0
+1673927,1463148,2024-09-11 08:32:12 -0700,2024-09-11 08:32:12 -0700,"<p>then, add that action to the filter. </p>",davidsk,false,1,0
 1673948,1463150,2024-09-11 09:45:44 -0700,2024-09-11 09:45:44 -0700,<p>I suggest you check the account from online to verify the 22 messages. There may be a clue there on the problem. </p>,davidsk,false,0,0
 1673916,1463155,2024-09-11 07:39:48 -0700,2024-09-11 07:39:48 -0700,"<p>Ciao, Thunderbird è solo un client, non un server di posta. Ricevi qualche messaggio di errore quando provi a scaricare la posta da queste caselle email? </p>",@next,false,0,0
 1673928,1463155,2024-09-11 08:40:15 -0700,2024-09-11 08:40:15 -0700,"<p>ciao, mi sono espressa male volevo dire client. No, nessun messaggio di errore non ricevo nessuna email eccetto come dicevo quella della casella PEC </p>",barbara.branca13,false,0,0
