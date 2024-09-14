@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1674434,1463549,2024-09-13 18:02:12 -0700,2024-09-13 18:02:12 -0700,"<p>Unless there is something wrong with your system,  Thunderbird will reopen with the same tabs it had last time it was open. </p><p>The things wrong are usually antivirus products that overreach and system optimization tools like CCleaner which actually cripples Thunderbird in the name of ""protecting you"" </p>",MattAuSupport,false,0,0
