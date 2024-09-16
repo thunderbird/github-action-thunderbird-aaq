@@ -48,3 +48,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1674978,1463943,2024-09-16 15:16:17 -0700,2024-09-16 15:16:17 -0700,"<p>It sounds like you've got the execrable threading switched on. </p><p>Press Alt-V and on the drop-down menu that appears click 'Sort by' and then 'Unthreaded,' which is next to the bottom. </p>",ThePillenwerfer,false,0,0
 1674977,1463944,2024-09-16 15:11:23 -0700,2024-09-16 15:13:44 -0700,"<p>Yes, it's in Settings under Reading &amp; Display. </p>",ThePillenwerfer,false,0,0
 1674967,1463945,2024-09-16 14:47:08 -0700,2024-09-16 14:47:08 -0700,<p>This is odd. Now those messages have returned. </p>,dpt150v,false,0,0
+1674980,1463955,2024-09-16 15:42:34 -0700,2024-09-16 15:42:34 -0700,<p>This is not user friendly </p>,dghoneywell,false,0,0
+1674981,1463955,2024-09-16 15:44:11 -0700,2024-09-16 15:44:11 -0700,<p>What reply?  Is my Thunderbird fixed? </p>,dghoneywell,false,0,0
