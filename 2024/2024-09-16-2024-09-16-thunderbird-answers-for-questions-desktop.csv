@@ -1,0 +1,5 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1674768,1463792,2024-09-15 17:19:00 -0700,2024-09-15 17:19:00 -0700,<p>What setting to you have in outgoing server (SMTP) for that account? </p>,MattAuSupport,false,0,0
+1674771,1463792,2024-09-15 17:24:28 -0700,2024-09-15 17:24:28 -0700,"<p>Thanks much Matt for your quick response: </p><p>Outgoing Server (SMTP) Settings:  Details of selected server: Description: 	Google Mail - dbotas Server Name: 	<a href=""http://smtp.gmail.com"" rel=""nofollow"">smtp.gmail.com</a> Port: 	465 User Name: 	dbotas@gmail.com Authentication method: 	OAuth2 Connection Security: 	SSL/TLS </p><p>?? </p><p>Dan </p>",dbotas,false,0,0
+1674780,1463792,2024-09-15 17:53:07 -0700,2024-09-15 17:53:07 -0700,"<p>Unless you have some very dodgy internet which drops out frequently,  the issue is probably an antivirus program than thinks it needs to scan email. Disable that and see if things improve. </p>",MattAuSupport,false,0,0
+1674783,1463795,2024-09-15 17:57:55 -0700,2024-09-15 17:57:55 -0700,"<p>right click the folder, select properties and then the repair button. </p>",MattAuSupport,false,0,0
