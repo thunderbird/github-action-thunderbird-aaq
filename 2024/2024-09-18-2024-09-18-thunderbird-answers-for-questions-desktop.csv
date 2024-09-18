@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1675269,1464188,2024-09-17 23:56:33 -0700,2024-09-17 23:56:33 -0700,"<p>Se ne è discusso qui -&gt; <a href=""https://support.mozilla.org/it/questions/1456040"" rel=""nofollow"">https://support.mozilla.org/it/questions/1456040</a> </p><p>ma la causa non è di semplice individuazione </p>",@next,false,0,0
+1675301,1464220,2024-09-18 03:46:38 -0700,2024-09-18 03:46:38 -0700,<p>Thunderbird werkt niet op iOS-apparaten en het labelen binnen Thunderbird is alleen bedoeld voor Thunderbird en kan niet op een of andere manier worden gesynchroniseerd met e-mailprovider zoals Gmail of Hotmail. </p>,Mozilla-assistent,false,0,0
