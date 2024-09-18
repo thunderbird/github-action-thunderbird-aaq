@@ -13,3 +13,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1675336,1464264,2024-09-18 09:07:22 -0700,2024-09-18 09:08:11 -0700,"<p>Sorry, my error. I'm using 128, which has that feature. BUT, it should be on the getmail icon, </p>",davidsk,false,0,0
 1675338,1464264,2024-09-18 09:20:56 -0700,2024-09-18 09:20:56 -0700,<p>I upgraded to 128.2 - same problem </p>,rezganj,false,0,0
 1675348,1464264,2024-09-18 10:12:23 -0700,2024-09-18 10:12:23 -0700,"<p>Ok, I use thunderbird on windows and linux. Clearly, the version on Mac is different. I regret any confusion in attempting to assist. </p>",davidsk,false,0,0
+1675350,1464287,2024-09-18 10:29:02 -0700,2024-09-18 10:29:02 -0700,<p>You didn't give all the details. Is this POP or IMAP? How are the messages on old server being moved? </p>,davidsk,false,0,0
