@@ -33,6 +33,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1674741,1463753,2024-09-15 10:49:33 -0700,2024-09-15 10:49:33 -0700,"<p>This should do it:  <a href=""https://www.thunderbird.net/en-US/thunderbird/all/"" rel=""nofollow"">https://www.thunderbird.net/en-US/thunderbird/all/</a> </p>",davidsk,false,0,0
 1674782,1463759,2024-09-15 17:56:58 -0700,2024-09-15 17:56:58 -0700,<p>fave you tried clicking on the name heading at the top of the list. </p>,MattAuSupport,false,0,0
 1674770,1463761,2024-09-15 17:21:27 -0700,2024-09-15 17:21:27 -0700,<p>Have you tried using the density control on the application menu? </p>,MattAuSupport,false,0,0
+1676044,1463763,2024-09-21 10:05:06 -0700,2024-09-21 10:05:06 -0700,<p>It turned out to be the Send Later addon that caused the issue. </p>,jasonwmreid,false,0,0
 1674781,1463775,2024-09-15 17:54:23 -0700,2024-09-15 17:54:23 -0700,"<p>duplicate of <a href=""https://support.mozilla.org/en-US/questions/1463777"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1463777</a> </p>",MattAuSupport,false,0,0
 1674933,1463777,2024-09-16 11:33:42 -0700,2024-09-16 11:33:42 -0700,<p>It may help to post a screenshot of the items backed up with the importexport tool. </p>,davidsk,false,0,0
 1674784,1463780,2024-09-15 17:59:11 -0700,2024-09-15 17:59:11 -0700,"<p>Are you saying mail your sent out of not received by someone or multiple someones,  or are you suggesting you are not receiving new mail from your server? </p>",MattAuSupport,false,0,0
