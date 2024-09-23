@@ -4,3 +4,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1676279,1465050,2024-09-22 21:45:34 -0700,2024-09-22 21:45:34 -0700,<p>There's a setting in Settings/General/Reading &amp; Display. </p>,sfhowes,false,0,0
 1676293,1465062,2024-09-23 00:26:46 -0700,2024-09-23 00:26:46 -0700,"<p>It does appear if you use the server <a href=""http://smtp.office365.com"" rel=""nofollow"">smtp.office365.com</a> and restart Thunderbird. </p>",MattAuSupport,false,0,0
 1676294,1465062,2024-09-23 00:40:18 -0700,2024-09-23 00:40:18 -0700,"<p>Thanks, Matt. A simple solution for a non-techie like me! </p>",office22,false,0,0
+1676302,1465065,2024-09-23 01:28:40 -0700,2024-09-23 01:28:40 -0700,<p>FYI same issue for me - server2.invalid and all RSS feeds are dead... </p>,rich06,false,0,0
