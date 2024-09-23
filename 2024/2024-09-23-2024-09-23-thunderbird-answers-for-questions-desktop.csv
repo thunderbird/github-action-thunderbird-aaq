@@ -6,3 +6,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1676294,1465062,2024-09-23 00:40:18 -0700,2024-09-23 00:40:18 -0700,"<p>Thanks, Matt. A simple solution for a non-techie like me! </p>",office22,false,0,0
 1676302,1465065,2024-09-23 01:28:40 -0700,2024-09-23 01:28:40 -0700,<p>FYI same issue for me - server2.invalid and all RSS feeds are dead... </p>,rich06,false,0,0
 1676315,1465069,2024-09-23 02:10:12 -0700,2024-09-23 02:10:12 -0700,"<p>Lo spazio di archiviazione di cosa? Thunderbird non ha limiti di spazio, se non quelli del disco su cui si trova il profilo. Ti riferisci a questo? Se invece parli dello spazio della tua casella email, devi chiedere al tuo fornitore. </p>",@next,false,0,0
+1676331,1465075,2024-09-23 03:39:58 -0700,2024-09-23 03:39:58 -0700,"<p>There is no official release of a 130.0. I suggest you switch to a supported version, </p>",davidsk,false,0,0
+1676332,1465087,2024-09-23 03:41:40 -0700,2024-09-23 03:41:40 -0700,<p>Is there  a trashcan icon on top row of rightclick menu? </p>,davidsk,false,0,0
