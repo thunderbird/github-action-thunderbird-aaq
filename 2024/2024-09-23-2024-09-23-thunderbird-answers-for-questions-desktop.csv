@@ -11,3 +11,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1676343,1465085,2024-09-23 04:39:29 -0700,2024-09-23 04:39:29 -0700,"<p>Maybe if you post a screenshot of your SMTP server pane, somone here who is familiar with btinternet can advise. </p>",davidsk,false,0,0
 1676332,1465087,2024-09-23 03:41:40 -0700,2024-09-23 03:41:40 -0700,<p>Is there  a trashcan icon on top row of rightclick menu? </p>,davidsk,false,0,0
 1676342,1465091,2024-09-23 04:37:27 -0700,2024-09-23 04:37:27 -0700,"<p>This is because IMAP always keeps all messages on the server until deleted. The messages on your PC are just copies, but the 'real' message is online. This allows you to have full access to mail from multiple PCs or phone. </p>",davidsk,false,0,0
+1676348,1465098,2024-09-23 05:33:18 -0700,2024-09-23 05:33:18 -0700,<p>Try to rebuild the index file of the troubled folder. </p><p>Right-click the folder - Properties - Repair Folder </p>,christ1,false,0,0
