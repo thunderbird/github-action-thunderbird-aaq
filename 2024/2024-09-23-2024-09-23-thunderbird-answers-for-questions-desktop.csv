@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1676280,1465045,2024-09-22 21:48:41 -0700,2024-09-22 21:48:41 -0700,"<p>Is the scanner software 32 or 64 bit?  If it's 32 bit, TB must be 32 bit for the auto attach to work.  TB defaults to 64 bit on 64 bit Windows, although 32 bit TB works fine. </p>",sfhowes,false,0,0
+1676279,1465050,2024-09-22 21:45:34 -0700,2024-09-22 21:45:34 -0700,<p>There's a setting in Settings/General/Reading &amp; Display. </p>,sfhowes,false,0,0
