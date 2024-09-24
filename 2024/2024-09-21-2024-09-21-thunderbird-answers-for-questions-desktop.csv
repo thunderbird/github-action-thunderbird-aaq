@@ -4,6 +4,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1676025,1464759,2024-09-21 07:33:16 -0700,2024-09-21 07:33:16 -0700,<p>Yes it is set to oauth. It asks to provide a password and does not accept it. BTW thunderbird works fine on another computer. thanks for your prompt response bob </p>,mariegtirone,false,0,0
 1675935,1464761,2024-09-20 21:13:01 -0700,2024-09-20 21:13:01 -0700,<p>excuse me?  Explain what exactly? </p>,MattAuSupport,false,0,0
 1675919,1464762,2024-09-20 19:20:28 -0700,2024-09-20 19:20:28 -0700,<p>Additional information. I use the KDE X11 system and the IceWM systems and both had the same problem. </p>,johnrcox,false,0,0
+1676425,1464762,2024-09-23 14:49:51 -0700,2024-09-23 14:49:51 -0700,<p>Anybody? </p>,johnrcox,false,0,0
 1675925,1464763,2024-09-20 20:50:18 -0700,2024-09-20 20:50:18 -0700,<p>TB menu &gt; View &gt; Layout &gt; Message Pane (F8). </p>,siffemoz,false,0,0
 1675940,1464763,2024-09-20 22:09:14 -0700,2024-09-20 22:09:14 -0700,"<p>Thank you, very grateful. All good now! Cheers. </p>",nexusbemboka,false,0,0
 1675955,1464772,2024-09-21 00:21:10 -0700,2024-09-21 00:21:10 -0700,"<p>The folder are unified,  but each acts completely independently. </p><p>I think right click the relevant ""real"" folder, select properties and then check the folder is set to get messages when the account is polled.  It is not set by default for Junk/Spam and deleted/trash folders by default so your unified folder is probably not getting a ""refresh when you delete because of it. </p>",MattAuSupport,false,0,0
@@ -57,6 +58,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1676064,1464857,2024-09-21 12:05:07 -0700,2024-09-21 12:05:07 -0700,"<p>if this is an outlook account, the smtp server must be <a href=""http://smtp.office365.com"" rel=""nofollow"">smtp.office365.com</a> </p>",davidsk,false,0,0
 1676097,1464857,2024-09-21 18:01:19 -0700,2024-09-21 18:01:19 -0700,"<p>My setting for the SMTP Server is <a href=""http://smtp.office365.com"" rel=""nofollow"">smtp.office365.com</a>. </p>",jupa2006,false,0,0
 1676107,1464857,2024-09-21 20:51:33 -0700,2024-09-21 20:51:33 -0700,<p>and have you restarted Thunderbird.  For reasons really only understood by developers the oauth option is not visible until Thunderbird restarts. </p>,MattAuSupport,false,0,0
+1676443,1464857,2024-09-23 18:28:48 -0700,2024-09-23 18:28:48 -0700,"<p>Thank you, Matt and David!  With your help, problem is solved. </p>",jupa2006,false,0,0
 1676115,1464858,2024-09-21 21:28:36 -0700,2024-09-21 21:28:36 -0700,"<p>Perhaps you need to use the security settings in your mac to allow Thunderbird to access your apple address book. </p><p>However it sounds like you are being prompted to sign into a remote address book.  Perhaps the iwhatever web site apple uses for mail, contact, calendars etc. </p>",MattAuSupport,false,0,0
 1676058,1464859,2024-09-21 11:15:40 -0700,2024-09-21 11:15:40 -0700,<p>My email doesn't work. WHY?!! </p>,christensongreg4,false,0,0
 1676059,1464859,2024-09-21 11:17:36 -0700,2024-09-21 11:17:36 -0700,<p>My email doesn't work. Answer my question!!! </p>,christensongreg4,false,0,0
