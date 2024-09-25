@@ -1,0 +1,4 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1676637,1465410,2024-09-25 01:51:07 -0700,2024-09-25 01:51:07 -0700,<p>What is your anti-virus software? </p>,christ1,false,0,0
+1676635,1465414,2024-09-25 01:48:35 -0700,2024-09-25 01:48:35 -0700,<p>What is your Thunderbird version? What is your account type - POP or IMAP? </p>,christ1,false,0,0
+1676634,1465420,2024-09-25 01:45:28 -0700,2024-09-25 01:45:28 -0700,<p>You'll have to check with your email provider about password recovery options. </p>,christ1,false,0,0
