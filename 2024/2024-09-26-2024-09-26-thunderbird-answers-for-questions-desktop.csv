@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1676811,1465575,2024-09-25 20:19:47 -0700,2024-09-25 20:19:47 -0700,"<p>TB 128 will run on W10, but you need TB 32-bit for W10 32-bit: </p><p><a href=""https://archive.mozilla.org/pub/thunderbird/releases/128.2.3esr/win32/"" rel=""nofollow"">https://archive.mozilla.org/pub/thunderbird/releases/128.2.3esr/win32/</a> </p>",sfhowes,false,0,0
