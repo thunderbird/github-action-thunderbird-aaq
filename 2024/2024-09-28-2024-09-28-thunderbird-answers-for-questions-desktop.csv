@@ -28,3 +28,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1677534,1466042,2024-09-28 09:58:47 -0700,2024-09-28 09:59:51 -0700,"<p>I seem to have fixed my own problem simply by selecting a new folder for the deleted emails to be moved to. The setting, which must have been set automatically was set to move them to the trash folder under Local Folders. I changed the setting to move them to [Gmail]Trash and it worked fine, the deleted messages appeared there. </p>",Jason.carle,false,0,0
 1677570,1466061,2024-09-28 14:08:58 -0700,2024-09-28 14:08:58 -0700,<p>Because you may disagree. </p>,davidsk,false,0,0
 1677557,1466063,2024-09-28 12:37:30 -0700,2024-09-28 12:37:30 -0700,<p>My emails end in @frontier.com </p>,afisher3,false,0,0
+1677584,1466093,2024-09-28 15:59:34 -0700,2024-09-28 15:59:34 -0700,<p><strong>bold text</strong> </p>,try1,false,0,0
