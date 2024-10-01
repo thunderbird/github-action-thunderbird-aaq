@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1678142,1466477,2024-09-30 22:25:13 -0700,2024-09-30 22:25:13 -0700,"<p>Change your settings to the ones given here: </p><p><a href=""https://support.mozilla.org/en-US/kb/microsoft-oauth-authentication-and-thunderbird-202"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/microsoft-oauth-authentication-and-thunderbird-202</a> </p>",sfhowes,false,0,0
+1678180,1466495,2024-10-01 02:28:04 -0700,2024-10-01 02:28:04 -0700,"<p>Dovresti chiedere su un forum di Microsoft. Ad esempio qui -&gt; <a href=""https://answers.microsoft.com/it-it/"" rel=""nofollow"">https://answers.microsoft.com/it-it/</a> </p>",@next,false,0,0
 1678162,1466497,2024-10-01 00:44:11 -0700,2024-10-01 00:44:11 -0700,"<p>whoops, without the 1. in the front </p>",ikxdwv,false,0,0
 1678173,1466499,2024-10-01 01:28:21 -0700,2024-10-01 01:28:21 -0700,<p>Voor zover ik weet is dat helaas niet mogelijk momenteel. Er wordt wel aan gewerkt olm dit standaard in Thunderbird te krijgen </p>,Mad_Maks,false,1,0
