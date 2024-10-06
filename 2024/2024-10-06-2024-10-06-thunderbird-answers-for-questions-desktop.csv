@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1679810,1467637,2024-10-06 01:51:26 -0700,2024-10-06 01:51:26 -0700,"<p>Gmail è configurata come IMAP? Se si, quali cartelle hai sottoscritto? -&gt; <a href=""https://support.mozilla.org/it/kb/sincronizzazione-imap#w_configurazione-della-sincronizzazione-ed-utilizzo-dello-spazio-sul-disco"" rel=""nofollow"">https://support.mozilla.org/it/kb/sincronizzazione-imap#w_configurazione-della-sincronizzazione-ed-utilizzo-dello-spazio-sul-disco</a> </p>",@next,false,0,0
+1679816,1467662,2024-10-06 04:29:23 -0700,2024-10-06 04:29:23 -0700,<p>Try to rebuild the index file of the troubled folder. </p><p>Right-click the folder - Properties - Repair Folder </p>,christ1,false,0,0
