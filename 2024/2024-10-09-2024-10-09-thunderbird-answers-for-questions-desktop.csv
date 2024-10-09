@@ -1,2 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1680397,1468199,2024-10-09 02:22:19 -0700,2024-10-09 02:22:19 -0700,<p>Che sarebbe una <em>email che chiedeva la certficazione della posta</em>? Se non fornisci informazioni precise non saprei come aiutarti. </p>,@next,false,0,0
+1680406,1468199,2024-10-09 03:14:56 -0700,2024-10-09 03:14:56 -0700,"<p>Scusa, chiedeva conferma certificato eccezione </p>",raquel.pacchini,false,0,0
+1680407,1468199,2024-10-09 03:17:27 -0700,2024-10-09 03:17:27 -0700,"<p>Non ho ricevuto una email, aprendo la posta si aperto un pop up che chiedeva la conferma di un certificato di eccezione, che non ho fatto al momento. Adesso la posta rimani impalata senza scaricare la posta facendo un controllo della funzionalità del server di posta ,  Grazie </p>",raquel.pacchini,false,0,0
