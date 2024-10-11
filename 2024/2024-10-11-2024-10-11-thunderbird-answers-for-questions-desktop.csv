@@ -4,4 +4,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1680781,1468580,2024-10-10 18:53:18 -0700,2024-10-10 18:53:18 -0700,"<p>""could"" -&gt; ""would"" </p>",asmusf,false,0,0
 1680790,1468580,2024-10-10 19:52:18 -0700,2024-10-10 19:52:18 -0700,"<p>May as well try a new profile - <a href=""https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-thunderbird-profiles"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-thunderbird-profiles</a>. </p>",siffemoz,false,0,0
 1680793,1468580,2024-10-10 20:06:24 -0700,2024-10-10 20:06:24 -0700,"<p>If I create a new profile, what happens to all the messages I've collected in mail folders? </p>",asmusf,false,0,0
+1680796,1468580,2024-10-10 20:23:43 -0700,2024-10-10 20:23:43 -0700,"<p>Actually, it's worth trying a TB reinstall without uninstalling first. </p>",siffemoz,false,0,0
 1680789,1468585,2024-10-10 19:48:55 -0700,2024-10-10 19:48:55 -0700,<p>See if it appears in the console - ctrl-shift-j (or maybe cmd vs ctrl). </p>,siffemoz,false,0,0
