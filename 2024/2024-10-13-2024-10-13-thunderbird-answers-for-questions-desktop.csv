@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1681251,1468959,2024-10-12 19:38:44 -0700,2024-10-12 19:38:44 -0700,<p>Replying to my own message...the version of Thunderbird is 128.3.1esr (64-bit). </p>,c.rathbone,false,0,0
+1681257,1468970,2024-10-12 22:16:26 -0700,2024-10-12 22:16:26 -0700,"<p>RISOLTO (sono uno sciocco) Ho ricordato di avere inserito, in quell'account di posta, un certificato S/MIME: e ho verificato di avere flaggato (forse per default) la impostazione avanzata ""Archivia le bozze dei messaggi in formato crittato"". Grazie comunque (magari il mio errore potrà essere d'aiuto ad altri, imbranati come me ...) </p>",posta29,false,0,0
