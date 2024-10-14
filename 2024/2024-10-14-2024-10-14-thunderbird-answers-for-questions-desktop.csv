@@ -33,3 +33,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1681560,1469202,2024-10-14 08:56:44 -0700,2024-10-14 08:56:44 -0700,"<p>Mi spiace, Thunderbird è un software gratuito e non può offrire un supporto tecnico. Questo è solo un forum di utenti. </p>",@next,false,0,0
 1681540,1469206,2024-10-14 08:10:12 -0700,2024-10-14 08:10:12 -0700,"<p>sorry&nbsp;: How do I merge OUTBOX and Sent, and also DRAFT and Drafts without losing my messages&nbsp;? </p>",g.freyburger,false,0,0
 1681548,1469208,2024-10-14 08:22:53 -0700,2024-10-14 08:22:53 -0700,"<p>Ovvero, qual è esattamente il problema? </p>",@next,false,0,0
+1681562,1469225,2024-10-14 09:36:32 -0700,2024-10-14 09:36:32 -0700,"<p>Vuoi cancellare la posta solo da Thunderbird, solo dal server o da entrambi? I tuoi account su Thunderbird sono configurati con POP3 o con IMAP? </p>",@next,false,0,0
