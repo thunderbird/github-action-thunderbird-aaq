@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1681384,1469116,2024-10-13 18:00:43 -0700,2024-10-13 18:00:43 -0700,"<p>Try <a href=""https://support.mozilla.org/en-US/kb/cannot-receive-messages"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/cannot-receive-messages</a> </p>",MattAuSupport,false,0,0
 1681425,1469121,2024-10-13 20:17:37 -0700,2024-10-13 20:17:37 -0700,<p>try the film strip icon beside the Quick filter button and select Table View </p>,MattAuSupport,false,0,0
+1681445,1469136,2024-10-13 23:44:26 -0700,2024-10-13 23:44:26 -0700,<p>Non hai mai fatto un backup? Cosa c'è nelle cartelle? Da che versioni di Thunderbird partivi e che versione hai installato? </p>,@next,false,0,0
