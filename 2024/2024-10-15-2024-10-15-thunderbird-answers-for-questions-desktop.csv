@@ -4,6 +4,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1681636,1469321,2024-10-14 20:37:42 -0700,2024-10-14 20:37:42 -0700,"<p>Oh, I forgot to mention, I even tried Repair Folder but that didn't do anything. Didn't bring back the folders either - always have to restart thunderbird to get those back. </p>",gwstern,false,0,0
 1681639,1469328,2024-10-14 21:55:50 -0700,2024-10-14 21:55:50 -0700,<p>They can be reordered in the Calendar Pane by drag and drop. </p>,sfhowes,false,0,0
 1681684,1469345,2024-10-15 04:38:19 -0700,2024-10-15 04:38:19 -0700,"<p>The smtp server should be <a href=""http://smtp.office365.com"" rel=""nofollow"">smtp.office365.com</a>  that will allow the Oauth2 setting, </p>",davidsk,false,0,0
+1681725,1469349,2024-10-15 07:27:13 -0700,2024-10-15 07:27:13 -0700,<p>Turn off the mail scanner in your antivirus and see the message almost certainly disappear. </p>,MattAuSupport,false,0,0
 1681667,1469352,2024-10-15 01:33:09 -0700,2024-10-15 01:38:33 -0700,<p>deleted </p>,info12009,false,0,0
 1681668,1469352,2024-10-15 01:38:03 -0700,2024-10-15 01:38:03 -0700,<p>. </p><p>deleted </p>,info12009,false,0,0
 1681703,1469360,2024-10-15 06:00:00 -0700,2024-10-15 06:00:00 -0700,"<p>Download from <a href=""https://thunderbird.net/"" rel=""nofollow"">https://thunderbird.net/</a> and reinstall please. </p>",wsmwk,false,0,0
