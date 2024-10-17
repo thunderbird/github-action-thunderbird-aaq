@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1682013,1469700,2024-10-16 19:55:15 -0700,2024-10-16 19:55:15 -0700,"<p>Global Search (Ctrl+K) doesn't index Trash or Junk by default, but you can enable it in the folder Properties (context menu).  Or, use the Quick Filter (Ctrl+Shift+K) or Classic Search (Ctrl+Shift+F). </p>",sfhowes,false,0,0
