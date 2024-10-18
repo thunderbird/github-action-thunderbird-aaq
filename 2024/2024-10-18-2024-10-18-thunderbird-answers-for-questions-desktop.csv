@@ -32,3 +32,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1682387,1469924,2024-10-18 06:17:31 -0700,2024-10-18 06:17:31 -0700,<p>Puoi aggiungere uno screenshot del problema (oscurando i dati privati)? </p>,@next,false,0,0
 1682388,1469928,2024-10-18 06:18:29 -0700,2024-10-18 06:18:29 -0700,<p>La cartella Modelli in Thunderbird è normalmente vuota. Come sono stati caricati i modelli che vuoi usare? Sono modelli locali o remoti? </p>,@next,false,0,0
 1682364,1469933,2024-10-18 05:17:32 -0700,2024-10-18 05:17:32 -0700,"<p>I assume you used a filter to do that, so please post a screenshot of the filter. Thank you, </p>",davidsk,false,0,0
+1682393,1469934,2024-10-18 06:55:20 -0700,2024-10-18 06:55:20 -0700,"<p>try this:  - highlight folder, rightclick, select properties and then select repair. That may fix it </p>",davidsk,false,0,0
