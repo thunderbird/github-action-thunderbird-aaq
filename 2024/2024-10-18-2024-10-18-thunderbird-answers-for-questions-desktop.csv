@@ -34,5 +34,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1682388,1469928,2024-10-18 06:18:29 -0700,2024-10-18 06:18:29 -0700,<p>La cartella Modelli in Thunderbird è normalmente vuota. Come sono stati caricati i modelli che vuoi usare? Sono modelli locali o remoti? </p>,@next,false,0,0
 1682364,1469933,2024-10-18 05:17:32 -0700,2024-10-18 05:17:32 -0700,"<p>I assume you used a filter to do that, so please post a screenshot of the filter. Thank you, </p>",davidsk,false,0,0
 1682393,1469934,2024-10-18 06:55:20 -0700,2024-10-18 06:55:20 -0700,"<p>try this:  - highlight folder, rightclick, select properties and then select repair. That may fix it </p>",davidsk,false,0,0
+1682401,1469934,2024-10-18 08:00:11 -0700,2024-10-18 08:00:11 -0700,<p>The inbox folder&nbsp;? </p>,d3xmeister,false,0,0
 1682394,1469939,2024-10-18 06:59:20 -0700,2024-10-18 06:59:20 -0700,"<p>Never mind, I figured it out.  I went to the old computer's calendar, right clicked on ""home"" and selected to export calendar.  I was then able to import that on the new one and now have my events.  Thanks anyway. </p>",The_TechnoJunky,false,0,0
 1682398,1469945,2024-10-18 07:30:16 -0700,2024-10-18 07:30:16 -0700,<p>Here is also the uploaded picture for those who don't trust links to click on&nbsp;;) </p>,mnestiinternational,false,0,0
