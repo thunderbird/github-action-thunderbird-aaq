@@ -1,6 +1,11 @@
 # github-action-thunderbird-aaq
 github action to get all the Thunderbird SUMO forum questions aka Ask a Question or AAQ
 
+### 2024-10-20 refresh 2024 and get isoweek counts
+```bash
+mlr --csv sort -f id ../2024/*thunderbird-creator-answers-desktop-all-locales.csv \
+> 2024-yearly-thunderbird-questions.csv
+```
 ### 2024-08-21 A better way to open a day's questions (that doesn't output the CSV header row)
 * to not output the CSV header row, use the following option: `--headerless-csv-output`
 ```bash
