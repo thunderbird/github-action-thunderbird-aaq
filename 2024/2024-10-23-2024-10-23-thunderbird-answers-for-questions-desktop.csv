@@ -56,3 +56,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1683691,1470921,2024-10-23 12:53:41 -0700,2024-10-23 12:53:41 -0700,<p>Yes I can open the email found by searching but still can't see it in my inbox </p>,onthebike,false,0,0
 1683674,1470927,2024-10-23 12:13:33 -0700,2024-10-23 12:13:33 -0700,<p>I believe you should see the attach option on the toolbar when in compose window. </p>,davidsk,false,0,1
 1683694,1470930,2024-10-23 12:57:37 -0700,2024-10-23 12:57:37 -0700,"<p>you can still manually update by downloading the appropriate 32-bit version and installing over the top of the current version, with thunderbird not running. </p>",davidsk,false,0,0
+1683707,1470930,2024-10-23 14:17:39 -0700,2024-10-23 14:17:39 -0700,"<p>OK, good, but if someone could tell me how to undo the disabled auto update that would be ideal. </p>",sparrowtwo,false,0,0
