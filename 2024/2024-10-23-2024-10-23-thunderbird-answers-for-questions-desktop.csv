@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1683509,1470738,2024-10-22 21:59:48 -0700,2024-10-22 21:59:48 -0700,"<p>Start the Profile Manager, create a new profile, and point it to your existing profile at the 'Choose folder' prompt. </p>",siffemoz,false,0,0
 1683508,1470741,2024-10-22 21:54:57 -0700,2024-10-22 21:54:57 -0700,"<p>R. click Inbox &gt; Properties &gt; Repair folder, then update to v128.3.3 via Menu &gt; Help &gt; About Thunderbird. </p>",siffemoz,false,0,0
 1683506,1470742,2024-10-22 21:51:24 -0700,2024-10-22 21:51:24 -0700,"<p>R. click Inbox &gt; Properties &gt; Repair folder, then update TB to 128.3.3 with Help &gt; About. </p>",siffemoz,false,0,0
