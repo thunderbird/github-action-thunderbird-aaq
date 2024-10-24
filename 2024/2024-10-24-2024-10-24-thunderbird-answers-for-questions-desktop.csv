@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1683772,1470954,2024-10-23 22:34:36 -0700,2024-10-23 22:34:36 -0700,<p>Please right+click affected folder and do Properties &gt; Repair. </p>,wsmwk,false,0,0
+1683771,1470965,2024-10-23 22:33:48 -0700,2024-10-23 22:33:48 -0700,<p>Please check Tools &gt; Error Console for warnings and errors. </p>,wsmwk,false,0,0
