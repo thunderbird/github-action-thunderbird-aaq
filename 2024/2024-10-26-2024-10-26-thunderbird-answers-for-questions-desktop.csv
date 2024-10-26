@@ -1,3 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1684190,1471328,2024-10-25 18:43:33 -0700,2024-10-25 18:43:33 -0700,<p>Has it stopped getting mail?  If not you don't need to do anything. </p>,MattAuSupport,false,0,0
 1684192,1471328,2024-10-25 18:47:38 -0700,2024-10-25 18:47:38 -0700,<p>It has stopped getting mail. There must be a way to change my password on Thunderbird...? </p>,carnespd2,false,0,0
+1684194,1471328,2024-10-25 19:11:30 -0700,2024-10-25 19:11:30 -0700,<p>How o you change password on a Thunderbird account? Please tell me. Thanks. </p>,carnespd2,false,0,0
+1684196,1471328,2024-10-25 19:35:54 -0700,2024-10-25 19:35:54 -0700,"<p><a href=""https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-tb"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-tb</a> </p>",MattAuSupport,false,0,0
