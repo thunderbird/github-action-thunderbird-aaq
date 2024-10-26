@@ -12,3 +12,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1684279,1471376,2024-10-26 03:53:42 -0700,2024-10-26 03:54:23 -0700,<p>Oh dear. The parser seems to have messed up my post and I cannot edit it for some reason. Please do read it by scrolling horizontally. </p>,E.Q.,false,0,0
 1684307,1471388,2024-10-26 06:20:12 -0700,2024-10-26 06:20:12 -0700,<p>You'd need to restore them from a backup you created prior to the incident. </p>,christ1,false,0,0
 1684311,1471388,2024-10-26 06:49:54 -0700,2024-10-26 06:49:54 -0700,<p>What to do if I don't have any backup? </p>,tmar42,false,0,0
+1684320,1471398,2024-10-26 08:12:27 -0700,2024-10-26 08:12:27 -0700,<p>Try to rebuild the index file of the troubled folder. </p><p>Right-click the folder - Properties - Repair Folder </p><p>Then make sure you're on the latest version - TB 128.3.3. </p>,christ1,false,0,0
