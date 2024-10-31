@@ -40,7 +40,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1684541,1471572,2024-10-27 13:17:20 -0700,2024-10-27 13:17:20 -0700,"<p>Maybe if you share the exact steps, some may be able to assist. Is it from one email host to another? More details always are useful. thank you </p>",davidsk,false,0,0
 1684699,1471584,2024-10-28 12:37:55 -0700,2024-10-28 12:37:55 -0700,<p>gmail account? </p>,wsmwk,false,0,0
 1684561,1471596,2024-10-27 16:53:59 -0700,2024-10-27 16:53:59 -0700,"<p>The ""Export to Mobile"" option is only in the latest TB (desktop) 132 beta. </p>",sfhowes,false,0,0
-1684566,1471596,2024-10-27 17:22:38 -0700,2024-10-27 17:22:38 -0700,<p>In a few days it will also be available in 128.4.0.  And the Android app will be updated to be more explicit as to what version is needed. </p>,wsmwk,false,1,0
+1684566,1471596,2024-10-27 17:22:38 -0700,2024-10-27 17:22:38 -0700,<p>In a few days it will also be available in 128.4.0.  And the Android app will be updated to be more explicit as to what version is needed. </p>,wsmwk,false,2,0
 1684668,1471596,2024-10-28 10:59:09 -0700,2024-10-28 10:59:09 -0700,<p>Thanks for the quick responses and updated info. Stephen </p>,stlcolo,false,0,0
 1684588,1471597,2024-10-27 21:26:26 -0700,2024-10-27 21:26:26 -0700,"<p>In the bottom-right of the file selection dialog, is anything other than <strong>All Files (*.*)</strong> being shown?  If so, might try choosing All Files again from the drop-down. </p>",firefox1670,false,0,0
 1684608,1471597,2024-10-28 02:45:06 -0700,2024-10-28 02:45:06 -0700,<p>Thank you for your reply but someone had already suggested I restart the computer and so far its worked&nbsp;! </p>,jeanpointing7,false,0,0
