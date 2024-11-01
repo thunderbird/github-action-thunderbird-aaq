@@ -151,3 +151,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1684212,1471304,2024-10-25 20:48:26 -0700,2024-10-25 20:48:26 -0700,<p>Are you using version 128.3.3? </p><p>Does the problem permanently go away after repairing affected folders by right+click &gt; properties &gt; repair? </p><p>Please post results. Thanks </p>,wsmwk,false,0,0
 1684273,1471308,2024-10-26 03:45:07 -0700,2024-10-26 03:46:00 -0700,<p>Try to rebuild the index file of the troubled folder. </p><p>Right-click the folder - Properties - Repair Folder </p><p>Then make sure you're on the latest version - TB 128.3.3. </p>,christ1,false,1,0
 1685078,1471308,2024-10-30 20:04:58 -0700,2024-10-30 20:04:58 -0700,"<p>Thanks, seems to have worked. </p>",Bimbadeen,false,0,0
+1685204,1471308,2024-10-31 14:27:17 -0700,2024-10-31 14:27:17 -0700,"<p>When your problem is fixed, can you mark the topic as 'Resolved' please? Thank you. </p>",christ1,false,0,0
