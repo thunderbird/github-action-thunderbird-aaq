@@ -1,2 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1685231,1472264,2024-10-31 17:59:21 -0700,2024-10-31 17:59:21 -0700,<p>Have added an anti-virus exception to the profile folder.  No change. This look correct? </p><p>c:\\USERS\ammog\appdata\roaming\thunderbird\profiles\nxg9bxis.default-release\* </p>,ammoguide,false,0,0
+1685299,1472284,2024-11-01 04:37:39 -0700,2024-11-01 04:37:39 -0700,"<p>I suggest changing to <a href=""http://smtp.gmail.com"" rel=""nofollow"">smtp.gmail.com</a>. If you post screenshots of incoming server settings and the SMTP server settings, more suggestions may come forth. </p>",davidsk,false,0,0
+1685300,1472298,2024-11-01 04:39:38 -0700,2024-11-01 04:39:38 -0700,"<p>This works:  <a href=""https://support.mozilla.org/en-US/questions/1438626"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1438626</a> </p>",davidsk,false,0,0
+1685301,1472303,2024-11-01 04:43:02 -0700,2024-11-01 04:43:02 -0700,"<p>Well, even Notepad could do it, but it would be unformatted. If you do a websearch for ""free eml viewer"" there are several that do just that and format the message properly. </p>",davidsk,false,0,0
