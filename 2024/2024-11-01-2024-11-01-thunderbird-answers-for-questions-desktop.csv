@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1685231,1472264,2024-10-31 17:59:21 -0700,2024-10-31 17:59:21 -0700,<p>Have added an anti-virus exception to the profile folder.  No change. This look correct? </p><p>c:\\USERS\ammog\appdata\roaming\thunderbird\profiles\nxg9bxis.default-release\* </p>,ammoguide,false,0,0
