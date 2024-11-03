@@ -12,3 +12,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1685643,1472545,2024-11-03 01:35:35 -0800,2024-11-03 01:35:35 -0800,<p>C'è modo di riprodurre il problema? Puoi aggiungere uno screenshot? </p>,@next,false,0,0
 1685644,1472545,2024-11-03 02:06:22 -0800,2024-11-03 02:06:22 -0800,<p>allego screenshot </p>,sacconicase,false,0,0
 1685653,1472545,2024-11-03 02:55:20 -0800,2024-11-03 03:36:12 -0800,<p>Per quel che vedo non è eliminabile. È il il componente di WP a generare il codice in quel modo. </p>,@next,false,0,0
+1685658,1472569,2024-11-03 04:45:30 -0800,2024-11-03 04:45:30 -0800,"<p>I should also add that these two <a href=""http://comcast.net"" rel=""nofollow"">comcast.net</a> accounts work fine on my smart phone and the Xfinity web email app. </p>",Kennymsq,false,0,0
