@@ -2,3 +2,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1686034,1472846,2024-11-05 00:34:44 -0800,2024-11-05 00:34:44 -0800,<p>Probabilmente stai caricando una firma in formato binario il cui file originario è danneggiato. </p>,@next,false,0,0
 1686038,1472849,2024-11-05 00:52:51 -0800,2024-11-05 00:52:51 -0800,<p>In che modo dovremmo aiutarti se non spieghi bene la situazione? </p>,@next,false,0,0
 1686047,1472851,2024-11-05 01:15:18 -0800,2024-11-05 01:15:18 -0800,"<p>Per i file PDF, ImportExportTools NG segue le impostazioni di stampa, genera cioè l'anteprima di stampa di ogni messaggio e poi lo converte in PDF. </p>",@next,false,0,0
+1686056,1472861,2024-11-05 03:37:35 -0800,2024-11-05 03:37:35 -0800,"<p>Se non si comunica bene in inglese, si prega di utilizzare MozillaItalia - <a href=""http://forum.mozillaitalia.org/index.php?board=32.0"" rel=""nofollow"">http://forum.mozillaitalia.org/index.php?board=32.0</a> </p>",wsmwk,false,0,0
