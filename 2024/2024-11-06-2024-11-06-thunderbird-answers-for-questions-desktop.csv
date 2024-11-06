@@ -30,3 +30,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1686309,1473115,2024-11-06 13:09:24 -0800,2024-11-06 13:09:24 -0800,"<p>first question:  click 'account settings', highlight account to be deleted in left side, scroll further to 'account actions' menu, select 'remove account'  second question: in account settings, highlight account to move and drag up or down </p>",davidsk,false,1,0
 1686310,1473115,2024-11-06 13:14:02 -0800,2024-11-06 13:14:02 -0800,<p>Thanks for your help </p>,mergaz,false,0,0
 1686321,1473129,2024-11-06 13:57:25 -0800,2024-11-06 13:57:25 -0800,<p>Please clarify: are you the recipient or the sender? it is not clear from your post. The message content you posted implies you are the sender. </p>,davidsk,false,0,0
+1686327,1473129,2024-11-06 14:18:59 -0800,2024-11-06 14:18:59 -0800,"<p>I am both, I have to use another email account because the emails do not arrive at stay@thevilla.co.nz </p>",thevillahostel,false,0,0
