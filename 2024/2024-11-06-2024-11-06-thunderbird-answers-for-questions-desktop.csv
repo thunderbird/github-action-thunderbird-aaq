@@ -24,5 +24,9 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1686264,1473077,2024-11-06 08:51:18 -0800,2024-11-06 08:51:18 -0800,<p>Quanto spazio hai libero sul disco? </p>,@next,false,0,0
 1686274,1473077,2024-11-06 09:33:18 -0800,2024-11-06 09:33:18 -0800,<p>Su disco fisso 450GB sul NAS 890GB </p>,roberto.no66,false,0,0
 1686302,1473078,2024-11-06 12:37:44 -0800,2024-11-06 12:37:44 -0800,"<p>Bonjour, est-ce que ce mot de passe est accepté sur le webmail de SFR&nbsp;? </p>",frederic12,false,0,0
+1686317,1473090,2024-11-06 13:46:44 -0800,2024-11-06 13:46:44 -0800,<p>what version of thunderbird are you using? </p>,davidsk,false,0,0
+1686316,1473104,2024-11-06 13:44:05 -0800,2024-11-06 13:44:05 -0800,"<p>If you're seeking assistance, you need to share incoming and outgoing server settings of the accounts where you are having difficulty. Please be explicit on the exact problem you are experiencing. You wrote a long post, but the issue itself is vague. Thank you. </p>",davidsk,false,0,0
+1686318,1473112,2024-11-06 13:49:24 -0800,2024-11-06 13:49:24 -0800,<p>have you tried the 'mail merge' addon? </p>,davidsk,false,0,0
 1686309,1473115,2024-11-06 13:09:24 -0800,2024-11-06 13:09:24 -0800,"<p>first question:  click 'account settings', highlight account to be deleted in left side, scroll further to 'account actions' menu, select 'remove account'  second question: in account settings, highlight account to move and drag up or down </p>",davidsk,false,1,0
 1686310,1473115,2024-11-06 13:14:02 -0800,2024-11-06 13:14:02 -0800,<p>Thanks for your help </p>,mergaz,false,0,0
+1686321,1473129,2024-11-06 13:57:25 -0800,2024-11-06 13:57:25 -0800,<p>Please clarify: are you the recipient or the sender? it is not clear from your post. The message content you posted implies you are the sender. </p>,davidsk,false,0,0
