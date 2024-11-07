@@ -1,0 +1,2 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1473149,2024-11-06 16:57:22 -0800,2024-11-06 16:57:22 -0800,Export Accounts to Mobile Thunderbird,"<p>Hi, I'm using macOS 15.0.1 and Thunderbird 128.4.2esr (64-bit). I want to export my settings to the mobile version of Thunderbird using the QR code. However, when I select ""Export for Mobile,"" I don't see any accounts available for export, and both buttons are grayed out. I have five IMAP accounts set up. </p><p>-- jacek </p>",thunderbird;settings;,thunderbird,settings,en-US,"",jacek29
