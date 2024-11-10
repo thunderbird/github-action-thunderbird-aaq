@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1687067,1473617,2024-11-09 21:54:05 -0800,2024-11-09 21:54:05 -0800,"<p><a href=""http://outlook.com"" rel=""nofollow"">outlook.com</a> accounts in TB use an oauth:// token in Saved Passwords, which is different from the normal account password used to access the account in webmail. </p>",sfhowes,false,0,0
+1687073,1473624,2024-11-10 00:47:57 -0800,2024-11-10 00:47:57 -0800,"<p>have you looked at googles IMAP limits? <a href=""https://support.google.com/a/answer/1071518?hl=en"" rel=""nofollow"">https://support.google.com/a/answer/1071518?hl=en</a> </p><p>That would indicate it will take more than a week to get all your mail. 10 days for 25Gb actually. </p>",MattAuSupport,false,0,0
