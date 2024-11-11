@@ -16,3 +16,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1687291,1473822,2024-11-11 07:22:35 -0800,2024-11-11 07:22:35 -0800,"<p>You might get some suggestions if you post screenshots of your incoming server setting, the identity setting, and the SMTP server setting pane. </p>",davidsk,false,0,0
 1687296,1473822,2024-11-11 07:46:24 -0800,2024-11-11 07:46:24 -0800,"<p>To clarify, this is an non-default outgoing server identity within the default account. </p><p>Screenshots attached </p>",firefox1694,false,0,0
 1687298,1473835,2024-11-11 08:08:02 -0800,2024-11-11 08:08:02 -0800,<p>Di solito quel messaggio significa che hai esaurito lo spazio sul server. Più raramente che hai esaurito lo spazio sul disco locale del computer. Verifica anzitutto queste due cose. </p>,@next,false,0,0
+1687301,1473835,2024-11-11 08:39:00 -0800,2024-11-11 08:39:00 -0800,"<p>Il portatile è nuovo, ci sono 368 GB disponibili su 500 GB </p>",mirella2,false,0,0
+1687302,1473835,2024-11-11 08:40:45 -0800,2024-11-11 08:40:45 -0800,"<p>Si ok, e sul server? </p>",@next,false,0,0
