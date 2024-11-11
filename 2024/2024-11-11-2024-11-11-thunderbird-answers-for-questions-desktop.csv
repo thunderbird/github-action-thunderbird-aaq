@@ -13,3 +13,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1687269,1473810,2024-11-11 05:00:45 -0800,2024-11-11 05:00:45 -0800,"<p>try this:  highlight the inbox, rightclick, select properties, and then click repair </p>",davidsk,false,1,0
 1687276,1473810,2024-11-11 05:15:31 -0800,2024-11-11 05:15:31 -0800,<p>Thanks for your very prompt reply which appears to have resolved my problem. </p>,eregister,false,0,0
 1687291,1473822,2024-11-11 07:22:35 -0800,2024-11-11 07:22:35 -0800,"<p>You might get some suggestions if you post screenshots of your incoming server setting, the identity setting, and the SMTP server setting pane. </p>",davidsk,false,0,0
+1687296,1473822,2024-11-11 07:46:24 -0800,2024-11-11 07:46:24 -0800,"<p>To clarify, this is an non-default outgoing server identity within the default account. </p><p>Screenshots attached </p>",firefox1694,false,0,0
