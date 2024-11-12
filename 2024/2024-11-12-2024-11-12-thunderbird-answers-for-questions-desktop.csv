@@ -8,3 +8,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1687429,1474008,2024-11-12 03:51:13 -0800,2024-11-12 03:51:13 -0800,"<p>C'era, effettivamente, la sottoscrizione al calendario della casella Gmail che non suo più, e l'ho eliminata. Purtroppo però il problema persiste. Ancora grazie per il tuo tempo. </p>",carlo.avossa,false,0,0
 1687425,1474011,2024-11-12 03:01:51 -0800,2024-11-12 03:01:51 -0800,"<p>I have to add that if I select ""in-line"" instead of ""as attachment"" only the file name appears at the destination. </p>",ajoliveira,false,0,0
 1687426,1474014,2024-11-12 03:10:57 -0800,2024-11-12 03:10:57 -0800,<p>EDIT Only the inbox folder has the problem in each case. Other folders are full of the old stuff. </p>,triplemaya,false,0,0
+1687430,1474014,2024-11-12 04:06:02 -0800,2024-11-12 04:06:02 -0800,<p>EDIT 2  It is all IMAP. I went over from POP several years ago. </p>,triplemaya,false,0,0
