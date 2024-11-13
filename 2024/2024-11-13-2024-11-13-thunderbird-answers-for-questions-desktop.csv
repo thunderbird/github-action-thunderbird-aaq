@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1687568,1474120,2024-11-12 20:02:11 -0800,2024-11-12 20:02:11 -0800,<p>Attachments to received messages can be attached to new messages by drag and drop. </p>,sfhowes,false,0,0
+1687579,1474132,2024-11-12 22:36:23 -0800,2024-11-12 22:36:23 -0800,"<p>Run Windows in safe mode to bypass Norton and the VPN at startup.  If you keep Norton in Windows normal mode, you'll have to disable its scanning of the TB profile and also scanning of secure connections.  Things would be a lot simpler if you replaced Norton with Windows Security. </p>",sfhowes,false,0,0
