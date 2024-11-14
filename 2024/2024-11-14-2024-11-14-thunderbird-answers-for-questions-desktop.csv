@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1687761,1474300,2024-11-13 21:02:29 -0800,2024-11-13 21:02:29 -0800,"<p>Help &gt; Troubleshoot Mode, test, then restart normal, test, </p>",wsmwk,false,0,0
+1687772,1474315,2024-11-13 23:56:28 -0800,2024-11-13 23:56:28 -0800,<p>Entrambi con la stessa versione di Thunderbird? Sai con quale programma è stata scritta la mail? </p>,@next,false,0,0
