@@ -15,6 +15,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1689262,1475302,2024-11-21 05:10:35 -0800,2024-11-21 05:10:35 -0800,"<p>Un paio di metodi sono descritti qui -&gt; <a href=""https://codeberg.org/m13o/TBook/wiki/Thunderbird+-+Importare+mbox.-"" rel=""nofollow"">https://codeberg.org/m13o/TBook/wiki/Thunderbird+-+Importare+mbox.-</a> </p>",@next,false,0,0
 1689285,1475303,2024-11-21 07:29:25 -0800,2024-11-21 07:29:25 -0800,"<p>I have noticed that whatever folder you have it on after you close TB, it will re-open on that folder </p>",sludge7051-x,false,0,0
 1689264,1475304,2024-11-21 05:18:03 -0800,2024-11-21 05:18:03 -0800,"<p>I don't understand. When you import the addressbook, you state you get correspondence between others? The addressbook only has email addresses, not correspondence. Please clarify and I'll try to assist. </p>",davidsk,false,0,0
+1689294,1475313,2024-11-21 08:29:47 -0800,2024-11-21 08:29:47 -0800,<p>La password di cosa? </p>,@next,false,0,0
 1689263,1475314,2024-11-21 05:10:35 -0800,2024-11-21 05:10:35 -0800,<p>you can click edit&gt;select&gt;all   -  or press cntl and 'a' and then click delete </p>,davidsk,false,0,0
 1689265,1475314,2024-11-21 05:21:21 -0800,2024-11-21 05:21:21 -0800,<p>the summary file had to be rearranged  merci </p>,till11,false,0,0
 1689282,1475323,2024-11-21 07:20:03 -0800,2024-11-21 07:20:03 -0800,<p>Check to see where the message is coming from. Contact your host email provider if unsure. Thunderbird does not do this. </p>,davidsk,false,0,0
