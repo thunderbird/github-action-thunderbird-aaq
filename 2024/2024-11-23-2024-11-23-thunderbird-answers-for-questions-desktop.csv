@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1689585,1475550,2024-11-22 16:57:43 -0800,2024-11-22 16:57:43 -0800,<p>My email address is gtennille@cox.net </p>,gtennille,false,0,0
+1689616,1475576,2024-11-22 21:13:54 -0800,2024-11-22 21:13:54 -0800,"<p>Account Settings, Sync. &amp; Storage, uncheck 'Keep messages...'.  You could also move messages to other folders in webmail and not subscribe those folders in TB. </p>",sfhowes,false,1,0
