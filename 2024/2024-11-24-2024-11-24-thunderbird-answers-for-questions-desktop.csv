@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
-1689793,1475664,2024-11-23 19:40:53 -0800,2024-11-23 19:40:53 -0800,"<p>Turn on table view <a href=""https://support.mozilla.org/en-US/kb/thunderbird-115-supernova-faq#w_step-2-turn-on-cards-view"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/thunderbird-115-supernova-faq#w_step-2-turn-on-cards-view</a> </p>",wsmwk,false,0,0
+1689793,1475664,2024-11-23 19:40:53 -0800,2024-11-23 19:40:53 -0800,"<p>Turn on table view <a href=""https://support.mozilla.org/en-US/kb/thunderbird-115-supernova-faq#w_step-2-turn-on-cards-view"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/thunderbird-115-supernova-faq#w_step-2-turn-on-cards-view</a> </p>",wsmwk,false,1,0
+1689795,1475664,2024-11-23 19:55:04 -0800,2024-11-23 19:55:04 -0800,<p>Thank you <em>so</em> much. </p><p>That was bothering me all out of proportion. </p>,grebnellow,false,0,0
