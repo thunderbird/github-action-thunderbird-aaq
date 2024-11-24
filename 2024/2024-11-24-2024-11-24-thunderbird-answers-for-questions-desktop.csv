@@ -23,6 +23,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1689905,1475735,2024-11-24 13:35:34 -0800,2024-11-24 13:35:34 -0800,<p>this is a duplicate </p>,davidsk,false,0,0
 1689902,1475736,2024-11-24 13:17:48 -0800,2024-11-24 13:17:48 -0800,"<p>There may be one if using an addon, but there is no 'signature switch' in thunderbird as installed. </p>",davidsk,false,0,0
 1689889,1475737,2024-11-24 11:12:41 -0800,2024-11-24 11:12:41 -0800,"<p>See <a href=""https://support.mozilla.org/en-US/questions/1404881"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1404881</a> </p>",sfhowes,false,0,0
+1689915,1475738,2024-11-24 15:31:03 -0800,2024-11-24 15:31:03 -0800,"<p>I guess it fixed itself, working now. </p>",gmcentee22,false,0,0
 1689888,1475740,2024-11-24 11:11:42 -0800,2024-11-24 11:11:42 -0800,<p>Tools/Message Filters and create a filter like the one in the attached picture. </p>,sfhowes,false,1,0
 1689891,1475740,2024-11-24 11:19:49 -0800,2024-11-24 11:19:49 -0800,"<p>Thank you very much for instant support&nbsp;:) I should have found it myself, but it's a long time I didn't need filters (long ago with Outlook Express - very ancient times&nbsp;;)) </p>",janowski,false,0,0
 1689907,1475744,2024-11-24 13:38:39 -0800,2024-11-24 13:38:39 -0800,<p>please provide more information. was there an update? </p>,davidsk,false,0,0
