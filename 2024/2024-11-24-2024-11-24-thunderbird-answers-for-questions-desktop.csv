@@ -32,6 +32,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1689882,1475733,2024-11-24 09:41:51 -0800,2024-11-24 09:41:51 -0800,"<p>I have replied to two of your posts, but you never responded. </p>",davidsk,false,0,0
 1689948,1475734,2024-11-25 00:53:02 -0800,2024-11-25 00:53:02 -0800,"<p>Als u gebruikmaakt van webmail, ziet u dan wel berichten staan tussen die periode? </p>",Mozilla-assistent,false,0,1
 1689952,1475734,2024-11-25 01:39:54 -0800,2024-11-25 01:39:54 -0800,<p>Dit soort e-mail problemen heeft volgens mij helemaal niets met Firefox te maken. </p>,LTM,false,0,0
+1690139,1475734,2024-11-26 02:20:37 -0800,2024-11-26 02:20:37 -0800,"<em><p>Léon <a href=""#answer-1689952"" rel=""nofollow"">zei</a></p></em> <blockquote>Dit soort e-mail problemen heeft volgens mij helemaal niets met Firefox te maken. </blockquote> <p>De vraag gaat dan ook over Thunderbird&nbsp;:) </p>",markh2,false,0,0
 1689905,1475735,2024-11-24 13:35:34 -0800,2024-11-24 13:35:34 -0800,<p>this is a duplicate </p>,davidsk,false,0,0
 1689902,1475736,2024-11-24 13:17:48 -0800,2024-11-24 13:17:48 -0800,"<p>There may be one if using an addon, but there is no 'signature switch' in thunderbird as installed. </p>",davidsk,false,0,0
 1689889,1475737,2024-11-24 11:12:41 -0800,2024-11-24 11:12:41 -0800,"<p>See <a href=""https://support.mozilla.org/en-US/questions/1404881"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1404881</a> </p>",sfhowes,false,0,0
