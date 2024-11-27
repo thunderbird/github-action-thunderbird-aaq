@@ -33,3 +33,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1690404,1476175,2024-11-27 10:59:50 -0800,2024-11-27 10:59:50 -0800,"<p>Well, NOW a bunch of emails between 11/19 and today have disappeared from my IMAP-using server's Thunderbird inbox. But I can still access them on the browser. Mostly. </p>",mbeckman1,false,0,0
 1690370,1476180,2024-11-27 09:03:33 -0800,2024-11-27 09:03:33 -0800,"<p>- click to 'account settings' - highlight the name of an account to move - with the mouse button down, drag to desired positin </p>",davidsk,false,0,0
 1690371,1476185,2024-11-27 09:04:22 -0800,2024-11-27 09:04:22 -0800,<p>You will need to contact your email provider to get a new password. </p>,davidsk,false,0,0
+1690415,1476213,2024-11-27 11:30:20 -0800,2024-11-27 11:30:20 -0800,<p>It will help if you post screenshot of your SMTP server setting pane. </p>,davidsk,false,0,0
