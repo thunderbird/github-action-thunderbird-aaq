@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1690805,1476380,2024-11-29 06:04:30 -0800,2024-11-29 06:04:30 -0800,<p>That feature works. You need to provide more information. </p>,davidsk,false,0,0
 1690799,1476397,2024-11-29 05:44:32 -0800,2024-11-29 05:44:32 -0800,<p>I suggest pressing the shift key when you click 'reply' to switch you to plain text for this one message. I think that may eliminate the color issue. </p>,davidsk,false,0,0
 1690803,1476403,2024-11-29 05:50:17 -0800,2024-11-29 05:50:17 -0800,"<p>Please clarify your issue. Apparently, you sent $30 to Microsoft? For what? More information is needed, as there is no tie between Thunderbird an Microsoft. Thank you. </p>",davidsk,false,0,0
 1690802,1476408,2024-11-29 05:48:03 -0800,2024-11-29 05:48:03 -0800,<p>this may work:  - highlight folder - click edit&gt;select&gt;all - right click in message list and select 'forward and redirect&gt;as attachments'   - send </p>,davidsk,false,0,0
