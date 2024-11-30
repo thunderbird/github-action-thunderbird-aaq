@@ -41,3 +41,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1690949,1476515,2024-11-29 13:17:36 -0800,2024-11-29 13:17:36 -0800,<p>check view&gt;message body to verify that it is set to 'original HTML </p>,davidsk,false,0,0
 1690952,1476520,2024-11-29 13:33:00 -0800,2024-11-29 13:33:00 -0800,"<p>no matter how many accouns of thunderbird I make , none of them work and even distrys my other email accounts why? </p>",jamalavabetil,false,0,0
 1690953,1476520,2024-11-29 13:34:00 -0800,2024-11-29 13:34:00 -0800,<p>no no no it never does! </p>,jamalavabetil,false,0,0
+1691109,1476525,2024-11-30 11:26:16 -0800,2024-11-30 11:26:16 -0800,"<p>To see all folders as one, click View&gt;folders&gt;unified folders </p>",davidsk,false,0,0
