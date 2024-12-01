@@ -22,3 +22,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1691097,1476620,2024-11-30 09:24:37 -0800,2024-11-30 09:24:37 -0800,"<p>Senza sapere la causa, non credo ti convenga cancellare. </p>",@next,false,0,0
 1691125,1476640,2024-11-30 13:33:51 -0800,2024-11-30 13:33:51 -0800,"<p>If you tell what happened prior to this, it may be easier to advise next steps. Thank you, </p>",davidsk,false,0,0
 1691115,1476652,2024-11-30 12:33:59 -0800,2024-11-30 12:33:59 -0800,<p>This is a duplicate of your original post. Please do not do that and continue your response to the original post. Thank you. </p>,davidsk,false,0,0
+1691156,1476654,2024-11-30 16:13:05 -0800,2024-11-30 16:13:05 -0800,"<p><a href=""https://support.mozilla.org/cs/kb/nemohu-odeslat-e-mail"" rel=""nofollow"">Nemohu odeslat e-mail</a> <a href=""https://support.mozilla.org/cs/kb/nemohu-prijimat-zpravy"" rel=""nofollow"">Nemohu přijímat zprávy</a> </p>",poljos-moz,false,0,0
