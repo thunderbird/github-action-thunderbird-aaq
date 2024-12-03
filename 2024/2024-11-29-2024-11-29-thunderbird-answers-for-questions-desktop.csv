@@ -53,6 +53,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1691114,1476519,2024-11-30 12:31:11 -0800,2024-11-30 12:31:11 -0800,<p>Thunderbird has no limit. This is administered by your email provider. </p>,davidsk,false,1,0
 1691387,1476519,2024-12-01 16:07:37 -0800,2024-12-01 16:07:37 -0800,<p>Not sure why im getting emails saying im reaching my quota then? </p>,gardenofsound,false,0,0
 1691444,1476519,2024-12-01 20:46:22 -0800,2024-12-01 20:57:23 -0800,"<em><p>Jason Nielsen <a href=""#answer-1691387"" rel=""nofollow"">said</a></p></em> <blockquote>Not sure why im getting emails saying im reaching my quota then? </blockquote> <p>Is your local disk full?  Thunderbird is a email client. It just connects to email server. </p>",PavelkoT,false,0,0
+1691518,1476519,2024-12-02 06:08:05 -0800,2024-12-02 06:08:05 -0800,<p>who is sending you these emails? </p>,davidsk,false,0,0
 1690952,1476520,2024-11-29 13:33:00 -0800,2024-11-29 13:33:00 -0800,"<p>no matter how many accouns of thunderbird I make , none of them work and even distrys my other email accounts why? </p>",jamalavabetil,false,0,0
 1690953,1476520,2024-11-29 13:34:00 -0800,2024-11-29 13:34:00 -0800,<p>no no no it never does! </p>,jamalavabetil,false,0,0
 1691109,1476525,2024-11-30 11:26:16 -0800,2024-11-30 11:26:16 -0800,"<p>To see all folders as one, click View&gt;folders&gt;unified folders </p>",davidsk,false,0,0
