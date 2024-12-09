@@ -17,6 +17,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1692903,1477716,2024-12-08 10:18:05 -0800,2024-12-08 10:18:05 -0800,"<p>OK, good idea, but I am using Proton as mail server and I do not really know how to do this. I will ask Proton support how to do it. Thanks anyway. </p>",jjw34820,false,0,0
 1692919,1477716,2024-12-08 11:08:34 -0800,2024-12-08 11:08:34 -0800,"<p>See <a href=""https://proton.me/support/auto-reply"" rel=""nofollow"">https://proton.me/support/auto-reply</a> </p>",sfhowes,false,0,0
 1692880,1477719,2024-12-08 09:16:57 -0800,2024-12-08 09:16:57 -0800,"<p>although not perfect, you could set a primary password at settings&gt;Privacy&amp;security </p>",davidsk,false,0,1
+1692974,1477719,2024-12-08 16:09:10 -0800,2024-12-08 16:09:10 -0800,<p>locking this duplicate question </p>,wsmwk,false,0,0
 1692838,1477721,2024-12-08 07:03:03 -0800,2024-12-08 07:03:03 -0800,<p>Als u heul nodig heeft met Thunderbird moet u iets meer informatie geven. </p>,Mad_Maks,false,0,0
 1692830,1477729,2024-12-08 06:24:30 -0800,2024-12-08 06:24:30 -0800,"<p>mail.openpgp.allow_external_gnupg = true включен, согласно: <a href=""https://wiki.mozilla.org/Thunderbird:OpenPGP:Smartcards"" rel=""nofollow"">https://wiki.mozilla.org/Thunderbird:OpenPGP:Smartcards</a> </p>",dev.sokolovsky,false,0,0
 1692837,1477731,2024-12-08 07:01:13 -0800,2024-12-08 07:01:13 -0800,<p>Probeer eens je account te comprimeren. Rechter klik op je account en kies comprimeren </p>,Mad_Maks,false,0,0
