@@ -23,9 +23,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1693146,1477866,2024-12-09 11:26:33 -0800,2024-12-09 11:26:33 -0800,<p>duplicate </p>,davidsk,false,0,0
 1693145,1477867,2024-12-09 11:26:07 -0800,2024-12-09 11:26:07 -0800,"<p>You have posted this THREE times. Please never do that again. On your problem, I am not sure what you mean by PIN. Is this your password? My suggestion is to start over. When  entering account information, DO NOT enter password, but wait until prompted by Google. </p>",davidsk,false,0,1
 1693147,1477868,2024-12-09 11:27:02 -0800,2024-12-09 11:27:02 -0800,<p>duplicate </p>,davidsk,false,0,0
-1693140,1477870,2024-12-09 11:16:31 -0800,2024-12-09 11:16:31 -0800,<p>Please STOP. You're creating clutter. </p>,davidsk,false,1,0
-1693141,1477871,2024-12-09 11:18:17 -0800,2024-12-09 11:18:17 -0800,<p>duplicate </p>,davidsk,false,0,0
-1693143,1477872,2024-12-09 11:19:05 -0800,2024-12-09 11:19:05 -0800,<p>duplicate </p>,davidsk,false,0,0
 1693142,1477873,2024-12-09 11:18:41 -0800,2024-12-09 11:18:41 -0800,<p>duplicate </p>,davidsk,false,1,0
 1693144,1477873,2024-12-09 11:22:33 -0800,2024-12-09 11:22:33 -0800,"<p>Please don’t worry,  it happened accidentally. </p><p>Each time I submitted the OP, I received an error message on the screen and was unaware that the original post had already been published. </p>",Kostek,false,0,0
 1693119,1477883,2024-12-09 10:06:41 -0800,2024-12-09 10:06:41 -0800,"<p>The English term for this is 'mailing list', and you can create one by clicking the icon in the attached picture. Option 2 in the support article is the most effective method for adding contacts to the list. </p>",sfhowes,false,0,0
@@ -35,4 +32,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1693131,1477897,2024-12-09 10:51:50 -0800,2024-12-09 10:51:50 -0800,"<p>Hi, </p><p>You must get that information from your mail service. </p><p>Rick </p>",mozilla664,false,0,0
 1693153,1477911,2024-12-09 11:58:20 -0800,2024-12-09 11:58:20 -0800,"<p>You might check settings&gt;general to see if you have 'clear cache' set. You can also click Tools&gt;clear recent history. If that makes the messages disappear, then it's just cache. </p>",davidsk,false,1,0
 1693171,1477912,2024-12-09 14:12:08 -0800,2024-12-09 14:12:08 -0800,"<p>In that case, please post a screenshot of your SMTP server settings pane and the complete error messages. Thank you. </p>",davidsk,false,0,0
+1693176,1477914,2024-12-09 14:59:17 -0800,2024-12-09 14:59:17 -0800,"<p>Hello there  We have read the message We try to help </p><p>By Clicking on the right mouse button yes on the marked message and then look and search in the menu for the options to accept the messsge as normal and quick click there on that button, from there on you can accept it as normal , by there then the message goes into the inbox. Greetings Firefox volunteer </p>",Googlethunderbird,false,0,0
 1693170,1477922,2024-12-09 14:10:49 -0800,2024-12-09 14:10:49 -0800,<p>A BIG THANKS for your donation. That website shares some of the history of Thunderbird and I thank you for sharing it.&nbsp;:) </p>,davidsk,false,0,0
