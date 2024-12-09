@@ -16,3 +16,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1693047,1477844,2024-12-09 07:03:10 -0800,2024-12-09 07:03:10 -0800,<p>Thunderbird version 128.5.1esr on Windows 11 Pro 23H2 </p>,martin414,false,0,0
 1693085,1477857,2024-12-09 08:00:03 -0800,2024-12-09 08:00:03 -0800,"<p>Questo è solo un forum di utenti, non un supporto tecnico. Del resto Thunderbird è software gratuito, chi li pagherebbe gli addetti al supporto? </p>",@next,false,0,0
 1693119,1477883,2024-12-09 10:06:41 -0800,2024-12-09 10:06:41 -0800,"<p>The English term for this is 'mailing list', and you can create one by clicking the icon in the attached picture. Option 2 in the support article is the most effective method for adding contacts to the list. </p>",sfhowes,false,0,0
+1693133,1477888,2024-12-09 10:55:18 -0800,2024-12-09 10:55:18 -0800,"<p>Hi, </p><p>Contact your mail service. </p><p>Rick </p>",mozilla664,false,0,0
+1693132,1477889,2024-12-09 10:54:55 -0800,2024-12-09 10:54:55 -0800,"<p>Hi Reed, </p><p>Can you provide more information? </p><p>Server settings and login information are with your mail service. They are not Thunderbird issues. </p><p>Rick </p>",mozilla664,false,0,0
+1693131,1477897,2024-12-09 10:51:50 -0800,2024-12-09 10:51:50 -0800,"<p>Hi, </p><p>You must get that information from your mail service. </p><p>Rick </p>",mozilla664,false,0,0
