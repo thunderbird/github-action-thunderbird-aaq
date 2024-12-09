@@ -2,3 +2,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1692998,1477794,2024-12-08 22:00:11 -0800,2024-12-08 22:00:11 -0800,"<p>You can send email, but you cannot receive? And who is your mail provider? </p>",wsmwk,false,0,0
 1692997,1477798,2024-12-08 21:59:33 -0800,2024-12-08 21:59:33 -0800,"<p>What do you mean by ""refreshed""? And who is your mail provider? </p>",wsmwk,false,0,0
 1693036,1477804,2024-12-09 05:24:20 -0800,2024-12-09 05:24:20 -0800,"<p>Wenn Sie in der Lage sind, auf Englisch zu kommunizieren, posten Sie bitte erneut auf Englisch. Andernfalls verwenden Sie bitte <a href=""http://Thunderbird-mail.de"" rel=""nofollow"">Thunderbird-mail.de</a> </p>",wsmwk,false,0,0
+1693042,1477813,2024-12-09 06:43:39 -0800,2024-12-09 06:43:39 -0800,"<p>Tento problém môže spôsobovať antivírusový program. Vo viacerých prípadoch bolo potrebné pridať výnimku, alebo úplne vypnúť kontrolu SMTP. </p>",Ansamb,false,0,0
