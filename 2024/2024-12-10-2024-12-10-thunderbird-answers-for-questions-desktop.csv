@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1693209,1477937,2024-12-09 18:32:11 -0800,2024-12-09 18:32:11 -0800,"<p>The timezone can be set in Settings/Calendar.  Pick a city that is in the AEST zone, such as Sydney (see picture).  For individual events or tasks, select Options/Show Timezones in the event or task dialog and set the zone. </p>",sfhowes,false,0,0
+1693208,1477956,2024-12-09 18:20:05 -0800,2024-12-09 18:20:05 -0800,"<p>The pop-up is part of the OAuth2 authentication process that is mandatory for any mail app, not just TB. </p><p><a href=""https://support.mozilla.org/en-US/kb/thunderbird-and-gmail"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/thunderbird-and-gmail</a> </p>",sfhowes,false,0,0
