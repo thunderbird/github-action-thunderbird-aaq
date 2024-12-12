@@ -1,2 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1693887,1478566,2024-12-12 01:38:20 -0800,2024-12-12 01:38:20 -0800,<p>tous mes mails ont disparus depuis le début jusqu'au 24 novembre 2024 </p>,a.lasagna83,false,0,0
+1693893,1478575,2024-12-12 02:42:05 -0800,2024-12-12 02:42:05 -0800,"<p>Hallo Edwin, had je dit artikel al doorgenomen: <a href=""https://support.mozilla.org/nl/kb/thunderbird-gegevens-naar-een-nieuwe-computer-verplaatsen?"" rel=""nofollow"">https://support.mozilla.org/nl/kb/thunderbird-gegevens-naar-een-nieuwe-computer-verplaatsen?</a> </p>",Mozilla-assistent,false,0,0
+1693894,1478575,2024-12-12 02:45:49 -0800,2024-12-12 02:45:49 -0800,"<p>Hallo, jazeker heb ik dit bekeken, en ook toegepast, echter heb ik het vermoeden dat het bestand wellicht te groot is met 10 GB. Als ik het bestand kopieer in de juiste Thunderbird map, dan krijg ik een melding dat het niet gelukt is. </p>",Edwin,false,0,0
+1693895,1478575,2024-12-12 02:46:31 -0800,2024-12-12 02:46:31 -0800,<p>Of kan het liggen aan de huidige versie die ik heb gedownload? (er is er maar 1 zo te zien) </p>,Edwin,false,0,0
