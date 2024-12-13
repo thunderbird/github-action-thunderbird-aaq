@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1694170,1478778,2024-12-12 22:12:42 -0800,2024-12-12 22:12:42 -0800,<p>There is currently no mobile version of Thunderbird for iOS/iPadOS.  The Thunderbird .dmg file is for macOS.  </p><p>There is a mobile version of Thunderbird for Android though. </p>,James,false,0,0
