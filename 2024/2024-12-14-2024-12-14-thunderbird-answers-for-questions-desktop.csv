@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1694412,1478979,2024-12-13 18:46:41 -0800,2024-12-13 18:46:41 -0800,"<p><a href=""https://support.mozilla.org/en-US/kb/rebuilding-global-database"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/rebuilding-global-database</a> </p>",MattAuSupport,false,0,0
+1694430,1478979,2024-12-13 21:29:32 -0800,2024-12-13 21:29:32 -0800,"<p>Thanks Matt - I had a feeling that it was a search index problem, but didn't know how to repair the index.  The article you cited looks very promising.  I'll answer back here when I get a result on the index rebuild. </p>",dncollins,false,0,0
 1694411,1478985,2024-12-13 18:45:10 -0800,2024-12-13 18:45:10 -0800,"<p>I can not believe I am answering this. </p><p>See image. <img src=""https://assets-prod.sumo.prod.webservices.mozgcp.net/media/uploads/images/2024-12-13-18-44-14-9cc188.png""> </p>",MattAuSupport,false,0,0
 1694413,1478985,2024-12-13 18:47:57 -0800,2024-12-13 18:47:57 -0800,<p>Click the circled button in the attached picture to add filters.  Select 'Match all' or 'Match any' depending on if the filters must be applied as an AND statement or an OR condition. </p>,sfhowes,false,0,0
 1694394,1478991,2024-12-13 17:33:26 -0800,2024-12-13 17:33:26 -0800,"<p>Hi Rob, </p><p>View - Headers - All is selected? </p><p>Rick </p>",mozilla664,false,0,0
