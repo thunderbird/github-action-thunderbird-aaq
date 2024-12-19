@@ -30,3 +30,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1695932,1480208,2024-12-19 06:18:29 -0800,2024-12-19 06:18:29 -0800,"<p>Re: ""Old computer is 32bit, new is 64bit.  Will profile-folder copy/paste work?""  </p><p>Both are  128.5.2esr </p>",rightcoaster,false,0,0
 1695969,1480219,2024-12-19 08:17:36 -0800,2024-12-19 08:17:36 -0800,<p>No. Many users have multiple accounts. </p>,davidsk,false,0,0
 1695985,1480233,2024-12-19 08:48:09 -0800,2024-12-19 08:48:09 -0800,"<p>See this thread for the info:   <a href=""https://support.mozilla.org/en-US/questions/1155312"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1155312</a> </p>",davidsk,false,0,0
+1695991,1480235,2024-12-19 09:01:07 -0800,2024-12-19 09:01:07 -0800,<p>View&gt;folders&gt;unified folders </p>,davidsk,false,0,0
+1695992,1480235,2024-12-19 09:10:10 -0800,2024-12-19 09:10:10 -0800,"<p>I ticked 'unified folders'  but apart from there being a tick there nothing else has changed&nbsp;? separate email inboxes are still there ... but no combined view, is there something else I need to do? </p>",rick_hughes,false,0,0
