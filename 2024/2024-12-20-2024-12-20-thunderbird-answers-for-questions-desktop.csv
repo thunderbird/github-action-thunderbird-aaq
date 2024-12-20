@@ -22,3 +22,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1696197,1480397,2024-12-20 06:44:04 -0800,2024-12-20 06:44:04 -0800,<p>Hai un backup recente del profilo di Thunderbird? </p>,@next,false,0,0
 1696193,1480404,2024-12-20 06:02:47 -0800,2024-12-20 06:02:47 -0800,<p>How to install Thunderbird on a iPad? </p>,aeschi.schaefer,false,0,0
 1696200,1480415,2024-12-20 06:59:12 -0800,2024-12-20 06:59:12 -0800,"<p>Following to my question, please note that my computer is an IOS Mac (Retina 4K, 21.5-inch, 2017) </p>",26zw9wvy4h,false,0,0
+1696215,1480425,2024-12-20 08:21:33 -0800,2024-12-20 08:21:33 -0800,<p>Double-click on the executable file and follow instructions </p>,arlev,false,0,0
+1696217,1480431,2024-12-20 08:30:24 -0800,2024-12-20 08:30:24 -0800,"<p>I'm not quite sure how you've set this up. </p><p>When I installed TB, I went through all the settings and programmed it to download emails and to delete them off the server immediately. </p><p>I then move emails into the offline section of the program when I want to save them, having made personalised folders. </p>",arlev,false,0,0
