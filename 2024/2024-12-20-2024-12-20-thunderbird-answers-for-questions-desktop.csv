@@ -52,5 +52,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1696224,1480435,2024-12-20 08:57:02 -0800,2024-12-20 08:57:02 -0800,<p>Same Thunderbird versions on both Macs? Which are the add-ons no longer working on the MacBook Air? </p>,Mapenzi,false,0,0
 1696241,1480443,2024-12-20 09:29:54 -0800,2024-12-20 09:29:54 -0800,<p>The screenshot looks like it's coming up in your browser. </p>,arlev,false,0,0
 1696252,1480443,2024-12-20 10:12:55 -0800,2024-12-20 10:12:55 -0800,<p>Check Address Book for a CardDAV Google address book (might be named Address Book) and Calendar for a CalDAV Google calendar. </p>,sfhowes,false,0,0
+1696291,1480443,2024-12-20 12:30:28 -0800,2024-12-20 12:30:28 -0800,<p>Thank you for your replies but neither offers a solution to the problem </p>,jonathan0barr,false,0,0
 1696265,1480451,2024-12-20 10:33:11 -0800,2024-12-20 10:33:11 -0800,"<p>With an HP Printer, the settings are bundled into the Printer Software package. So, probably not the email client needs to be programmed. </p>",arlev,false,0,0
 1696272,1480454,2024-12-20 10:50:15 -0800,2024-12-20 10:50:15 -0800,<p>i routinely delete cashe2\entries with no problems. I even have it set in cCleaner to do that </p>,davidsk,false,0,0
+1696296,1480462,2024-12-20 12:40:48 -0800,2024-12-20 12:40:48 -0800,"<p>Hi Mark, </p><p>Could you post a screen pic of your filter logic? </p><p>Rick </p>",mozilla664,false,0,0
