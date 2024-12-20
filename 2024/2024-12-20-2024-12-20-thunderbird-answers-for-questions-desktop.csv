@@ -18,4 +18,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1696188,1480384,2024-12-20 04:55:06 -0800,2024-12-20 04:55:06 -0800,"<p>Here is the website: <a href=""https://www.thunderbird.net/en-US/thunderbird/all/"" rel=""nofollow"">https://www.thunderbird.net/en-US/thunderbird/all/</a>  just select desired language and download the extended support release. </p>",davidsk,false,0,0
 1696183,1480387,2024-12-20 04:41:06 -0800,2024-12-20 04:41:06 -0800,<p>Contact your email provider and tell them you wish to cancel the service. Thunderbird is an email client and not a provider of mail services. </p>,arlev,false,0,0
 1696182,1480388,2024-12-20 04:39:37 -0800,2024-12-20 04:39:37 -0800,<p>You could try asking your ISP/Mail provider for a reset of your account if you registered a recovery email. </p>,arlev,false,0,0
+1696197,1480397,2024-12-20 06:44:04 -0800,2024-12-20 06:44:04 -0800,<p>Hai un backup recente del profilo di Thunderbird? </p>,@next,false,0,0
 1696193,1480404,2024-12-20 06:02:47 -0800,2024-12-20 06:02:47 -0800,<p>How to install Thunderbird on a iPad? </p>,aeschi.schaefer,false,0,0
