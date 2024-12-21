@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1696365,1480529,2024-12-20 20:17:11 -0800,2024-12-20 20:17:11 -0800,"<p>Have you changed your SMTP server to <a href=""http://smtp.office365.com"" rel=""nofollow"">smtp.office365.com</a> on Port 587? </p><p>Folk that have not done so have been posting here in this forum for more than 6 months about being unable to send mail, but they have not changed he server name and they have not restarted Thunderbird after they do so. </p>",MattAuSupport,false,0,0
