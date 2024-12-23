@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1696917,1480908,2024-12-22 19:29:35 -0800,2024-12-22 19:29:35 -0800,"<p>Hi T Duck, </p><p>""Incoming server already exists"" suggests to me that you are trying to set up an account in Thunderbird that already exists in Thunderbird. </p><p>When do you get this message? When you are trying to set up your gmail account? Does your gmail account already exist in Thunderbird?  </p><p>Rick </p>",mozilla664,false,0,0
+1696918,1480920,2024-12-22 19:58:42 -0800,2024-12-22 19:58:42 -0800,"<p>See <a href=""https://wiki.mozilla.org/Thunderbird:Testing:Memory_Usage_Problems"" rel=""nofollow"">https://wiki.mozilla.org/Thunderbird:Testing:Memory_Usage_Problems</a> </p>",wsmwk,false,0,0
