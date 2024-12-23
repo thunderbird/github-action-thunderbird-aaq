@@ -1,3 +1,9 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1696917,1480908,2024-12-22 19:29:35 -0800,2024-12-22 19:29:35 -0800,"<p>Hi T Duck, </p><p>""Incoming server already exists"" suggests to me that you are trying to set up an account in Thunderbird that already exists in Thunderbird. </p><p>When do you get this message? When you are trying to set up your gmail account? Does your gmail account already exist in Thunderbird?  </p><p>Rick </p>",mozilla664,false,0,0
 1696918,1480920,2024-12-22 19:58:42 -0800,2024-12-22 19:58:42 -0800,"<p>See <a href=""https://wiki.mozilla.org/Thunderbird:Testing:Memory_Usage_Problems"" rel=""nofollow"">https://wiki.mozilla.org/Thunderbird:Testing:Memory_Usage_Problems</a> </p>",wsmwk,false,0,0
+1696936,1480926,2024-12-22 23:13:22 -0800,2024-12-22 23:13:22 -0800,"<p>Translation: I want to delete one email account, but I don't know how to do it. How do I delete it? </p>",arlev,false,0,0
+1696937,1480926,2024-12-22 23:16:50 -0800,2024-12-22 23:16:50 -0800,"<p>In the English Version, go to: Account Settings Account Actions (bottom left) Remove Account I've no idea what the headers will be in Japanese </p>",arlev,false,0,0
+1696938,1480930,2024-12-22 23:19:12 -0800,2024-12-22 23:19:12 -0800,<p>Does Shift+F5 work? Did you do a clean install or try to overwrite the new version? </p>,arlev,false,0,0
+1696933,1480933,2024-12-22 23:10:34 -0800,2024-12-22 23:10:34 -0800,<p>Translation: - Compaction has become impossible. How to Fix </p>,arlev,false,0,0
+1696935,1480933,2024-12-22 23:11:42 -0800,2024-12-22 23:11:42 -0800,<p>Quel message d'erreur recevez-vous? Pourquoi est-ce « impossible »? Que fait Thunderbird? </p>,arlev,false,0,0
+1696932,1480938,2024-12-22 23:09:31 -0800,2024-12-22 23:09:31 -0800,<p>What error message dis you get? </p>,arlev,false,0,0
