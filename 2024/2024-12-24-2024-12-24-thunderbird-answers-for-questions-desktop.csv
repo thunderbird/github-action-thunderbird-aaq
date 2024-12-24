@@ -51,4 +51,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1697368,1481231,2024-12-24 10:56:29 -0800,2024-12-24 10:56:29 -0800,"<p>See <a href=""http://kb.mozillazine.org/Gmail"" rel=""nofollow"">http://kb.mozillazine.org/Gmail</a> </p><p>Enable POP in gmail webmail settings.  Disable 2-factor authentication and use account (not app) password in OAuth2 dialog.  Accept cookies in TB Settings.  TB account wizard should find the settings automatically.  Disable VPN if used. </p>",sfhowes,false,0,0
 1697373,1481242,2024-12-24 11:39:27 -0800,2024-12-24 11:39:27 -0800,<p>The layout display options are under View/Layout </p>,arlev,false,0,0
 1697381,1481242,2024-12-24 12:51:15 -0800,2024-12-24 12:51:15 -0800,<p>Perfect!  Thank you! </p>,golsan01,false,0,0
-1697383,1481244,2024-12-24 13:07:08 -0800,2024-12-24 13:07:08 -0800,<p>The attached is the only info I have for comcast/xfinity. </p>,davidsk,false,0,0
+1697383,1481244,2024-12-24 13:07:08 -0800,2024-12-24 13:07:08 -0800,<p>The attached is the only info I have for comcast/xfinity. </p>,davidsk,false,1,0
