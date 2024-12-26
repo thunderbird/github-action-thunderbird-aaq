@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1697696,1481440,2024-12-25 18:41:09 -0800,2024-12-25 18:41:09 -0800,"<p>1. Why are you doing a ""fresh install""? 2. Do you mean an wipe our your data and install Thunderbird again? 3. You always need your primary password, even to start Thunderbird. And you need it to be able to view the passwords you have protected.  If you don't know it then you need to know all your other passwords. </p>",wsmwk,false,0,0
