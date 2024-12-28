@@ -43,3 +43,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1698376,1481958,2024-12-28 11:50:58 -0800,2024-12-28 11:50:58 -0800,"<p>This is done from table view by clicking the row at top line to change sort order. If not in table view, you need to switch. The attached screenshot may be sufficient. </p>",davidsk,false,0,0
 1698359,1481961,2024-12-28 11:06:55 -0800,2024-12-28 11:06:55 -0800,<p>Found the answer in an archived thread. Problem solved! </p>,Steve2526,false,0,0
 1698362,1481966,2024-12-28 11:19:21 -0800,2024-12-28 11:19:21 -0800,<p>Can you access your account online at Yahoo? </p>,davidsk,false,0,0
+1698395,1481977,2024-12-28 13:57:12 -0800,2024-12-28 13:57:12 -0800,"<p>Do you have an antivirus program scanning mail?  Sounds to me like you have,  it is dropping the ball on send and never picking it up again. </p>",MattAuSupport,false,0,0
+1698387,1481980,2024-12-28 13:21:18 -0800,2024-12-28 13:21:18 -0800,"<p>That is a <a href=""http://usinternet.com"" rel=""nofollow"">usinternet.com</a> email issue storage not a Firefox browser issue here. </p>",markwarner22,true,0,0
