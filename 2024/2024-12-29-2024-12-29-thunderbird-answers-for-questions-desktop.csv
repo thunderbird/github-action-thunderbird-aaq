@@ -23,3 +23,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1698588,1482137,2024-12-29 13:05:40 -0800,2024-12-29 13:05:40 -0800,"<p>Thanks ""Mark as Solved"" button in email says: This page isn’t working If the problem continues, contact the site owner. HTTP ERROR 405 </p>",essin,false,0,0
 1698589,1482137,2024-12-29 13:17:01 -0800,2024-12-29 13:17:01 -0800,<p>Thanks essin.  </p><p>Can you screen shot the entire message display that shows the HTTP ERROR&nbsp;? </p>,wsmwk,false,0,0
 1698616,1482143,2024-12-29 15:14:42 -0800,2024-12-29 15:14:42 -0800,<p>Do you have a rather small screen? Can you resize (enlarge to the right) the TB main window&nbsp;? </p>,Mapenzi,false,0,0
+1698619,1482143,2024-12-29 15:41:28 -0800,2024-12-29 15:41:28 -0800,"<p>I don't think so. It's a 24"" 2k screen. This was never an issue until I created the new profile. </p>",essin,false,0,0
