@@ -11,6 +11,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1696936,1480926,2024-12-22 23:13:22 -0800,2024-12-22 23:13:22 -0800,"<p>Translation: I want to delete one email account, but I don't know how to do it. How do I delete it? </p>",arlev,false,0,0
 1696937,1480926,2024-12-22 23:16:50 -0800,2024-12-22 23:16:50 -0800,"<p>In the English Version, go to: Account Settings Account Actions (bottom left) Remove Account I've no idea what the headers will be in Japanese </p>",arlev,false,0,0
 1696938,1480930,2024-12-22 23:19:12 -0800,2024-12-22 23:19:12 -0800,<p>Does Shift+F5 work? Did you do a clean install or try to overwrite the new version? </p>,arlev,false,0,0
+1698656,1480932,2024-12-29 18:40:20 -0800,2024-12-29 18:40:20 -0800,"<p>Hola, Puede adjuntarse pdfs pero debería estar en un servidor web, es decir compartido en internet (o localmente) para que puede descargarse por otros usuarios del evento o tarea. Saludos </p>",pcp04,false,0,0
 1696933,1480933,2024-12-22 23:10:34 -0800,2024-12-22 23:10:34 -0800,<p>Translation: - Compaction has become impossible. How to Fix </p>,arlev,false,0,0
 1696935,1480933,2024-12-22 23:11:42 -0800,2024-12-22 23:11:42 -0800,<p>Quel message d'erreur recevez-vous? Pourquoi est-ce « impossible »? Que fait Thunderbird? </p>,arlev,false,0,0
 1696932,1480938,2024-12-22 23:09:31 -0800,2024-12-22 23:09:31 -0800,<p>What error message dis you get? </p>,arlev,false,0,0
