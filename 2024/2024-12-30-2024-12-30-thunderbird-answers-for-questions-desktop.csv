@@ -45,6 +45,9 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1698779,1482295,2024-12-30 07:11:41 -0800,2024-12-30 07:11:41 -0800,<p>can you do a screenshot of what you see when you click 'account settings' menu item? </p>,davidsk,false,0,0
 1698785,1482299,2024-12-30 07:59:45 -0800,2024-12-30 07:59:45 -0800,<p>Try R-click on the Inbox folder &gt; Properties &gt; Repair Folder </p>,Mapenzi,false,0,0
 1698837,1482299,2024-12-30 11:38:32 -0800,2024-12-30 11:38:32 -0800,"<p>I did try that but the same problem persists. thanks, </p>",tkaufman1,false,0,0
+1698851,1482299,2024-12-30 12:40:30 -0800,2024-12-30 12:40:30 -0800,<p>What is your specific setting in Settings &gt; General &gt; Reading &amp; Display? Is this happening in all accounts and folders? </p>,Mapenzi,false,0,0
+1698852,1482299,2024-12-30 12:43:05 -0800,2024-12-30 12:43:05 -0800,<p>Right-click the affected folder - Mark Folder Read </p>,christ1,false,0,0
+1698854,1482299,2024-12-30 12:54:41 -0800,2024-12-30 12:54:41 -0800,"<p>No, that's not what I asked you. </p>",Mapenzi,false,0,0
 1698811,1482306,2024-12-30 09:53:48 -0800,2024-12-30 09:53:48 -0800,"<p><a href=""https://support.mozilla.org/kb/cannot-receive-messages"" rel=""nofollow"">https://support.mozilla.org/kb/cannot-receive-messages</a> </p>",christ1,false,0,0
 1698799,1482327,2024-12-30 09:08:33 -0800,2024-12-30 09:08:33 -0800,"<p>Thunderbird doesn't keep passwords, other than the ones you provided for accounts you set up. Otherwise, you will need to contact your email provider. </p>",davidsk,false,0,0
 1698803,1482327,2024-12-30 09:32:49 -0800,2024-12-30 09:32:49 -0800,<p>Do you still have access to Thunderbird on your old PC? </p>,Mapenzi,false,0,0
@@ -54,4 +57,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1698817,1482327,2024-12-30 10:15:56 -0800,2024-12-30 10:15:56 -0800,"<p>""Mozilla T-Bird"" is an email client, no hosting service. You must contact the provider where you created (or were given) the email address in question. </p>",Mapenzi,false,0,0
 1698818,1482338,2024-12-30 10:31:21 -0800,2024-12-30 10:31:21 -0800,"<p><a href=""https://support.mozilla.org/kb/thunderbird-and-junk-spam-messages"" rel=""nofollow"">https://support.mozilla.org/kb/thunderbird-and-junk-spam-messages</a> </p>",christ1,false,0,0
 1698846,1482354,2024-12-30 12:19:45 -0800,2024-12-30 12:19:45 -0800,<p>Have you checked what password TB holds in its password store? Hamburger (top right)/Settings/Search for p.a.s.s..../Saved passwords/Show passwords The password to enter to get them is your password/authentication for your Windows OS. </p>,arlev,false,0,0
+1698847,1482354,2024-12-30 12:29:05 -0800,2024-12-30 12:29:05 -0800,<p>I checked password in both standard computer &amp; on laptop. As I mentioned the password works perfectly in my standard computer &amp; laptop but does not transfer to phone. I don't know why. I have never used computers much. Thanks for trying. </p>,nancy81,false,0,0
 1698842,1482355,2024-12-30 12:05:14 -0800,2024-12-30 12:05:14 -0800,<p>Right click on the sent email and choose 'Edit As New Message' </p>,arlev,false,0,0
