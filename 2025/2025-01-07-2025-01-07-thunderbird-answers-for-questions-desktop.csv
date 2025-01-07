@@ -59,5 +59,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1700819,1483962,2025-01-07 10:13:08 -0800,2025-01-07 10:13:08 -0800,<p>please answer my question above. </p>,jclaese,false,0,0
 1700820,1483962,2025-01-07 10:14:44 -0800,2025-01-07 10:14:44 -0800,"<p>instruction was ""enter in contents"".  Nothing appeared!  What did I do wrong. </p>",jclaese,false,0,0
 1700822,1483962,2025-01-07 10:16:35 -0800,2025-01-07 10:16:35 -0800,<p>How do I read this answer in context?  When I click on it NOTHING HAPPENS OR A MESSAGE APPEARS. </p>,jclaese,false,0,0
+1700829,1483964,2025-01-07 10:45:22 -0800,2025-01-07 10:45:22 -0800,"<p>Have you tried with the authentication set to OAuth2, for incoming and outgoing?  That's standard for MS accounts (hotmail, <a href=""http://outlook.com"" rel=""nofollow"">outlook.com</a>, O365 etc.). </p>",sfhowes,false,0,0
 1700825,1483967,2025-01-07 10:27:45 -0800,2025-01-07 10:27:45 -0800,"<p>Mozilla:  should I click on one of YOUR ""SEE ALSO"" HEADINGS?  IF SO WHICH ONE? </p>",jclaese,false,0,0
 1700826,1483967,2025-01-07 10:29:52 -0800,2025-01-07 10:29:52 -0800,<p>How do I open answer in new link? </p>,jclaese,false,0,0
+1700828,1483967,2025-01-07 10:37:23 -0800,2025-01-07 10:37:23 -0800,"<p>I regret Mozilla was unable to assist me.  I recently mail Mozilla $200 to support your email services, however I am disappointed you were unable to assist me.  Now I must retain and pay for a computer service person to solve my junk email issue regarding ""server disconnected"". </p>",jclaese,false,0,0
