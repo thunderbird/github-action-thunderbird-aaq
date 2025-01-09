@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1701461,1484452,2025-01-08 21:48:58 -0800,2025-01-08 21:48:58 -0800,"<p>Post a crash report, which is a string starting with bp-... </p><p><a href=""https://support.mozilla.org/en-US/kb/mozilla-crash-reporter-tb"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/mozilla-crash-reporter-tb</a> </p><p>In the meantime, run Windows in safe mode or temporarily remove (not disable) McAfee. </p>",sfhowes,false,0,0
