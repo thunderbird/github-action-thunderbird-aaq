@@ -1,2 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1702843,1485374,2025-01-12 00:10:44 -0800,2025-01-12 00:10:44 -0800,"<p>Is TB being run on a Mobile, Tablet or Computer? </p>",frisée,false,0,0
+1702841,1485383,2025-01-11 23:58:29 -0800,2025-01-11 23:58:29 -0800,<p>If using a computer: Hamburger icon (top right)/Account Settings/Account Actions (bottom left)/Add Mail Account </p>,frisée,false,0,0
 1702840,1485410,2025-01-11 23:56:25 -0800,2025-01-11 23:56:25 -0800,"<p>The two emails in the error message are different which would be a problem, perhaps, with how you have rendered the in the address book. </p><p>But the important part of the error message is the domain name as the error states that it can't be found by the SMTP server. Have you checked the validity of the domain name (the bit to the right of the ampersand)? </p>",frisée,false,0,0
