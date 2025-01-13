@@ -38,3 +38,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1703288,1485718,2025-01-13 09:05:24 -0800,2025-01-13 09:05:24 -0800,<p>haven't received an email in over a week </p>,scratch434,false,0,0
 1703289,1485718,2025-01-13 09:06:35 -0800,2025-01-13 09:06:35 -0800,<p>no email in over a week </p>,scratch434,false,0,0
 1703298,1485725,2025-01-13 09:58:40 -0800,2025-01-13 09:58:40 -0800,"<p>Are you using a secure mail key in TB instead of the password that works in webmail?  Keys are necessary for 3rd-party apps like TB. </p><p><a href=""https://www.att.com/support/article/dsl-high-speed/KM1010523/"" rel=""nofollow"">https://www.att.com/support/article/dsl-high-speed/KM1010523/</a> </p>",sfhowes,false,0,0
+1703310,1485733,2025-01-13 10:45:17 -0800,2025-01-13 10:45:17 -0800,"<p>I think if you install the addon, mailmerge, it contains full instructions on the setup. </p>",davidsk,false,0,0
