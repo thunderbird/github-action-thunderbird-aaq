@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1703944,1486331,2025-01-15 23:28:22 -0800,2025-01-15 23:28:22 -0800,"<p>Nope. Not unless they're embedded graphics. Sound files don't work, either. </p>",frisée,false,0,0
+1703943,1486339,2025-01-15 23:27:22 -0800,2025-01-15 23:27:22 -0800,"<p>Hamburger (top right)/Account Settings/Server Settings - for each account untick the Server Settings that schedule email retrieval automatically. </p><p>You could delete all the servers, too, but if something happens to your other laptop, you would want a back up. </p>",frisée,false,0,0
