@@ -5,6 +5,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1704140,1486306,2025-01-16 12:02:54 -0800,2025-01-16 12:02:54 -0800,"<p>See <a href=""https://support.mozilla.org/en-US/kb/filelink-large-attachments"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/filelink-large-attachments</a> </p>",sfhowes,false,0,0
 1703954,1486309,2025-01-16 00:08:22 -0800,2025-01-16 00:08:22 -0800,"<p>Ignore this post See <a href=""https://support.mozilla.org/en-US/questions/1486306"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1486306</a> </p>",frisée,false,0,0
 1703953,1486312,2025-01-16 00:06:54 -0800,2025-01-16 00:06:54 -0800,<p>Please send a screenshot of the error message you have received </p>,frisée,false,0,0
+1704157,1486312,2025-01-16 13:49:23 -0800,2025-01-16 13:49:23 -0800,<p>Attached screenshot. </p>,vagabond3,false,0,0
 1703951,1486323,2025-01-16 00:06:11 -0800,2025-01-16 00:06:11 -0800,<p>lease explain why you are unable to reply and include screenshots of any errors you are getting. </p>,frisée,false,0,0
 1703950,1486326,2025-01-16 00:04:47 -0800,2025-01-16 00:04:47 -0800,<p>The 'associated mail data' contains the record of the emails and your program set up. </p>,frisée,false,0,0
 1703949,1486330,2025-01-16 00:02:48 -0800,2025-01-16 00:02:48 -0800,"<p>Please provide screenshots of the errors you are getting Is this an IMAP or POP account? Are you running Thunderbird on a computer, Mobile, Tablet or something else (please specify)? Which Operating System are you using? </p>",frisée,false,0,0
