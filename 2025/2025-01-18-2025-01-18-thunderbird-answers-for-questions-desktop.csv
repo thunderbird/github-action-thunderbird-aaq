@@ -22,3 +22,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1704657,1486894,2025-01-18 08:08:05 -0800,2025-01-18 08:08:05 -0800,"<p>See <a href=""https://support.mozilla.org/kb/message-threading-thunderbird"" rel=""nofollow"">https://support.mozilla.org/kb/message-threading-thunderbird</a> </p>",christ1,false,0,0
 1704654,1486902,2025-01-18 08:02:41 -0800,2025-01-18 08:02:41 -0800,"<p>- click settings, then privacy&amp;security, then savedpasswords, then showpasswords. </p>",davidsk,false,0,0
 1704661,1486910,2025-01-18 08:32:37 -0800,2025-01-18 08:32:37 -0800,<p>what do you mean by 'private key'? </p>,davidsk,false,0,0
+1704706,1486943,2025-01-18 11:28:47 -0800,2025-01-18 11:28:47 -0800,"<p>get the addon, shrunked image resizer. Then, in compose window, paste the photo and then drag corners to resize. </p>",davidsk,false,0,0
