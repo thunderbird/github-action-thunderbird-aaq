@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1705023,1487221,2025-01-19 20:46:52 -0800,2025-01-19 20:46:52 -0800,"<p>A typo edit to my question: the outgoing server is <a href=""http://samtpauth.earthlink.net"" rel=""nofollow"">samtpauth.earthlink.net</a> port 587.  Somehow the ""S"" got left off. </p>",mercedes2000_12,false,0,0
