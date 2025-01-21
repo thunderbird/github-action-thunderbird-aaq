@@ -19,3 +19,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1705366,1487489,2025-01-21 07:19:27 -0800,2025-01-21 07:19:27 -0800,"<ul><li> ""přišel nám email o přeplnění naši schránky"" </li></ul> <p>Se zaplněním schránky nemá Thunderbird nic společného. Obrať se na poskytovatele schránky (e-mailu). </p>",poljos-moz,false,0,0
 1705337,1487499,2025-01-21 05:17:53 -0800,2025-01-21 05:17:53 -0800,"<p><a href=""https://www.thunderbird.net/en-US/thunderbird/releases/"" rel=""nofollow"">https://www.thunderbird.net/en-US/thunderbird/releases/</a> </p>",frisée,false,0,0
 1705352,1487499,2025-01-21 06:23:45 -0800,2025-01-21 06:23:45 -0800,<p>Link is for release notes and doesn't allow download of previous versions. </p>,lator57,false,0,0
+1705368,1487529,2025-01-21 07:56:58 -0800,2025-01-21 07:56:58 -0800,<p>Solution attached </p>,frisée,false,0,0
