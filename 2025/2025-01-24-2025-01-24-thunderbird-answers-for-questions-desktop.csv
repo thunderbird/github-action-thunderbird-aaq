@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1706143,1488099,2025-01-23 16:52:45 -0800,2025-01-23 16:52:45 -0800,<p>I do not think your operating system supports multiple default browsers.  Thunderbird just drops the URL to the operating system to open whatever is configured. </p>,MattAuSupport,false,0,0
