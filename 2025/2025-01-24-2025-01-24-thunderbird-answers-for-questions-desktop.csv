@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1706143,1488099,2025-01-23 16:52:45 -0800,2025-01-23 16:52:45 -0800,<p>I do not think your operating system supports multiple default browsers.  Thunderbird just drops the URL to the operating system to open whatever is configured. </p>,MattAuSupport,false,0,0
+1706158,1488099,2025-01-23 19:11:10 -0800,2025-01-23 19:11:10 -0800,<p>I understand that the default setting is based on OS settings. But is there a way via Thunderbird to control what browser opens the link based on which account (or folder) the email is in? </p>,arsalh,false,0,0
