@@ -36,3 +36,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1706747,1488646,2025-01-26 07:18:43 -0800,2025-01-26 07:18:43 -0800,<p>Question deleted. </p>,JohnT201,false,0,0
 1706754,1488653,2025-01-26 08:15:03 -0800,2025-01-26 08:15:03 -0800,<p>Please clarify and submit a screenshot. I don't understand the situation. </p>,davidsk,false,0,0
 1706757,1488660,2025-01-26 08:27:01 -0800,2025-01-26 08:27:01 -0800,"<p>Windows+I/Apps/Default Apps/Thunderbird/Right Arrow/Check 'MAIL TO' is set to Thunderbird. If it isn't, change it to Thunderbird. If it is, change it to something else and reboot laptop. Use the same root to change it back to Thunderbird. </p>",frisée,false,0,0
+1706760,1488662,2025-01-26 08:53:07 -0800,2025-01-26 08:53:07 -0800,"<p>My 'guess' is that you may have accidentally set a primary password. Since you're having problems anyway, the easiest fix is to uninstall thunderbird AND delete the thunderbird folder at c:\users\&lt;yourid&gt;\appdata\roaming\thunderbird and start over. </p>",davidsk,false,0,0
+1706759,1488663,2025-01-26 08:50:19 -0800,2025-01-26 08:50:19 -0800,"<p>in settings&gt;composition, untick paragraph mode. </p>",davidsk,false,0,0
+1706761,1488663,2025-01-26 08:55:50 -0800,2025-01-26 08:55:50 -0800,"<p>Thanks, but this has no impact. I have spent hours trying all of the obvious fixes. </p>",john1153,false,0,0
