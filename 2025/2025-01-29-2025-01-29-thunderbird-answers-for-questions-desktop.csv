@@ -1,2 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1707346,1489188,2025-01-28 17:34:40 -0800,2025-01-28 17:35:12 -0800,"<p><b>Account Actions</b> at the bottom of the list of accounts in the <b>Account Settings</b> pane. </p> <em><p>ntinoschan6 <a href=""#question-1489188"" rel=""nofollow"">said</a></p></em> <blockquote>I'll try to be as calm as possible. […] Can you help me?</blockquote> <p>If you stay calm, yes xD </p>",DavidGG,false,0,0
+1707348,1489194,2025-01-28 17:59:25 -0800,2025-01-28 17:59:25 -0800,<p>The folder hierarchy in Thunderbird directly reflects the folder hierarchy in the filesystem within the profile folder. There is no mechanism to make a folder that's not within Local Folders in the filesystem to appear as if it was in the folder pane. </p>,DavidGG,false,0,0
+1707352,1489194,2025-01-28 18:07:05 -0800,2025-01-28 18:07:05 -0800,"<p>Actually, I haven't tried, but a symbolic link might work. </p>",DavidGG,false,0,0
