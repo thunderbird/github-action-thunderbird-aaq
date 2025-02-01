@@ -40,7 +40,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1705366,1487489,2025-01-21 07:19:27 -0800,2025-01-21 07:19:27 -0800,"<ul><li> ""přišel nám email o přeplnění naši schránky"" </li></ul> <p>Se zaplněním schránky nemá Thunderbird nic společného. Obrať se na poskytovatele schránky (e-mailu). </p>",poljos-moz,false,0,0
 1705483,1487489,2025-01-21 12:08:12 -0800,2025-01-21 12:08:12 -0800,"<p>Vyprázdnite aj priečinok ""Kôš"" </p>",Ansamb,false,0,0
 1705447,1487491,2025-01-21 11:02:44 -0800,2025-01-21 11:02:44 -0800,"<p><a href=""https://support.mozilla.org/kb/cannot-receive-messages"" rel=""nofollow"">https://support.mozilla.org/kb/cannot-receive-messages</a> </p>",christ1,false,0,0
-1705595,1487494,2025-01-22 00:33:21 -0800,2025-01-22 00:33:21 -0800,<p>Use the toggle (attached) to switch threads on or off. </p>,frisée,false,0,1
+1705595,1487494,2025-01-22 00:33:21 -0800,2025-01-22 00:33:21 -0800,<p>Use the toggle (attached) to switch threads on or off. </p>,frisée,false,0,2
 1705657,1487494,2025-01-22 05:49:38 -0800,2025-01-22 05:49:38 -0800,"<p>Removes the thread column, but still considers the emails and answers.... as one linked conversation. I DON'T WANT my emails linked to each other&nbsp;! </p>",craiout,false,0,0
 1705661,1487494,2025-01-22 06:02:16 -0800,2025-01-22 06:02:16 -0800,<p>It doesn't remove the thread column. It removes the toggle. The thread column is removed by using the icon on the far right of the column header. </p>,frisée,false,0,1
 1705664,1487494,2025-01-22 06:10:31 -0800,2025-01-22 06:10:31 -0800,"<p>This doesn't change the fact that the email are still ""threaded""... </p>",craiout,false,0,0
