@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1708379,1489999,2025-01-31 19:22:28 -0800,2025-01-31 19:22:57 -0800,"<p>This issue may have come about with the latest esr update.  If that's an early release channel, how can I switch back to the normal release channel and thus resolve this issue?  Screenshot attached. </p>",trumpman,false,0,0
