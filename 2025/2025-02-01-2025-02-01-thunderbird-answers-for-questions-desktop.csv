@@ -44,3 +44,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1708611,1490155,2025-02-01 10:55:34 -0800,2025-02-01 10:55:34 -0800,<p>address is bob@bobpeake.me </p>,bob997,false,0,0
 1708697,1490168,2025-02-01 13:32:02 -0800,2025-02-01 13:32:02 -0800,"<p>More information is needed, such as version of windows, complete error messages. </p>",davidsk,false,0,0
 1708667,1490169,2025-02-01 12:49:22 -0800,2025-02-01 12:49:22 -0800,<p><b>View &gt; Folders &gt; Folder Pane Header</b> is the option you appear to be missing. </p>,DavidGG,false,0,0
+1708716,1490185,2025-02-01 14:21:48 -0800,2025-02-01 14:21:48 -0800,<p>Please show a screen shot of the main Thunderbird window on startup. Does TB prompt to set up your existing email address? </p>,Mapenzi,false,0,0
+1708709,1490189,2025-02-01 14:08:18 -0800,2025-02-01 14:08:18 -0800,"<p>when prompted for password, enter the app password. Do NOT enter the app password when doing initial setup - only when prompted after defining the account. </p>",davidsk,false,0,0
+1708718,1490189,2025-02-01 14:28:08 -0800,2025-02-01 14:28:08 -0800,"<p>What is meant by ""defining the account""? I have had this THunderbird account for decades and never had to enter a password. </p>",ltilton,false,0,0
