@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1708786,1490220,2025-02-01 18:59:09 -0800,2025-02-01 18:59:09 -0800,"<p>Might be related to this bug: <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1943004"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1943004</a> </p>",sfhowes,false,0,0
+1708785,1490238,2025-02-01 18:53:33 -0800,2025-02-01 18:53:33 -0800,"<p>Deleting or renaming popstate.dat should force a download of all messages. </p><p><a href=""http://kb.mozillazine.org/Popstate.dat"" rel=""nofollow"">http://kb.mozillazine.org/Popstate.dat</a> </p><p>Rebuilding the sqlite file only resets the global search database in case search results are incorrect. </p>",sfhowes,false,0,0
