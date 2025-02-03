@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1709080,1490431,2025-02-02 22:59:12 -0800,2025-02-02 22:59:12 -0800,"<p>Possibly your search index is somehow out of date.  That is what blank results usually indicates. </p><p><a href=""https://support.mozilla.org/en-US/kb/rebuilding-global-database"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/rebuilding-global-database</a> </p>",MattAuSupport,false,0,0
