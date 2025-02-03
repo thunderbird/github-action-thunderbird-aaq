@@ -71,7 +71,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1707572,1489136,2025-01-29 11:27:12 -0800,2025-01-29 11:27:12 -0800,"<p>Thanks, but neither of these suggestions helped. Any other ideas? </p>",melanie.white,false,0,0
 1707579,1489136,2025-01-29 11:41:27 -0800,2025-01-29 11:41:27 -0800,"<p>would you be able to post screenshots of your Latin settings and Other writing system settings, per sfhowes' suggestion? I have always found that to work, so I am hoping that seeing your settings may prove helpful. </p>",davidsk,false,0,0
 1707619,1489136,2025-01-29 14:11:45 -0800,2025-01-29 14:11:45 -0800,<p>Here you go. </p>,melanie.white,false,0,0
-1707631,1489136,2025-01-29 14:24:42 -0800,2025-01-29 14:24:42 -0800,<p>Make them identical. they are not now. set minimum font on both and check that both have identical font sizes and uncheck fixed width fonts unless that is important for you. </p>,davidsk,false,0,0
+1707631,1489136,2025-01-29 14:24:42 -0800,2025-01-29 14:24:42 -0800,<p>Make them identical. they are not now. set minimum font on both and check that both have identical font sizes and uncheck fixed width fonts unless that is important for you. </p>,davidsk,false,0,1
 1707649,1489136,2025-01-29 15:45:56 -0800,2025-01-29 15:45:56 -0800,"<p>Thanks David, I did that and there is no improvement. </p>",melanie.white,false,0,0
 1707315,1489142,2025-01-28 13:46:42 -0800,2025-01-28 13:46:42 -0800,"<p>providing screenshots of the SMTP settings pane from desktop, from laptop, and complete error message may prove helpful. </p>",davidsk,false,0,0
 1707309,1489146,2025-01-28 13:20:43 -0800,2025-01-28 13:20:43 -0800,<p>- create a csv file in thunderbird and to an import from csv in gmail. </p>,davidsk,false,0,0
