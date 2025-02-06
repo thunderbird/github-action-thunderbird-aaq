@@ -35,3 +35,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1710194,1491381,2025-02-06 11:59:44 -0800,2025-02-06 11:59:44 -0800,<p>este seria o erro alguém sabe porque&nbsp;? </p>,costarafael322,false,0,0
 1710192,1491383,2025-02-06 11:56:46 -0800,2025-02-06 11:56:46 -0800,"<em><p>w.meseke <a href=""#question-1491383"" rel=""nofollow"">said</a></p></em> <blockquote>Would like to have an additional e-mail address </blockquote> <p>Create the account with the mail provider of your choice, then add it to TB from 3-bar AppMenu, New Account, Email. </p>",sfhowes,false,0,0
 1710190,1491387,2025-02-06 11:54:02 -0800,2025-02-06 11:54:02 -0800,"<p>The Default account can't be removed, so set another account as Default in Account Actions, then remove the unwanted account. </p>",sfhowes,false,0,0
+1710198,1491400,2025-02-06 12:08:22 -0800,2025-02-06 12:08:22 -0800,"<p>I can't find my contacts (addresses,  etc) </p>",e.t.solomon,false,0,0
+1710202,1491400,2025-02-06 12:12:40 -0800,2025-02-06 12:12:40 -0800,<p>Firefox browser is just a browser so not sure what your referring to here about. </p>,markwarner22,false,0,1
