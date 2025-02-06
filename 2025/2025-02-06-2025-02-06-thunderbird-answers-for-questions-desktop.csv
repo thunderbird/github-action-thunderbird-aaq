@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1710014,1491206,2025-02-05 19:26:07 -0800,2025-02-05 19:26:07 -0800,"<p>Is this a Proton mail account maybe? I think this is a Proton Mail Bridge thing, not a Thunderbird thing: </p><p><a href=""https://proton.me/support/what-is-the-recovered-messages-folder-in-bridge"" rel=""nofollow"">https://proton.me/support/what-is-the-recovered-messages-folder-in-bridge</a> </p>",DavidGG,false,0,0
