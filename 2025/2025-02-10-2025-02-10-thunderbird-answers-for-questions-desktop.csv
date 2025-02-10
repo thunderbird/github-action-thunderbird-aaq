@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1711196,1492150,2025-02-10 13:31:29 -0800,2025-02-10 13:31:29 -0800,<p>click right on your account then on parameters and after on account management  delete this account </p>,remi.daniel,false,0,0
 1711117,1492154,2025-02-10 05:42:23 -0800,2025-02-10 05:42:23 -0800,<p>Are you receiving any error messages? </p>,davidsk,false,0,0
 1711109,1492160,2025-02-10 05:30:33 -0800,2025-02-10 05:30:33 -0800,<p>Duplicate. </p>,davidsk,false,0,0
 1711084,1492171,2025-02-10 01:17:37 -0800,2025-02-10 01:17:37 -0800,<p>Never mind. Turns out you can just drag the account in account settings. </p>,tbundy00,false,0,0
@@ -25,3 +26,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1711154,1492263,2025-02-10 10:00:22 -0800,2025-02-10 10:00:22 -0800,"<p>You cannot change a POP account to an IMAP account. Instead, you must create an IMAP account. </p>",davidsk,false,0,0
 1711142,1492287,2025-02-10 09:01:07 -0800,2025-02-10 09:01:07 -0800,"<p>Stai usando Oauth 2? -&gt; <a href=""https://support.mozilla.org/it/kb/thunderbird-gmail"" rel=""nofollow"">https://support.mozilla.org/it/kb/thunderbird-gmail</a> </p>",@next,false,0,0
 1711193,1492337,2025-02-10 13:17:04 -0800,2025-02-10 13:17:04 -0800,"<p>there is an addon, editemailsubject, that allows that. </p>",davidsk,false,0,0
+1711195,1492347,2025-02-10 13:26:41 -0800,2025-02-10 13:26:41 -0800,<p>This is the error message... </p>,doctorjah,false,0,0
