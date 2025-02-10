@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1711077,1492179,2025-02-09 23:43:21 -0800,2025-02-09 23:43:21 -0800,"<p>Btw, I set the condition to not send FWD, but what if I receive a message that was forwarded to me and I respond to it? How can I make it still redirect automatically? </p>",robert.hidropump,false,0,0
