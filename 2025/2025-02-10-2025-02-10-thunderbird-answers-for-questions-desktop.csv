@@ -25,5 +25,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1711140,1492249,2025-02-10 08:59:41 -0800,2025-02-10 08:59:41 -0800,"<p>Thunderbird è un client email, che significa esattamente che si disconnette? Che errori registri? </p>",@next,false,0,0
 1711154,1492263,2025-02-10 10:00:22 -0800,2025-02-10 10:00:22 -0800,"<p>You cannot change a POP account to an IMAP account. Instead, you must create an IMAP account. </p>",davidsk,false,0,0
 1711142,1492287,2025-02-10 09:01:07 -0800,2025-02-10 09:01:07 -0800,"<p>Stai usando Oauth 2? -&gt; <a href=""https://support.mozilla.org/it/kb/thunderbird-gmail"" rel=""nofollow"">https://support.mozilla.org/it/kb/thunderbird-gmail</a> </p>",@next,false,0,0
+1711198,1492333,2025-02-10 14:15:24 -0800,2025-02-10 14:15:24 -0800,<p>just to verify: - you're clicking windows key and 'r' together - on the window that opens you enter thunderbird.exe   -p    (with a couple of spaces after .exe and before -p)   </p><p>does thunderbird start when you click the desktop icon? </p>,davidsk,false,0,0
 1711193,1492337,2025-02-10 13:17:04 -0800,2025-02-10 13:17:04 -0800,"<p>there is an addon, editemailsubject, that allows that. </p>",davidsk,false,0,0
 1711195,1492347,2025-02-10 13:26:41 -0800,2025-02-10 13:26:41 -0800,<p>This is the error message... </p>,doctorjah,false,0,0
