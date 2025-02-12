@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1711441,1492599,2025-02-11 16:38:43 -0800,2025-02-11 16:38:43 -0800,"<p>Are you using a VPN? The SMTP server could behave differently depending on the IP address your VPN makes you seem to have. If that's the case, check whether your VPN has an option called <i>split tunneling</i> which would allow you to let Thunderbird bypass the VPN. </p>",DavidGG,false,0,0
