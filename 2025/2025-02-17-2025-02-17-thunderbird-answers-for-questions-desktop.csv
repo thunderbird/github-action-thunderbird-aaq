@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1712641,1493773,2025-02-16 16:43:39 -0800,2025-02-16 16:43:39 -0800,"<p>How do you ""open to send a new email""? I am guessing it probably has more to do with your process than anything else. </p>",MattAuSupport,false,0,0
+1712659,1493802,2025-02-16 20:30:57 -0800,2025-02-16 20:30:57 -0800,"<p>I should add: I've tried restarting Thunderbird, and even rebooted the machine (hey, that's supposed to fix everything, right?) -- nothing has worked so far. </p><p>Other apps seem fine. Thunderbird just has the empty chat window -- screenshot included because ""why not?"" </p><p>Appreciate any help...! </p><p>- V </p>",mozilla700,false,0,0
