@@ -15,3 +15,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1712904,1494045,2025-02-18 03:57:27 -0800,2025-02-18 03:57:27 -0800,"<p>Qué significa ""no funciona""? Aparece algún mensaje de error? Cuál es tu proveedor de email? </p>",DavidGG,false,0,0
 1712913,1494070,2025-02-18 05:57:31 -0800,2025-02-18 05:57:31 -0800,<p>PS.  I am also locked out of the email address I provided Thunderbird with.  Can't get to that account either.  Please send responses to  Bill dot Blalock at Fisglobal dot com.  Thank you. </p>,Bill.Blalock,false,0,0
 1712915,1494070,2025-02-18 05:58:58 -0800,2025-02-18 05:58:58 -0800,<p>Your accounts should be listed on the left (not right) of <b>Account Settings</b>. It's unclear what you mean. A screenshot might help. </p>,DavidGG,false,0,0
+1712921,1494082,2025-02-18 06:37:01 -0800,2025-02-18 06:37:01 -0800,<p>C:\Users\----YourName----\AppData\Roaming\Thunderbird\profiles.ini </p>,wquatan,false,0,0
