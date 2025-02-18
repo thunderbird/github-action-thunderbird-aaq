@@ -24,3 +24,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1712959,1494082,2025-02-18 09:06:17 -0800,2025-02-18 09:06:17 -0800,<p>Thank you for the help </p>,cnoon,false,0,0
 1712950,1494093,2025-02-18 08:29:18 -0800,2025-02-18 08:29:18 -0800,"<p>Not sure what you mean, but there's no setting to make a message appear multiple times. With the precious little information you've provided I can only guess… let's see… maybe you have a <b>Message Filter</b> that forwards that message to yourself, which then causes the same filter to be applied to the forwarded copy, and so on… </p>",DavidGG,false,0,0
 1712952,1494107,2025-02-18 08:33:42 -0800,2025-02-18 08:33:42 -0800,<p>What? </p>,DavidGG,false,0,0
+1712964,1494114,2025-02-18 09:47:06 -0800,2025-02-18 09:47:06 -0800,<p>Did you also copy the contents of the imapmailfilters folder? That may be the issue. </p>,davidsk,false,0,0
