@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1713071,1494200,2025-02-18 16:52:21 -0800,2025-02-18 16:52:21 -0800,"<p>In the filter edit window, select Customize... and add Reply-to as a custom header (see picture). </p>",sfhowes,false,0,0
