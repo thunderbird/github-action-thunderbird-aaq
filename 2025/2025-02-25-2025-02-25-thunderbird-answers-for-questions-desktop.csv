@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1714335,1495526,2025-02-24 18:28:36 -0800,2025-02-24 18:28:36 -0800,"<p>If you're getting that, it's almost certainly because you've configured the account to use a wrong mail server in Thunderbird. You shouldn't be getting that and you shouldn't have to add any security exceptions… </p>",DavidGG,false,0,0
