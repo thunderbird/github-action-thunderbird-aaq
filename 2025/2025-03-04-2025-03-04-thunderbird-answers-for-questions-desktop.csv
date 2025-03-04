@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1715942,1497037,2025-03-03 18:45:35 -0800,2025-03-03 18:45:35 -0800,"<p>Bug, unlikely.   </p><p>You changed it back, and it stuck? </p>",wsmwk,false,0,0
+1715941,1497043,2025-03-03 18:43:08 -0800,2025-03-03 18:43:08 -0800,<p>Not currently. But a keyboard mapper is in the works. </p>,wsmwk,false,0,0
