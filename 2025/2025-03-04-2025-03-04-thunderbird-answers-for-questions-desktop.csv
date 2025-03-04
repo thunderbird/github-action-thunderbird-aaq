@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1715957,1497033,2025-03-04 00:52:41 -0800,2025-03-04 00:52:41 -0800,<p>Please post a screen shot of the entire message / warning. </p>,wsmwk,false,0,0
+1715991,1497034,2025-03-04 05:04:56 -0800,2025-03-04 05:07:13 -0800,"<p>In your Thunderbird go to menu Help &gt; Troubleshooting Information &gt; Profile Folder &gt; Show in Finder, then quit TB. In the TB profile folder (probably named somewhat like abcd1234.default-release) go to folder ""Mail"" and open it. You should see a sub-folder ""Local Folders"". Make a screen shot of the contents of Local Folders. </p>",Mapenzi,false,0,0
 1715942,1497037,2025-03-03 18:45:35 -0800,2025-03-03 18:45:35 -0800,"<p>Bug, unlikely.   </p><p>You changed it back, and it stuck? </p>",wsmwk,false,0,0
 1715980,1497041,2025-03-04 03:52:13 -0800,2025-03-04 03:52:13 -0800,"<p>HTML messages have start and stop tags for beginning and ending various styles, such as font, bold, italics. if you paste text in that has its own HTML tags, those may overlay existing tags and following text may appear with the style settings of the posted text. To avoid that, use the paste without formatting option. </p>",davidsk,false,0,0
 1715941,1497043,2025-03-03 18:43:08 -0800,2025-03-03 18:43:08 -0800,<p>Not currently. But a keyboard mapper is in the works. </p>,wsmwk,false,0,0
@@ -14,3 +15,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1715975,1497097,2025-03-04 03:45:04 -0800,2025-03-04 03:45:04 -0800,"<p>Dit kan veroorzaakt worden door uw provider of door thunderbird. Om te kijken of thunderbird de veroorzaker is kunt u tijdelijk de ongewensteberichten filtering uitzetten, dit doet u in uw account instellingen. </p>",Mad_Maks,false,0,0
 1715967,1497100,2025-03-04 03:21:02 -0800,2025-03-04 03:21:02 -0800,<p>controleer of je lokale mappen niet verborgen zijn in het mappen venster; naast de knop +nieuw bericht klikt u op de drie puntjes. </p>,Mad_Maks,false,0,0
 1715971,1497101,2025-03-04 03:40:31 -0800,2025-03-04 03:40:31 -0800,<p>click to 'new message' and then press f9 key. or click view from toolbar and select there. </p>,davidsk,false,0,0
+1715992,1497110,2025-03-04 05:14:13 -0800,2025-03-04 05:14:13 -0800,"<p>Yes, OK. </p>",davidsk,false,0,0
