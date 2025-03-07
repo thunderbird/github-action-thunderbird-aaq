@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1716428,1497693,2025-03-06 17:05:48 -0800,2025-03-06 17:05:48 -0800,"<p><a href=""https://support.mozilla.org/en-US/kb/cannot-receive-messages"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/cannot-receive-messages</a> and <a href=""https://support.mozilla.org/en-US/kb/cannot-send-messages"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/cannot-send-messages</a> </p>",MattAuSupport,false,0,0
