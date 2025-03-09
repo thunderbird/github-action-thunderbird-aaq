@@ -12,3 +12,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1716989,1498211,2025-03-09 10:48:26 -0700,2025-03-09 10:48:26 -0700,<p>Check that View/Headers is Normal.  Press Alt if the Menu Bar with View is hidden. </p>,sfhowes,false,0,0
 1716977,1498219,2025-03-09 09:30:34 -0700,2025-03-09 09:30:34 -0700,<p>- exit thunderbird - locate the global index file in profile and delete it - restart thunderbird and it will recreate the file </p>,davidsk,false,0,0
 1716988,1498219,2025-03-09 10:46:54 -0700,2025-03-09 10:46:54 -0700,<p>Look in Collected Addresses where most obsolete addresses are stored. </p>,sfhowes,false,0,0
+1717023,1498265,2025-03-09 12:58:05 -0700,2025-03-09 12:58:05 -0700,<p>- view&gt;folders&gt; folder pane header </p>,davidsk,false,0,0
