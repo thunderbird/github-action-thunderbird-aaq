@@ -11,6 +11,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1716951,1498188,2025-03-09 06:13:44 -0700,2025-03-09 06:13:44 -0700,<p>Have you checked for an update or contacted the author? </p>,davidsk,false,0,0
 1716986,1498201,2025-03-09 10:23:35 -0700,2025-03-09 10:23:35 -0700,<blockquote> I can't import messages from it into Thunderbird. </blockquote> <p>And what exactly does this mean? Is there any error message? </p>,christ1,false,0,0
 1716989,1498211,2025-03-09 10:48:26 -0700,2025-03-09 10:48:26 -0700,<p>Check that View/Headers is Normal.  Press Alt if the Menu Bar with View is hidden. </p>,sfhowes,false,0,0
-1716977,1498219,2025-03-09 09:30:34 -0700,2025-03-09 09:30:34 -0700,<p>- exit thunderbird - locate the global index file in profile and delete it - restart thunderbird and it will recreate the file </p>,davidsk,false,0,0
-1716988,1498219,2025-03-09 10:46:54 -0700,2025-03-09 10:46:54 -0700,<p>Look in Collected Addresses where most obsolete addresses are stored. </p>,sfhowes,false,0,0
+1716977,1498219,2025-03-09 09:30:34 -0700,2025-03-09 09:30:34 -0700,<p>- exit thunderbird - locate the global index file in profile and delete it - restart thunderbird and it will recreate the file </p>,davidsk,false,0,1
+1716988,1498219,2025-03-09 10:46:54 -0700,2025-03-09 10:46:54 -0700,<p>Look in Collected Addresses where most obsolete addresses are stored. </p>,sfhowes,false,0,1
+1717069,1498219,2025-03-09 19:32:01 -0700,2025-03-09 19:32:01 -0700,"<p>David: Your suggestion reads like 'Delete All, start again from scratch"", but what is does is moot, there is no Global Index file in my \data\profiles\ folder. </p><p>SFHowes:  My Collected Addresses only has three entries in it, and they are not obsolete. </p>",jonpoor,false,0,0
 1717023,1498265,2025-03-09 12:58:05 -0700,2025-03-09 12:58:05 -0700,<p>- view&gt;folders&gt; folder pane header </p>,davidsk,false,0,0
