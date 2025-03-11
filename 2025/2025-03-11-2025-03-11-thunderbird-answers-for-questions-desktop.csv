@@ -1,2 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1717281,1498519,2025-03-10 18:03:18 -0700,2025-03-10 18:03:18 -0700,"<p>Then perhaps use this addon. <a href=""https://addons.thunderbird.net/en-US/thunderbird/addon/compact-headers/?src=search"" rel=""nofollow"">https://addons.thunderbird.net/en-US/thunderbird/addon/compact-headers/?src=search</a> </p><p>Presonally I stick with 24 inch and larger displays. </p>",MattAuSupport,false,0,0
+1717355,1498582,2025-03-11 04:29:14 -0700,2025-03-11 04:29:14 -0700,"<p>Incompatibilità. Anzi per essere più precisi, implementazione fuori standard del protocollo IMAP da parte del server. </p>",@next,false,0,0
+1717356,1498586,2025-03-11 04:41:48 -0700,2025-03-11 04:41:48 -0700,"<p>Not sure I understand the question. If you click to addressbook, there is a button 'new contact' . Click that and enter the information. </p>",davidsk,false,0,0
