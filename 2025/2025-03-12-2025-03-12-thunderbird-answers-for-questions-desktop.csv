@@ -30,5 +30,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1717714,1498940,2025-03-12 13:07:26 -0700,2025-03-12 13:07:26 -0700,<p>That is a question for your e-mail service provider. </p>,mozilla98,false,0,0
 1717716,1498942,2025-03-12 13:09:41 -0700,2025-03-12 13:09:41 -0700,"<p>The application and user data are stored separately. Make a back-up of your profile anyway, then re-install the app. </p>",mozilla98,false,0,0
 1717724,1498946,2025-03-12 13:28:46 -0700,2025-03-12 13:28:46 -0700,<p>PLEASE do not post twice. This is a duplicate </p>,davidsk,false,0,0
-1717722,1498947,2025-03-12 13:25:27 -0700,2025-03-12 13:25:27 -0700,"<p>This is OS dependent. If Windows, you need to install the font for Windows and then Thunderbird can use it. </p>",davidsk,false,0,0
+1717722,1498947,2025-03-12 13:25:27 -0700,2025-03-12 13:25:27 -0700,"<p>This is OS dependent. If Windows, you need to install the font for Windows and then Thunderbird can use it. </p>",davidsk,false,1,0
 1717723,1498947,2025-03-12 13:27:55 -0700,2025-03-12 13:27:55 -0700,<p>Just a reminder: the recipient will not see the font unless it is an HTML message and their computer has the font. </p>,davidsk,false,0,0
