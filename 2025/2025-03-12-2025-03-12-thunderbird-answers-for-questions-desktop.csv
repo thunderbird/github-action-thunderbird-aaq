@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1717552,1498765,2025-03-11 19:55:04 -0700,2025-03-11 19:55:04 -0700,"<p>You can delete training.dat file and start over. </p><p>Review <a href=""https://support.mozilla.org/en-US/kb/thunderbird-and-junk-spam-messages"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/thunderbird-and-junk-spam-messages</a> </p>",wsmwk,false,0,0
