@@ -14,3 +14,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1718605,1499665,2025-03-16 03:22:09 -0700,2025-03-16 03:22:09 -0700,<p>Nástroje - Nastavení - Vytváření - Styl HTML - Zaškrtnout políčko <strong>Ve výchozím nastavení používat formát odstavce namísto základního textu</strong> </p>,poljos-moz,false,0,0
 1718653,1499665,2025-03-16 08:31:06 -0700,2025-03-16 08:31:06 -0700,"<p>Děkuji za postup. Nicméně, toto mám zaškrtnuto a přesto se zobrazuje text úplně od kraje. Měl byste prosím ještě nějaký nápad? </p>",lenkahradilova3,false,0,0
 1718608,1499672,2025-03-16 03:47:28 -0700,2025-03-16 03:47:28 -0700,<p>Why? How this is possible? </p>,jyrki.kaarttinen,false,0,0
+1718656,1499710,2025-03-16 09:11:46 -0700,2025-03-16 09:11:46 -0700,<p>and like that everything is now working! </p>,info12755,false,0,0
