@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1718810,1499802,2025-03-16 18:04:30 -0700,2025-03-16 18:04:30 -0700,<p>Does you laptop have a Apple operating system and use the Apple address book.  It is read only. </p>,MattAuSupport,false,0,0
+1718860,1499842,2025-03-17 02:18:37 -0700,2025-03-17 02:18:37 -0700,"<p>Se per Thunderbird intendi quello della prima foto, quello non è il programma in se ma l'installer. Quindi stai cercando di avviare Thunderbird o di installarlo? </p>",@next,false,0,0
