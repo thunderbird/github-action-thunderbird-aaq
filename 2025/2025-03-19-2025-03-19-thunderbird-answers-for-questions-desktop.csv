@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1719482,1500272,2025-03-19 05:19:14 -0700,2025-03-19 05:19:14 -0700,"<p>Please provide more information, as I do not understand the problem. Thank you. </p>",davidsk,false,0,0
+1719549,1500272,2025-03-19 10:03:56 -0700,2025-03-19 10:03:56 -0700,"<p>Since you mentioned image I assume you are referring to installing Thunderbird on macOS.   </p><p><a href=""https://support.mozilla.org/en-US/kb/installing-thunderbird-on-mac"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/installing-thunderbird-on-mac</a> </p>",James,false,0,0
 1719475,1500292,2025-03-19 04:50:18 -0700,2025-03-19 04:50:18 -0700,"<p>If you highlight the desired entry, there is an edit button on the right side. </p>",davidsk,false,0,0
 1719477,1500313,2025-03-19 04:57:05 -0700,2025-03-19 04:57:05 -0700,"<p>Ormai è così. Non lo cambieranno solo perché a te non piace. Molte cose sono personalizzabili, ma devi essere più preciso su cosa vuoi cambiare </p>",@next,false,0,0
 1719476,1500321,2025-03-19 04:53:47 -0700,2025-03-19 04:53:47 -0700,"<p>Non so di che parli, Thunderbird non ha nessuna versione ""mail plus"" a pagamento.  </p><p>Probabilmente ti riferisci a qualche servizio del tuo fornitore email. </p>",@next,false,0,0
