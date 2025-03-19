@@ -25,6 +25,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1719595,1500367,2025-03-19 12:04:20 -0700,2025-03-19 12:04:20 -0700,"<p>yes...sorry....that's it in a nutshell...all I can see is all the emails I ""sent""....cant just return to ""home page"" </p>",chiquoines,false,0,0
 1719610,1500367,2025-03-19 12:18:19 -0700,2025-03-19 12:18:19 -0700,<p>A screenshot would be very helpful. I can only guess that you hid the folder pane. Try View - Layout - Folder Pane. </p>,mozilla98,false,0,0
 1719616,1500367,2025-03-19 12:33:02 -0700,2025-03-19 12:33:02 -0700,"<p>Perfect....thanks verymuch </p><p>No point in figuring this out but why do these folks give a ""reply"" option at the bottom of emails it sends with your responses when the reply bounces....same thing happens when you click on "" this solved my problem"" box </p>",chiquoines,false,0,0
+1719629,1500370,2025-03-19 13:20:31 -0700,2025-03-19 13:20:31 -0700,<p>What version? </p>,wsmwk,false,0,0
 1719515,1500377,2025-03-19 08:07:49 -0700,2025-03-19 08:07:49 -0700,<p>Thunderbird mails ... </p>,jan.holm,false,0,0
 1719606,1500377,2025-03-19 12:14:08 -0700,2025-03-19 12:14:08 -0700,"<p>Duplicate, answered here: <a href=""https://support.mozilla.org/en-US/questions/1500379"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1500379</a> </p>",sfhowes,false,0,0
 1719540,1500379,2025-03-19 09:14:47 -0700,2025-03-19 09:14:47 -0700,<p>Click the print option and you will likely see that one of the 'printers' is really a PDF creation tool. </p>,davidsk,false,0,0
