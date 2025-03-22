@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1720261,1500967,2025-03-21 21:55:58 -0700,2025-03-21 21:55:58 -0700,"<p>Settings/General/Config. editor, toggle <em>mail.warn_on_shift_delete</em> to true. </p>",sfhowes,false,0,0
