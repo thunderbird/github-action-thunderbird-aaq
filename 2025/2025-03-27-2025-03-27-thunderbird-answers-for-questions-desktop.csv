@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1721412,1502000,2025-03-26 21:29:51 -0700,2025-03-26 21:29:51 -0700,"<p>Yes.  According to <a href=""https://www.thunderbird.net/en-US/thunderbird/128.8.1esr/releasenotes/"" rel=""nofollow"">https://www.thunderbird.net/en-US/thunderbird/128.8.1esr/releasenotes/</a> </p><p>""Windows: Windows 10 or later"" </p>",firefox1670,false,0,0
