@@ -1,4 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1722059,1502603,2025-03-30 01:32:25 -0700,2025-03-30 01:32:25 -0700,"<p>Please start Thunderbird in Troubleshoot Mode - <a href=""https://support.mozilla.org/en-US/kb/troubleshoot-mode-thunderbird"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/troubleshoot-mode-thunderbird</a> </p><p>Does problem change? </p>",wsmwk,false,0,0
 1722046,1502623,2025-03-30 01:04:53 -0700,2025-03-30 01:04:53 -0700,"<p>Batool, </p><p>Do you have a question? </p>",wsmwk,false,0,0
 1722045,1502624,2025-03-30 01:04:16 -0700,2025-03-30 01:04:16 -0700,"<p>""Automatically applied filters are applied only to the inbox, with the exception of Archive and after send filters, which apply only to the mails involved in the action to send or archive. Other folder types are not affected."" </p><p>See <a href=""https://support.mozilla.org/en-US/kb/organize-your-messages-using-filters#w_what-folders-are-filtered"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/organize-your-messages-using-filters#w_what-folders-are-filtered</a> </p>",wsmwk,false,0,0
 1722050,1502624,2025-03-30 01:15:36 -0700,2025-03-30 01:15:36 -0700,<p>So is there any other method to do this? </p>,zbigi12321,false,0,0
+1722060,1502624,2025-03-30 01:39:32 -0700,2025-03-30 01:39:32 -0700,"<p>No, there is not. </p>",wsmwk,false,0,0
