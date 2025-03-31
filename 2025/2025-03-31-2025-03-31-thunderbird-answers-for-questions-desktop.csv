@@ -6,3 +6,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1722237,1502807,2025-03-31 03:23:14 -0700,2025-03-31 03:23:14 -0700,<p>Quindi se inserisci manualmente l'indirizzo del destinatario che succede di preciso? </p>,@next,false,0,0
 1722235,1502810,2025-03-31 03:21:55 -0700,2025-03-31 03:21:55 -0700,"<p>Ti ho già risposto una volta, ma non hai più dato seguito -&gt; <a href=""https://support.mozilla.org/it/questions/1458600"" rel=""nofollow"">https://support.mozilla.org/it/questions/1458600</a> </p><p>Se pensi che il problema lo posso risolvere qualcun altro da remoto, rischi di dover aspettare a lungo. </p>",@next,false,0,0
 1722239,1502819,2025-03-31 03:52:16 -0700,2025-03-31 03:52:16 -0700,<p>Sui 2 PC stai usando IMAP o POP3? </p>,@next,false,0,0
+1722240,1502819,2025-03-31 04:23:25 -0700,2025-03-31 04:23:25 -0700,<p>giusto avevo scordato di specificare. IMAP in entrambi  i pc </p>,francescopesci5,false,0,0
