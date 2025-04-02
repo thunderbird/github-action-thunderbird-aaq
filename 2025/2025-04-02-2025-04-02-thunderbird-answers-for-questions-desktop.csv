@@ -8,3 +8,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1722793,1503240,2025-04-02 03:02:49 -0700,2025-04-02 03:02:49 -0700,<p>Kunt u een schermafdruk van de melding delen? Dan kunnen we mogelijk kijken wat er precies aan de hand is. Welke versie van Thunderbird gebruikt u? </p>,markh2,false,0,0
 1722845,1503258,2025-04-02 07:33:48 -0700,2025-04-02 07:33:48 -0700,<p>E sul tuo disco locale quanto spazio hai a disposizione? </p>,@next,false,0,0
 1722835,1503281,2025-04-02 07:12:22 -0700,2025-04-02 07:12:22 -0700,"<p>Please share some details, such as any error messages you receive. </p>",davidsk,false,0,0
+1722858,1503291,2025-04-02 08:25:42 -0700,2025-04-02 08:25:42 -0700,<p>You might contact your email provider to see if they can do a restore for you. </p>,davidsk,false,0,0
+1722859,1503292,2025-04-02 08:26:50 -0700,2025-04-02 08:26:50 -0700,"<p>There is a nice product, Dragon NaturallySpeaking, that does this well. </p>",davidsk,false,0,0
