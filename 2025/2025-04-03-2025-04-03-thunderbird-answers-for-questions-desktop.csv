@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1722975,1503418,2025-04-02 21:57:01 -0700,2025-04-02 21:57:01 -0700,"<p>I solved it, my setup was wrong. Sorry Guys. </p>",dave.wagner08,false,0,0
 1722972,1503422,2025-04-02 20:43:52 -0700,2025-04-02 20:43:52 -0700,"<p>Robert Belt here again, An additional question I realize that I no longer have my<strong> 'Local Folders'</strong>. Is it possible to recover those old folders with '<strong>Important to me' </strong>data? </p><p>Respectfully  Robert Belt </p>",belt-steinwenden,false,0,0
+1723018,1503486,2025-04-03 03:48:24 -0700,2025-04-03 03:48:24 -0700,<p>Gelen posta sunucunuzun ayarları hatalı olabilir. E-posta hizmeti aldığınız firmadan doğru ayarları öğrenerek Thunderbird'deki ayarlarla karşılaştırabilirsiniz. </p>,maxcoder,false,0,0

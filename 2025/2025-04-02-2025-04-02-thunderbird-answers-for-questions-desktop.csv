@@ -8,7 +8,8 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1722961,1503227,2025-04-02 18:17:26 -0700,2025-04-02 18:17:26 -0700,<p>It is not clear which question you are answering. Would you please answer all questions clearly? </p>,mozilla98,false,0,0
 1722806,1503239,2025-04-02 04:40:30 -0700,2025-04-02 04:40:30 -0700,<p>I am not aware of an alternative.  But this in the process of being coded by developers. </p>,wsmwk,false,0,0
 1722793,1503240,2025-04-02 03:02:49 -0700,2025-04-02 03:02:49 -0700,<p>Kunt u een schermafdruk van de melding delen? Dan kunnen we mogelijk kijken wat er precies aan de hand is. Welke versie van Thunderbird gebruikt u? </p>,markh2,false,0,0
-1722845,1503258,2025-04-02 07:33:48 -0700,2025-04-02 07:33:48 -0700,<p>E sul tuo disco locale quanto spazio hai a disposizione? </p>,@next,false,0,0
+1722845,1503258,2025-04-02 07:33:48 -0700,2025-04-02 07:33:48 -0700,<p>E sul tuo disco locale quanto spazio hai a disposizione? </p>,@next,false,1,0
+1722983,1503258,2025-04-02 23:52:52 -0700,2025-04-02 23:52:52 -0700,<p>Grazie risolto era un problema di installazione sulla ripartizione sbagliata... </p>,william103,false,1,0
 1722835,1503281,2025-04-02 07:12:22 -0700,2025-04-02 07:12:22 -0700,"<p>Please share some details, such as any error messages you receive. </p>",davidsk,false,0,0
 1722858,1503291,2025-04-02 08:25:42 -0700,2025-04-02 08:25:42 -0700,<p>You might contact your email provider to see if they can do a restore for you. </p>,davidsk,false,1,0
 1722864,1503291,2025-04-02 09:20:07 -0700,2025-04-02 09:20:07 -0700,<p>Many thanks David. I am using Thunderbird (.....gmail.com)  but I assume Thunderbird is not my email provider.  I assume it is gmail?  So to whom do I contact to see if there might be a solution.? </p>,roypackham,false,0,0
