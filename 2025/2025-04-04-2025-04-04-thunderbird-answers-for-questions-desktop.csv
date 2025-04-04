@@ -25,6 +25,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1723340,1503774,2025-04-04 11:10:25 -0700,2025-04-04 11:10:25 -0700,"<p>Please clarify. Is it that you have multiple recipients? Or that  you have written multiple messages and are wanting Thunderbird to send them all at once? If the latter, Thunderbird doesn't do that. </p>",davidsk,false,0,0
 1723338,1503776,2025-04-04 11:07:23 -0700,2025-04-04 11:07:23 -0700,"<p>This may be a layout choice. I suggest checking view&gt;layout when may be set to 'classic' if you want message viewed while also seeing list of messages, you might try the vertical view. </p>",davidsk,false,1,0
 1723361,1503776,2025-04-04 12:51:32 -0700,2025-04-04 12:51:32 -0700,<p>Hi Dave. Where is view/layout Pls. I can't seem to find it. Thanks for help. </p>,1eagle,false,0,0
+1723366,1503776,2025-04-04 13:29:23 -0700,2025-04-04 13:29:23 -0700,"<p>the menu bar may not be visible. press the alt key and it should appear. To keep it all the time, then press view&gt;toolbars and tick menu bar. </p>",davidsk,false,0,0
 1723341,1503778,2025-04-04 11:18:02 -0700,2025-04-04 11:18:02 -0700,"<p>IOS is in development, according to blog entries. </p>",davidsk,false,0,0
 1723339,1503797,2025-04-04 11:07:46 -0700,2025-04-04 11:07:46 -0700,"<p>Tom, what is your question? </p>",wsmwk,false,0,0
 1723355,1503808,2025-04-04 11:59:29 -0700,2025-04-04 11:59:29 -0700,"<p>What do you mean, ""reset""? </p>",wsmwk,false,0,0
