@@ -10,3 +10,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1724525,1504845,2025-04-09 04:12:57 -0700,2025-04-09 04:12:57 -0700,<p>Dipende da cosa stai cercando di fare... </p>,@next,false,0,0
 1724544,1504857,2025-04-09 05:39:57 -0700,2025-04-09 05:39:57 -0700,"<p>Thunderbird is only an agent, reporting back the messages from server. For possible suggestions, I encourage posting screenshot of your incoming account settings pane and the SMTP server settings pane for a start. Thank you. </p>",davidsk,false,0,0
 1724547,1504864,2025-04-09 06:04:20 -0700,2025-04-09 06:04:20 -0700,<p>Found the solution which is really clunky ...you have to close the mac colour picker and then the colour will work. So open and close the mac colour picker every time makes this a very laborious task </p>,matthewmalios1967,false,0,0
+1724550,1504870,2025-04-09 06:45:08 -0700,2025-04-09 06:45:08 -0700,<p>click settings&gt;general </p>,davidsk,false,0,0
+1724552,1504870,2025-04-09 06:55:01 -0700,2025-04-09 06:55:01 -0700,"<p>From your feedback, I have submitted a change for the URL you referenced. Thank you for that information. </p>",davidsk,false,0,0
+1724553,1504871,2025-04-09 06:56:18 -0700,2025-04-09 06:56:18 -0700,<p>It may help to post a screenshot of the filter. </p>,davidsk,false,0,0
