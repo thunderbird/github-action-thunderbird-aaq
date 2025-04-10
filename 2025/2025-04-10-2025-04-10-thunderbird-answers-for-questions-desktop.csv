@@ -52,3 +52,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1724897,1505206,2025-04-10 15:30:00 -0700,2025-04-10 15:30:00 -0700,<p>Would you please post a redacted screenshot of your whole Thunderbird window? </p>,mozilla98,false,0,0
 1724893,1505218,2025-04-10 15:18:23 -0700,2025-04-10 15:18:23 -0700,<p>Did you enter an amount and frequency and then click on “Donate”? </p>,mozilla98,false,0,0
 1724899,1505218,2025-04-10 15:41:27 -0700,2025-04-10 15:41:27 -0700,<p>No place on the page does it allow me to click or input an amount or frequency. </p>,eam1,false,0,0
+1724905,1505218,2025-04-10 16:49:31 -0700,2025-04-10 16:49:47 -0700,<p>Hm. That is not the page that I saw when I looked. What happens when you click on one of the payment methods? </p>,mozilla98,false,0,0
