@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1725556,1505859,2025-04-13 22:30:46 -0700,2025-04-13 22:30:46 -0700,"<em><p>zemran <a href=""#question-1505859"" rel=""nofollow"">said</a></p></em> <blockquote> How can I delete duff XMPP accounts? </blockquote> <p>The same way you delete any surplus accounts or any kind.  You go into account settings tab.  Select the account and use the account actions button at the bottom of the list to remove it. </p>",MattAuSupport,false,0,0
 1725554,1505871,2025-04-13 21:40:27 -0700,2025-04-13 21:40:27 -0700,<p>Choose a Custom repeat (see picture). </p>,sfhowes,false,0,0
