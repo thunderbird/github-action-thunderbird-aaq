@@ -1,0 +1,2 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1506270,2025-04-15 18:08:47 -0700,2025-04-15 18:08:47 -0700,Thunderbird freezes/hangs (Mac),"<p>Thunderbird freezes/hangs on restart (mac OS 15.4), including in safe mode. I've updated to 137.0.2 from 129 and the same problem occurs. It only displays ""Looking up <a href=""http://gmail.com"" rel=""nofollow"">gmail.com</a>"" and I get the spinning disk of doom and have to do a force quit… </p>",thunderbird;installation-and-updates;,thunderbird,installation-and-updates,en-US,"",james.d.gifford
