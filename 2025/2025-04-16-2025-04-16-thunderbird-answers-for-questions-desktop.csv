@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1726017,1506280,2025-04-15 22:26:26 -0700,2025-04-15 22:26:26 -0700,"<p>Nevermind.... I figured out how to move the storage locations for those accounts to Local Folders and deleted the popfile specific accounts.  And I found the msgFilterRules.dat files, combined them &amp; disabled the popfile specific ones.  I left them there as reminders for things I still need to set up. </p>",Bill_Stuntz,false,0,0
