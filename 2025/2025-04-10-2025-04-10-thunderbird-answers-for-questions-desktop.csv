@@ -114,6 +114,9 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1726685,1505206,2025-04-18 19:13:10 -0700,2025-04-18 19:13:38 -0700,"<p>Do you mean on the far right, when I scroll with my mouse there is a grey line that moves? Then yes. </p>",healfood,false,0,0
 1726687,1505206,2025-04-18 19:25:57 -0700,2025-04-18 19:25:57 -0700,"<p>At least for now, you can see all your messages? </p><p>And you just need to resolve the gmail authentication problem? </p>",mozilla98,false,0,0
 1726690,1505206,2025-04-18 19:35:49 -0700,2025-04-18 19:35:49 -0700,<p>I think so. </p>,healfood,false,0,0
+1726695,1505206,2025-04-18 20:19:51 -0700,2025-04-18 20:19:51 -0700,<p>should I contact my internet service provider? </p>,healfood,false,0,0
+1726696,1505206,2025-04-18 20:33:42 -0700,2025-04-18 20:33:42 -0700,"<p>About what? </p><p>If about gmail authentication: The error message that you receive has a link that will lead you to the solution. </p><p>This is not your ISP’s problem, and they cannot fix it. </p>",mozilla98,false,0,0
+1726704,1505206,2025-04-18 21:48:13 -0700,2025-04-18 21:48:13 -0700,"<p>OK, thanks. </p>",healfood,false,0,0
 1724893,1505218,2025-04-10 15:18:23 -0700,2025-04-10 15:18:23 -0700,<p>Did you enter an amount and frequency and then click on “Donate”? </p>,mozilla98,false,0,0
 1724899,1505218,2025-04-10 15:41:27 -0700,2025-04-10 15:41:27 -0700,<p>No place on the page does it allow me to click or input an amount or frequency. </p>,eam1,false,0,0
 1724905,1505218,2025-04-10 16:49:31 -0700,2025-04-10 16:49:47 -0700,<p>Hm. That is not the page that I saw when I looked. What happens when you click on one of the payment methods? </p>,mozilla98,false,0,0
