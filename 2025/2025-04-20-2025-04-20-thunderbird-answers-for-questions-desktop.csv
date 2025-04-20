@@ -8,3 +8,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1726970,1507084,2025-04-20 03:17:51 -0700,2025-04-20 03:17:51 -0700,<p>In the main Thunderbird window: View (Alt-V) - Headers - Normal </p>,christ1,false,0,0
 1726999,1507106,2025-04-20 06:37:56 -0700,2025-04-20 06:37:56 -0700,"<p>Please see <a href=""https://support.mozilla.org/en-US/kb/cannot-receive-messages/"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/cannot-receive-messages/</a> </p>",wsmwk,false,0,0
 1726996,1507116,2025-04-20 06:23:08 -0700,2025-04-20 06:23:08 -0700,<p>Apluod app  URL BROWSER </p>,asgariasgar1977,false,0,0
+1727008,1507123,2025-04-20 07:36:49 -0700,2025-04-20 07:36:49 -0700,"<p>- click 'new message' button - if menu bar is not visible, press alt key - then, click view&gt;toolbar&gt; and tick composition toolbar </p>",davidsk,false,0,0
+1727009,1507123,2025-04-20 07:39:07 -0700,2025-04-20 07:39:07 -0700,"<p>If addressbook is in another profile, click tools&gt;import&gt;import from a file and follow the addressbook menus </p>",davidsk,false,0,0
