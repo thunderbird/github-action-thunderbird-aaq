@@ -2,3 +2,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1727092,1507212,2025-04-20 17:56:53 -0700,2025-04-20 17:56:53 -0700,"<p>View/Layout/Folder Pane, and View/Folders/Folder Pane Header. </p>",sfhowes,false,0,0
 1727094,1507228,2025-04-20 18:47:27 -0700,2025-04-20 18:47:27 -0700,<p>I don't know to go from here!! </p>,pinonlady,false,0,0
 1727141,1507228,2025-04-21 04:21:25 -0700,2025-04-21 04:21:25 -0700,"<p>Please provide information on your problem. Thank you, </p>",davidsk,false,0,0
+1727145,1507237,2025-04-21 04:52:31 -0700,2025-04-21 04:52:31 -0700,"<p>If you are accessing a copy of the mbox, and not directly on the Google account, my guess is there may be missing content of some of the messages. That is not uncommon, depending on how the account was set up. The msf file will have the complete index, but message content may not be there. I suggest attempting to access the folder within the account online if possible. </p>",davidsk,false,0,0
+1727144,1507276,2025-04-21 04:52:04 -0700,2025-04-21 04:53:15 -0700,<p>best to use professional tool to email migration </p>,lilyw7853,false,0,0
