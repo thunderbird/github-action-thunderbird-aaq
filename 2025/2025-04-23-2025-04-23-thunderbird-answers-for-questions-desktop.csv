@@ -35,3 +35,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1727753,1507685,2025-04-23 10:49:14 -0700,2025-04-23 10:49:14 -0700,<p>I closed Thunderbird and re-opened and now I can't connect to the Yahoo SMTP server again. </p>,macconinc,false,0,0
 1727758,1507690,2025-04-23 11:01:23 -0700,2025-04-23 11:01:23 -0700,"<p>there is an addon, compact headers, that helps a little. </p>",davidsk,false,1,0
 1727764,1507690,2025-04-23 11:06:38 -0700,2025-04-23 11:06:38 -0700,<p>Thank you. That helped a great deal! </p>,SewHelpMe,false,0,0
+1727791,1507703,2025-04-23 12:48:45 -0700,2025-04-23 12:48:45 -0700,"<p>The Thunderbird release version (currently 137.0.2) has a global setting to easily turn on/off threading. <a href=""https://www.thunderbird.net/"" rel=""nofollow"">https://www.thunderbird.net/</a> </p>",christ1,false,0,0
