@@ -31,3 +31,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1727729,1507665,2025-04-23 09:24:23 -0700,2025-04-23 09:24:23 -0700,"<p>Duplicato -&gt; <a href=""https://support.mozilla.org/it/questions/1507643"" rel=""nofollow"">https://support.mozilla.org/it/questions/1507643</a> </p>",@next,false,0,0
 1727745,1507685,2025-04-23 10:07:18 -0700,2025-04-23 10:07:18 -0700,"<p>Does this help? <a href=""https://support.mozilla.org/en-US/questions/1446501#answer-1651121"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1446501#answer-1651121</a> </p>",davidsk,false,0,0
 1727748,1507685,2025-04-23 10:14:51 -0700,2025-04-23 10:14:51 -0700,<p>Yes it did. The mistake was not using entire email address as username </p><p>Thanks </p>,macconinc,false,0,0
+1727753,1507685,2025-04-23 10:49:14 -0700,2025-04-23 10:49:14 -0700,<p>I closed Thunderbird and re-opened and now I can't connect to the Yahoo SMTP server again. </p>,macconinc,false,0,0
