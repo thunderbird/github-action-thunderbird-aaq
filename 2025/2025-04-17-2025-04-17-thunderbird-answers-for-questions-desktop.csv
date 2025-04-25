@@ -30,6 +30,8 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1727405,1506525,2025-04-22 04:58:48 -0700,2025-04-22 04:58:48 -0700,<p>Super. To pomogło i rozwiązało problem. Bardzo dziękuję. </p>,marcin.trybura,false,0,0
 1727408,1506525,2025-04-22 05:11:10 -0700,2025-04-22 05:11:10 -0700,<p>You are very welcome. I was glad to assist.&nbsp;:) </p>,davidsk,false,0,0
 1726259,1506527,2025-04-17 01:03:50 -0700,2025-04-17 01:03:50 -0700,<p>help my please thanks </p>,rpgcollectors,false,0,0
+1728073,1506527,2025-04-24 21:58:47 -0700,2025-04-24 21:58:47 -0700,"<p>The following link might be helpful: <a href=""https://support.mozilla.org/en-US/questions/1473104#answer-1712116"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1473104#answer-1712116</a> </p>",Yu5tiqX9og,false,0,0
+1728082,1506527,2025-04-24 23:48:56 -0700,2025-04-24 23:48:56 -0700,<p>is fixed thanks </p>,rpgcollectors,false,0,0
 1726447,1506528,2025-04-17 17:08:22 -0700,2025-04-17 17:08:22 -0700,"<p>If it is not working reliable, try it with Help &gt; Troubleshooting Mode </p>",wsmwk,false,0,0
 1726261,1506529,2025-04-17 01:45:32 -0700,2025-04-17 01:45:32 -0700,"<p>Se Thunderbird è chiuso, non scarica i messaggi. Assicurati di chiuderlo correttamente/completamente. </p>",@next,false,0,0
 1726279,1506538,2025-04-17 05:12:09 -0700,2025-04-17 05:12:09 -0700,"<p>Since your trash is also in the IMAP account, you need to move messages to Local Folders to reduce online space. </p>",davidsk,false,0,0
