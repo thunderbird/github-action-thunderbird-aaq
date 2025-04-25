@@ -2,7 +2,8 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1727615,1507563,2025-04-22 21:30:14 -0700,2025-04-22 21:30:14 -0700,"<p>Solved: Hamburger menu 'open from file', select calendar, select from downloaded file (ICS) and, there it is.... </p>",grahaminedmonton,false,0,0
 1727747,1507566,2025-04-23 10:11:45 -0700,2025-04-23 10:11:45 -0700,<p>That usually happen when there was an associated calendar that is still active. </p>,davidsk,false,1,0
 1727853,1507566,2025-04-23 18:15:31 -0700,2025-04-23 18:15:31 -0700,<p>Thank you. This is helpful. But how can I delete this calendar account? </p>,leeisabelle2001,false,0,0
-1727925,1507566,2025-04-24 04:22:05 -0700,2025-04-24 04:22:05 -0700,"<p>You should be able to highlight the account, rightclick and see an unsubscribe option. </p>",davidsk,false,0,0
+1727925,1507566,2025-04-24 04:22:05 -0700,2025-04-24 04:22:05 -0700,"<p>You should be able to highlight the account, rightclick and see an unsubscribe option. </p>",davidsk,false,1,0
+1728071,1507566,2025-04-24 21:23:11 -0700,2025-04-24 21:23:11 -0700,<p>I solved! Thank you very much! </p>,leeisabelle2001,false,0,0
 1727746,1507570,2025-04-23 10:08:35 -0700,2025-04-23 10:08:35 -0700,"<p>Sometimes messages get 'stuck' for a variety of reasons. Usually, the best fix is to log online to delete them at server. </p>",davidsk,false,0,0
 1727810,1507570,2025-04-23 13:53:28 -0700,2025-04-23 13:53:28 -0700,<p>How do I delete them from the server? </p>,keithinoz1,false,0,0
 1727814,1507570,2025-04-23 14:17:56 -0700,2025-04-23 14:17:56 -0700,"<p>log onto your online account, e.g. <a href=""http://gmail.com"" rel=""nofollow"">gmail.com</a>, etc., and delete there. </p>",davidsk,false,0,0
