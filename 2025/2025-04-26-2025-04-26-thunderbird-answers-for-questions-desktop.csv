@@ -6,3 +6,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1728282,1508201,2025-04-26 01:59:01 -0700,2025-04-26 01:59:01 -0700,"<em><p>HKE  <a href=""#question-1508201"" rel=""nofollow"">said</a></p></em> <blockquote>Remove password from Thonderbird </blockquote>",hke5,false,0,0
 1728283,1508201,2025-04-26 01:59:56 -0700,2025-04-26 01:59:56 -0700,<p>Not working </p> <ol><li> * Numbered list item </li></ol>,hke5,false,0,0
 1728284,1508201,2025-04-26 02:01:01 -0700,2025-04-26 02:01:01 -0700,<p>Negative </p>,hke5,false,0,0
+1728308,1508217,2025-04-26 04:53:56 -0700,2025-04-26 04:53:56 -0700,"<p>If it is a regular password, not an 'app' password, do this' - settings&gt;privacy&amp;security - click saved passwords and then show passwords. you may be prompted for your Windows signin code first. </p>",davidsk,false,0,0
