@@ -8,3 +8,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1728283,1508201,2025-04-26 01:59:56 -0700,2025-04-26 01:59:56 -0700,<p>Not working </p> <ol><li> * Numbered list item </li></ol>,hke5,false,0,0
 1728284,1508201,2025-04-26 02:01:01 -0700,2025-04-26 02:01:01 -0700,<p>Negative </p>,hke5,false,0,0
 1728308,1508217,2025-04-26 04:53:56 -0700,2025-04-26 04:53:56 -0700,"<p>If it is a regular password, not an 'app' password, do this' - settings&gt;privacy&amp;security - click saved passwords and then show passwords. you may be prompted for your Windows signin code first. </p>",davidsk,false,0,0
+1728327,1508232,2025-04-26 07:49:07 -0700,2025-04-26 07:49:07 -0700,"<p>If you share screenshots of the SMTP server settings pane, and the complete text of error messages, some suggestions may be available. thanks. </p>",davidsk,false,0,0
+1728326,1508234,2025-04-26 07:47:58 -0700,2025-04-26 07:47:58 -0700,"<p>Suggestions should go to <a href=""http://connect.mozilla.org"" rel=""nofollow"">connect.mozilla.org</a>, category is IDEAS.   Thank you. </p>",davidsk,false,0,0
