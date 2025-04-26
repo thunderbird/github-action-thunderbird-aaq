@@ -13,5 +13,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1728333,1508218,2025-04-26 08:16:01 -0700,2025-04-26 08:16:01 -0700,"<p>This post has had a reply, although not shown here. Individual has responded with a thanks. </p>",davidsk,false,0,0
 1728334,1508220,2025-04-26 08:16:32 -0700,2025-04-26 08:16:32 -0700,"<p>I did not see who responded, but we appreciate your thanks.&nbsp;:) </p>",davidsk,false,0,0
 1728327,1508232,2025-04-26 07:49:07 -0700,2025-04-26 07:49:07 -0700,"<p>If you share screenshots of the SMTP server settings pane, and the complete text of error messages, some suggestions may be available. thanks. </p>",davidsk,false,1,0
+1728338,1508232,2025-04-26 08:46:12 -0700,2025-04-26 08:46:12 -0700,<p>Here are some screenshots which will hopefully be of some help. This has happened with Thunderbird twice before on a different laptop. </p>,m.blowers,false,0,0
+1728343,1508232,2025-04-26 08:55:46 -0700,2025-04-26 08:55:46 -0700,"<p>Try 587 and STARTTLS .  also, did you try entering password? I know little of btinternet, so I may not have a solution. </p>",davidsk,false,0,0
 1728326,1508234,2025-04-26 07:47:58 -0700,2025-04-26 07:47:58 -0700,"<p>Suggestions should go to <a href=""http://connect.mozilla.org"" rel=""nofollow"">connect.mozilla.org</a>, category is IDEAS.   Thank you. </p>",davidsk,false,0,0
 1728335,1508235,2025-04-26 08:17:45 -0700,2025-04-26 08:17:45 -0700,"<p>Do you mean an iphone? Not yet, but it's in the works.&nbsp;:) </p>",davidsk,false,0,0
