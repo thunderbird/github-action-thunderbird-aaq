@@ -49,3 +49,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1729674,1509465,2025-05-02 08:43:44 -0700,2025-05-02 08:43:44 -0700,<p>On what date did this start? When was your last update?  (the history is at Help &gt; Troubleshooting Information &gt; Show update history) </p>,wsmwk,false,0,0
 1729676,1509465,2025-05-02 08:45:23 -0700,2025-05-02 08:45:23 -0700,<p>Also full version number. </p>,wsmwk,false,0,0
 1729689,1509465,2025-05-02 09:18:18 -0700,2025-05-02 09:18:18 -0700,"<p>I noticed this problem yesterday (5/1/2025). It persists today (5/2/2025) </p><p>Thunderbird 128.10.0esr (20250425031534) May 2, 2025 at 1:17:26 PM It was installed successfully. </p>",ClassicPony,false,0,0
+1729736,1509523,2025-05-02 13:15:21 -0700,2025-05-02 13:15:21 -0700,"<p>Found it, sorry. I was looking at the ""Settings"" composition settings instead of main Account Settings -&gt; Composition. SMH </p>",3D4Play,false,0,0
