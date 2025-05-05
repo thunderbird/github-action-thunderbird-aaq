@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1730137,1509934,2025-05-04 20:17:04 -0700,2025-05-04 20:17:04 -0700,"<p>Gridlines in a spreadsheet are a display option in the SS software, not transferable to Thunderbird. </p>",wsmwk,false,0,0
