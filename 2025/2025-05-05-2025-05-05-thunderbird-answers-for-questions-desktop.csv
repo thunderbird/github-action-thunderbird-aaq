@@ -1,2 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1730137,1509934,2025-05-04 20:17:04 -0700,2025-05-04 20:17:04 -0700,"<p>Gridlines in a spreadsheet are a display option in the SS software, not transferable to Thunderbird. </p>",wsmwk,false,0,0
+1730150,1509934,2025-05-04 21:22:02 -0700,2025-05-04 21:22:02 -0700,"<em><p>Wayne Mery <a href=""#answer-1730137"" rel=""nofollow"">said</a></p></em> <blockquote>Gridlines in a spreadsheet are a display option in the SS software, not transferable to Thunderbird. </blockquote> <p>How to solve this issue? but I found that Outlook has not this issue. </p>",andymachs,false,0,0
+1730149,1509947,2025-05-04 21:19:33 -0700,2025-05-04 21:19:33 -0700,<p>That should read....I can read them but I can't action or delete them. </p>,dajoh,false,0,0
