@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1730619,1510374,2025-05-06 18:19:28 -0700,2025-05-06 18:19:28 -0700,"<p>Hello, </p><p>I searched for similar functionality in other email clients and found that Outlook offers a feature called ""Light Reading Pane"" under the ""View"" menu. </p><p>I tried to find a similar option in Thunderbird, but I couldn’t locate it. Is there a way to toggle the light background for the message pane in Thunderbird? </p><p>Thank you! </p>",NoSyu,false,0,0
