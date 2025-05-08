@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1730879,1510629,2025-05-08 01:11:39 -0700,2025-05-08 01:11:39 -0700,"<p>L'errore timed out indica che il server non risponde in tempi ragionevoli alle richieste del client (Thunderbird). È qualcosa che deve essere risolto sul server, non dipende da Thunderbird. </p><p>In ogni caso se oscuri gli indirizzi e non indichi da chi è gestito il server, non si può esprimere alcuna valutazione sulla configurazione. </p>",@next,false,0,0
