@@ -34,6 +34,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1730055,1509854,2025-05-04 08:14:14 -0700,2025-05-04 08:14:14 -0700,"<p>press the alt key to see menu bar. if you would like it to be always present, then click view&gt;toolbars and tick menu bar. </p>",davidsk,false,0,0
 1730327,1509861,2025-05-05 12:27:50 -0700,2025-05-05 12:27:50 -0700,"<p>Ik vermoed dat dit een beveiliging van Windows is, probeert u het eens met uw aanmeldgegevens van <strong>Windows</strong>? </p>",markh2,false,1,0
 1730567,1509861,2025-05-06 11:03:27 -0700,2025-05-06 11:03:27 -0700,"<p>Bedankt voor uw snelle reactie die nog goed uitpakt ook. </p><p>M'n postvak in is nu ook mobiel, maar m'n andere postvakken niet, evenals m'n adresboek niet. </p><p>Hoe die te expoteen? </p><p>Groet, Jacques </p>",j.nuijens,false,0,0
+1731115,1509861,2025-05-09 02:29:29 -0700,2025-05-09 02:29:29 -0700,"<p>De overige mappen zullen met IMAP vanzelf worden gesynchroniseerd. Het adresboek wordt niet gesynchroniseerd, dit is afhankelijk van de gekoppelde Gmail-account. </p>",Mozilla-assistent,false,0,0
 1730123,1509863,2025-05-04 16:45:21 -0700,2025-05-04 16:45:21 -0700,<p>Donations are not compulsory. </p><p>Where are you trying to download Thunderbird? </p>,mozilla98,false,1,0
 1730069,1509868,2025-05-04 09:20:37 -0700,2025-05-04 09:20:37 -0700,<p>cannot access previous location </p>,jimitou,false,0,0
 1730077,1509868,2025-05-04 10:03:07 -0700,2025-05-04 10:03:07 -0700,<p>Please be specific and I believe we can assist. </p>,davidsk,false,0,0
