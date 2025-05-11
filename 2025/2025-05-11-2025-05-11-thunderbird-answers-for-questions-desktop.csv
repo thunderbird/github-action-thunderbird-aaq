@@ -1,0 +1,4 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1731558,1511144,2025-05-10 19:21:18 -0700,2025-05-10 19:21:18 -0700,"<p>The only MSFs I know of are Médecins Sans Frontières (MSF) and the index file Thunderbird uses to store a list of email in a folder (not the emails, just the list).  As this is regenerated automatically if it is missing,  Why would you be seeking that? </p>",MattAuSupport,false,0,0
+1731560,1511147,2025-05-10 19:23:02 -0700,2025-05-10 19:23:02 -0700,"<p>Duplicated here, I think <a href=""https://support.mozilla.org/en-US/questions/1511149"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1511149</a> </p>",MattAuSupport,false,0,0
+1731559,1511149,2025-05-10 19:22:24 -0700,2025-05-10 19:22:24 -0700,<p>Please take the time to actually state your issue.  like what you are doing and what you mean by can't log into email. </p>,MattAuSupport,false,0,0
