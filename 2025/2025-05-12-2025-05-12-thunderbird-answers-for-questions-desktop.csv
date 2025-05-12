@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1731915,1511321,2025-05-12 00:05:58 -0700,2025-05-12 00:05:58 -0700,<p>impossible to see my mails </p>,hcottancin,false,0,0
+1731917,1511322,2025-05-12 00:12:07 -0700,2025-05-12 00:12:07 -0700,"<p>In the context of my question I saw related posts (did not find them before searching ""copy emails""). Going offline before mass copy seems a good hint, I will try. </p><p>Still remaining as a question: is there a modal dialog option for copying resp. a final status feedback (like ""1250 emails copied"" or ""copy process failed due to..."" </p>",co-base,false,0,0
