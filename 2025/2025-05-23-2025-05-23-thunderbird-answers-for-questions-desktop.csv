@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1735598,1513337,2025-05-22 18:11:32 -0700,2025-05-22 18:11:32 -0700,"<p>Duplicated here <a href=""https://support.mozilla.org/en-US/questions/1513311"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1513311</a> See <a href=""https://support.mozilla.org/en-US/kb/userchromecss-js-usercontent-unsupported"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/userchromecss-js-usercontent-unsupported</a> </p>",MattAuSupport,false,0,0
