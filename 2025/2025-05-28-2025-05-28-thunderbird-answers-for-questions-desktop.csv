@@ -75,3 +75,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1737269,1514241,2025-05-28 11:53:40 -0700,2025-05-28 11:53:40 -0700,<p>View &gt; Layout &gt; Message List Headers </p><p>From which version did you update to 139?  128?  Or 138? </p>,wsmwk,false,0,0
 1737304,1514241,2025-05-28 13:56:57 -0700,2025-05-28 13:56:57 -0700,"<em><p>Wayne Mery <a href=""#answer-1737269"" rel=""nofollow"">said</a></p></em> <blockquote> From which version did you update to 139?  128?  Or 138? </blockquote> <p>BigSky&nbsp;? </p>",wsmwk,false,0,0
 1737300,1514259,2025-05-28 13:41:06 -0700,2025-05-28 13:41:06 -0700,<p>Did you just recently update? </p>,wsmwk,false,0,0
+1737310,1514259,2025-05-28 14:12:31 -0700,2025-05-28 14:12:31 -0700,"<p>yes, still unable to access emails </p>",GCunningham1,false,0,0
+1737312,1514260,2025-05-28 14:22:12 -0700,2025-05-28 14:22:12 -0700,"<p>Why do you want to reinstall Thunderbird? What happens when you start Thunderbird?  Do you see a Thunderbird main window with an ""<strong>Account Setup</strong>"" tab in which TB prompts to ""Set Up Your Existing Email Address""  (see image)? </p>",Mapenzi,false,0,0
