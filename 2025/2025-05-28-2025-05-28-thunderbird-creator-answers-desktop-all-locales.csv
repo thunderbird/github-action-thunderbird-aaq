@@ -1,0 +1,3 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1514091,2025-05-27 18:34:28 -0700,2025-05-27 18:34:28 -0700,Thunderbird ESR to Release,<p>is this change necessary? Or can I just stay with ESR? </p>,thunderbird;installation-and-updates;,thunderbird,installation-and-updates,en-US,"",leorickg
+1514092,2025-05-27 18:55:11 -0700,2025-05-27 18:55:11 -0700,Нечитаемые имена папок после установки последнего релиза,"<p>Добрый день. После установки последнего релиза 28 мая 2025 года. В списке imap папки, которые были написаны кириллицей, теперь стали с нечитаемыми именами. </p>",thunderbird;accessibility;,thunderbird,accessibility,en-US,"",TBuHnukc
