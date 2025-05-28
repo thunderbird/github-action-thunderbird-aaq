@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1736995,1514091,2025-05-27 19:36:28 -0700,2025-05-27 19:36:28 -0700,"<p>It is not necessary.  You would get the newest features, as TB would update every six weeks or so. You'll still get security updates and bug fixes if you don't update. One reason not to update is that some add-ons may not work until they are updated. </p>",siffemoz,false,0,0
+1736993,1514097,2025-05-27 19:26:33 -0700,2025-05-27 19:26:33 -0700,<p>Go to TB menu &gt; Help &gt; About Thunderbird. </p>,siffemoz,false,0,0
