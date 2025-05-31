@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1738031,1514700,2025-05-30 21:42:31 -0700,2025-05-30 21:42:31 -0700,<p>I am unable to reproduce this.  </p><p>1. What add-ons do you have installed? 2. Does the problem go away in Help &gt; Troubleshoot Mode? </p>,wsmwk,false,0,0
+1738043,1514711,2025-05-30 23:11:04 -0700,2025-05-30 23:11:04 -0700,<p>Hai controllato che non finiscano nello spam? Non solo in Thunderbird ma anche nella webmail ovviamente. </p>,@next,false,0,0
