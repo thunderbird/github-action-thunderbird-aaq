@@ -16,3 +16,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1738471,1514912,2025-06-01 09:34:25 -0700,2025-06-01 09:34:25 -0700,"<p>Multiple rules can be included in a Classic Search (Ctrl+Shift+F) of an account, like the example in the attached picture. </p>",sfhowes,false,0,0
 1738483,1514912,2025-06-01 10:22:33 -0700,2025-06-01 10:22:33 -0700,<p>Thankyou - I will give it a go - unfortunately it doesn't seem to allow choice of all folders </p>,hexworx,false,0,0
 1738485,1514912,2025-06-01 10:28:09 -0700,2025-06-01 10:28:09 -0700,<p>You can also try a Saved Search (File/New...) to search multiple selected folders with a similar dialog. </p>,sfhowes,false,0,0
+1738488,1514938,2025-06-01 10:44:30 -0700,2025-06-01 10:44:30 -0700,<p>Found it. Apologies </p>,martincwwalker,false,0,0
