@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1738296,1514853,2025-05-31 21:37:36 -0700,2025-05-31 21:37:36 -0700,"<p>What you do likely is the only way. I don't think putting Subject contains at the top would have any effect on the filter's efficiency, if that's what you're after. </p>",siffemoz,false,0,0
