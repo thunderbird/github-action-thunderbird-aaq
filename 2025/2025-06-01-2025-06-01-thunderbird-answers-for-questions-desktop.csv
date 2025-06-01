@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1738405,1514833,2025-06-01 05:56:41 -0700,2025-06-01 05:56:41 -0700,<p>Sorry you are having trouble. </p><p>Freezes do not create crash reports.  Have you posted this issue anywhere else? </p>,wsmwk,false,0,0
+1738451,1514833,2025-06-01 08:33:46 -0700,2025-06-01 08:33:46 -0700,"<p>Wayne, thank you for your answer. No, I have not posted elsewhere. Could you suggest where the most productive places to post might be? </p><p>Thanks again! </p>",dlandiss1,false,0,0
 1738296,1514853,2025-05-31 21:37:36 -0700,2025-05-31 21:37:36 -0700,"<p>What you do likely is the only way. I don't think putting Subject contains at the top would have any effect on the filter's efficiency, if that's what you're after. </p>",siffemoz,false,0,0
 1738395,1514867,2025-06-01 05:03:03 -0700,2025-06-01 05:03:03 -0700,"<p>If you have forgotten password, you need to contact your email provider. </p>",davidsk,false,0,0
 1738394,1514880,2025-06-01 05:02:08 -0700,2025-06-01 05:02:08 -0700,"<p>Please share more information. The official version is at <a href=""https://www.thunderbird.net/en-US/thunderbird/all/"" rel=""nofollow"">https://www.thunderbird.net/en-US/thunderbird/all/</a> </p>",davidsk,false,0,0
