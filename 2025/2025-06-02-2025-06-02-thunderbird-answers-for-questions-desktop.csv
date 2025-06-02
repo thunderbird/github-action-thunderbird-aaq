@@ -33,3 +33,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1738760,1515079,2025-06-02 08:10:31 -0700,2025-06-02 08:10:31 -0700,"<p>Probeer eens de mappen te comprimeren en te repareren: <a href=""https://support.mozilla.org/nl/kb/mappen-comprimeren-mogelijke-complicaties"" rel=""nofollow"">https://support.mozilla.org/nl/kb/mappen-comprimeren-mogelijke-complicaties</a>. </p>",Mozilla-assistent,false,0,0
 1738752,1515082,2025-06-02 07:55:00 -0700,2025-06-02 07:55:00 -0700,<p>I recommend doing that from your online account. THunderbird is not designed for that </p>,davidsk,false,0,0
 1738748,1515086,2025-06-02 07:26:30 -0700,2025-06-02 07:26:30 -0700,"<p>NVM, I found the table view button on the top... </p>",engel3,false,0,0
+1738816,1515112,2025-06-02 11:17:05 -0700,2025-06-02 11:17:05 -0700,"<p>If this happens when using the addon, please contact the developer, as Thunderbird does not provide technical support for addons. </p>",davidsk,false,0,0
+1738815,1515118,2025-06-02 11:15:34 -0700,2025-06-02 11:15:34 -0700,<p>A common occurrence is a remaining calendar. That may be the situation here. Just a guess. </p>,davidsk,false,0,0
