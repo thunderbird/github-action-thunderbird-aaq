@@ -37,3 +37,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1738816,1515112,2025-06-02 11:17:05 -0700,2025-06-02 11:17:05 -0700,"<p>If this happens when using the addon, please contact the developer, as Thunderbird does not provide technical support for addons. </p>",davidsk,false,0,0
 1738819,1515112,2025-06-02 11:54:13 -0700,2025-06-02 11:54:13 -0700,"<p>I have, but I haven't hear back  from him. </p>",DonK,false,0,0
 1738815,1515118,2025-06-02 11:15:34 -0700,2025-06-02 11:15:34 -0700,<p>A common occurrence is a remaining calendar. That may be the situation here. Just a guess. </p>,davidsk,false,0,0
+1738834,1515136,2025-06-02 13:22:09 -0700,2025-06-02 13:22:09 -0700,<p>Which OS runs on your computer? </p>,Mapenzi,false,0,0
+1738835,1515136,2025-06-02 13:22:30 -0700,2025-06-02 13:22:30 -0700,"<p>See <a href=""https://github.com/jobisoft/TbSync/issues/748"" rel=""nofollow"">https://github.com/jobisoft/TbSync/issues/748</a> </p>",sfhowes,false,0,0
