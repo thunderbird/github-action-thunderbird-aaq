@@ -23,3 +23,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1739834,1515764,2025-06-06 11:43:57 -0700,2025-06-06 11:43:57 -0700,"<p>BTW, I am running on Windows 10 and using Chrome. </p>",maggie.jacobs,false,0,0
 1739838,1515764,2025-06-06 11:49:29 -0700,2025-06-06 11:49:29 -0700,<p>Check your download folder. It happens quietly and can be missed. </p>,davidsk,false,0,0
 1739841,1515764,2025-06-06 11:52:25 -0700,2025-06-06 11:52:25 -0700,<p>I am looking at my download folder right now.  Nothing is there. </p>,maggie.jacobs,false,0,0
+1739871,1515780,2025-06-06 13:50:01 -0700,2025-06-06 13:50:01 -0700,<p>Update.  After posting this it occurred to me to check my compuserve/aol account directly on their website and not use the TB client.  Going thru Firefox to the AOL site works fine; the message is there.  Curiously when I open Compuserve on my iPhone the content is also missing. </p>,eberger5,false,0,0
