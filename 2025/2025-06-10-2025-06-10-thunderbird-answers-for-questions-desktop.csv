@@ -4,3 +4,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1740727,1516227,2025-06-10 02:11:32 -0700,2025-06-10 02:11:32 -0700,<p>Right+click on a message has a trash can at the top of the context menu. </p>,wsmwk,false,0,0
 1740725,1516235,2025-06-10 01:40:18 -0700,2025-06-10 01:40:18 -0700,<p>Picture of error. </p>,adilishaqacca,false,0,0
 1740728,1516235,2025-06-10 02:15:39 -0700,2025-06-10 02:15:39 -0700,<p>Looking at the Error Console would likely help. You may have to add that IP to mail.allowed_unc_hosts </p>,wsmwk,false,0,0
+1740754,1516250,2025-06-10 04:42:41 -0700,2025-06-10 04:42:41 -0700,"<p>Hier kunnen maillijsten voor worden gebruikt. Meer info op: <a href=""https://support.mozilla.org/nl/kb/mailinglijsten-aanmaken-gebruiken"" rel=""nofollow"">https://support.mozilla.org/nl/kb/mailinglijsten-aanmaken-gebruiken</a>. </p>",Mozilla-assistent,false,0,0
