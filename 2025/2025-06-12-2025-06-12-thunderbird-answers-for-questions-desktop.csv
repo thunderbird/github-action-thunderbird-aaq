@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1741212,1516550,2025-06-11 20:58:37 -0700,2025-06-11 20:58:37 -0700,"<p>Try opening it with the <a href=""https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-thunderbird-profiles#w_start-the-profile-manager-when-thunderbird-is-closed"" rel=""nofollow"">Profile Manager</a>. </p>",siffemoz,false,0,0
