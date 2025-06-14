@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1741797,1516949,2025-06-13 20:54:21 -0700,2025-06-13 20:54:21 -0700,<p>Please respond to my request. </p>,gaywoodward43,false,0,0
 1741826,1516953,2025-06-14 00:52:43 -0700,2025-06-14 00:52:43 -0700,"<p>You can delete the files and folders using Windows File Explorer, while Thunderbird is shut down. </p><p>Go to Help &gt; Troubleshooting Information &gt; Profile Folder &gt; click the button to the right to open Windows File Explorer at the profile location &gt; find Mail\Local Folders. </p><p>You will find the files and folders there. </p>",wsmwk,false,0,0
+1741859,1516978,2025-06-14 05:12:45 -0700,2025-06-14 05:12:45 -0700,"<p>If you are referring to columns in the message list pane, just highlight a column and drag left or right. </p>",davidsk,false,0,0
