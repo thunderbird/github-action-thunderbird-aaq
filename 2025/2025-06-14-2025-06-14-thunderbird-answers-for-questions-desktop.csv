@@ -19,3 +19,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1741895,1517017,2025-06-14 09:30:31 -0700,2025-06-14 09:30:31 -0700,<p>Thank you David. It's great to get such swift help! Clara </p>,midascourt,false,0,0
 1741897,1517017,2025-06-14 09:31:51 -0700,2025-06-14 09:31:51 -0700,<p>It was my pleasure to assist.&nbsp;:) </p>,davidsk,false,0,0
 1741912,1517025,2025-06-14 10:34:12 -0700,2025-06-14 10:34:12 -0700,"<p>A rapid search on the web finds this SUMO article <a href=""https://support.mozilla.org/en-US/kb/message-threading-thunderbird"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/message-threading-thunderbird</a> </p>",Mapenzi,false,0,0
+1741927,1517031,2025-06-14 11:36:33 -0700,2025-06-14 11:36:33 -0700,"<p>If you installed from Microsoft, it will be in a different place. You should use <a href=""http://thunderbird.net"" rel=""nofollow"">thunderbird.net</a> for the download. </p>",davidsk,false,0,0
