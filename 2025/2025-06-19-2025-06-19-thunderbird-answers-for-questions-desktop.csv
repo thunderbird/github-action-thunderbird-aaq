@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1743152,1517797,2025-06-18 23:49:39 -0700,2025-06-18 23:49:39 -0700,"<p>Does that also happen in Troubleshoot mode (<a href=""https://support.mozilla.org/en-US/kb/safe-mode-thunderbird)?"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/safe-mode-thunderbird)?</a> </p><p>Does ctrl-n start a new message? </p>",siffemoz,false,0,0
