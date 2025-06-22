@@ -6,3 +6,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1743992,1518346,2025-06-22 07:49:03 -0700,2025-06-22 07:49:03 -0700,"<p>Maybe if you post a screenshot of the SMTP server settings pane, some ideas will surface. Thank you. </p>",davidsk,false,0,0
 1744026,1518372,2025-06-22 10:18:04 -0700,2025-06-22 10:18:04 -0700,<p>Does the error message mention compact? </p>,wsmwk,false,0,0
 1744027,1518372,2025-06-22 10:20:52 -0700,2025-06-22 10:20:52 -0700,<p>no its the exact message i posted </p>,arielagindi,false,0,0
+1744035,1518372,2025-06-22 12:00:27 -0700,2025-06-22 12:00:27 -0700,"<p>Thanks.  Does <a href=""https://bugzilla.mozilla.org/attachment.cgi?id=9295834"" rel=""nofollow"">https://bugzilla.mozilla.org/attachment.cgi?id=9295834</a> match what you are seeing? </p>",wsmwk,false,0,0
