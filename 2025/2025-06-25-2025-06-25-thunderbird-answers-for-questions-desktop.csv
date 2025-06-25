@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1744561,1518832,2025-06-24 21:38:20 -0700,2025-06-24 21:38:20 -0700,"<p>Do you have a Premium subscription? It's required for IMAP, POP and SMTP access. </p><p><a href=""https://support.mail.com/premium/imap/thunderbird.html"" rel=""nofollow"">https://support.mail.com/premium/imap/thunderbird.html</a> </p>",sfhowes,false,0,0
