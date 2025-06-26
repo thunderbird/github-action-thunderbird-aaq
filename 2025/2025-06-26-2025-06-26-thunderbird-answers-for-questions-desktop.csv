@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1744878,1519051,2025-06-25 21:19:54 -0700,2025-06-25 21:19:54 -0700,"<p>That isn't possible. You may want to install the importexporttools-ng add-on (<a href=""https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools-ng"" rel=""nofollow"">https://addons.thunderbird.net/en-US/thunderbird/addon/importexporttools-ng</a>). With that, you can select any number of messages and export them to PDF. </p>",siffemoz,false,0,0
