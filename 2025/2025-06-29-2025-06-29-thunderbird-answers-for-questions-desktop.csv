@@ -14,4 +14,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1745668,1519730,2025-06-29 08:22:10 -0700,2025-06-29 08:22:10 -0700,"<p>You can check settings&gt;privacy&amp;security and see if the password is still there, but you will probably need to contact email provider to reset the password. </p>",davidsk,false,0,0
 1745705,1519758,2025-06-29 11:49:53 -0700,2025-06-29 11:49:53 -0700,"<ol><li> click the 'new message' button' </li><li> then, click view&gt;toolbars and tick 'composition toolbar (if menu bar is not visible, press Alt key first) </li></ol>",davidsk,false,0,0
 1745706,1519767,2025-06-29 11:50:53 -0700,2025-06-29 11:50:53 -0700,<p>That is the default for VPNs. Look at the settings for a bypass of email checking. </p>,davidsk,false,0,0
-1745708,1519767,2025-06-29 11:55:59 -0700,2025-06-29 11:55:59 -0700,"<p>Thunderbird is just a client, it's not an e-mail provider. So you're wrong, they don't send this message. </p>",TyDraniu,false,0,0
+1745708,1519767,2025-06-29 11:55:59 -0700,2025-06-29 11:55:59 -0700,"<p>Thunderbird is just a client, it's not an e-mail provider. So you're wrong, they don't send this message. </p>",TyDraniu,false,0,1
+1745709,1519767,2025-06-29 12:11:12 -0700,2025-06-29 12:11:12 -0700,<p>There's no bypass of email checking in Mozilla's VPN software that i can find...so where is it??? </p>,david0072,false,0,0
