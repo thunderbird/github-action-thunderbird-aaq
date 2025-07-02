@@ -1,6 +1,7 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1746173,1520271,2025-07-02 00:07:10 -0700,2025-07-02 00:07:10 -0700,<p>How are you copying the files? A 315 MB message is huge! </p>,siffemoz,false,0,0
 1746258,1520277,2025-07-02 06:21:43 -0700,2025-07-02 06:21:43 -0700,<p>Ed what is your version number?  Also please post a screen shot. </p>,wsmwk,false,0,0
+1746334,1520286,2025-07-02 14:50:30 -0700,2025-07-02 14:50:30 -0700,"<p>Okay, this is quite embarrassing. In TB under Calendars I have calendars Home and called by my name. Clicking on either seems to show the same calendar. However, the one under my name should be the one in focus when adding or modifying calendar entries, and it syncs fine. If Home is in focus, entries don't sync to <a href=""http://Outlook.com"" rel=""nofollow"">Outlook.com</a>. Sorry about that. However, I'm not really sure why I have two by different name. </p>",sep,false,0,0
 1746171,1520302,2025-07-02 00:00:38 -0700,2025-07-02 00:00:38 -0700,<p>Try TB menu &gt; Account Settings &gt; Synchronization &amp; Storage &gt; Disk Space. </p>,siffemoz,false,0,0
 1746179,1520312,2025-07-02 00:28:36 -0700,2025-07-02 00:28:36 -0700,"<p>Ah, yahoo.  </p><p>Is ""Leave messages on server"" enabled in Thunderbird account settings? </p>",wsmwk,false,0,0
 1746275,1520312,2025-07-02 08:34:12 -0700,2025-07-02 08:34:12 -0700,<p>Yes. Leave messages on server until I delete them. I can go to the clunky webmail and it has 180k emails going back decades. </p>,fuzzface427,false,0,0
