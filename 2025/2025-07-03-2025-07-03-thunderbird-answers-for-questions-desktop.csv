@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1746414,1520487,2025-07-03 04:13:53 -0700,2025-07-03 04:13:53 -0700,"<p>If you downloaded from <a href=""http://thunderbird.net"" rel=""nofollow"">thunderbird.net</a>, it is at c:\users\&lt;yourid&gt;\appdata\roaming\thunderbird\profiles </p>",davidsk,false,0,0
+1746435,1520494,2025-07-03 05:27:17 -0700,2025-07-03 05:27:17 -0700,"<p>if the accounts are Gmail or Outlook, those save to the Sent folder by default. That is, from my experience, even if you set thunderbird to save the sent message elsewhere, a copy still goes to the Sent folder. </p>",davidsk,false,0,0
 1746427,1520499,2025-07-03 04:48:54 -0700,2025-07-03 04:48:54 -0700,"<p>If you provide error messages, some suggestions may be forthcoming, but without any information, it will be difficult to assist. </p>",davidsk,false,0,0
 1746426,1520507,2025-07-03 04:47:01 -0700,2025-07-03 04:47:01 -0700,"<p>You might look in the recycle bin, or check to see if the program is still available for download. </p>",davidsk,false,0,0
 1746393,1520518,2025-07-03 01:59:39 -0700,2025-07-03 01:59:39 -0700,"<p>Who is the mail provider? Do you mean an oauth prompt, like google? </p>",wsmwk,false,0,0
