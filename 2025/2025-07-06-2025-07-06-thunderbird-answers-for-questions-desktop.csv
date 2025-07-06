@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
-1746951,1521126,2025-07-05 23:29:40 -0700,2025-07-05 23:29:40 -0700,<p>Just like any other folder? R. click folder &gt; Delete. </p>,siffemoz,false,0,0
+1746951,1521126,2025-07-05 23:29:40 -0700,2025-07-05 23:29:40 -0700,<p>Just like any other folder? R. click folder &gt; Delete. </p>,siffemoz,false,0,1
+1746966,1521126,2025-07-06 04:05:03 -0700,2025-07-06 04:05:03 -0700,"<p>The option to delete archives is not available just for the folder that is under the archives, care to try again&nbsp;? </p>",admin949,false,0,0
 1746950,1521130,2025-07-05 23:28:42 -0700,2025-07-05 23:28:42 -0700,"<p>See if it's subscribed: </p><p>In the L. column, R. click the account (just above the Inbox) &gt; Subscribe. If it's there, tick it and see if it appears. </p><p>If not there, without uninstalling reinstall TB from <a href=""https://www.thunderbird.net/en-US/thunderbird/all/"" rel=""nofollow"">https://www.thunderbird.net/en-US/thunderbird/all/</a>. </p>",siffemoz,false,0,0
 1746949,1521138,2025-07-05 23:23:55 -0700,2025-07-05 23:23:55 -0700,"<p>Right-click the Start button (or press Windows+X), and select Apps and Features. Select the drop down list Choose where to get Apps, and set it to Anywhere. Then try installing Thunderbird again. </p>",siffemoz,false,0,0
