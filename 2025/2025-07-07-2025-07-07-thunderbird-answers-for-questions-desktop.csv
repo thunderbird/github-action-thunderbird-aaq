@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1747102,1521304,2025-07-06 21:57:48 -0700,2025-07-06 21:57:48 -0700,"<p>Zebra striping for the Folder Pane. </p> <pre>#folderTree li[is=""folder-tree-row""]:nth-child(2n) &gt; div.container {   background-image: linear-gradient(rgba(0,0,0,.08), rgba(0,0,0,.20))&nbsp;!important;}</pre>",sfhowes,false,0,0
