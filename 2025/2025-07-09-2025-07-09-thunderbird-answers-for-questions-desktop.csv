@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1747487,1521725,2025-07-08 18:35:06 -0700,2025-07-08 18:35:06 -0700,"<p>You might be seeing the kind of issue that happens when the sending app is 32-bit but TB is 64-bit: </p><p><a href=""https://support.mozilla.org/en-US/questions/1520249#answer-1746126"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1520249#answer-1746126</a> </p>",sfhowes,false,0,0
