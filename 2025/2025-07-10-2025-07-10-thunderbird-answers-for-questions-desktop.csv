@@ -90,6 +90,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1748007,1522160,2025-07-10 21:54:54 -0700,2025-07-10 21:54:54 -0700,"<p>Obviously from what you have said your google calendar is linked to Thunderbird and is not authorized,  so either complete the authorization when it tries to get you to do it, or remove the linked calendar. </p>",MattAuSupport,false,0,0
 1748264,1522160,2025-07-11 13:05:23 -0700,2025-07-11 13:05:23 -0700,<p>appreciate the response...how does one 'remove the linked' calendar? thanks </p>,js_consulting,false,0,0
 1748426,1522160,2025-07-12 05:00:59 -0700,2025-07-12 05:00:59 -0700,<p>well I would right click on it in the calendar tab and choose to unsubscribe from it. </p>,MattAuSupport,false,0,0
+1748766,1522160,2025-07-13 12:33:45 -0700,2025-07-13 12:33:45 -0700,"<p>Hate to be dense, but when i open thunderbird, i do not see a calendar tab or a way to unsubscribe. thanks for your patience </p>",js_consulting,false,0,0
 1748128,1522162,2025-07-11 06:47:53 -0700,2025-07-11 06:47:53 -0700,<p>Please post a screenshot of the incoming server settings pane. </p>,davidsk,false,0,0
 1747981,1522174,2025-07-10 16:10:37 -0700,2025-07-10 16:10:37 -0700,<p>Esse erro acontece no aplicativo para Android e na versão windows </p>,viniciusalmeidamed,false,0,0
 1748150,1522179,2025-07-11 08:06:31 -0700,2025-07-11 08:06:31 -0700,"<p>Go to settings&gt;appearance&gt; Which view do you have set in Message list? Try experimenting with all 3, that may solve your issue. </p>",jeff-g,false,0,0
