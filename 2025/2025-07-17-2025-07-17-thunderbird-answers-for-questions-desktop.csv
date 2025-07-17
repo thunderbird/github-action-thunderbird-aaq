@@ -1,2 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1749687,1523388,2025-07-16 20:16:21 -0700,2025-07-16 20:16:21 -0700,"<p>Click the 3-bar menu icon (upper right), View/Layout/Folder Pane. </p>",sfhowes,false,0,0
+1749696,1523389,2025-07-16 20:56:37 -0700,2025-07-16 20:56:37 -0700,<p>Corrections should I try upgrading to 64 bit first from 32 bit without doing anything? </p>,OkieUnix,false,0,0
+1749699,1523389,2025-07-16 21:18:54 -0700,2025-07-16 21:18:54 -0700,"<p>&gt; The person who setup this application does not have any computer background at all. </p><p>I believe that. If they are not moving, it could be a result of the server forcing some configuration on you.  Have you checked with your mail manager (assuming you are in an organization) </p><p>As for 64 bit, just install it over top the 32 bit.  nothing more and nothing less. </p>",wsmwk,false,0,0
