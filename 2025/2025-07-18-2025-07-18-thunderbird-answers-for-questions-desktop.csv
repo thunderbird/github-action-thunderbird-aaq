@@ -49,3 +49,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1750126,1523780,2025-07-18 13:12:59 -0700,2025-07-18 13:12:59 -0700,"<p>thunderbird sends to individuals and to mailing lists. To send to all members in an addressbook, copy them into a mailing list. </p>",davidsk,false,0,0
 1750132,1523780,2025-07-18 13:42:32 -0700,2025-07-18 13:42:32 -0700,<p>now I have several email list in collection in address book. How do I send all those list? </p>,OkieUnix,false,0,0
 1750133,1523780,2025-07-18 13:44:48 -0700,2025-07-18 13:44:48 -0700,<p>i see two lists:  family and extend family. both should work </p>,davidsk,false,0,0
+1750139,1523780,2025-07-18 14:11:22 -0700,2025-07-18 14:12:00 -0700,<p>Yes but what If I want to specify all addresses in my Collections Is there a way to specify that without having to type in each list? </p>,OkieUnix,false,0,0
