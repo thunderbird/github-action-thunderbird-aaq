@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1750320,1523994,2025-07-19 23:29:38 -0700,2025-07-19 23:29:38 -0700,<p>It is a bug which should be fixed very soon. </p>,siffemoz,false,0,0
+1750333,1524022,2025-07-20 01:58:15 -0700,2025-07-20 01:58:15 -0700,<blockquote> 5 pages of help did not assist this problem. </blockquote> <p>Please post a link. </p><p>Which version of Thunderbird are you using? </p>,christ1,false,0,0
