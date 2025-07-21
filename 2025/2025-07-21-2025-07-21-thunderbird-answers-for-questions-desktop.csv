@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1750509,1524166,2025-07-20 20:19:22 -0700,2025-07-20 20:19:22 -0700,"<p>1. Press the Alt key, then click View &gt; Toolbars &gt; Menu Bar. </p><p>2. The panel below the list of email files will show the email you select from the list above. If you don't want that, pressing F8 will get rid of that panel. </p>",siffemoz,false,0,0
