@@ -15,3 +15,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1751584,1525104,2025-07-25 05:37:50 -0700,2025-07-25 05:37:50 -0700,"<p>als je met je rechtermuisknop op de map ongewenst klik en kiest ""eigenschappen"" zie je waar de map aan gekoppeld is, is dat bij beide mappen hetzelfde? </p>",Mad_Maks,false,0,0
 1751591,1525115,2025-07-25 06:15:42 -0700,2025-07-25 06:15:42 -0700,<p>click 'forward and redirect' and it's there </p>,davidsk,false,0,0
 1751592,1525115,2025-07-25 06:17:08 -0700,2025-07-25 06:17:08 -0700,"<p>that is, highlight message in message list and then rightclick... </p>",davidsk,false,0,0
+1751604,1525115,2025-07-25 06:58:51 -0700,2025-07-25 06:58:51 -0700,"<p>Sorry, but that does not work in 140.1.0esr on Win10 pro. </p>",Netwon,false,0,0
