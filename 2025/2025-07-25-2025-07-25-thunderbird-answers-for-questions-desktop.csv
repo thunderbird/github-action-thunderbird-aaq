@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1751496,1525040,2025-07-24 19:53:48 -0700,2025-07-24 19:53:48 -0700,"<p>I doubt Thunderbird can store/retrieve anyones deleted emails.  Tbird can tell the email service to leave mails on the server or not, depending on your setting.  (Account Settings&gt;Server settings&gt;leave messages on server).  Try consulting with your ISP - its their servers. </p>",jeff-g,false,0,0
+1751510,1525055,2025-07-24 21:33:16 -0700,2025-07-24 21:33:16 -0700,"<p>For reference, my colleagues who use Microsoft Outlook with the same company account have no issues. This problem seems to be specific to Thunderbird. </p>",cypher9715,false,0,0
