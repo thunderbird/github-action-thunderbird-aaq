@@ -16,3 +16,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1751591,1525115,2025-07-25 06:15:42 -0700,2025-07-25 06:15:42 -0700,<p>click 'forward and redirect' and it's there </p>,davidsk,false,0,0
 1751592,1525115,2025-07-25 06:17:08 -0700,2025-07-25 06:17:08 -0700,"<p>that is, highlight message in message list and then rightclick... </p>",davidsk,false,0,0
 1751604,1525115,2025-07-25 06:58:51 -0700,2025-07-25 06:58:51 -0700,"<p>Sorry, but that does not work in 140.1.0esr on Win10 pro. </p>",Netwon,false,0,0
+1751607,1525115,2025-07-25 07:24:27 -0700,2025-07-25 07:24:27 -0700,"<p>that is the version I am using.. Please select a message in message list pane, right click and select 'forward&amp;redirect' and send screenshot of the displayed options. That will help in pursuing this. thank you </p>",davidsk,false,0,0
