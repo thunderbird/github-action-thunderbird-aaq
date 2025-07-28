@@ -13,4 +13,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1752319,1525621,2025-07-28 05:53:28 -0700,2025-07-28 05:53:28 -0700,"<p>thank you, problem solved </p>",snail1,false,0,0
 1752344,1525624,2025-07-28 08:22:21 -0700,2025-07-28 08:22:21 -0700,"<p>The official release is at <a href=""https://www.thunderbird.net/en-US/thunderbird/all/"" rel=""nofollow"">https://www.thunderbird.net/en-US/thunderbird/all/</a> </p>",davidsk,false,0,0
 1752308,1525635,2025-07-28 05:10:47 -0700,2025-07-28 05:10:47 -0700,"<p>Just realized, this is happening on the newer computer as well, Windows 11, decent processor speed. </p>",tk21,false,0,0
+1752350,1525646,2025-07-28 08:57:55 -0700,2025-07-28 08:57:55 -0700,<p>Profiles that are not active can be safely deleted. </p>,davidsk,false,0,0
 1752345,1525655,2025-07-28 08:26:29 -0700,2025-07-28 08:26:29 -0700,"<p>I am unclear on the question. If you need a new password, you need to contact your email provider. If I am misunderstanding, please provide more information. Thank you, </p>",davidsk,false,0,0
