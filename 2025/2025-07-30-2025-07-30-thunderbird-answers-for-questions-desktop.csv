@@ -4,3 +4,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1752777,1526013,2025-07-30 02:37:25 -0700,2025-07-30 02:37:25 -0700,<p>Thunderbird non supporta iOS attualmente </p>,@next,false,0,0
 1752788,1526015,2025-07-30 03:34:31 -0700,2025-07-30 03:34:31 -0700,"<p>Check Shark settings, not Thunderbird settings. VPNs are notorious for interrupting flow of email. </p>",davidsk,false,0,0
 1752787,1526022,2025-07-30 03:33:11 -0700,2025-07-30 03:33:11 -0700,"<p>Thunderbird is just an agent, sending syntactically-correct email into the internet. It cannot know that the address does not exist. </p>",davidsk,false,0,0
+1752814,1526032,2025-07-30 06:08:02 -0700,2025-07-30 06:08:02 -0700,"<p>Kedves Judit! </p><p>Sikerült kétszer beküldened, ezt lezárom, majd a másikon válaszolok. </p><p>Üdv, Balázs </p>",meskobalazs,false,0,0
