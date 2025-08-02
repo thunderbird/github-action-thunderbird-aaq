@@ -1,2 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1753485,1526592,2025-08-02 03:43:19 -0700,2025-08-02 03:45:38 -0700,<p>oops. I responded in error here. sorry </p>,davidsk,false,0,0
+1753487,1526599,2025-08-02 03:48:24 -0700,2025-08-02 03:48:24 -0700,"<p>I have no solution, but something external to thunderbird is preventing the prefs.js file in the profile from being updated at shutdown. it could be an antivirus or other software, or even that the prefs.js is read-only. </p>",davidsk,false,0,0
+1753488,1526617,2025-08-02 03:49:23 -0700,2025-08-02 03:49:23 -0700,<p>I suggest you first view the account online to confirm the folders are there. </p>,davidsk,false,0,0
 1753476,1526628,2025-08-02 01:40:38 -0700,2025-08-02 01:40:38 -0700,"<p>Vedi qui -&gt; <a href=""https://forum.mozillaitalia.org/index.php?topic=79683.msg550318#msg550318"" rel=""nofollow"">https://forum.mozillaitalia.org/index.php?topic=79683.msg550318#msg550318</a> </p>",@next,false,0,0
