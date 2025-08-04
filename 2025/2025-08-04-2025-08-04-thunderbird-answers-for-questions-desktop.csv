@@ -12,3 +12,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1753912,1527047,2025-08-04 05:38:03 -0700,2025-08-04 05:38:03 -0700,"<p><a href=""http://pop.earthlink.net"" rel=""nofollow"">pop.earthlink.net</a>  this is in the account    do not see a star </p>",tcpallet,false,0,0
 1753914,1527047,2025-08-04 05:40:51 -0700,2025-08-04 05:40:51 -0700,<p>Is there a button on the right with wording such as 'set as default'? </p>,davidsk,false,0,0
 1753917,1527047,2025-08-04 05:51:06 -0700,2025-08-04 05:51:06 -0700,<p>above it there is </p>,tcpallet,false,0,0
+1753923,1527047,2025-08-04 06:20:40 -0700,2025-08-04 06:20:40 -0700,<p>Click the button and that will fix the problem. </p>,davidsk,false,0,0
