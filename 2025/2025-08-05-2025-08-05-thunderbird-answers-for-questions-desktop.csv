@@ -1,2 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1754040,1527196,2025-08-04 19:34:28 -0700,2025-08-04 19:34:28 -0700,"<p><a href=""https://support.mozilla.org/en-US/questions/1322756"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1322756</a> </p>",mozilla98,false,0,0
+1754125,1527215,2025-08-04 23:41:06 -0700,2025-08-04 23:41:06 -0700,"<p>Take a look at <a href=""/en-US/kb/organize-your-messages-using-filters"" rel=""nofollow"">Organize your messages with filters</a>. </p>",siffemoz,false,0,0
+1754124,1527216,2025-08-04 23:39:35 -0700,2025-08-04 23:39:35 -0700,"<p>If it's in the Junk folder, press the junk icon to the left. That will mark it as not spam and move the message back to the Inbox. </p>",siffemoz,false,0,0
