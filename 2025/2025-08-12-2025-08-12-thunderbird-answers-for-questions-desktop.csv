@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1755733,1528644,2025-08-11 19:18:41 -0700,2025-08-11 19:18:41 -0700,"<p>Reading further online, I made an exception within Bitdefender (my antimalware program) to not scan my Thunderbird profile folder. I've been running Bitdefender for years and never had an issue, but you never know. I then rebooted. </p><p>It made no difference. </p>",adlerkralle,false,0,0
