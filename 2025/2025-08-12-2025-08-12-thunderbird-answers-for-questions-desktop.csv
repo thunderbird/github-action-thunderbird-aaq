@@ -5,6 +5,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1755779,1528659,2025-08-11 23:59:15 -0700,2025-08-11 23:59:15 -0700,<p>Who is the mail provider? And what AV software are you using? </p>,wsmwk,false,0,0
 1755738,1528662,2025-08-11 19:57:45 -0700,2025-08-11 19:57:45 -0700,<p>Mozilla Thunderbird </p>,padmor5,false,0,0
 1755778,1528662,2025-08-11 23:57:55 -0700,2025-08-11 23:57:55 -0700,"<p>Are you on version 140 or newer? And does the creation dialog say ""Hub""? </p>",wsmwk,false,0,0
+1755952,1528663,2025-08-12 08:05:44 -0700,2025-08-12 08:05:44 -0700,"<p>Please understand, Thunderbird is your agent; Bigpond is not accepting the password, not Thunderbird. That could be a faulty password or an error in the settings in Thunderbird. </p>",davidsk,false,0,0
 1755796,1528675,2025-08-12 00:48:08 -0700,2025-08-12 00:48:08 -0700,<p>Only a pop account is affected? Starting immediately upon updating to version 141 or 140.1.1esr (and not before)? What AV software and extensions are used? </p>,wsmwk,false,0,0
 1755812,1528683,2025-08-12 01:19:27 -0700,2025-08-12 01:19:27 -0700,"<p>pop protocol ONLY brings down Inbox, but definition. </p>",wsmwk,false,0,0
 1755878,1528689,2025-08-12 04:45:27 -0700,2025-08-12 04:45:27 -0700,"<p>Thunderbird is not designed as a serious spam engine. You could create a filter for this, but you would had to anticipate the onslaught. Many email providers offer some level of spam support, and there are third-party products, such as Mailwasher, that can help. </p>",davidsk,false,0,0
