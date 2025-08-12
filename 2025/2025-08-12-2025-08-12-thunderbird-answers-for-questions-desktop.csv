@@ -1,6 +1,8 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1755733,1528644,2025-08-11 19:18:41 -0700,2025-08-11 19:18:41 -0700,"<p>Reading further online, I made an exception within Bitdefender (my antimalware program) to not scan my Thunderbird profile folder. I've been running Bitdefender for years and never had an issue, but you never know. I then rebooted. </p><p>It made no difference. </p>",adlerkralle,false,0,0
 1755782,1528644,2025-08-12 00:04:48 -0700,2025-08-12 00:04:48 -0700,<p>So only the pop account is affected? Starting immediately upon updating to version 141? </p>,wsmwk,false,0,0
+1755800,1528644,2025-08-12 00:52:19 -0700,2025-08-12 00:52:19 -0700,"<p>Also,  </p><p>What AV software and extensions are used? </p>",wsmwk,false,0,0
 1755779,1528659,2025-08-11 23:59:15 -0700,2025-08-11 23:59:15 -0700,<p>Who is the mail provider? And what AV software are you using? </p>,wsmwk,false,0,0
 1755738,1528662,2025-08-11 19:57:45 -0700,2025-08-11 19:57:45 -0700,<p>Mozilla Thunderbird </p>,padmor5,false,0,0
 1755778,1528662,2025-08-11 23:57:55 -0700,2025-08-11 23:57:55 -0700,"<p>Are you on version 140 or newer? And does the creation dialog say ""Hub""? </p>",wsmwk,false,0,0
+1755796,1528675,2025-08-12 00:48:08 -0700,2025-08-12 00:48:08 -0700,<p>Only a pop account is affected? Starting immediately upon updating to version 141 or 140.1.1esr (and not before)? What AV software and extensions are used? </p>,wsmwk,false,0,0
