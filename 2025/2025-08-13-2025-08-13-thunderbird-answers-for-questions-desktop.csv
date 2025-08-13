@@ -43,3 +43,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1756286,1529015,2025-08-13 07:35:26 -0700,2025-08-13 07:35:26 -0700,<p>I think this will work: </p> <ol><li> click to calendar </li><li> highlight and rightclick the calendar listed on left side of screen. </li><li> click properties and tick the reminder box </li></ol>,davidsk,false,0,0
 1756293,1529015,2025-08-13 08:16:06 -0700,2025-08-13 08:16:06 -0700,"<p>Hello David, The reminder box is ticked, but I still have no popup window. Thanks for your help </p>",ajulien5914,false,0,0
 1756290,1529023,2025-08-13 08:06:12 -0700,2025-08-13 08:06:12 -0700,"<p>Usually, pressing the F8 key does that. </p>",davidsk,false,0,0
+1756344,1529032,2025-08-13 09:16:37 -0700,2025-08-13 09:16:37 -0700,"<p>If you would post a screenshot of your SMTP server settings pane, someone here may be able to advise. Thank you. </p>",davidsk,false,0,0
