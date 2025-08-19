@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1757957,1530174,2025-08-18 20:52:43 -0700,2025-08-18 20:52:43 -0700,"<p>What version of the app (or URL) states ""Settings""? </p><p>In Thunderbird for Android beta, I only see Select file, Scan QR code, and Import from app. </p>",wsmwk,false,0,0
+1757960,1530174,2025-08-18 20:58:55 -0700,2025-08-18 20:58:55 -0700,"<p>Export to Mobile is in the latest 128 version.  Download the installer from here: </p><p><a href=""https://archive.mozilla.org/pub/thunderbird/releases/128.13.0esr/win64/"" rel=""nofollow"">https://archive.mozilla.org/pub/thunderbird/releases/128.13.0esr/win64/</a> </p>",sfhowes,false,0,0
