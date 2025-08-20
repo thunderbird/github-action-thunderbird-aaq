@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1758187,1530417,2025-08-20 03:23:03 -0700,2025-08-20 03:23:03 -0700,"<p>You will have to use GPG directly outside of Thunderbird in order to add additional identities to your key. Assuming GPG is already installed on your device with your secret key imported, you can use the <strong>gpg --edit-key $YOUR_KEY_ID adduid</strong> command to add another identity to your key and then import it back into Thunderbird. </p>",bbonacci,false,0,0
