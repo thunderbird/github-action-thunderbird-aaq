@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1758346,1530588,2025-08-20 19:25:04 -0700,2025-08-20 19:25:04 -0700,"<p>In table view, click on the date in the column heading. </p><p>Or use the View menu &gt; sort by. </p><p>In Windows, you may have to press &lt;alt&gt; to see the menu bar. </p>",mozilla98,false,0,0
+1758370,1530600,2025-08-21 00:24:11 -0700,2025-08-21 00:24:11 -0700,"<p>It's a fixed bug which hasn't landed yet. Until it does, disable automatic <a href=""/en-US/kb/compacting-folders"" rel=""nofollow"">compacting</a>. </p>",siffemoz,false,0,0
