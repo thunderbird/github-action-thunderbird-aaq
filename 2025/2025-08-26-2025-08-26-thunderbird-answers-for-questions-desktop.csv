@@ -52,3 +52,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1759840,1531748,2025-08-26 11:03:34 -0700,2025-08-26 11:03:34 -0700,<p>Do you have javascript and cookies <strong>enabled</strong>? </p>,wsmwk,false,0,0
 1759839,1531756,2025-08-26 10:59:59 -0700,2025-08-26 10:59:59 -0700,"<p>Please create a bug report at <a href=""https://bugzilla.mozilla.org/enter_bug.cgi?product=thunderbird"" rel=""nofollow"">https://bugzilla.mozilla.org/enter_bug.cgi?product=thunderbird</a> with details including your provider/domain name. </p>",wsmwk,false,0,0
 1759893,1531802,2025-08-26 15:25:54 -0700,2025-08-26 15:25:54 -0700,"<p>I should add that the normal pop-up notifications (bottom right corner) work, but they're only visible for 5 seconds or so. </p>",MarcDwonn,false,0,0
+1759898,1531805,2025-08-26 15:55:19 -0700,2025-08-26 15:55:19 -0700,<p>Right click on Subject and then Check Correspondent </p>,MichelT,false,0,0
