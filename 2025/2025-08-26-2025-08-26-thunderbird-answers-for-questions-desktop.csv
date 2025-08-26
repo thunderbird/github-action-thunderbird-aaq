@@ -6,6 +6,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1759724,1531626,2025-08-25 23:59:34 -0700,2025-08-25 23:59:34 -0700,"<p>Turn it back on via the menu '☰' → Settings → Calendar → Reminders and then check ""Show missed reminders for writable calendars"". This should bring back the warnings you expect, after you restart Thunderbird. </p>",Thundamike,false,0,0
 1759725,1531636,2025-08-26 00:07:58 -0700,2025-08-26 00:07:58 -0700,"<p>I don't use it, so I can't say but you can file a bug report <a href=""https://github.com/RealRaven2000/quickFilters/issues"" rel=""nofollow"">here</a>. </p>",siffemoz,true,0,0
 1759750,1531650,2025-08-26 04:04:45 -0700,2025-08-26 04:04:45 -0700,<p>heeft u de betreffende calender account geconfigureerd dat u mag aanpassen via thunderbird? </p>,Mad_Maks,false,0,0
+1759758,1531650,2025-08-26 05:23:43 -0700,2025-08-26 05:23:43 -0700,<p>En via welk menu in Thunderbird kan ik dat controleren? Ik heb bij 'agenda eigenschappen' de betreffende agenda gecheckt maar ik kon daar geen vinkje met aanpassingen vinden namelijk. Alvast bedankt voor de routing. </p>,d.vangog,false,0,0
 1759751,1531654,2025-08-26 04:06:56 -0700,2025-08-26 04:06:56 -0700,"<p>Others are not reporting that problem, so it may help if you share more information. Also, please do not post twice on same issue. thank you </p>",davidsk,false,0,0
 1759743,1531657,2025-08-26 03:44:37 -0700,2025-08-26 03:44:37 -0700,<p>Wat voor foutmelding krijgt u? </p>,Mad_Maks,false,0,0
 1759754,1531657,2025-08-26 04:29:07 -0700,2025-08-26 04:29:07 -0700,"<p>Kan geen verbinding maken met <a href=""http://relay.proximus.be"" rel=""nofollow"">relay.proximus.be</a> </p>",wauters.thijs,false,0,0
@@ -14,3 +15,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1759752,1531670,2025-08-26 04:07:44 -0700,2025-08-26 04:07:44 -0700,"<p>Please continue with original thread for this one. Do not respond here, </p>",davidsk,false,0,0
 1759753,1531684,2025-08-26 04:19:02 -0700,2025-08-26 04:19:02 -0700,<p>The reason I had the backup was when SNAP broke me the first time. Not enthralled with snap. </p>,wobrien15,false,0,0
 1759756,1531692,2025-08-26 04:57:45 -0700,2025-08-26 04:57:45 -0700,<p>Just found it. Answered! </p>,gordonbp1,false,0,0
+1759761,1531695,2025-08-26 05:53:27 -0700,2025-08-26 05:53:27 -0700,<p>apparently. </p>,davidsk,false,0,0
