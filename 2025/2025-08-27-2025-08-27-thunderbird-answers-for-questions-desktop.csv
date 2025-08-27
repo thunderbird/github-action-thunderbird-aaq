@@ -14,3 +14,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1759964,1531886,2025-08-27 04:04:53 -0700,2025-08-27 04:04:53 -0700,"<p>Podle prvního obrázku máš problém s odesíláním (nastavením) SMTP - <a href=""https://support.mozilla.org/cs/kb/rucni-konfigurace-postovniho-uctu"" rel=""nofollow"">Nastavení odchozího serveru</a>. Poskytovatel e-mailu ti nedodal údaje, jak SMTP nastavit? </p>",poljos-moz,false,0,0
 1759987,1531886,2025-08-27 05:50:54 -0700,2025-08-27 05:50:54 -0700,"<p>Děkuji, nyní vše funguje, nevšiml jsem si že poskytovatel změnil název pro SMTP a IMAP. </p>",interiery,false,0,0
 1759954,1531897,2025-08-27 01:54:11 -0700,2025-08-27 01:54:11 -0700,<p>Non si può. </p>,@next,false,0,0
+1759998,1531900,2025-08-27 06:51:41 -0700,2025-08-27 06:51:41 -0700,<p>wat bedoeld u met verzameladres? </p>,Mad_Maks,false,0,0
+1759996,1531946,2025-08-27 06:45:19 -0700,2025-08-27 06:45:19 -0700,"<p>om u te helpen hebben we meer info nodig. probeert u een backup over te zetten, of uw accounts op de nieuwe computer in stellen? krijgt u een foutmelding? </p>",Mad_Maks,false,0,0
