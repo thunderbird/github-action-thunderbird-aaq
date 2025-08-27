@@ -23,3 +23,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1760016,1531954,2025-08-27 07:58:59 -0700,2025-08-27 07:59:16 -0700,"<p>Hi, Settings &gt; General &gt;  uncheck the [] When Thunderbird launches ... box </p>",shopov.bogomil,false,0,0
 1760014,1531957,2025-08-27 07:55:29 -0700,2025-08-27 07:55:50 -0700,"<p>Hi Alex, Can you provide more information (error messages for ex.) about the problem you are experiencing? The donation is appreciated, but it's not required for getting help nor for Thunderbird to function properly.  </p><p>Bogo </p>",shopov.bogomil,false,0,0
 1760019,1531965,2025-08-27 08:15:21 -0700,2025-08-27 08:15:21 -0700,"<p>Nope. The above is not consistent. Pretty sure cache cleaner is not wiping out too much for Thunderbird. May be communications with Comcast, but now I am at a loss. </p>",MJM91,false,0,1
+1760048,1531965,2025-08-27 10:28:46 -0700,2025-08-27 10:28:46 -0700,<p>Nope! </p>,peter.simonson,false,0,0
