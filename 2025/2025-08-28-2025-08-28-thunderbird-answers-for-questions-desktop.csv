@@ -2,3 +2,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1760126,1532088,2025-08-27 17:28:49 -0700,2025-08-27 17:28:49 -0700,"<p>Are you using the account hub for setup?  If so, disable it in Settings/General and use ⇶ - New Account - Email. </p>",sfhowes,false,0,0
 1760129,1532093,2025-08-27 18:09:25 -0700,2025-08-27 18:09:25 -0700,<p>Check out the menu option View | Layout (press Alt if the menu is hidden.) Play with the options there until it looks the way you like. </p>,rednoise,false,0,0
 1760143,1532104,2025-08-27 21:53:33 -0700,2025-08-27 21:53:33 -0700,<p>You must accept cookies in TB (not browser) Settings/Privacy &amp; Security. </p>,sfhowes,false,0,0
+1760156,1532128,2025-08-27 23:32:42 -0700,2025-08-27 23:32:42 -0700,"<p>Hi, I has just reappeared, by deselecting and re-selecting View -&gt; Toolbars -&gt; Status Bar Xavier </p>",xavier7,false,0,0
