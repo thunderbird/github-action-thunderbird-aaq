@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1760401,1532345,2025-08-28 21:21:48 -0700,2025-08-28 21:21:48 -0700,"<p>Tools | Settings | Privacy &amp; Security | Passwords | Saved Passwords </p><p>then </p><p>- Show Passwords. Right-click on the entry and choose ""Edit Password"" </p><p>or </p><p>- select that entry and choose ""Remove"". Next time Thunderbird tries to get or send mail, you will be prompted for your password. </p>",rednoise,false,0,0
