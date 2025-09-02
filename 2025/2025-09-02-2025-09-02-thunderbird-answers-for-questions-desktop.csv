@@ -18,3 +18,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1761394,1533248,2025-09-02 07:09:11 -0700,2025-09-02 07:09:11 -0700,"<p>If you are using the new, experimental account hub, turn it off in settings and try again. </p>",mozilla98,false,0,0
 1761399,1533248,2025-09-02 07:25:56 -0700,2025-09-02 07:25:56 -0700,"<p>Thank you for the advice, it helped. </p>",sajko.pl,false,0,0
 1761398,1533254,2025-09-02 07:25:45 -0700,2025-09-02 07:25:45 -0700,<p>View menu &gt; Headers &gt; Normal </p><p>Or similar wording. </p>,mozilla98,false,0,0
+1761403,1533260,2025-09-02 07:44:16 -0700,2025-09-02 07:44:16 -0700,<p>Yes and yes </p>,davidsk,false,0,0
