@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1761568,1533353,2025-09-02 19:55:23 -0700,2025-09-02 19:55:23 -0700,"<p>Hi, is this on a widely used webmail site like Gmail, Outlook, or Yahoo? Just wondering whether a support volunteer will have access to the same site to see this problem firsthand. </p>",jscher2000,false,0,0
+1761574,1533353,2025-09-02 20:44:48 -0700,2025-09-02 20:44:48 -0700,"<p>I'm so sorry, I just realised this is the Firefox support and not Thunderbird, my apologies! </p>",admin606,false,0,0
