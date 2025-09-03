@@ -18,3 +18,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1761648,1533434,2025-09-03 05:51:21 -0700,2025-09-03 05:51:21 -0700,"<p>Tell us more, such as whether you see any error messages. </p>",davidsk,false,0,0
 1761647,1533438,2025-09-03 05:50:10 -0700,2025-09-03 05:50:10 -0700,"<p>The problem may be the experimental setup feature. Go to settings&gt;general and UNtick the experimental option, and try the setup again. see attached screenshot. </p>",davidsk,false,0,0
 1761657,1533439,2025-09-03 06:30:57 -0700,2025-09-03 06:30:57 -0700,<p>Please provide some detail. What happens when you select to save as a file? </p>,davidsk,false,0,0
+1761674,1533451,2025-09-03 07:49:53 -0700,2025-09-03 07:49:53 -0700,"<p>I don't have version 142 installed.   But for older version ( 140.2 ) ,   the delete button is on the right side and it's Red. </p>",MichelT,false,0,0
