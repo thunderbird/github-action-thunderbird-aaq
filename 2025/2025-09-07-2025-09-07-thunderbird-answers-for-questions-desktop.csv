@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1762485,1534160,2025-09-06 18:09:31 -0700,2025-09-06 18:09:31 -0700,<p>Press F8  when the list has focus.  F8 toggles the message pane on and off (better now?) </p>,MattAuSupport,false,0,0
+1762516,1534181,2025-09-07 00:06:20 -0700,2025-09-07 00:06:20 -0700,<p>Try this: </p><p>- go to TB menu &gt; Settings &gt; General </p><pre>- scroll all the way down and click the 'Config editor' button on the right </pre> <pre>- click 'Accept the risk and continue' </pre> <pre>- search for accessibility.force_disabled &gt; change the value to 1 &gt; click the check mark </pre> <pre>- restart TB </pre>,siffemoz,false,0,0
