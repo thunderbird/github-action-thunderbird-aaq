@@ -6,3 +6,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1762544,1534198,2025-09-07 02:00:59 -0700,2025-09-07 02:00:59 -0700,<p>SOLVED. Found on my Gmail online account a Labels/IMAP folder marked 'Drafts'. Deleted this and this solved my duplication issue. </p>,RonSH,false,0,0
 1762561,1534210,2025-09-07 03:56:10 -0700,2025-09-07 03:56:10 -0700,"<p>Oh  I see!  Never mind the above message, I figured it out.  Thanks anyway </p>",smarveloustoo,false,0,0
 1762595,1534213,2025-09-07 06:31:13 -0700,2025-09-07 06:31:13 -0700,<p>The setup wizard may be the problem. It's new and buggy. Try this: go to settings&gt;general and untick the experimental setup wizard and start over. see attached. </p>,davidsk,false,0,0
+1762629,1534222,2025-09-07 08:34:43 -0700,2025-09-07 08:34:43 -0700,<p>Do you have the same version of Thunderbird on both Windows 10 and Windows 11 &nbsp;?   What is / are your Thunderbird version&nbsp;? </p>,MichelT,false,0,0
+1762625,1534241,2025-09-07 08:26:09 -0700,2025-09-07 08:26:09 -0700,<p>What is your version and platform (or O/S) </p>,MichelT,false,0,0
