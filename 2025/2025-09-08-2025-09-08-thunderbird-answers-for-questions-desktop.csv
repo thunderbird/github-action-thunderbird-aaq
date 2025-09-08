@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1762699,1534313,2025-09-07 19:00:01 -0700,2025-09-07 19:00:01 -0700,"<p>I wouldn't do it that way. I would add a new account for the new host, leaving the old one as is. Once I'm sure the new account is working properly, I can copy (safest) or move the old mail from the old account's folders to new folders (including the Inbox, if you want) on the new host, or local folders. </p>",rednoise,false,0,0
