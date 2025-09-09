@@ -1,5 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
-1762917,1534540,2025-09-08 17:32:42 -0700,2025-09-08 17:32:42 -0700,<p>Thunderbird expects an email to contain character @ and some characters before and after it.  Otherwise the Send Button is grayed out. </p><p>Example of email that will gray out Send button &nbsp;:   aaa@   or  @gmail.com </p>,MichelT,true,0,0
+1762917,1534540,2025-09-08 17:32:42 -0700,2025-09-08 22:58:39 -0700,<p>Thunderbird expects an email to contain character @ and some characters before and after it.  Otherwise the Send Button is grayed out. </p><p>Example of email that will gray out Send button &nbsp;:   aaa@   or  @gmail.com </p>,MichelT,false,0,0
 1762936,1534542,2025-09-08 18:53:05 -0700,2025-09-08 18:53:05 -0700,<p>Thank you for sharing. </p>,rednoise,false,0,0
 1762930,1534545,2025-09-08 18:21:45 -0700,2025-09-08 18:21:45 -0700,"<p>If you have the account hub enabled in Settings/General, disable it and add the account from ⇶ - New Account - Email. </p>",sfhowes,false,0,0
 1762946,1534545,2025-09-08 19:23:10 -0700,2025-09-08 19:23:10 -0700,<p>Found the problem with the password being slightly wrong. Thanks </p>,mlvolosyn,false,0,0
