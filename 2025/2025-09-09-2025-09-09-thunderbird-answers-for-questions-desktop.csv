@@ -4,3 +4,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1762930,1534545,2025-09-08 18:21:45 -0700,2025-09-08 18:21:45 -0700,"<p>If you have the account hub enabled in Settings/General, disable it and add the account from ⇶ - New Account - Email. </p>",sfhowes,false,0,0
 1762946,1534545,2025-09-08 19:23:10 -0700,2025-09-08 19:23:10 -0700,<p>Found the problem with the password being slightly wrong. Thanks </p>,mlvolosyn,false,0,0
 1762950,1534553,2025-09-08 19:39:42 -0700,2025-09-08 19:39:42 -0700,"<p>Not from within the program, as far as I know. You could save the email as .eml format, which is plain text and edit that with a text editor, then import it back into Thunderbird. </p>",rednoise,false,0,0
+1762960,1534553,2025-09-08 21:32:43 -0700,2025-09-08 21:32:43 -0700,"<p>There are two add-ons, Header Tools Improved and Header Tools Lite. </p>",sfhowes,false,0,0
