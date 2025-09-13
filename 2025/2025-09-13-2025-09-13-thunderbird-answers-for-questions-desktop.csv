@@ -7,3 +7,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1764054,1535450,2025-09-13 07:18:11 -0700,2025-09-13 07:18:11 -0700,<p>What do you see in error console just after a failed attempt?  ctrl+shift+J </p><p>Does the problem completely go away with Help &gt; Troubleshoot Mode? </p>,wsmwk,false,0,0
 1764069,1535466,2025-09-13 08:12:36 -0700,2025-09-13 08:12:36 -0700,"<p>I seem to have made it work after downloading a fuller version of Thunderbird, it was a version that wasn't ""recommended"". It appears to be working and downloading all my emails on to it. </p>",rebeccaallsop,false,0,0
 1764066,1535468,2025-09-13 07:52:06 -0700,2025-09-13 07:52:06 -0700,<p>Jag får fortfarande ingen E-ost i afton? </p>,s.holmqvist,false,0,0
+1764088,1535484,2025-09-13 09:43:00 -0700,2025-09-13 09:43:00 -0700,<p>Stai usando IMAP o POP3 come protocollo di collegamento? </p>,@next,false,0,0
+1764090,1535488,2025-09-13 09:43:56 -0700,2025-09-13 09:43:56 -0700,"<p>Oprava složky: Klikni pravým na složku (např. Doručená pošta) → Vlastnosti → Opravit složku. Thunderbird znovu vytvoří index (.msf soubor), který blokoval mazání. </p>",Ansamb,false,0,0
