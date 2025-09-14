@@ -1,3 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1764162,1535556,2025-09-13 18:28:33 -0700,2025-09-13 18:28:33 -0700,"<p>If you get stuck in Account Hub, hit the escape key. </p><p>If that doesn't help, disable Account Hub in Settings. </p><p>Let's know if that helps. </p>",wsmwk,false,0,0
 1764168,1535556,2025-09-13 19:01:52 -0700,2025-09-13 19:01:52 -0700,"<p>Thanks Wayne, Not sure what you mean by Account Hub. Attached is the message I get when attempting to add account. </p>",giltvenison,false,0,0
+1764181,1535556,2025-09-13 19:49:55 -0700,2025-09-13 19:49:55 -0700,"<p>I mean exactly what you see in your screen shot, is labeled as account hub. </p>",wsmwk,false,0,0
+1764183,1535556,2025-09-13 20:07:54 -0700,2025-09-13 20:07:54 -0700,"<p>Thanks - tried that and got the attached response. I double checked my password and it is OK. Much head scratching - working fine on other machines, any suggestions? </p>",giltvenison,false,0,0
