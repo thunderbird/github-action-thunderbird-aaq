@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1764261,1535555,2025-09-14 05:45:21 -0700,2025-09-14 05:45:21 -0700,"<p>Please clarify the issue, as mail accounts are not normally in Local Folders. Possibly, seeing screenshots of what you have may help. thank you </p>",davidsk,false,0,0
+1764265,1535555,2025-09-14 06:40:26 -0700,2025-09-14 06:40:26 -0700,"<p>All my regulars mailboxes are in Local Folders, except inbox, trash, drafts, sent ... Geoff </p>",gtennille,false,0,0
 1764162,1535556,2025-09-13 18:28:33 -0700,2025-09-13 18:28:33 -0700,"<p>If you get stuck in Account Hub, hit the escape key. </p><p>If that doesn't help, disable Account Hub in Settings. </p><p>Let's know if that helps. </p>",wsmwk,false,0,0
 1764168,1535556,2025-09-13 19:01:52 -0700,2025-09-13 19:01:52 -0700,"<p>Thanks Wayne, Not sure what you mean by Account Hub. Attached is the message I get when attempting to add account. </p>",giltvenison,false,0,0
 1764181,1535556,2025-09-13 19:49:55 -0700,2025-09-13 19:49:55 -0700,"<p>I mean exactly what you see in your screen shot, is labeled as account hub. </p>",wsmwk,false,0,0
