@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1764444,1535750,2025-09-15 01:41:15 -0700,2025-09-15 01:41:15 -0700,"<p>Non so esattamente cosa tu abbia fatto ma Il server di posta in ingresso ed il server di posta in uscita sono due entità separate in Thunderbird. Vanno configurati entrambi </p><p>Vedi ad esempio questa guida <a href=""https://support.mozilla.org/it/kb/configurazione-manuale-account"" rel=""nofollow"">https://support.mozilla.org/it/kb/configurazione-manuale-account</a> </p>",@next,false,0,0
 1764446,1535752,2025-09-15 01:51:54 -0700,2025-09-15 01:51:54 -0700,<p>Tipo quali? Te lo chiedo perché di solito Oauth2 viene abilitato automaticamente se il server indicato dichiara di supportarlo. </p>,@next,false,0,0
+1764450,1535758,2025-09-15 02:23:24 -0700,2025-09-15 02:23:24 -0700,<p>is there a question here? </p>,MattAuSupport,false,0,0
