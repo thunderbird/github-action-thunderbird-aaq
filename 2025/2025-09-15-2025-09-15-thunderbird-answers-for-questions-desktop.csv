@@ -1,4 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1764444,1535750,2025-09-15 01:41:15 -0700,2025-09-15 01:41:15 -0700,"<p>Non so esattamente cosa tu abbia fatto ma Il server di posta in ingresso ed il server di posta in uscita sono due entità separate in Thunderbird. Vanno configurati entrambi </p><p>Vedi ad esempio questa guida <a href=""https://support.mozilla.org/it/kb/configurazione-manuale-account"" rel=""nofollow"">https://support.mozilla.org/it/kb/configurazione-manuale-account</a> </p>",@next,false,0,0
 1764446,1535752,2025-09-15 01:51:54 -0700,2025-09-15 01:51:54 -0700,<p>Tipo quali? Te lo chiedo perché di solito Oauth2 viene abilitato automaticamente se il server indicato dichiara di supportarlo. </p>,@next,false,0,0
+1764469,1535752,2025-09-15 04:19:10 -0700,2025-09-15 04:19:10 -0700,<p>ad esempio se uso dovecot + Keycloak  come IDP non riusciamo a farci accettare. </p>,diegoauletta,false,0,0
+1764468,1535757,2025-09-15 04:04:34 -0700,2025-09-15 04:04:34 -0700,<p>try this:  - click help&gt;troubleshootinginformation - scroll down to 'profiles' an click 'about:profiles - your old profile should be there. click the launch button for it </p>,davidsk,false,0,0
 1764450,1535758,2025-09-15 02:23:24 -0700,2025-09-15 02:23:24 -0700,<p>is there a question here? </p>,MattAuSupport,false,0,0
