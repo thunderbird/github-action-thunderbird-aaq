@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1764930,1536157,2025-09-16 20:26:59 -0700,2025-09-16 20:26:59 -0700,"<p>There have been a number of requests over the years: </p><p><a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1906516"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1906516</a> </p><p><a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=453385"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=453385</a> </p>",sfhowes,false,0,0
