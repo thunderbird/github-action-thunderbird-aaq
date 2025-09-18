@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1765229,1536387,2025-09-17 18:55:27 -0700,2025-09-17 18:55:27 -0700,"<p>If Android, install the Thunderbird app. If iPhone, wait for the development of the Thunderbird app to be finished. </p><p>Other e-mail apps will work too. You just have to set up your account in them. </p>",mozilla98,false,0,0
