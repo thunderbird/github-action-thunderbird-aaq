@@ -14,3 +14,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1765604,1536696,2025-09-19 06:05:42 -0700,2025-09-19 06:05:42 -0700,"<p>Thank you Michael.   That has worked well for the inbox page.   But for New Message, I press Alt and the bars come up but insert and format are not available, nor is send.   Then when I start to write it all disappears again.   Where is set.? </p>",BenjaminHopkinson,false,0,0
 1765607,1536696,2025-09-19 06:15:18 -0700,2025-09-19 06:15:18 -0700,<p>the insert feature only appears if you are composing in HTML format. did you tick the view&gt;toolbars&gt;compostion toolbar when in 'new message' window? </p>,davidsk,false,0,0
 1765609,1536696,2025-09-19 06:28:29 -0700,2025-09-19 06:28:29 -0700,<p>I'm lost and need advice from Thunderbird direct.   How do I get it? </p>,BenjaminHopkinson,false,0,0
+1765611,1536696,2025-09-19 07:26:42 -0700,2025-09-19 07:26:42 -0700,<p>This is the place. </p>,davidsk,false,0,0
