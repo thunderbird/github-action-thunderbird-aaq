@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1765506,1536610,2025-09-18 19:12:40 -0700,2025-09-18 19:12:40 -0700,"<p>Did you try the method suggested here? </p><p><a href=""https://support.mozilla.org/en-US/questions/1493765#answer-1712770"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1493765#answer-1712770</a> </p>",sfhowes,false,0,0
+1765509,1536613,2025-09-18 19:21:41 -0700,2025-09-18 19:21:41 -0700,<p>Who is your e-mail service provider? </p><p>Are you setting up your account for the first time? </p><p>Have you confirmed incoming and outgoing settings with your service provider? </p>,mozilla98,false,0,0
