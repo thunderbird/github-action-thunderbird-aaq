@@ -30,4 +30,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1766389,1537291,2025-09-22 08:52:11 -0700,2025-09-22 08:52:11 -0700,"<p>What version of Thunderbird  and O/S ( Windows, 10, 11 ,  LInux ... )&nbsp;? Is there any update of Thunderbird recently&nbsp;? </p>",MichelT,false,0,0
 1766413,1537291,2025-09-22 09:32:46 -0700,2025-09-22 09:32:46 -0700,"<p>We use blue host, seems as though outlook that we use as well is not working. Believe it is a blue host problem instead. Thanks&nbsp;! </p>",madisonlaird2,false,0,0
 1766399,1537292,2025-09-22 09:16:50 -0700,2025-09-22 09:16:50 -0700,"<p>is this something on the menu bar? If that isn't displayed, click the alt key. </p>",davidsk,false,0,0
+1766421,1537292,2025-09-22 09:44:14 -0700,2025-09-22 09:44:14 -0700,"<p>In Table View, display the Select Messages column (right-click any column button to select columns). </p>",sfhowes,false,0,0
 1766398,1537301,2025-09-22 09:16:00 -0700,2025-09-22 09:16:00 -0700,<p>This may be due to tne new setup wizard. click to settings&gt;general and UNtick the experimental setup wizard and retry the setup. see attached. </p>,davidsk,false,0,0
