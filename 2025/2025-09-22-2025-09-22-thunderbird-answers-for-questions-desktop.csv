@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1766245,1537218,2025-09-21 23:05:55 -0700,2025-09-21 23:05:55 -0700,"<p>Hello zbadger, </p><p>the SMTP server is not accessible. Did you have the access set up automatically - or manually? Is the name possibly out of date? You should be able to clarify this with Spectrum support. </p><p>Greetings prosecco </p>",peschmidt91,false,0,0
