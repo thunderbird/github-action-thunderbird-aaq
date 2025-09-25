@@ -8,3 +8,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1767234,1537834,2025-09-25 01:37:01 -0700,2025-09-25 01:37:01 -0700,"<p>Perhaps I should install the add-ons before restoring a profile, instead of after. </p>",software-ff,false,0,0
 1767273,1537835,2025-09-25 04:30:35 -0700,2025-09-25 04:30:35 -0700,"<p>Firefox è un browser, non scarica la posta... Non è che stai facendo confusione? </p>",@next,false,0,0
 1767274,1537838,2025-09-25 04:32:14 -0700,2025-09-25 04:32:14 -0700,<p>Contatta il tuo provider email. Ti sta bloccando l'invio per una violazione dell condizioni d'uso. </p>,@next,false,0,0
+1767293,1537860,2025-09-25 05:49:22 -0700,2025-09-25 05:49:22 -0700,<p>Thunderbird non ha funzioni di completamento automatico. Quello che si vede nello screenshot è probabilmente uno strumento del sistema operativo. </p>,@next,false,0,0
+1767297,1537864,2025-09-25 06:00:01 -0700,2025-09-25 06:00:01 -0700,<p>View - Toolbars - Status toolbar </p><p>alt key if menu is not showing. </p>,mozilla98,false,0,0
