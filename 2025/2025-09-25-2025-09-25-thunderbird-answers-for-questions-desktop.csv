@@ -15,3 +15,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1767325,1537863,2025-09-25 07:25:20 -0700,2025-09-25 07:25:20 -0700,"<p><a href=""https://support.mozilla.org/en-US/questions/1535814"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1535814</a> </p>",Agentvirtuel,false,0,0
 1767297,1537864,2025-09-25 06:00:01 -0700,2025-09-25 06:00:01 -0700,<p>View - Toolbars - Status toolbar </p><p>alt key if menu is not showing. </p>,mozilla98,false,0,0
 1767333,1537864,2025-09-25 07:46:22 -0700,2025-09-25 07:46:22 -0700,<p>Status bar was checked and activity was selected.  No joy.  Tried reinstalling TBird.  No joy. </p>,dshoemann,false,0,0
+1767339,1537864,2025-09-25 08:00:29 -0700,2025-09-25 08:00:29 -0700,"<p>View - Toolbars un-check 'Status Bar', and then check it again. </p>",christ1,false,1,0
