@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1767521,1537968,2025-09-25 20:08:25 -0700,2025-09-25 20:08:25 -0700,"<p>Disable the account hub in Settings/General, then start from ⇶ - New Account - Email, and you will see a manual config. option on the first window. </p>",sfhowes,false,0,0
