@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1767814,1538140,2025-09-26 23:09:39 -0700,2025-09-26 23:09:39 -0700,"<p>Based on this topic: </p><p><a href=""https://support.mozilla.org/gl/questions/1500833"" rel=""nofollow"">https://support.mozilla.org/gl/questions/1500833</a> </p><p>the star colour for selected messages can be set with this css: </p> <pre>*|*:root .selected{   --thread-pane-flag-fill: cyan&nbsp;!important;   --thread-pane-flag-stroke: red&nbsp;!important; }</pre>",sfhowes,false,0,0
