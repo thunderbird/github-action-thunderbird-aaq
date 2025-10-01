@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1768717,1538770,2025-09-30 19:21:38 -0700,2025-09-30 19:21:38 -0700,"<p>What are the submitted crash Ids? </p><p>See <a href=""https://support.mozilla.org/en-US/kb/mozilla-crash-reporter-tb#w_viewing-crash-reports"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/mozilla-crash-reporter-tb#w_viewing-crash-reports</a> </p>",MattAuSupport,false,0,0
