@@ -1,0 +1,6 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1769008,1539005,2025-10-01 18:44:05 -0700,2025-10-01 18:44:05 -0700,"<p>See <a href=""https://www.reddit.com/r/Thunderbird/comments/vxtae0/aol_and_yahoo_imap_emails_limited_to_10000/"" rel=""nofollow"">https://www.reddit.com/r/Thunderbird/comments/vxtae0/aol_and_yahoo_imap_emails_limited_to_10000/</a> </p>",sfhowes,false,0,0
+1769012,1539005,2025-10-01 18:52:57 -0700,2025-10-01 18:52:57 -0700,<p>Thanks @sfhowes. I'm with a POP server not IMAP. </p>,dcmichael,false,0,0
+1769013,1539005,2025-10-01 18:58:16 -0700,2025-10-01 18:58:16 -0700,"<p>First, is the account with AOL or Yahoo?  The normal POP servers are <a href=""http://pop.aol.com"" rel=""nofollow"">pop.aol.com</a> and <a href=""http://pop.mail.yahoo.com"" rel=""nofollow"">pop.mail.yahoo.com</a>.  If you already have one of those with correct settings, add export to the server name and see if the older mail is downloaded. </p>",sfhowes,false,0,0
+1769014,1539005,2025-10-01 19:03:00 -0700,2025-10-01 19:03:00 -0700,<p>Neither. I'm with an Australian service provider 'webcentral'. </p>,dcmichael,false,0,0
+1769015,1539005,2025-10-01 19:05:53 -0700,2025-10-01 19:05:53 -0700,"<p>I can't help with that provider, so I suggest you contact them for a solution, which might be similar to the one for AOL/Yahoo. </p>",sfhowes,false,0,0
