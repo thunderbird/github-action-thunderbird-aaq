@@ -13,7 +13,7 @@ def getKitsuneResponse(url, params, logger)
     if try_count < 4
       $stderr.printf("JSON::ParserError exception, retry:%d\n",\
                      try_count)
-      sleep(10)
+      sleep(2)
       retry
     else
       $stderr.printf("JSON::ParserError exception, retrying FAILED\n")
