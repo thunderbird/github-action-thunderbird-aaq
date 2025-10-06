@@ -6,7 +6,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1766625,1537413,2025-09-23 04:32:12 -0700,2025-09-23 04:32:12 -0700,"<p>What is the exact version number, and exact wording of the error please? </p>",wsmwk,false,0,0
 1767111,1537413,2025-09-24 14:19:49 -0700,2025-09-24 14:19:49 -0700,"<p>Thunderbird doesn't tell its number. I'm stuck at ""Set Up Your Existing Email Address"" with the above error message displayed on a yellow background (exact wording). </p>",knut10,false,0,0
 1767150,1537413,2025-09-24 17:15:34 -0700,2025-09-24 17:15:34 -0700,<p>Version is listed at Help &gt; About and Help &gt; Troubleshooting Information. </p><p>Please post a screen shot. </p>,wsmwk,false,0,0
-1767180,1537413,2025-09-24 19:43:44 -0700,2025-09-24 19:43:44 -0700,"<p>If the account hub is enabled in Settings/General, disable it and see if accounts can be added from ⩸ - New Account - Email. </p>",sfhowes,false,0,0
+1767180,1537413,2025-09-24 19:43:44 -0700,2025-09-24 19:43:44 -0700,"<p>If the account hub is enabled in Settings/General, disable it and see if accounts can be added from ⩸ - New Account - Email. </p>",sfhowes,false,1,0
 1767309,1537413,2025-09-25 06:32:29 -0700,2025-09-25 06:32:29 -0700,"<p>Dear Wayne, there is no Help option, see attached screen shot Knut </p>",knut10,false,0,0
 1767313,1537413,2025-09-25 06:44:17 -0700,2025-09-25 06:44:17 -0700,"<p>Attached is the next screen, also without Help: </p>",knut10,false,0,0
 1767314,1537413,2025-09-25 06:44:26 -0700,2025-09-25 06:44:26 -0700,"<p>Attached is the next screen, also without Help: </p>",knut10,false,0,0
