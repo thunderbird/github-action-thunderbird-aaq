@@ -1,3 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1769950,1539715,2025-10-05 23:10:59 -0700,2025-10-05 23:10:59 -0700,"<p>That would be this <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1990571"" rel=""nofollow"">bug</a>. </p>",siffemoz,false,0,0
 1769936,1539716,2025-10-05 18:44:05 -0700,2025-10-05 18:44:05 -0700,"<p>Not roper2,  roper@stratanet.com </p>",roper2,false,0,0
+1769949,1539716,2025-10-05 23:09:51 -0700,2025-10-05 23:09:51 -0700,"<p>Try logging into your provider's email web page and do the 'Forgot password' routine. You should also delete your second comment, or at least remove the personal identifying info. </p>",siffemoz,false,0,0
 1769937,1539718,2025-10-05 19:14:15 -0700,2025-10-05 19:14:15 -0700,"<p>Are you using an app password in TB in place of the account password? </p><p><a href=""https://support.apple.com/en-ca/102525"" rel=""nofollow"">https://support.apple.com/en-ca/102525</a> </p>",sfhowes,false,0,0
