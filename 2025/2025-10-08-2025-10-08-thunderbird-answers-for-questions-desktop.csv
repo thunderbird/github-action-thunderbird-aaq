@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1770424,1540091,2025-10-07 17:21:16 -0700,2025-10-07 17:21:16 -0700,<p>There is a picture of the freeze when i want add an email </p>,gust.matys,false,0,0
+1770439,1540119,2025-10-07 22:22:12 -0700,2025-10-07 22:22:12 -0700,"<p>It’s smart to be cautious if the upgrade screen looks unusual and asks for your password. It could be legitimate, but to be safe, try upgrading via the terminal with `sudo apt update` and `sudo apt upgrade` to avoid suspicious pop-ups. If the screen still seems off, don’t enter your password and cancel the upgrade. Always trust your instincts with password requests. </p>",sanjay210no,false,0,0
