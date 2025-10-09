@@ -1,4 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1770714,1540305,2025-10-09 00:59:35 -0700,2025-10-09 00:59:35 -0700,"<p>- go to TB menu &gt; View &gt; Layout &gt; check 'Message List Header' if not already checked </p><p>- click the Message list display options <a href=""https://i.imgur.com/azdFfSS.png"" rel=""nofollow"">icon</a> to the right of the Quick Filter button </p><p>- choose Cards View or Table View </p><p>- go to TB menu &gt; View &gt; Layout &gt; choose your view </p>",siffemoz,false,0,0
 1770702,1540317,2025-10-09 00:54:36 -0700,2025-10-09 00:54:36 -0700,"<p>Try in userChrome.css: </p><p>table[is=""tree-view-table""] td { </p><pre> border-bottom: solid 1px white&nbsp;!important; </pre> <p>} </p>",siffemoz,false,0,0
 1770700,1540327,2025-10-09 00:52:05 -0700,2025-10-09 00:52:05 -0700,<p>Sounds like your antivirus (not MWB) is intercepting the real cert. Which AV are you using? </p>,siffemoz,false,0,0
 1770699,1540331,2025-10-09 00:47:46 -0700,2025-10-09 00:47:46 -0700,"<p>What version of TB are you using? That <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1978286"" rel=""nofollow"">bug</a> was fixed in v140. </p>",siffemoz,false,0,0
+1770725,1540331,2025-10-09 01:16:19 -0700,2025-10-09 01:16:19 -0700,<p>v 143.0.1 </p>,christine.casiez,false,0,0
