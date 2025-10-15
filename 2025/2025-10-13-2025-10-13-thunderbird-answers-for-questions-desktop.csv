@@ -40,6 +40,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1771972,1540956,2025-10-14 04:54:44 -0700,2025-10-14 04:54:44 -0700,"<p>It wasn't checked, should I put the email that is the same for the transfer? Because it's the same message, it didn't go through </p>",sirenenadiya,false,0,0
 1772076,1540956,2025-10-14 11:32:27 -0700,2025-10-14 11:32:27 -0700,"<p>You don't need to change anything in the Forwarding section (Transfert), just in the POP &amp; IMAP section (see picture). </p>",sfhowes,false,0,0
 1772095,1540956,2025-10-14 12:16:50 -0700,2025-10-14 12:16:50 -0700,<p>it's already set </p>,sirenenadiya,false,0,0
+1772138,1540956,2025-10-14 15:36:55 -0700,2025-10-14 15:36:55 -0700,"<p>Change the outgoing server to <a href=""http://smtp.office365.com"" rel=""nofollow"">smtp.office365.com</a>, 587, STARTTLS, OAuth2, email address. </p><p>Check that cookies are accepted in TB Settings/Privacy &amp; Security, and that a VPN is disabled if you use one. </p>",sfhowes,false,0,0
 1771722,1540961,2025-10-13 06:39:17 -0700,2025-10-13 12:44:56 -0700,"<p>Fixed it by changing the theme setting to light from system, but fonts look horrible. </p>",KateMartin,false,0,0
 1772117,1540961,2025-10-14 13:20:55 -0700,2025-10-14 13:22:31 -0700,<p>I have the same problem. This is not a solution. There needs to be a way to turn off dark mode when also composing email. </p>,pcarlson827,false,1,0
 1772118,1540961,2025-10-14 13:21:24 -0700,2025-10-14 13:21:24 -0700,"<p>That should have been ""Dark mode"". </p>",pcarlson827,false,0,0
