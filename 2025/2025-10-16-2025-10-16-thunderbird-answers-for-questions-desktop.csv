@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1772508,1541436,2025-10-15 19:03:36 -0700,2025-10-15 19:03:36 -0700,"<p>Hmmm, I just checked my Thunderebird version - it's 140.4.0. It's the latest version, AND was automatically installed yesterday, which is exactly when this login problem started happening. So, was this a super coincidence, or was the update the cause of the problem???? </p>",Don-Peters,false,0,0
