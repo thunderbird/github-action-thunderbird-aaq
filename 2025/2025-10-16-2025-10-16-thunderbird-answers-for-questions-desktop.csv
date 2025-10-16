@@ -35,3 +35,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1772652,1541562,2025-10-16 07:46:05 -0700,2025-10-16 07:46:05 -0700,"<p>Matt, should I also remove the Local Folders heading. If so, how please? </p>",tinyf,false,0,0
 1772653,1541562,2025-10-16 07:46:40 -0700,2025-10-16 07:46:40 -0700,"<p>Thanks, once again, Matt. Should I now delete the Unified Folders heading that is showing in my All Folders column </p>",tinyf,false,0,0
 1772670,1541590,2025-10-16 09:28:55 -0700,2025-10-16 09:28:55 -0700,<p>Hello </p>,maytag1,false,0,0
+1772677,1541593,2025-10-16 10:01:35 -0700,2025-10-16 10:01:35 -0700,"<p>check settings&gt;general and see if the box for account hub is checked. If so, UNTICK it.  see attached. </p>",davidsk,false,0,0
+1772676,1541597,2025-10-16 10:00:02 -0700,2025-10-16 10:00:02 -0700,"<p>- click View&gt;Toolbars and tick 'Status bar' and see if that fixes it.    (If menu bar is not visible, press Alt key first.) </p>",davidsk,false,0,0
+1772678,1541597,2025-10-16 10:05:44 -0700,2025-10-16 10:05:44 -0700,"<p>The 'Status bar' was already showing ticked; I ""re-ticked"" and that fixed it!  Perfect, thank you. </p>",TbirdUser53,false,0,0
