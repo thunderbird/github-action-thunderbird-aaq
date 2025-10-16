@@ -44,3 +44,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1772676,1541597,2025-10-16 10:00:02 -0700,2025-10-16 10:00:02 -0700,"<p>- click View&gt;Toolbars and tick 'Status bar' and see if that fixes it.    (If menu bar is not visible, press Alt key first.) </p>",davidsk,false,0,0
 1772678,1541597,2025-10-16 10:05:44 -0700,2025-10-16 10:05:44 -0700,"<p>The 'Status bar' was already showing ticked; I ""re-ticked"" and that fixed it!  Perfect, thank you. </p>",TbirdUser53,false,0,0
 1772688,1541597,2025-10-16 10:52:44 -0700,2025-10-16 10:52:44 -0700,<p>Thanks for the feedback. You're most welcome.&nbsp;:) </p>,davidsk,false,0,0
+1772724,1541614,2025-10-16 14:00:17 -0700,2025-10-16 14:00:17 -0700,"<p>Make sure to allow cookies <strong>in Thunderbird</strong>. Don't use a VPN while authenticating. Also make sure not to run any software which blocks TCP port 80, e.g. like a local web server. </p>",christ1,false,0,0
+1772723,1541621,2025-10-16 13:57:53 -0700,2025-10-16 13:57:53 -0700,<p>What is your anti-virus software? </p>,christ1,false,0,0
