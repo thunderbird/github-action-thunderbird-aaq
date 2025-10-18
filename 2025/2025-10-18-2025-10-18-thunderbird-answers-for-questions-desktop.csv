@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1773025,1541853,2025-10-17 20:13:07 -0700,2025-10-17 20:13:07 -0700,<p>Problem solved! </p>,johnmacalister,false,0,0
+1773028,1541863,2025-10-17 21:38:32 -0700,2025-10-17 21:38:32 -0700,"<p>Hmmm, somehow the update to 140.4.0esr changed the density of the folder list, so I changed it to relaxed and now everything is visible, before the bottom of all the folder names was partly truncated from the font . . this solved it, but I don't know why the update made this happen . . .&nbsp;????? </p>",lcapelis,false,0,0
