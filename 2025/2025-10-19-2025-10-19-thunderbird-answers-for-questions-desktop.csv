@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1773225,1542015,2025-10-19 00:39:36 -0700,2025-10-19 00:39:36 -0700,<p>Try creating the account this way. Where you enter the PW is on the first screen: </p><p>- go to TB menu &gt; Settings &gt; General &gt; Account hub &gt; uncheck 'Create accounts in the new Account Hub' </p><p>- go to TB menu &gt; New Account &gt; Email </p>,siffemoz,false,0,0
