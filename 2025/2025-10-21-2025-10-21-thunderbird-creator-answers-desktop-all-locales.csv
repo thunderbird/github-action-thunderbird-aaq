@@ -1,0 +1,2 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1542360,2025-10-20 19:39:37 -0700,2025-10-20 19:39:37 -0700,After the update,"<p>After the update, the name of the ""Spam"" folder (Japanese) changed to ""Junk"" (English), and similarly the name of the trash folder (Japanese) changed to ""Trash"" (English). As a result, it now freezes on startup. It's very difficult to use. </p>",thunderbird;app-crash;,thunderbird,app-crash,en-US,"",taka0911
