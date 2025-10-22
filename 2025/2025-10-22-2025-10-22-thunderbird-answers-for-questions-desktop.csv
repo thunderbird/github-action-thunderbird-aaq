@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1773814,1542532,2025-10-21 20:10:50 -0700,2025-10-21 20:10:50 -0700,"<p>I found this described in <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1625111"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1625111</a> </p>",wsmwk,false,0,0
