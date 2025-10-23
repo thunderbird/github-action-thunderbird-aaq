@@ -30,3 +30,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1774227,1542751,2025-10-23 08:20:26 -0700,2025-10-23 08:20:26 -0700,<p>Menu &gt; Impostazioni account &gt; NOME_ACCOUNT In alto a destra trovi un grosso pulsante rosso Elimina </p><p>(se stai usando le ultime versioni) </p>,@next,false,0,0
 1774223,1542782,2025-10-23 08:15:13 -0700,2025-10-23 08:15:13 -0700,<p>Il messagio in uscita non viene indirizzata nella posta inviata. Devo salvarla io nella cartella locale </p>,administration7,false,0,0
 1774224,1542782,2025-10-23 08:15:49 -0700,2025-10-23 08:15:49 -0700,<p>no non è stato risolto </p>,administration7,false,0,0
+1774228,1542782,2025-10-23 08:26:06 -0700,2025-10-23 08:26:06 -0700,<p>Puoi riportrare (anche come schermate) le impostazioni che trovi in Menu &gt; Impostazioni account &gt; NOME_ACCOUNT &gt; Cartelle e copie ? </p><p>Oscura eventuali dati personali. </p>,@next,false,0,0
