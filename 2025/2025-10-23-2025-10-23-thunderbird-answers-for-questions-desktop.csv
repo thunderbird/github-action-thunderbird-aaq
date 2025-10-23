@@ -30,8 +30,13 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1774198,1542749,2025-10-23 06:33:55 -0700,2025-10-23 06:33:55 -0700,<p>Smagt er et forkert ord her. Jeg forsøger at skrive ind tastet. </p>,arduni,false,0,0
 1774200,1542749,2025-10-23 06:36:39 -0700,2025-10-23 06:36:39 -0700,<p>Læs lige mit øverste indlæg </p>,arduni,false,0,0
 1774227,1542751,2025-10-23 08:20:26 -0700,2025-10-23 08:20:26 -0700,<p>Menu &gt; Impostazioni account &gt; NOME_ACCOUNT In alto a destra trovi un grosso pulsante rosso Elimina </p><p>(se stai usando le ultime versioni) </p>,@next,false,0,0
+1774284,1542759,2025-10-23 10:56:32 -0700,2025-10-23 10:56:32 -0700,"<p>If you are using the account hub, go into Thunderbird settings (not account settings), general, turn it off, and try again to set up your account. </p>",mozilla98,false,0,0
+1774281,1542765,2025-10-23 10:52:31 -0700,2025-10-23 10:52:31 -0700,"<p>Hi Renee. </p><p>Rght click on the folder name, select ""Properties"", then ""Repair Folder"", and report the results. </p>",mozilla98,false,0,0
+1774283,1542766,2025-10-23 10:55:32 -0700,2025-10-23 10:55:32 -0700,"<p>If you are using the account hub, go into Thunderbird settings (not account settings), general, turn it off, and try again to set up your account. </p>",mozilla98,false,0,0
+1774282,1542773,2025-10-23 10:53:58 -0700,2025-10-23 10:53:58 -0700,"<p>If you are using the account hub, go into Thunderbird settings, general, and turn it off, then try again. </p>",mozilla98,false,0,0
 1774223,1542782,2025-10-23 08:15:13 -0700,2025-10-23 08:15:13 -0700,<p>Il messagio in uscita non viene indirizzata nella posta inviata. Devo salvarla io nella cartella locale </p>,administration7,false,0,0
 1774224,1542782,2025-10-23 08:15:49 -0700,2025-10-23 08:15:49 -0700,<p>no non è stato risolto </p>,administration7,false,0,0
 1774228,1542782,2025-10-23 08:26:06 -0700,2025-10-23 08:26:06 -0700,<p>Puoi riportrare (anche come schermate) le impostazioni che trovi in Menu &gt; Impostazioni account &gt; NOME_ACCOUNT &gt; Cartelle e copie ? </p><p>Oscura eventuali dati personali. </p>,@next,false,0,0
 1774250,1542797,2025-10-23 09:24:29 -0700,2025-10-23 09:24:29 -0700,<p>Nedostal jsem žádnou odpověď?!?!?! </p>,peta.snajdr,false,0,0
 1774257,1542804,2025-10-23 09:51:24 -0700,2025-10-23 09:51:24 -0700,<p>Sembra un errore del server. Hai chiesto a Tiscali? </p>,@next,false,0,0
+1774278,1542811,2025-10-23 10:33:45 -0700,2025-10-23 10:33:45 -0700,<p>Try to rebuild the index file of the troubled folder. </p><p>Right-click the folder - Properties - Repair Folder </p>,christ1,false,0,0
