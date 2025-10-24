@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1774346,1542869,2025-10-23 19:51:30 -0700,2025-10-23 19:51:30 -0700,"<p>If a folder is acting like a Drafts folder, try fixing it with FolderFlags: </p><p><a href=""https://support.mozilla.org/en-US/questions/1460237"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1460237</a> </p>",sfhowes,false,0,0
