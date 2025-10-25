@@ -16,7 +16,11 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1774709,1543120,2025-10-25 03:19:30 -0700,2025-10-25 03:19:30 -0700,<p>heeft u het ook geprobeerd met SSL als verbindingsbeveiliging? </p>,Mad_Maks,false,0,0
 1774743,1543120,2025-10-25 05:17:11 -0700,2025-10-25 05:17:11 -0700,"<p>Mad Maks , bedankt voor uw bericht en ik heb alleen de keuze tussen SSL/TLS of STARTTLS. </p>",m.barth,false,0,0
 1774748,1543120,2025-10-25 05:24:06 -0700,2025-10-25 05:24:06 -0700,"<p>ah sorry dat is zo. Op <a href=""https://support.apple.com/en-us/102525"" rel=""nofollow"">https://support.apple.com/en-us/102525</a> staat dat je alleen je gebruikersnaam moet gebruiken ipv het hele e-mailadres bij de inkomende server. heeft u dat al geprobeerd? </p>",Mad_Maks,false,0,0
+1774774,1543120,2025-10-25 06:59:07 -0700,2025-10-25 06:59:07 -0700,"<p>Ook dat heb ik geprobeerd, maar geeft nog aldoor  authenticatiefout. </p>",m.barth,false,0,0
+1774775,1543120,2025-10-25 07:03:21 -0700,2025-10-25 07:03:21 -0700,<p>en als je de app specifieke wachtwoord verwijderd en vervolgens een nieuwe aanmaakt? </p>,Mad_Maks,false,0,0
+1774777,1543120,2025-10-25 07:15:02 -0700,2025-10-25 07:15:02 -0700,"<p>Mad Max, 1000 x dank, dit bracht de oplossing&nbsp;!!!!!!!!!!!!!!!!! </p>",m.barth,false,0,0
 1774739,1543129,2025-10-25 05:09:49 -0700,2025-10-25 05:09:49 -0700,"<p>If yours is an IMAP account, the drafts accumulate while composing. The latest is deleted, but the others remain and must be manually deleted. </p>",davidsk,false,0,0
+1774771,1543129,2025-10-25 06:57:04 -0700,2025-10-25 06:57:04 -0700,<p>We shall see if it solves the problem now I know what is happening. </p>,JonesA,false,0,0
 1774737,1543130,2025-10-25 05:07:28 -0700,2025-10-25 05:07:28 -0700,<p>Try the View&gt;Sort By menu option and click 'descending' </p>,davidsk,false,0,0
 1774734,1543133,2025-10-25 04:56:34 -0700,2025-10-25 04:56:34 -0700,"<p>In the column with your accounts and folders click on the ... next to new message and select ""Show Total Message Count"" </p><p>i hope this is what you where looking for </p>",Mad_Maks,false,0,0
 1774756,1543133,2025-10-25 05:41:58 -0700,2025-10-25 05:41:58 -0700,<p>Thank you. Ps. Why not put it in the bar below. There you have enough room for ONE number and it is not so distracting. </p>,Linuxrules,false,0,0
