@@ -1,0 +1,6 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1774690,1543095,2025-10-25 00:30:27 -0700,2025-10-25 00:30:27 -0700,"<p>Please post your Troubleshooting Information. At the top right of the Thunderbird window, click the menu button ≡, then select Help &gt; Troubleshooting Information. Press the ""Copy text to clipboard button"" and paste the information into your reply. </p>",christ1,false,0,0
+1774692,1543096,2025-10-25 00:32:45 -0700,2025-10-25 00:32:45 -0700,<p>You cannot edit an existing account. Set up a new account in Thunderbird for the new server settings. </p>,christ1,false,0,0
+1774691,1543099,2025-10-25 00:31:21 -0700,2025-10-25 00:31:21 -0700,"<p>Hello </p><p>Is it this subject <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1993842"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=1993842</a> </p>",Agentvirtuel,false,1,0
+1774688,1543103,2025-10-25 00:29:24 -0700,2025-10-25 00:29:24 -0700,"<p>It's a known problem in TB144.0, and will probably be fixed in one of the next updates. So leave it alone for the time being. </p>",christ1,false,0,0
+1774694,1543110,2025-10-25 00:40:49 -0700,2025-10-25 00:40:49 -0700,<p>Check with your email provider about password reset options. </p>,christ1,false,0,0
