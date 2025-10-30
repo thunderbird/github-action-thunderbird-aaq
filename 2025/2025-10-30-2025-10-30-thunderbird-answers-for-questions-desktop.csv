@@ -1,2 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1775767,1543934,2025-10-29 22:18:11 -0700,2025-10-29 22:18:11 -0700,<p>I have just updated to Fedora 43 and it seems that it has fixed my problem. I am now connected and using TB. </p>,dwalcroft2,false,0,0
+1775802,1543944,2025-10-30 04:18:57 -0700,2025-10-30 04:18:57 -0700,<p>Would you please share where this procedure is documented? It does not appear to be a Thunderbird procedure. Thank you. </p>,davidsk,false,0,0
+1775803,1543979,2025-10-30 04:20:08 -0700,2025-10-30 04:20:08 -0700,"<p>You will need to contact the email provider, as Thunderbird is only an agent to store and send the password as provided by user. </p>",davidsk,false,0,0
+1775804,1543980,2025-10-30 04:20:19 -0700,2025-10-30 04:21:03 -0700,"<p>I am on Linux Mint 22.1 Xia - Cinnamon - all updated - for a second I thought maybe Kernel problem, but only on new messages? Na  Just updated kernel - no change - obviously. </p><p>Thunderbird is the Flatpak version - I prefer it contained in Flatpak </p><p>Thanks </p><p>Note: I am no Linux guru - please be simple - thanks </p>",mozmos,false,0,0
