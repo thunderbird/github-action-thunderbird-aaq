@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1776019,1544112,2025-10-30 21:53:55 -0700,2025-10-30 21:53:55 -0700,"<p>Not sure I understand what you mean - maybe a screen shot would help. </p><p>Otherwise, try playing around with the options found in the menu View | Layout . You may have changed one of those settings by accident. </p>",rednoise,false,0,0
+1776035,1544129,2025-10-31 00:56:38 -0700,2025-10-31 00:56:38 -0700,"<p>Try pressing F5 and accept the form resending notification several times until the page loads automatically. Once it loads, click ""next"" and proceed without any issues. If the ""too many requests"" appears again, just repeat the refresh process until it lets you in. </p>",siffemoz,false,0,0
