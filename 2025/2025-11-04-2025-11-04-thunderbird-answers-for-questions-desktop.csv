@@ -11,3 +11,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1776908,1544827,2025-11-04 00:49:22 -0800,2025-11-04 00:49:22 -0800,<p>OK. Díky. Funguje. </p>,Karel_01,false,0,0
 1776934,1544830,2025-11-04 03:42:06 -0800,2025-11-04 03:42:06 -0800,"<p>If I am understanding your post, try View&gt;Layout&gt;Vertical. If message view now shown, press F8. </p>",davidsk,false,0,0
 1776927,1544840,2025-11-04 02:26:02 -0800,2025-11-04 02:26:02 -0800,<p>Che io sappia no (e spero non ci sia mai) </p>,@next,false,0,1
+1776948,1544872,2025-11-04 05:15:12 -0800,2025-11-04 05:15:12 -0800,"<p>Try this:  click to settings&gt;general and see if the account hub is checked. If so, uncheck it and try the setup again. see attached. </p>",davidsk,false,0,0
+1776950,1544875,2025-11-04 05:17:03 -0800,2025-11-04 05:17:03 -0800,<p>It may help if you post a screenshot of your incoming server settings pane and one of any error messages you receive when attempting to retrieve mail. </p>,davidsk,false,0,0
