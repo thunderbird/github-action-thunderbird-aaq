@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1776865,1544781,2025-11-03 22:31:56 -0800,2025-11-03 22:31:56 -0800,<p>Ctrl+Shift+F as in the attached picture. </p>,sfhowes,false,0,0
 1776864,1544793,2025-11-03 22:26:43 -0800,2025-11-03 22:26:43 -0800,<p>Add this to userChrome.css (see pictures): </p> <pre>#threadPaneHeaderBar{background-color: lightblue&nbsp;!important;}  #messageHeader{background-color: lightgreen&nbsp;!important;}</pre>,sfhowes,false,0,0
+1776869,1544793,2025-11-03 23:02:50 -0800,2025-11-03 23:02:50 -0800,<p>Thank you so much sfhowes. Just what I was looking for. </p>,fhutt,false,0,0
