@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1777057,1545009,2025-11-04 21:18:19 -0800,2025-11-04 21:18:19 -0800,"<p>All six accounts are configures identically via IMAP. </p><p>I've changed the account settings so as not to fetch emails  for all six accounts immediately upon activating T-Bird. </p><p>I've changed the times to fetch emails again to random times, 10 to 31 minutes. </p><p>Sorry for BOLD dashes above. </p>",TedT_USA,false,0,0
