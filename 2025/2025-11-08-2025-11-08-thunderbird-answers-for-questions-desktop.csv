@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1777714,1545581,2025-11-08 01:45:29 -0800,2025-11-08 01:45:29 -0800,<p>Estensioni? Hai provato a disattivare l'accelerazione hardware? Menu &gt; Impostazioni &gt; Generale Togli la spunta da <strong>Utilizza l’accelerazione hardware quando disponibile</strong> </p>,@next,false,0,0
