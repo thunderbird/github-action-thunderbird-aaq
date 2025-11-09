@@ -16,4 +16,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1777902,1545768,2025-11-09 04:26:46 -0800,2025-11-09 04:26:46 -0800,"<p>First, I suggest seeing if your email provider has a spam check facility on their website. That would eliminate the messages before Thunderbird receives the message. My second suggestion is to create a filter to junk the messages. </p>",davidsk,false,0,0
 1777916,1545776,2025-11-09 06:01:40 -0800,2025-11-09 06:01:40 -0800,<p>This problem has been solved. Untick the box of Account hub. </p>,fuysthinker,false,0,0
 1777921,1545779,2025-11-09 07:06:31 -0800,2025-11-09 07:06:31 -0800,<p>change authentication to OAUTH2 </p>,davidsk,false,0,0
+1777965,1545779,2025-11-09 10:48:02 -0800,2025-11-09 10:48:02 -0800,"<p>Also, change the outgoing security to STARTTLS on port 587. </p>",sfhowes,false,0,0
 1777933,1545789,2025-11-09 07:41:13 -0800,2025-11-09 07:41:13 -0800,"<p>Click to settings&gt;general and see if the box is checked for account hub (experimental). If so, uncheck and retry. See attached. </p>",davidsk,false,0,0
