@@ -13,44 +13,62 @@ require_relative 'get-kitsune-response'
 require_relative 'fix-kludged-time'
 require_relative 'get_questions_filename'
 
-def get_answers(answer_id, url_params, csv, url, logger)
-  url = "#{url}#{answer_id}/"
-  answer = getKitsuneResponse(url, url_params, logger)
-  if answer.nil?
-    logger.debug "#{answer_id} NOT found. EXITING"
-    return nil
+def get_answers(question_id, url_params, csv, url, logger)
+  url_params[:question] = question_id
+  end_fn = false
+  answer_number = 0
+  until end_fn
+    answers = getKitsuneResponse(url, url_params, logger)
+    if answers.nil?
+      logger.debug "nil answers for question: #{question_id}. EXITING"
+      return nil
+    end
+
+    logger.debug "url:#{url}"
+    logger.debug "url_params:#{url_params}"
+    logger.debug "answer count:#{answers['count']}"
+    url_params = nil
+    answers['results'].each do |a|
+      logger.ap a
+      answer_number += 1
+      logger.debug "QUESTION: #{question_id} ANSWER number:#{answer_number}"
+      updated = a['updated']
+      created = a['created']
+      logger.debug "created from API (Pacific time despite the Z): #{created}"
+      # All times returned by the API are in PST not PDT and not UTC
+      # All URL parameters for time are also in PST not UTC
+      # See https://github.com/mozilla/kitsune/issues/3961 and
+      # https://github.com/mozilla/kitsune/issues/3946
+      # The above may change in the future if we migrate the Kitsune database to UTC
+
+      created = kludge_time_from_bogusZ_to_utc(a['created'])
+      logger.debug "created with PST correction: #{created}"
+
+      unless updated.nil?
+        logger.debug "updated from API (Pacific time despite the Z): #{updated}"
+        updated = kludge_time_from_bogusZ_to_utc(a['updated'])
+        logger.debug "updated with PST correction: #{updated}"
+      end
+      id = a['id']
+      logger.debug "ANSWER id: #{id}"
+      logger.debug "ANSWER number: #{answer_number}"
+      creator = a['creator']['username']
+      logger.debug "creator: #{creator}"
+      csv.push([id, question_id, created.to_s, updated.to_s,
+                a['content'].tr("\n", ' '), creator, a['is_spam'],
+                a['num_helpful_votes'],
+                a['num_unhelpful_votes']])
+    end
+    url = answers['next']
+    if url.nil?
+      logger.debug 'nil next ANSWER url'
+      end_fn = true
+    else
+      logger.debug "next ANSWER url:#{url}"
+      sleep(1) # sleep 1 second between API calls
+    end
   end
-
-  logger.debug "url:#{url}"
-  logger.debug "url_params:#{url_params}"
-  logger.ap answer
-  updated = answer['updated']
-  created = answer['created']
-  question_id = answer['question']
-  logger.debug "created from API (Pacific time despite the Z): #{created}"
-  # All times returned by the API are in PST not PDT and not UTC
-  # All URL parameters for time are also in PST not UTC
-  # See https://github.com/mozilla/kitsune/issues/3961 and
-  # https://github.com/mozilla/kitsune/issues/3946
-  # The above may change in the future if we migrate the Kitsune database to UTC
-
-  created = kludge_time_from_bogusZ_to_utc(answer['created'])
-  logger.debug "created with PST correction: #{created}"
-
-  unless updated.nil?
-    logger.debug "updated from API (Pacific time despite the Z): #{updated}"
-    updated = kludge_time_from_bogusZ_to_utc(answer['updated'])
-    logger.debug "updated with PST correction: #{updated}"
-  end
-  id = answer['id']
-  logger.debug "ANSWER id: #{id}"
-  creator = answer['creator']['username']
-  logger.debug "creator: #{creator}"
-  csv.push([id, question_id, created.to_s, updated.to_s,
-            answer['content'].tr("\n", ' '), creator, answer['is_spam'],
-            answer['num_helpful_votes'],
-            answer['num_unhelpful_votes']])
-  logger.debug "PUSHED to csv. csv: #{csv}"
+  answer_number
 end
 
 logger = Logger.new($stderr)
@@ -65,9 +83,8 @@ questions_filename = get_questions_filename(
   ARGV[4].to_i, ARGV[5].to_i
 )
 @dataTable = CSV.table(questions_filename)
-answer_ids = @dataTable[:answers]
-answer_ids = answer_ids.map { |s| "#{s}" }.join('')
-logger.debug "answer_ids #{answer_ids}"
+question_ids = @dataTable[:id]
+logger.debug "question_ids #{question_ids}"
 
 api_url = 'https://support.mozilla.org/api/2/answer/'
 csv = []
@@ -75,17 +92,16 @@ url_params = {
   format: 'json',
   ordering: 'created'
 }
-answer_ids.split(';').each do |answer_id|
-  num_answers = get_answers(answer_id, url_params, csv, api_url, logger)
+question_ids.each do |question_id|
+  num_answers = get_answers(question_id, url_params, csv, api_url, logger)
   if num_answers.nil?
-    logger.debug("answer: #{answer_id} NOT found!")
+    warn("question: #{question_id} has NO ANSWERS due to API exception! EXITING without updating answers.")
+    exit
   else
-    logger.debug("answer: #{answer_id} found")
+    warn("question: #{question_id} has num_answers: #{num_answers}! UPDATING answers.")
   end
-  sleep(1) # otherwise you will be throttled
 end
 
-logger.debug "AFTER ALL ANSWERS retrieved, csv: #{csv}"
 exit if csv.empty?
 
 headers = %w[id question_id created updated content creator is_spam num_helpful num_unhelpful]
