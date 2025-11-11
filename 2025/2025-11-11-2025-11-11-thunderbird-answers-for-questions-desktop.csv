@@ -1,5 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
-1778245,1546045,2025-11-11 02:08:42 -0800,2025-11-11 02:08:42 -0800,"<p>is your mail provided by gmail?  If so, that would most likely be the issue indeed. </p>",MattAuSupport,false,0,0
+1778245,1546045,2025-11-11 02:08:42 -0800,2025-11-11 02:08:42 -0800,"<p>is your mail provided by gmail?  If so, that would most likely be the issue indeed. </p>",MattAuSupport,false,0,1
 1778215,1546056,2025-11-10 23:52:18 -0800,2025-11-10 23:52:18 -0800,<p>Go to TB menu &gt;Account Settings and click the 'Set as Default' button upper R. side for one of the accounts. </p>,siffemoz,false,0,0
 1778214,1546058,2025-11-10 23:49:30 -0800,2025-11-10 23:49:30 -0800,"<p>While on the compose page, click TB Menu Bar &gt; View &gt; Toolbars &gt; Composition Toolbar. </p><p>If you don't see the menu bar on top, press the ALT key. </p><p>BTW, pressing Ctrl-Enter also sends the message. </p>",siffemoz,false,0,0
 1778310,1546101,2025-11-11 06:44:58 -0800,2025-11-11 06:44:58 -0800,"<p>Please create a performance profile according to the instructions at <a href=""https://support.mozilla.org/en-US/kb/profiling-thunderbird-performance"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/profiling-thunderbird-performance</a> </p>",wsmwk,false,0,0
