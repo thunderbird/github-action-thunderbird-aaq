@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1780506,1549333,2025-11-19 23:24:49 -0800,2025-11-19 23:24:49 -0800,"<p>If you're trying to set up an Exchange account, it could be this <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=1987786"" rel=""nofollow"">bug</a>. </p>",siffemoz,false,0,0
+1780533,1549375,2025-11-20 01:52:29 -0800,2025-11-20 01:52:29 -0800,"<p>Gufo per Exchange NON è un prodotto di Mozilla. Devi chiedere al suo sviluppatore -&gt; <a href=""https://www.beonex.com/owl/"" rel=""nofollow"">https://www.beonex.com/owl/</a> </p>",@next,false,0,0
