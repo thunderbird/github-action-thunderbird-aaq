@@ -13,3 +13,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1780875,1549669,2025-11-21 09:08:23 -0800,2025-11-21 09:08:23 -0800,"<p>this may help:   <a href=""https://www.zamzar.com/convert/msg-to-eml/"" rel=""nofollow"">https://www.zamzar.com/convert/msg-to-eml/</a> </p>",davidsk,false,0,0
 1780878,1549669,2025-11-21 09:18:54 -0800,2025-11-21 09:18:54 -0800,<p>That will work but do we have an option for a smooth in app add on that will open these?  Especially an add on that doesn't charge me? </p>,brian256,false,0,0
 1780883,1549669,2025-11-21 09:36:44 -0800,2025-11-21 09:36:44 -0800,<p>I just used a search engine and found this:  https://products.aspose.app/email/conversion/msg-to-eml </p>,davidsk,false,0,0
+1780893,1549669,2025-11-21 10:27:43 -0800,2025-11-21 10:27:43 -0800,<p>I am not looking for an external program or web page.  Can thunderbird do this internally or do i need to find another email program? </p>,brian256,false,0,0
