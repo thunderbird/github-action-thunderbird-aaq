@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1781257,1549970,2025-11-22 18:07:53 -0800,2025-11-22 18:07:53 -0800,<p>Try with Windows running in safe mode or temporarily remove (not disable) Trend Micro. </p>,sfhowes,false,0,0
