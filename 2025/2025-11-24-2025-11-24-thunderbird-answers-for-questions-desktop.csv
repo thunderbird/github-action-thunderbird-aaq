@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1781543,1550171,2025-11-23 20:06:42 -0800,2025-11-23 20:06:42 -0800,"<p>A number of us have posted here with the same problem. Are you with Optus, by any chance? </p>",thewordygecko,false,0,0
+1781588,1550244,2025-11-24 00:46:57 -0800,2025-11-24 00:46:57 -0800,"<p>There is no setting for it; it happens when you press Shift-Delete. There is also an add-on: <a href=""https://addons.thunderbird.net/en-US/thunderbird/addon/confirmbeforedelete/"" rel=""nofollow"">https://addons.thunderbird.net/en-US/thunderbird/addon/confirmbeforedelete/</a>, but it only works on versions up to 137. </p>",siffemoz,false,0,0
