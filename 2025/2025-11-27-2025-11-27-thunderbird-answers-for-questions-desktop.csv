@@ -1,6 +1,7 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1782287,1550861,2025-11-27 00:14:59 -0800,2025-11-27 00:14:59 -0800,<p>There is no built-in 'Message Preview Text' column in TB v102. Maybe an add-on that added that column stopped working? </p>,siffemoz,false,0,0
-1782291,1550876,2025-11-27 00:21:15 -0800,2025-11-27 00:21:15 -0800,<p>See if this works: go to TB menu &gt; Settings &gt; General &gt; Reading &amp; Display &gt; Message reader style and enable 'Show dark message mode toggle'. A toggle button will appear on messages - try it. </p>,siffemoz,false,0,0
+1782291,1550876,2025-11-27 00:21:15 -0800,2025-11-27 00:21:15 -0800,<p>See if this works: go to TB menu &gt; Settings &gt; General &gt; Reading &amp; Display &gt; Message reader style and enable 'Show dark message mode toggle'. A toggle button will appear on messages - try it. </p>,siffemoz,false,1,0
+1782352,1550876,2025-11-27 07:23:53 -0800,2025-11-27 07:23:53 -0800,"<p>Thanks, that worked as a workaround but is there a permanent solution? </p>",Thunder.Bird,false,0,0
 1782269,1550887,2025-11-26 21:02:51 -0800,2025-11-26 21:02:51 -0800,<p>Please post a screen shot.  Thanks. </p>,wsmwk,false,0,0
 1782329,1550914,2025-11-27 05:22:05 -0800,2025-11-27 05:22:05 -0800,"<p>Maybe, if you post complete error message, some suggestions may be offered. Not sure what you meant about Thunderbird data. Please clarify. thanks. </p>",davidsk,false,0,0
 1782327,1550918,2025-11-27 05:19:15 -0800,2025-11-27 05:19:15 -0800,<p>The message list panel shows an icon if there is an attachment. </p>,davidsk,false,0,0
