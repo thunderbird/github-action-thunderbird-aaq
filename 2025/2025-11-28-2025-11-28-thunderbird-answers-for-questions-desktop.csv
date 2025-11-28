@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1782456,1551116,2025-11-27 17:46:56 -0800,2025-11-27 17:46:56 -0800,"<p>somehow my message formatting clipped a sentence-half out... I meant to say that 90% of the messages on my server I already erased locally and therefore ( the way I believe it used to work, and the way I want it to work ) they should not be on the server, but they are   =( </p>",thomas422,false,0,0
