@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1783476,1552109,2025-12-02 18:01:47 -0800,2025-12-02 18:01:47 -0800,"<p>Hi Helen, </p><p>You must re-set your password with your e-mail service provider (Gmail), then use the new password in Thunderbird. </p>",mozilla98,false,0,0
