@@ -3,3 +3,9 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1784336,1552957,2025-12-06 16:50:23 -0800,2025-12-06 16:50:23 -0800,"<p>When I delete 140 messages, Thunderbird used to show how many messages it had not deleted yet. </p><p>The same for moving messages from the Inbox to another group. </p>",wh,false,0,0
 1784339,1552957,2025-12-06 16:57:11 -0800,2025-12-06 16:57:11 -0800,<p>show it where? </p>,MattAuSupport,false,0,0
 1784342,1552962,2025-12-06 17:20:17 -0800,2025-12-06 17:20:17 -0800,"<p>forgot to add linux mint, thunderbird both latest and greatest </p>",bullishbob,false,0,0
+1784346,1552963,2025-12-06 17:56:23 -0800,2025-12-06 17:56:23 -0800,"<p>If you right-click on max@dant... in your picture, Subscribe, is there a Spam entry in the list of folders to subscribe? </p>",sfhowes,false,0,0
+1784347,1552963,2025-12-06 18:03:22 -0800,2025-12-06 18:03:22 -0800,<p>This is what I see. </p>,max115,false,0,0
+1784348,1552963,2025-12-06 18:06:29 -0800,2025-12-06 18:06:29 -0800,<p>Select Subscribe... and see if the next window is like the attached picture. </p>,sfhowes,false,0,0
+1784349,1552963,2025-12-06 18:11:06 -0800,2025-12-06 18:11:06 -0800,<p>This is the next window. </p>,max115,false,0,0
+1784353,1552963,2025-12-06 18:30:45 -0800,2025-12-06 18:30:45 -0800,<p>This is the image I get after I press subscribe. </p>,max115,false,0,0
+1784354,1552963,2025-12-06 18:33:16 -0800,2025-12-06 18:33:16 -0800,"<p>With consumer gmail accounts, IMAP can be enabled or disabled for each folder, in the webmail settings (Settings/Labels).  Open your account in webmail and see if there is a similar setting. </p>",sfhowes,false,0,0
