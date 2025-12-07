@@ -9,3 +9,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1784349,1552963,2025-12-06 18:11:06 -0800,2025-12-06 18:11:06 -0800,<p>This is the next window. </p>,max115,false,0,0
 1784353,1552963,2025-12-06 18:30:45 -0800,2025-12-06 18:30:45 -0800,<p>This is the image I get after I press subscribe. </p>,max115,false,0,0
 1784354,1552963,2025-12-06 18:33:16 -0800,2025-12-06 18:33:16 -0800,"<p>With consumer gmail accounts, IMAP can be enabled or disabled for each folder, in the webmail settings (Settings/Labels).  Open your account in webmail and see if there is a similar setting. </p>",sfhowes,false,0,0
+1784355,1552963,2025-12-06 18:34:53 -0800,2025-12-06 18:34:53 -0800,<p>Meaning going to gmail and look for this. </p>,max115,false,0,0
