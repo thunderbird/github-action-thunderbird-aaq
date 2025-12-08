@@ -2,3 +2,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1784587,1553128,2025-12-08 00:15:02 -0800,2025-12-08 00:15:02 -0800,<p>Deleting 68.4 shouldn't cause any problems. What are the issues you're having? </p>,siffemoz,false,0,0
 1784586,1553136,2025-12-08 00:12:44 -0800,2025-12-08 00:12:44 -0800,"<p>On that account, try R. click Inbox &gt; Properties &gt; Repair folder. </p>",siffemoz,false,0,0
 1784559,1553158,2025-12-07 20:07:49 -0800,2025-12-07 20:13:13 -0800,<p>Solved - Uninstalled Brave and replaced it with F'Fox.   </p><p>The issue only appeared when accessing the MS accounts in the Android Brave browser. </p>,bob-up,false,0,0
+1784619,1553191,2025-12-08 04:30:50 -0800,2025-12-08 04:30:50 -0800,"<p>I entered your email address and pressed entelr and DID NOT enter a password, and the microsoft prompt appeared. I suggest you omit the password and see how it goes. </p>",davidsk,false,0,0
