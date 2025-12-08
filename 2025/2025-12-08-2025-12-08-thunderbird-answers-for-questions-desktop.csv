@@ -1,5 +1,6 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1784587,1553128,2025-12-08 00:15:02 -0800,2025-12-08 00:15:02 -0800,<p>Deleting 68.4 shouldn't cause any problems. What are the issues you're having? </p>,siffemoz,false,0,0
+1784655,1553128,2025-12-08 09:07:13 -0800,2025-12-08 09:07:13 -0800,<p>currently having a corruption issue with Thunderbird and have some history in the messages that I do not want to delete. Just trying to cover my bases before starting to delete/repair the file. was planning to back up the main directory before deleting the older install and then try to repair the main install but not certain how to proceed with that </p>,gsawkins,false,0,0
 1784586,1553136,2025-12-08 00:12:44 -0800,2025-12-08 00:12:44 -0800,"<p>On that account, try R. click Inbox &gt; Properties &gt; Repair folder. </p>",siffemoz,false,1,0
 1784633,1553136,2025-12-08 06:31:42 -0800,2025-12-08 06:31:42 -0800,"<p>Thanks Ed!  I like it when the fix is this simple. </p><p>Regards, Mark </p>",mark.hardin,false,0,0
 1784559,1553158,2025-12-07 20:07:49 -0800,2025-12-07 20:13:13 -0800,<p>Solved - Uninstalled Brave and replaced it with F'Fox.   </p><p>The issue only appeared when accessing the MS accounts in the Android Brave browser. </p>,bob-up,false,0,0
