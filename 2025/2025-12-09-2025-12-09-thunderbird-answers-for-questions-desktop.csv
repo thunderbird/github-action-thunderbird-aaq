@@ -10,3 +10,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1784773,1553380,2025-12-08 23:34:43 -0800,2025-12-08 23:34:43 -0800,<p>Check your downloads folder. Donation is not required. </p>,wsmwk,false,0,0
 1784767,1553390,2025-12-08 22:44:43 -0800,2025-12-08 22:44:43 -0800,"<p>Did you install the Provider for EAS add-on as well as TbSync? </p><p><a href=""https://support.mozilla.org/en-US/questions/1552972"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1552972</a> </p>",sfhowes,false,0,0
 1784793,1553410,2025-12-09 02:30:00 -0800,2025-12-09 02:30:00 -0800,<p>Die melding lijkt me te betekenen dat de mailserver wordt onderhouden. Werkt webmail wel? </p>,markh2,false,0,0
+1784815,1553424,2025-12-09 06:18:05 -0800,2025-12-09 06:18:05 -0800,"<p>Hi Anne, </p><p>The recipient, not the sender, must change the setting for displaying headers. </p>",mozilla98,false,0,0
