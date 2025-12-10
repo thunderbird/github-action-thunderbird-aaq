@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1785022,1553596,2025-12-09 20:42:33 -0800,2025-12-09 20:42:33 -0800,<p>Also tried bypassing the wifi and connected by ethernet. Same issue. </p>,grahaman,false,0,0
+1785043,1553616,2025-12-10 01:02:33 -0800,2025-12-10 01:02:33 -0800,<p>Try creating the account this way: </p><p>- go to TB menu &gt; Settings &gt; General &gt; Account hub &gt; uncheck 'Create accounts in the new Account Hub' </p><p>- go to TB menu &gt; New Account &gt; Email </p>,siffemoz,false,0,0
