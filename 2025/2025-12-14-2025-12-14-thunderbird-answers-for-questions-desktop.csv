@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1785939,1554481,2025-12-13 17:11:56 -0800,2025-12-13 17:11:56 -0800,"<p>You could use the add-on ImportExportTools. </p><p>But Thunderbird allows sorting on about twenty fields, and reading e-mail must be easier in Thunderbird than in a spreadsheet. Say more about what you need? </p>",mozilla98,false,0,0
