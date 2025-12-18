@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1786914,1555530,2025-12-17 19:44:23 -0800,2025-12-17 19:44:23 -0800,"<p>When remote content is blocked, there is a button (""Preferences"") in the message that opens a drop-down menu with options to show the remote content and to change your remote content settings. Do you see that button? </p><p>If you really cannot open your messages at all, then more information about what is happening is needed. </p>",mozilla98,false,0,0
