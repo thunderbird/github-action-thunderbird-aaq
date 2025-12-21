@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1787659,1556176,2025-12-20 16:53:29 -0800,2025-12-20 16:53:29 -0800,"<p>I closed TB and re-opened it and now I was able to get the NEXA account to work, it did the google prompt right away.  However, the <a href=""http://outlook.com"" rel=""nofollow"">outlook.com</a> account still won't create the Microsoft prompt and it keeps saying Authentication failed without the office365 prompt ever appearing. </p>",chunnel,false,0,0
