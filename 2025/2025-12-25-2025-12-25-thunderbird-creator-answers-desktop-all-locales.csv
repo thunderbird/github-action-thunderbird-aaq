@@ -1,0 +1,2 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1556848,2025-12-25 01:44:34 -0800,2025-12-25 01:44:34 -0800,User avatars are not exported in vcf,"<p>Hello. It seems Thunderbird does not include avatars when I export the whole contacts book as a *.vcf file. Please, be so kind as to add this feature, preferably pictures larger than 96x96 px. Or maybe I missed this magic checkbox somewhere? Thanks. </p>",thunderbird;contacts;,thunderbird,contacts,en-US,"",Esp-nn
