@@ -126,7 +126,9 @@ until end_program
     reordered_hash = leading_pairs.merge(remaining_pairs_pure_ruby)
     logger.debug("reordered hash: #{reordered_hash.ai}")
     q = reordered_hash
-    headers = q.keys if question_number == 1
+    keys = q.keys
+    headers = keys if question_number == 1
+    headers = keys if keys.length > headers.length
     if created.to_i >= min_created_time.to_i && created.to_i <= end_time.to_i
       logger.debug 'NOT skipping'
       q['content'] = q['content'].tr("\n", ' ')
@@ -163,6 +165,3 @@ logger.debug "headers: #{headers.ai}"
 CSV.open(FILENAME, 'w', write_headers: true, headers: headers) do |csv_object|
   csv.each { |row_array| csv_object << row_array }
 end
-# CSV.open(FILENAME, 'w', write_headers: true, headers: headers) do |csv_object|
-#  csv.each { |row_array| csv_object << row_array }
-# end
