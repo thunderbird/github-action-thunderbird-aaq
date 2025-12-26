@@ -65,7 +65,7 @@ def get_answers(question_id, url_params, csv, url, logger)
       end_fn = true
     else
       logger.debug "next ANSWER url:#{url}"
-      sleep(1) # sleep 1 second between API calls
+      sleep(1) # sleep 1 second between API calls for each page of answers
     end
   end
   answer_number
@@ -100,6 +100,7 @@ question_ids.each do |question_id|
   else
     warn("question: #{question_id} has num_answers: #{num_answers}! UPDATING answers.")
   end
+  sleep(1) # sleep 1 second before asking for answers for the next question
 end
 
 exit if csv.empty?

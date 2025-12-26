@@ -50,6 +50,8 @@ question_number = 0
 csv = []
 headers = ''
 until end_program
+  logger.debug "before getting questions: url: #{url}"
+  logger.debug "before getting questions: url_params: #{url_params.ai}"
   questions = getKitsuneResponse(url, url_params, logger)
   if questions.nil?
     end_program = true
