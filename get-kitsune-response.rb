@@ -1,12 +1,13 @@
 def getKitsuneResponse(url, params, logger)
-  logger.debug url
-  logger.debug params
+  logger.debug "url in getKitsuneResponse: #{url}"
+  logger.debug "params in getKitsuneResponse: #{params}"
   try_count = 0
   begin
     result = Typhoeus::Request.get(
       url,
       params: params
     )
+    logger.debug "result: #{result.ai}"
     x = JSON.parse(result.body)
   rescue JSON::ParserError
     try_count += 1
