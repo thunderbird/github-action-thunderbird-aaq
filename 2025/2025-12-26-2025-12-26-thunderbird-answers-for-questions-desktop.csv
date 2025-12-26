@@ -3,3 +3,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1789044,1556944,2025-12-25 20:11:03 -0800,2025-12-25 20:11:03 -0800,<p>Is this a folder in an IMAP account or in the local folders account? </p>,MattAuSupport,false,0,0
 1789062,1556944,2025-12-25 22:48:25 -0800,2025-12-25 22:48:25 -0800,<p>IMAP account. </p>,jwpw2,false,0,0
 1789069,1556956,2025-12-26 00:31:51 -0800,2025-12-26 00:31:51 -0800,"<p>you8 are using Linux,  is this one of the sandboxed snap versions  that tend to give the beginning Linux users much more trouble? </p>",MattAuSupport,false,0,0
+1789095,1556971,2025-12-26 04:10:49 -0800,2025-12-26 04:10:49 -0800,<p>One more point: the reply to that message has been sent from an iPhone. </p>,TB,false,0,0
