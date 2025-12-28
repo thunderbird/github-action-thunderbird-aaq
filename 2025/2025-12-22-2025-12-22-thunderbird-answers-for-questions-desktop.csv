@@ -17,6 +17,8 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1788105,1556382,2025-12-22 06:30:36 -0800,2025-12-22 06:30:36 -0800,"<p>To Adam: Vřelé díky, hřebíček na hlavičku, pomohlo&nbsp;!!! </p>",kproch,false,1,0
 1788107,1556382,2025-12-22 06:32:02 -0800,2025-12-22 06:32:02 -0800,"<p>V návalu radosti jsem Vám zkomolil jméno, sory. </p>",kproch,false,1,0
 1789364,1556388,2025-12-27 06:47:04 -0800,2025-12-27 06:47:04 -0800,<p>Als u met uw rechtermuisknop klikt op het bericht en dan klikt op het prullenbak pictogram in het submenu werkt het dan? krijgt u een foutmelding? </p>,Mad_Maks,false,0,0
+1789539,1556388,2025-12-27 23:56:02 -0800,2025-12-27 23:56:02 -0800,"<p>Het werkt niet!! Ik krijg ook geen foutmelding. </p><p>De tag ""archiveren"" werkt wel, maar die van ""verwijderen"" niet. Het bericht gaat dus niet naar de prullenbak. </p>",hjdul,false,0,0
+1789556,1556388,2025-12-28 02:26:04 -0800,2025-12-28 02:26:04 -0800,"<p>Wat heeft u ingesteld staan bij de serverinstellingen in uw account, zie bijgevoegd schermafbeelding? </p>",Mad_Maks,false,0,0
 1789366,1556391,2025-12-27 06:48:45 -0800,2025-12-27 06:48:45 -0800,<p>Kunt u iets meer informatie geven wat uw vraag is? </p>,Mad_Maks,false,0,0
 1789367,1556397,2025-12-27 06:51:27 -0800,2025-12-27 06:51:27 -0800,"<p>Zie <a href=""/nl/kb/mailinglijsten-aanmaken-gebruiken"" rel=""nofollow"">Mailinglijsten aanmaken en gebruiken</a> </p>",Mad_Maks,false,0,0
 1788116,1556408,2025-12-22 07:05:33 -0800,2025-12-22 07:05:33 -0800,"<p>Please post to your original topic at <a href=""https://support.mozilla.org/en-US/questions/1555964"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1555964</a> </p>",christ1,false,0,0
