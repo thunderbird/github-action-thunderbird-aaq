@@ -27,3 +27,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1790663,1557981,2026-01-01 11:01:44 -0800,2026-01-01 11:01:44 -0800,"<p>Download and install the English (British) version of Thunderbird. It includes the correct dictionary already. <a href=""https://www.thunderbird.net/thunderbird/all/"" rel=""nofollow"">https://www.thunderbird.net/thunderbird/all/</a> </p>",christ1,false,0,0
 1790664,1557981,2026-01-01 11:06:55 -0800,2026-01-01 11:06:55 -0800,<p>Brilliant.. thanks. </p>,111.mail,false,0,0
 1790694,1558003,2026-01-01 13:36:21 -0800,2026-01-01 13:36:21 -0800,"<p>If the accounts were POP accounts, you may have deleted the messages permanently. You need to provide more info on the account details. </p>",davidsk,false,0,0
+1790701,1558014,2026-01-01 14:27:50 -0800,2026-01-01 14:27:50 -0800,<p>Where does your browser download files? You'll have to find that and install Thunderbird before you can use it. </p>,mozilla98,false,0,0
