@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1790524,1557909,2026-01-01 00:01:20 -0800,2026-01-01 00:01:20 -0800,<p>Try creating the account this way: </p><p>- go to TB menu &gt; Settings &gt; General &gt; Account hub &gt; uncheck 'Create accounts in the new Account Hub' </p><p>- go to TB menu &gt; New Account &gt; Email </p>,siffemoz,false,0,0
