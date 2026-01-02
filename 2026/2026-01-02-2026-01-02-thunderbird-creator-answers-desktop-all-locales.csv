@@ -1,0 +1,4 @@
+id,created,updated,title,content,tags,product,topic,locale,answers,creator
+1558047,2026-01-01 21:23:46 -0800,2026-01-01 21:23:46 -0800,I already donated,<p>How come I cannot download already give donation </p>,thunderbird;accounts;,thunderbird,accounts,en-US,"",merlierhunter
+1558048,2026-01-01 21:26:37 -0800,2026-01-01 21:26:37 -0800,Not letting log in,<p>Not able to log in </p>,thunderbird;passwords-and-sign-in;,thunderbird,passwords-and-sign-in,en-US,"",merlierhunter
+1558049,2026-01-01 21:29:34 -0800,2026-01-01 21:31:13 -0800,"After adding 2FA to my email accounts, cannot send/receive messages","<p>Subject says it.  </p><p>Now I receive a popup asking for password, repeated after I enter the password found in Passwords. I have not altered any of the IMAP and SMTP settings.  </p><p>Entries for both accounts appear correct in my authenticator. </p><p>TIA, Evan </p>",thunderbird;send-and-receive-email;,thunderbird,send-and-receive-email,en-US,1790774;,egamblin
