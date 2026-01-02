@@ -98,7 +98,7 @@ question_ids.each do |question_id|
   num_answers = get_answers(question_id, url_params, csv, api_url, logger)
   if num_answers.nil?
     warn("question: #{question_id} has NO ANSWERS due to API exception! EXITING without updating answers.")
-    logger.error("ANSWERS comand to re-run:\ncd #{ARGV[0]};\n#{PROGRAM_NAME} #{ARGV[0]} #{ARGV[1]} #{ARGV[2]}"\
+    logger.error("ANSWERS comand to re-run:\ncd #{ARGV[0]};\n#{$PROGRAM_NAME} #{ARGV[0]} #{ARGV[1]} #{ARGV[2]}"\
   " #{ARGV[3]} #{ARGV[4]} #{ARGV[5]}")
     exit
   else
@@ -108,7 +108,7 @@ question_ids.each do |question_id|
 end
 
 if csv.empty?
-  logger.error("ANSWERS comand to re-run:\ncd #{ARGV[0]};\n#{PROGRAM_NAME} #{ARGV[0]} #{ARGV[1]} #{ARGV[2]}"\
+  logger.error("ANSWERS comand to re-run:\ncd #{ARGV[0]};\n#{$PROGRAM_NAME} #{ARGV[0]} #{ARGV[1]} #{ARGV[2]}"\
   " #{ARGV[3]} #{ARGV[4]} #{ARGV[5]}")
   exit
 end

@@ -157,7 +157,7 @@ until end_program
 end
 logger.debug "CSV is empty for greater than: #{greater_than_time}  less than: #{less_than_time}" if csv.empty?
 if csv.empty?
-  logger.error("QUESTIONS comand to rerun:\ncd #{ARGV[0]};\n#{PROGRAM_NAME} #{ARGV[0]} #{ARGV[1]} #{ARGV[2]}"\
+  logger.error("QUESTIONS comand to rerun:\ncd #{ARGV[0]};\n#{$PROGRAM_NAME} #{ARGV[0]} #{ARGV[1]} #{ARGV[2]}"\
   " #{ARGV[3]} #{ARGV[4]} #{ARGV[5]}")
   exit
 end
