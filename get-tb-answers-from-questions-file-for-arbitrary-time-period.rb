@@ -65,7 +65,7 @@ def get_answers(question_id, url_params, csv, url, logger)
       end_fn = true
     else
       logger.debug "next ANSWER url:#{url}"
-      sleep(2) # sleep 2 seconds between API calls between each page of answers
+      sleep(1) # sleep 1 second between API calls between each page of answers
     end
   end
   answer_number
@@ -77,6 +77,8 @@ if ARGV.length < 6
   puts "usage: #{$PROGRAM_NAME} yyyy mm dd end-yyyy mm dd"
   exit
 end
+
+sleep(1)
 
 questions_filename = get_questions_filename(
   ARGV[0].to_i, ARGV[1].to_i, ARGV[2].to_i, ARGV[3].to_i,
@@ -96,14 +98,20 @@ question_ids.each do |question_id|
   num_answers = get_answers(question_id, url_params, csv, api_url, logger)
   if num_answers.nil?
     warn("question: #{question_id} has NO ANSWERS due to API exception! EXITING without updating answers.")
+    logger.error("ANSWERS comand to re-run:\ncd #{ARGV[0]};\n#{PROGRAM_NAME} #{ARGV[0]} #{ARGV[1]} #{ARGV[2]}"\
+  " #{ARGV[3]} #{ARGV[4]} #{ARGV[5]}")
     exit
   else
     warn("question: #{question_id} has num_answers: #{num_answers}! UPDATING answers.")
   end
-  sleep(2) # sleep 2 seconds before asking for answers for the next question
+  sleep(1) # sleep 1 second before asking for answers for the next question
 end
 
-exit if csv.empty?
+if csv.empty?
+  logger.error("ANSWERS comand to re-run:\ncd #{ARGV[0]};\n#{PROGRAM_NAME} #{ARGV[0]} #{ARGV[1]} #{ARGV[2]}"\
+  " #{ARGV[3]} #{ARGV[4]} #{ARGV[5]}")
+  exit
+end
 
 headers = %w[id question_id created updated content creator is_spam num_helpful num_unhelpful]
 fn_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d'

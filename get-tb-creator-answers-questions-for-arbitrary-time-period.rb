@@ -19,9 +19,10 @@ end
 logger = Logger.new(STDERR)
 logger.level = Logger::DEBUG
 if ARGV.length < 6
-  puts "usage: #{$0} yyyy mm dd end-yyyy mm dd"
+  puts "usage: #{$PROGRAM_NAME} yyyy mm dd end-yyyy mm dd"
   exit
 end
+sleep(1)
 # because of issue 3686, https://github.com/mozilla/kitsune/issues/3686,
 # go back one day and forward one day
 min_created_time = Time.gm(ARGV[0].to_i, ARGV[1].to_i, ARGV[2].to_i)
@@ -151,11 +152,15 @@ until end_program
     end_program = true
     break
   else
-    sleep(2) # sleep 2 seconds between API calls
+    sleep(1) # sleep 1 second between API calls
   end
 end
-logger.debug "csv is empty for greater than: #{greater_than_time}  less than: #{less_than_time}" if csv.empty?
-exit if csv.empty?
+logger.debug "CSV is empty for greater than: #{greater_than_time}  less than: #{less_than_time}" if csv.empty?
+if csv.empty?
+  logger.error("QUESTIONS comand to rerun:\ncd #{ARGV[0]};\n#{PROGRAM_NAME} #{ARGV[0]} #{ARGV[1]} #{ARGV[2]}"\
+  " #{ARGV[3]} #{ARGV[4]} #{ARGV[5]}")
+  exit
+end
 
 fn_str = '%<yyyy1>4.4d-%<mm1>2.2d-%<dd1>2.2d-%<yyyy2>4.4d-%<mm2>2.2d-%<dd2>2.2d'
 fn_str += '-thunderbird-creator-answers-desktop-all-locales.csv'

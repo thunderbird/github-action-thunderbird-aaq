@@ -7,15 +7,21 @@ def getKitsuneResponse(url, params, logger)
       url,
       params: params
     )
-    logger.debug "result: #{result.ai}"
+    response_code = result.code
+    logger.debug "response_code: #{response_code}"
+
     x = JSON.parse(result.body)
   rescue JSON::ParserError
     try_count += 1
     if try_count < 4
-      $stderr.printf("JSON::ParserError exception, retry:%d\n",\
-                     try_count)
-      sleep(2)
-      retry
+      logger.debug "JSON::ParserError exception, response code: #{response_code}" \
+       "retry: #{try_count}"
+      if [502, 500].include?(response_code)
+        sleep(60)
+      else
+        sleep(1)
+        retry
+      end
     else
       $stderr.printf("JSON::ParserError exception, retrying FAILED\n")
       x = nil

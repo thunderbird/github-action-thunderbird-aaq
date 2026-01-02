@@ -1,0 +1,4 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1779624,1548211,2025-11-16 09:14:25 -0800,2025-11-16 09:14:25 -0800,"<p>Posting more information may help. That message to your phone came from your email provider, not thunderbird. </p>",davidsk,false,0,0
+1779620,1548213,2025-11-16 08:13:36 -0800,2025-11-16 08:13:36 -0800,"<p>Please provide more information on your password issue. Primary password or account password? Was the account working yesterday, or is this a new setup? More details are always desired. Thanks </p>",davidsk,false,0,0
+1779538,1548221,2025-11-15 17:55:28 -0800,2025-11-15 17:55:28 -0800,"<p>Are you using the recommended settings? </p><p><a href=""https://www.optus.com.au/support/answer/using_an_email_application_with_optusnet_email_1434"" rel=""nofollow"">https://www.optus.com.au/support/answer/using_an_email_application_with_optusnet_email_1434</a> </p>",sfhowes,false,0,0
