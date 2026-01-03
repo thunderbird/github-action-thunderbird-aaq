@@ -16,14 +16,14 @@ def getKitsuneResponse(url, params, logger)
     if try_count < 4
       logger.debug "JSON::ParserError exception, response code: #{response_code}" \
        "retry: #{try_count}"
-      if [502, 500].include?(response_code)
+      if [429, 502, 500].include?(response_code)
         sleep(60)
       else
-        sleep(1)
-        retry
+        sleep(2)
       end
+      retry
     else
-      $stderr.printf("JSON::ParserError exception, retrying FAILED\n")
+      $stderr.printf("JSON::ParserError exception, re-trying FAILED\n")
       x = nil
     end
   end
