@@ -7,20 +7,23 @@ require 'date'
 require 'logger'
 require 'pry'
 
-def update_questions_for_yyyymmdd(y, m, d)
+logger = Logger.new($stderr)
+logger.level = Logger::DEBUG
+
+def update_questions_for_yyyymmdd(logger, y, m, d)
   Dir.chdir(y.to_s) do
     question_str = '../get-tb-creator-answers-questions-for-arbitrary-time-period.rb '
     question_str += "#{y} #{m} #{d} #{y} #{m} #{d}"
-    $stderr.puts "question_str: #{question_str}"
+    logger.debug "question_str: #{question_str}"
     system(question_str)
   end
 end
 
-def update_answers_for_yyyymmdd(y, m, d)
+def update_answers_for_yyyymmdd(logger, y, m, d)
   Dir.chdir(y.to_s) do
     answer_str = '../get-tb-answers-from-questions-file-for-arbitrary-time-period.rb '
     answer_str += "#{y} #{m} #{d} #{y} #{m} #{d}"
-    $stderr.puts "answer_str: #{answer_str}"
+    logger.debug "answer_str: #{answer_str}"
     system(answer_str)
   end
 end
@@ -40,7 +43,7 @@ current_date = Time.gm(YYYY, MM, DD).to_date
   y = current_date.year
   m = current_date.month
   d = current_date.day
-  update_questions_for_yyyymmdd(y, m, d)
-  update_answers_for_yyyymmdd(y, m, d)
+  update_questions_for_yyyymmdd(logger, y, m, d)
+  update_answers_for_yyyymmdd(logger, y, m, d)
   current_date += 1
 end
