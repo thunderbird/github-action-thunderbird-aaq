@@ -8,6 +8,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1772024,1540912,2025-10-14 08:13:58 -0700,2025-10-14 08:13:58 -0700,"<p>No, all my saved passwords were auto synced to my phone from web browser </p>",sumitvrma,false,0,0
 1772039,1540912,2025-10-14 08:59:18 -0700,2025-10-14 08:59:18 -0700,<p>The issue is whether the password stored on phone will work on PC. </p>,davidsk,false,0,0
 1771709,1540921,2025-10-13 04:36:15 -0700,2025-10-13 04:36:15 -0700,"<p>Please provide  more information, such as error messages (in English). Thank you </p>",davidsk,false,0,0
+1789354,1540921,2025-12-27 06:12:37 -0800,2025-12-27 06:12:37 -0800,"<p>こんにちは。英語がご希望の言語でない場合は、最適なサポートを受けるために、以下のリンクからご希望の言語でご質問を投稿されることをお勧めします。。 <a href=""http://forums.mozillazine.jp/"" rel=""nofollow"">http://forums.mozillazine.jp/</a> </p>",wsmwk,false,0,0
 1771780,1540923,2025-10-13 09:39:28 -0700,2025-10-13 09:39:28 -0700,"<p>Recent update now uses the 'Account Hub' by default. There are still some issues with this, so please disable it and then attempt to add new account. See image as guide. </p><p>Let us know if this works or not. </p>",Toad-Hall,false,0,0
 1771815,1540923,2025-10-13 11:26:37 -0700,2025-10-13 11:26:37 -0700,<p>Now works fine. Thanks </p>,wwwnonstopradiogr,false,0,0
 1771962,1540923,2025-10-14 04:32:26 -0700,2025-10-14 04:32:26 -0700,"<p>Would you be so kind to mark my first comment as a 'Chosen Solution'.  This means if anyone is searching for an answer to same issue, they will find it. Many thanks for your feedback. </p>",Toad-Hall,false,0,0
