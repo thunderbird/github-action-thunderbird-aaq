@@ -1,3 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1793649,1560091,2026-01-13 22:23:46 -0800,2026-01-13 22:23:46 -0800,"<p>Enable the Menu Bar on the Calendar tab, then Events &amp; Tasks/Find Events. </p>",sfhowes,false,0,0
 1793643,1560103,2026-01-13 21:31:56 -0800,2026-01-13 21:31:56 -0800,"<p><a href=""https://www.thunderbird.net/en-US/"" rel=""nofollow"">https://www.thunderbird.net/en-US/</a> </p>",rednoise,false,0,0
+1793664,1560106,2026-01-14 00:35:02 -0800,2026-01-14 00:35:02 -0800,"<p>The email provider's server is doing that. It's not unusual for that to happen when sending messages to many  people at once or multiple messages at the same time, but for that to happen with only three seems too harsh. Make a complaint with their customer support. </p>",siffemoz,false,0,0
+1793668,1560122,2026-01-14 00:38:42 -0800,2026-01-14 00:38:42 -0800,"<p><em>In this section of the forum we speak Italian. For english support -&gt; <a href=""https://support.mozilla.org/en-US/questions/new/thunderbird/form"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/new/thunderbird/form</a> </em> </p>",@next,false,0,0
