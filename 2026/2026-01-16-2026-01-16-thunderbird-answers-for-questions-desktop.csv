@@ -34,3 +34,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1794213,1560569,2026-01-16 09:04:40 -0800,2026-01-16 09:04:40 -0800,"<p>Things I have tried and are not working:  Thunderbird safe mode Refreshing by right-clicking the account and selecting ""get mail"" Other advice found on this site or elsewhere online </p><p>Please note Thunderbird updated itself last night, which likely coincides with the beginning of the issue above. Might this be a bug of the new update (147.0-20260108190847)? </p>",yak,false,0,0
 1794220,1560569,2026-01-16 09:49:23 -0800,2026-01-16 09:49:23 -0800,"<p>Is this an Exchange based account, or imap? </p>",wsmwk,false,0,0
 1794224,1560569,2026-01-16 09:56:31 -0800,2026-01-16 09:56:31 -0800,<p>Exchange </p>,yak,false,0,0
+1794253,1560574,2026-01-16 11:53:12 -0800,2026-01-16 11:53:12 -0800,"<p>Hi Sue, </p><p>You must move the messages to local folders. IMAP accounts are designed to keep folders on the server and the client synchronized. </p>",mozilla98,false,0,0
+1794252,1560590,2026-01-16 11:49:00 -0800,2026-01-16 11:49:00 -0800,<p>Yes. View menu &gt; Folders &gt; Unified Folders </p>,mozilla98,false,0,0
