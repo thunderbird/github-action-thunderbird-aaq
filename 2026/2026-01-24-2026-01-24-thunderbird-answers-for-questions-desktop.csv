@@ -11,3 +11,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1796008,1562011,2026-01-24 07:43:47 -0800,2026-01-24 07:43:47 -0800,<p>Cancellando la mail dal server. </p>,@next,false,0,0
 1796027,1562032,2026-01-24 10:10:55 -0800,2026-01-24 10:10:55 -0800,<p>Duplicate entry. Do not respond to this </p>,davidsk,false,0,0
 1796028,1562035,2026-01-24 10:12:39 -0800,2026-01-24 10:12:39 -0800,"<p>PLEASE do NOT post TWICE. That causes confusion and duplicate efforts. Maybe, if post details, someone may offer assistance. Info such as screenshot of error message, plus screenshot of incoming server settings pane. Thank you </p>",davidsk,false,0,0
+1796031,1562043,2026-01-24 10:43:54 -0800,2026-01-24 10:43:54 -0800,<p>The background color of threaded messages preview in message pane is now #18181b  and the color in individual messages is the custom one I set of #222226.  I want the color of the preview of threaded messages to match individual ones. </p>,PercussionGuy33,false,0,0
+1796035,1562045,2026-01-24 10:54:44 -0800,2026-01-24 10:54:44 -0800,<p>Se le hai solo cancellate le trovi nel Cestino di Thunderbird </p>,@next,false,0,0
