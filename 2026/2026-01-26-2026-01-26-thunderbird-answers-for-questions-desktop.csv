@@ -22,3 +22,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1796402,1562332,2026-01-26 09:49:12 -0800,2026-01-26 09:49:12 -0800,"<p>Also, be sure to enable IMAP on the gmail website. </p>",davidsk,false,0,0
 1796395,1562335,2026-01-26 09:17:05 -0800,2026-01-26 09:17:05 -0800,"<p>Right-click the account, Subscribe..., Refresh.  Uncheck Sent Items and check Sent Mail.  Sent Mail will display as Sent in the Folder Pane.  Also, uncheck 'Place a copy in' in Account Settings, Copies &amp; Folders. </p>",sfhowes,false,0,0
 1796400,1562341,2026-01-26 09:42:12 -0800,2026-01-26 09:42:12 -0800,"<p>Check to see if you still have a Gmail connections, such as a Gmail calendar or addressbook. </p>",davidsk,false,0,0
+1796422,1562360,2026-01-26 12:21:28 -0800,2026-01-26 12:21:28 -0800,<p>Is this the Trash folder of a POP account? Account Settings &gt; account name &gt; Server Settings  &gt; Server Type .... </p>,Mapenzi,false,0,0
+1796424,1562360,2026-01-26 12:22:28 -0800,2026-01-26 12:22:28 -0800,<p>IMAP server </p>,gwn104,false,0,0
