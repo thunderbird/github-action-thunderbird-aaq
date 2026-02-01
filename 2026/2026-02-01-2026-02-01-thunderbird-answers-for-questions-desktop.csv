@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1797532,1563336,2026-02-01 02:46:28 -0800,2026-02-01 02:46:28 -0800,"<p>Mark those messages accidentally marked as spam as 'Not Spam'. Also see <a href=""https://support.mozilla.org/kb/thunderbird-and-junk-spam-messages"" rel=""nofollow"">https://support.mozilla.org/kb/thunderbird-and-junk-spam-messages</a> </p>",christ1,false,0,0
