@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1797650,1563475,2026-02-01 17:24:32 -0800,2026-02-01 17:24:32 -0800,"<p>What is the setting for the gmail account in Account Settings, Copies &amp; Folders, for 'Place a copy in' (it should be unchecked), and what is the target folder for drafts (try setting it to Drafts on Local Folders)? </p>",sfhowes,false,0,0
+1797686,1563497,2026-02-02 00:16:59 -0800,2026-02-02 00:16:59 -0800,"<p>Try R. click Inbox &gt; Properties &gt; click 'Repair folder' button. If that doesn't help: does it work in <a href=""/en-US/kb/troubleshoot-mode-thunderbird"" rel=""nofollow"">Troubleshoot mode</a>? </p>",siffemoz,false,0,0
