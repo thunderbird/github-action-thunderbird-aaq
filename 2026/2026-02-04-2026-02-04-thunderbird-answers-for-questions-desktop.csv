@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1798061,1563863,2026-02-03 16:58:22 -0800,2026-02-03 16:58:22 -0800,"<p>There are at least three ways: </p><p>1) In your message compose window, press the Alt key if the menu isn't shown, then use the menu option File | Attach | Files(s) and browse to the attachment file; </p><p>2) Hit Ctrl+Shift+A to bring up a file browse window; </p><p>3) Simply drag and drop the file onto the Compose/Write window. </p>",rednoise,false,1,0
