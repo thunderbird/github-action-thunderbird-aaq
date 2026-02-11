@@ -18,3 +18,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1799473,1565195,2026-02-11 06:30:05 -0800,2026-02-11 06:30:05 -0800,<p>I believe 147 changed Junk to Spam. </p>,davidsk,false,0,0
 1799475,1565195,2026-02-11 06:33:59 -0800,2026-02-11 06:33:59 -0800,<p>I do not have Junk or Spam on Thunderbird.  I have Junk on Exchange 365 but cannot synchronise it to Thunderbird. </p>,robin69,false,0,0
 1799477,1565195,2026-02-11 06:42:59 -0800,2026-02-11 06:42:59 -0800,"<p>I am not familiar with Exchange, but you might try highlighting account in folder pane, rightclick and select 'subscribe' to see if there is a Spam option. </p>",davidsk,false,0,0
+1799490,1565212,2026-02-11 07:30:51 -0800,2026-02-11 07:30:51 -0800,"<p>Gmail does that, not Thunderbird, whether subscribed or not. That is why it is called 'all mail.' </p>",davidsk,false,0,1
+1799486,1565216,2026-02-11 07:26:47 -0800,2026-02-11 07:26:47 -0800,"<p>If you still have the old laptop, you can go to settings&gt;privacy&amp;security and retrieve it. However, if the account uses 'app' passwords (such as Gmail), that won't work. </p>",davidsk,false,0,0
