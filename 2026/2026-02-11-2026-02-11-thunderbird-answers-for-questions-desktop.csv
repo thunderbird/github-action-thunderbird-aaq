@@ -1,3 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1799440,1565114,2026-02-11 03:11:01 -0800,2026-02-11 03:11:01 -0800,"<p>Disable your Quick Filter toolbar by a simple click on the ""Quick Filter"" button in the upper right corner. </p>",Mapenzi,false,0,0
 1799423,1565119,2026-02-11 00:24:21 -0800,2026-02-11 00:24:21 -0800,"<p>Please refer to your other question at <a href=""https://support.mozilla.org/en-US/questions/1565121#answer-1799422"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1565121#answer-1799422</a>. </p>",siffemoz,false,0,0
 1799422,1565121,2026-02-11 00:23:38 -0800,2026-02-11 00:23:38 -0800,"<p>Told by whom? Blacklisting is done by email providers, not Thunderbird. Contact your email provider's support to find out why you've been blacklisted. </p>",siffemoz,false,0,0
