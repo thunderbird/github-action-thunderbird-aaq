@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1800930,1566365,2026-02-18 00:27:35 -0800,2026-02-18 00:27:35 -0800,"<p>È un errore lato server, devi contattare il gestore della casella email. L'errore è un po' criptico, ma parrebbe tu abbia violato qualche regole del provider. </p>",@next,false,0,0
