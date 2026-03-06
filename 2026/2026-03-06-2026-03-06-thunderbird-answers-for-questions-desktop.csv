@@ -14,3 +14,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1804089,1569383,2026-03-06 07:02:03 -0800,2026-03-06 07:02:03 -0800,<p>What Thunderbird version? </p>,MattAuSupport,false,0,0
 1804081,1569389,2026-03-06 05:30:31 -0800,2026-03-06 05:30:31 -0800,<p>What is your version number from Help &gt; About? And who is your mail provider? </p>,wsmwk,false,0,0
 1804080,1569391,2026-03-06 05:29:16 -0800,2026-03-06 05:29:16 -0800,<p>Who is your mail provider? And is the failure on sending?  Or receiving? Have you checked your server settings in Thunderbird? </p>,wsmwk,false,0,0
+1804102,1569398,2026-03-06 08:34:10 -0800,2026-03-06 08:34:10 -0800,<p>Hai cancellato anche il server SMTP? Hai rimosso eventuali calendari Google collegati? Hai estensioni che si collegano a Gmail/google? </p>,@next,false,0,0
