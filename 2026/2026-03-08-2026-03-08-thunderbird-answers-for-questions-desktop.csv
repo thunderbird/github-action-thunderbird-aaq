@@ -21,3 +21,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1804393,1569764,2026-03-08 13:02:23 -0700,2026-03-08 13:02:23 -0700,"<p><a href=""https://kb.mozillazine.org/Disappearing_mail"" rel=""nofollow"">https://kb.mozillazine.org/Disappearing_mail</a> </p>",christ1,false,0,0
 1804405,1569790,2026-03-08 15:09:21 -0700,2026-03-08 15:09:21 -0700,<p>I guess you have an antivirus other that the default windows defender. </p>,MattAuSupport,false,0,0
 1804407,1569790,2026-03-08 15:17:33 -0700,2026-03-08 15:17:33 -0700,"<p>yes, norton </p>",cgoody0,false,0,0
+1804412,1569790,2026-03-08 15:33:43 -0700,2026-03-08 15:33:43 -0700,"<p>Disable it.  It has a long and chequered history of loosing the plot whenever Thunderbird updates, or just not being configured correctly to use encrypted communications to send mail. So I have a strong feeling no Norton will mean no problem. </p>",MattAuSupport,false,0,0
+1804414,1569790,2026-03-08 15:39:29 -0700,2026-03-08 15:39:29 -0700,"<p>i will try that, what antivirus do you recommend? </p>",cgoody0,false,0,0
