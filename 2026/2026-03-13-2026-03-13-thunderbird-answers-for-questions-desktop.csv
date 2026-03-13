@@ -1,4 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1805283,1570548,2026-03-13 12:09:06 -0700,2026-03-13 12:09:06 -0700,"<p>The ""diamond""  indicates unseen mail not unread mail,  so if the account is linked to say a tablet or phone and you have seen it there,  that status will sync back to Thunderbird.  Likewise many mail servers mark mail that has been downloaded using the pop mail protocol as seen on download. </p>",MattAuSupport,false,0,0
 1805171,1570557,2026-03-12 18:38:40 -0700,2026-03-12 18:38:40 -0700,<p>had faced same issue. </p>,harsh.kr1403,false,0,0
 1805296,1570558,2026-03-13 13:37:27 -0700,2026-03-13 13:37:27 -0700,"<p>in account settings,  what is the authentication method set to (anything but oauth will no longer function thanks to changes by yahoo. </p>",MattAuSupport,false,0,0
 1805172,1570560,2026-03-12 18:55:14 -0700,2026-03-12 18:55:14 -0700,<p>on web or desktop app? </p>,harsh.kr1403,false,1,0
