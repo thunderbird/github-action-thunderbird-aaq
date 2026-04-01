@@ -18,3 +18,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1809417,1573999,2026-04-01 16:17:24 -0700,2026-04-01 16:17:24 -0700,<p>Here's mine: If I delete one book how do I know that it won't delete all my gmail contacts?? </p>,JamesJ,false,0,0
 1809418,1573999,2026-04-01 16:20:06 -0700,2026-04-01 16:20:06 -0700,<p>I found it. It was the 'Address Book'. I checked properties and it had an odd google address so I removed it.. </p>,JamesJ,false,0,0
 1809425,1573999,2026-04-01 16:56:06 -0700,2026-04-01 16:56:06 -0700,<p>GREAT! I was glad to assist. :) </p>,davidsk,false,0,0
+1809435,1574045,2026-04-01 17:33:12 -0700,2026-04-01 17:33:12 -0700,"<p>Check with your email provider about the correct server settings. Presumably they do have a support website. Also see <a href=""https://support.mozilla.org/kb/cannot-send-messages"" rel=""nofollow"">https://support.mozilla.org/kb/cannot-send-messages</a> </p>",christ1,false,0,0
