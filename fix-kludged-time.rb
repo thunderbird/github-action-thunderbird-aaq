@@ -1,7 +1,7 @@
 def kludge_time_from_bogusZ_to_utc(pst_in_utc_str)
   pst_in_utc = Time.parse(pst_in_utc_str)
   old_tz = ENV['TZ']
-  ENV['TZ'] = 'America/Vancouver'
+  ENV['TZ'] = 'America/Los_Angeles'
   t = Time.local(
     pst_in_utc.year,
     pst_in_utc.month,
