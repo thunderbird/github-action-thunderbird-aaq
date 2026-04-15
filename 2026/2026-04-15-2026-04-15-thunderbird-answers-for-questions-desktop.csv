@@ -14,3 +14,4 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1811901,1576501,2026-04-15 11:55:41 -0700,2026-04-15 11:55:41 -0700,<p>click settings&gt;general and untick the startup page. </p>,davidsk,false,0,0
 1811906,1576501,2026-04-15 12:02:13 -0700,2026-04-15 12:02:13 -0700,<p>So simple - I didn't see it.  Thank you! </p>,mvpatl,false,0,0
 1811908,1576501,2026-04-15 12:14:32 -0700,2026-04-15 12:14:32 -0700,<p>Simple questions are the best. :) you're very  welcome. </p>,davidsk,false,0,0
+1811913,1576520,2026-04-15 14:09:58 -0700,2026-04-15 14:09:58 -0700,"<p>I'm not sure what was happening, but it is working now. I restarted Thunderbird, repeated the process, and the Agree button WAS enabled after about a one-second delay after checking the ""I agree"" checkbox. </p>",pwrgreg007,false,0,0
