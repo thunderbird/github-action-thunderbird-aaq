@@ -11,6 +11,8 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1811883,1576459,2026-04-15 07:53:58 -0700,2026-04-15 07:53:58 -0700,"<p>Does that also happen in <a href=""/en-US/kb/troubleshoot-mode-thunderbird"" rel=""nofollow"">Troubleshoot mode</a>? If not, there could be add-on interference. </p>",siffemoz,false,0,0
 1811888,1576487,2026-04-15 08:39:39 -0700,2026-04-15 08:39:39 -0700,"<p>Si, ma se poi non leggi le risposte non serve a nulla. </p>",@next,false,0,0
 1811904,1576490,2026-04-15 11:57:55 -0700,2026-04-15 11:57:55 -0700,<p>Please just post questions only once. Doing it twice causes confusion and overlapping interaction </p>,davidsk,false,0,0
+1812085,1576491,2026-04-16 12:26:46 -0700,2026-04-16 12:26:46 -0700,"<p>For the blue text, you might try going to settings&gt;general and under the reading and display section change the color for plain text messages to black. That may help. I am unsure on the problem. Good luck. </p>",davidsk,false,0,0
+1812111,1576496,2026-04-16 14:22:04 -0700,2026-04-16 14:22:04 -0700,<p>Bedoelt u het wachtwoord van uw Mozilla-account? Voor het opnieuw instellen van het wachtwoord van uw e-mailaccount moet u bij uw e-mailprovider zijn. </p>,markh2,false,0,0
 1811901,1576501,2026-04-15 11:55:41 -0700,2026-04-15 11:55:41 -0700,<p>click settings&gt;general and untick the startup page. </p>,davidsk,false,0,0
 1811906,1576501,2026-04-15 12:02:13 -0700,2026-04-15 12:02:13 -0700,<p>So simple - I didn't see it.  Thank you! </p>,mvpatl,false,0,0
 1811908,1576501,2026-04-15 12:14:32 -0700,2026-04-15 12:14:32 -0700,<p>Simple questions are the best. :) you're very  welcome. </p>,davidsk,false,0,0
