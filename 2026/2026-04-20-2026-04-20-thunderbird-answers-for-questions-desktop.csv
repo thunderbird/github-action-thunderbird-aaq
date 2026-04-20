@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1812549,1577219,2026-04-19 23:03:50 -0700,2026-04-19 23:03:50 -0700,"<p>You don't say what you consider to be ""the setting"", but when you go to &lt;Account Settings&gt;, each account has a ""Set as Default"" button, and you will then see a star by the designated default account. Is this not what you see? </p>",rednoise,false,0,0
