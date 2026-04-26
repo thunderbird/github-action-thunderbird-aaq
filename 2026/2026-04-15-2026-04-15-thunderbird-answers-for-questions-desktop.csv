@@ -12,6 +12,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1812233,1576459,2026-04-17 12:28:29 -0700,2026-04-17 12:28:29 -0700,<p>Sorry..... Not up with troubleshoot mode. Pls give a few instructions.. Dont know my way around very well. Thanks for your reply. John </p>,rufus_wallaby,false,0,0
 1812235,1576459,2026-04-17 12:34:22 -0700,2026-04-17 12:34:22 -0700,<p>Found it... Will try next time I want to send the list. let you know what happens </p>,rufus_wallaby,false,0,0
 1811888,1576487,2026-04-15 08:39:39 -0700,2026-04-15 08:39:39 -0700,"<p>Si, ma se poi non leggi le risposte non serve a nulla. </p>",@next,false,0,0
+1812111,1576496,2026-04-16 14:22:04 -0700,2026-04-16 14:22:04 -0700,<p>Bedoelt u het wachtwoord van uw Mozilla-account? Voor het opnieuw instellen van het wachtwoord van uw e-mailaccount moet u bij uw e-mailprovider zijn. </p>,markh2,false,0,0
 1811901,1576501,2026-04-15 11:55:41 -0700,2026-04-15 11:55:41 -0700,<p>click settings&gt;general and untick the startup page. </p>,davidsk,false,0,0
 1811906,1576501,2026-04-15 12:02:13 -0700,2026-04-15 12:02:13 -0700,<p>So simple - I didn't see it.  Thank you! </p>,mvpatl,false,0,0
 1811908,1576501,2026-04-15 12:14:32 -0700,2026-04-15 12:14:32 -0700,<p>Simple questions are the best. :) you're very  welcome. </p>,davidsk,false,0,0
