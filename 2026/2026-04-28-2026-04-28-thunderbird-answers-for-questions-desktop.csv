@@ -23,6 +23,7 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1814326,1578901,2026-04-28 14:31:33 -0700,2026-04-28 14:31:33 -0700,"<p>Try the addon, unicodify, and see if that addresses your issue. </p>",davidsk,false,1,0
 1814328,1578901,2026-04-28 15:05:45 -0700,2026-04-28 15:05:45 -0700,"<p>Thanks, David. Works like a charm!! </p>",yankj491,false,0,0
 1814330,1578901,2026-04-28 15:14:07 -0700,2026-04-28 15:14:07 -0700,"<p>You're welcome, I couldn't live without it. :) </p>",davidsk,false,0,0
+1814430,1578910,2026-04-28 20:24:25 -0700,2026-04-28 20:24:25 -0700,"<p>Generally, if you are receiving no error message, that is normally where your email is discarded by the receiving server, possibly viewed as a spammer or with suspicious  attachment. Try sending email to yourself or to a sampling of other email providers to see if you get any responses. </p>",davidsk,false,0,0
 1814333,1578912,2026-04-28 15:20:40 -0700,2026-04-28 15:20:40 -0700,<p>Please explain in more detail. Do you have a contact list such as vcard or csv?   How did you add the one account? </p>,davidsk,false,0,0
 1814332,1578918,2026-04-28 15:19:21 -0700,2026-04-28 15:19:21 -0700,<p>Try this:  - enter name and email address and a link for manual setup option should appear </p>,davidsk,false,0,0
 1814416,1578918,2026-04-28 18:50:03 -0700,2026-04-28 18:50:03 -0700,"<p>See <a href=""https://support.mozilla.org/en-US/questions/1578655#answer-1814412"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1578655#answer-1814412</a> </p>",sfhowes,false,0,0
