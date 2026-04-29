@@ -1,0 +1,5 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1814396,1578950,2026-04-28 17:54:36 -0700,2026-04-28 17:54:36 -0700,<p>Go to menu View &gt; Layout and check ✓ Message pane... or simply hit the F8 key. </p>,Mapenzi,false,0,1
+1814461,1578950,2026-04-28 23:50:16 -0700,2026-04-28 23:50:16 -0700,"<p>that was already check yet I still have to double click the email to open a new tab that shows the email content. in the image you can see the bottom of my email list, with a dozen above it. </p>",dennisrling,false,0,0
+1814406,1578952,2026-04-28 18:25:36 -0700,2026-04-28 18:25:36 -0700,"<p>This appears to be an error in the setup. If it's more trouble than it's worth, then I suggest quitting. If not, then post screenshots of your incoming and outgoing server settings, plus complete text of error message, and some suggestions may be forthcoming. Thank you. </p>",davidsk,false,0,0
+1814428,1578968,2026-04-28 20:19:22 -0700,2026-04-28 20:19:22 -0700,<p>Are you using any addons? I suggest trying help&gt;troubleshootmode to see if that identifies the issue. </p>,davidsk,false,0,0
