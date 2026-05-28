@@ -29,4 +29,8 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1821615,1584246,2026-05-28 13:13:05 -0700,2026-05-28 13:13:05 -0700,<p>i do not have blue thee </p>,mdm54,false,0,0
 1821616,1584246,2026-05-28 13:15:23 -0700,2026-05-28 13:15:23 -0700,<p>this is what i have   for  fonts and colors  all over  Thunderbird </p>,mdm54,false,0,0
 1821619,1584246,2026-05-28 13:28:35 -0700,2026-05-28 13:28:35 -0700,"<p>Puzzling. That is same text from April and you indicated it did what you want. Anyway, try the addon, ""quote colors &amp; collapse.' That addon lets you change font colors. </p>",davidsk,false,0,0
+1821620,1584246,2026-05-28 13:37:53 -0700,2026-05-28 13:37:53 -0700,<p>sorry   okay but    it is still in blue   did i do something wrong </p>,mdm54,false,0,0
+1821633,1584246,2026-05-28 14:38:05 -0700,2026-05-28 14:38:05 -0700,"<p>Since it is an addon, there are many settings. I suggest experimenting to see how they work. </p>",davidsk,false,0,0
+1821636,1584246,2026-05-28 14:48:12 -0700,2026-05-28 14:48:12 -0700,<p>thank you i did and  have   thanks </p>,mdm54,false,0,0
+1821637,1584246,2026-05-28 14:49:42 -0700,2026-05-28 14:49:42 -0700,<p>is it possible the fact that when  i send out to my dad or my brothers it come through on their mail as blie  none have  Thunderbird mail </p><pre>only me </pre>,mdm54,false,0,0
 1821597,1584254,2026-05-28 11:47:26 -0700,2026-05-28 11:47:26 -0700,"<p>That is a Surfshark question. Most VPNs have settings to bypass checking of email, so my guess is that Surfshark does too. Thunderbird has no feature that lets it ignore VPNs, as that would defeat the purpose of a VPN. </p>",davidsk,false,0,0
