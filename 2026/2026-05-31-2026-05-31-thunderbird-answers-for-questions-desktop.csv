@@ -1,5 +1,5 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
-1822378,1584733,2026-05-31 16:55:29 -0700,2026-05-31 16:55:29 -0700,<p>I suggest you contact the developer of that addon. </p>,davidsk,false,0,0
+1822378,1584733,2026-05-31 16:55:29 -0700,2026-05-31 16:55:29 -0700,<p>I suggest you contact the developer of that addon. </p>,davidsk,false,1,0
 1822313,1584737,2026-05-31 09:53:54 -0700,2026-05-31 09:53:54 -0700,"<blockquote> When I try to edit it and change it to the Yahoo mail servers it does not work. </blockquote> <p>Can you explain in more detail what happens when you do this? Screenshots may also help. <a href=""https://support.mozilla.org/kb/how-do-i-create-screenshot-my-problem"" rel=""nofollow"">https://support.mozilla.org/kb/how-do-i-create-screenshot-my-problem</a> </p>",christ1,false,0,0
 1822370,1584747,2026-05-31 16:47:44 -0700,2026-05-31 16:49:50 -0700,<p>Please show complete error message and a screenshot of SMTP server pane and someone may have suggestions. thank you </p>,davidsk,false,0,0
 1822194,1584751,2026-05-30 20:01:51 -0700,2026-05-30 20:01:51 -0700,"<p>Could this possibly be a MAC password request, and not a Thunderbird one? </p>",davidsk,false,0,0
