@@ -10,7 +10,6 @@ require 'csv'
 require 'logger'
 require 'pry'
 require_relative 'get-kitsune-response'
-require_relative 'fix-kludged-time'
 require_relative 'get_questions_filename'
 
 def get_answers(question_id, url_params, csv, url, logger)
@@ -34,27 +33,23 @@ def get_answers(question_id, url_params, csv, url, logger)
       logger.debug "QUESTION: #{question_id} ANSWER number:#{answer_number}"
       updated = a['updated']
       created = a['created']
-      logger.debug "created from API (Pacific time despite the Z): #{created}"
-      # All times returned by the API are in PST not PDT and not UTC
-      # All URL parameters for time are also in PST not UTC
-      # See https://github.com/mozilla/kitsune/issues/3961 and
-      # https://github.com/mozilla/kitsune/issues/3946
-      # The above may change in the future if we migrate the Kitsune database to UTC
-
-      created = kludge_time_from_bogusZ_to_utc(a['created'])
-      logger.debug "created with PST correction: #{created}"
+      # The Kitsune API now returns correct UTC timestamps (the trailing 'Z' is
+      # truthful), so we store them as-is. See fix-kludged-time.rb (obsolete).
+      created = Time.parse(a['created']).utc
+      logger.debug "created (UTC): #{created}"
 
       unless updated.nil?
-        logger.debug "updated from API (Pacific time despite the Z): #{updated}"
-        updated = kludge_time_from_bogusZ_to_utc(a['updated'])
-        logger.debug "updated with PST correction: #{updated}"
+        updated = Time.parse(a['updated']).utc
+        logger.debug "updated (UTC): #{updated}"
       end
       id = a['id']
       logger.debug "ANSWER id: #{id}"
       logger.debug "ANSWER number: #{answer_number}"
       creator = a['creator']['username']
       logger.debug "creator: #{creator}"
-      csv.push([id, question_id, created.to_s, updated.to_s,
+      created_str = created.strftime('%Y-%m-%d %H:%M:%S %z')
+      updated_str = updated.nil? ? '' : updated.strftime('%Y-%m-%d %H:%M:%S %z')
+      csv.push([id, question_id, created_str, updated_str,
                 a['content'].tr("\n", ' '), creator, a['is_spam'],
                 a['num_helpful_votes'],
                 a['num_unhelpful_votes']])

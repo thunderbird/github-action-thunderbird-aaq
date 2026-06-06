@@ -9,7 +9,6 @@ require 'date'
 require 'csv'
 require 'logger'
 require_relative 'get-kitsune-response'
-require_relative 'fix-kludged-time'
 
 def scalar?(variable)
   variable.is_a?(Numeric) || variable.is_a?(String) ||
@@ -80,21 +79,19 @@ until end_program
         end
       end
     end
-    logger.debug "created from API: #{created} <-- this is PST not UTC despite the 'Z'"
-    # All times returned by the API are in PST not PDT and not UTC
-    # All URL parameters for time are also in PST not UTC
-    # See https://github.com/mozilla/kitsune/issues/3961 and
-    # https://github.com/mozilla/kitsune/issues/3946
-    # The above may change in the future if we migrate the Kitsune database to UTC
+    logger.debug "created from API: #{created}"
+    # The Kitsune API now returns correct UTC timestamps (the trailing 'Z' is
+    # truthful), so we store them as-is. Historically the API returned Pacific
+    # wall-clock time mislabeled as 'Z' and we corrected it; see the (now
+    # obsolete) kludge in fix-kludged-time.rb and Kitsune issues #3961, #3946.
 
-    created = kludge_time_from_bogusZ_to_utc(q['created'])
-    q['created'] = created.to_s
-    logger.debug "created with PST correction: #{q['created']}"
+    created = Time.parse(q['created']).utc
+    q['created'] = created.strftime('%Y-%m-%d %H:%M:%S %z')
+    logger.debug "created (UTC): #{q['created']}"
 
     unless q['updated'].nil?
-      logger.debug "updated from API: #{q['updated']} <-- this is PST not UTC despite the 'Z'"
-      q['updated'] = kludge_time_from_bogusZ_to_utc(q['updated']).to_s
-      logger.debug "updated with PST correction: #{q['updated']}"
+      q['updated'] = Time.parse(q['updated']).utc.strftime('%Y-%m-%d %H:%M:%S %z')
+      logger.debug "updated (UTC): #{q['updated']}"
     end
     id = q['id']
     logger.debug "QUESTION id: #{id}"
