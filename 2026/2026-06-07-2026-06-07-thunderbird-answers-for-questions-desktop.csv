@@ -1,2 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1823673,1585983,2026-06-07 04:07:24 +0000,2026-06-07 04:07:24 +0000,<p>You can just delete your old account by selecting that account: </p><p>account actions - remove account </p>,wxie2016,false,0,0
+1823733,1586007,2026-06-07 10:58:08 +0000,2026-06-07 10:58:08 +0000,"<p>Holà, open the calendar tab and look up whether this caldav calendar is displayed in the left side panel.  If you don't want tu use it you can unsubscribe (abbestellen) it. Otherwise R-click on the caldav calendar &gt; Properties (Eigenschaften)  and fill in calendar name, username, location, email, .... </p>",Mapenzi,false,0,0
+1823727,1586033,2026-06-07 10:40:34 +0000,2026-06-07 10:40:34 +0000,"<p>See <a href=""https://support.mozilla.org/kb/cannot-receive-messages"" rel=""nofollow"">https://support.mozilla.org/kb/cannot-receive-messages</a> </p>",christ1,false,0,0
