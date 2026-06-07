@@ -89,7 +89,7 @@ samples.each do |ym, f|
   results << [ym, id, delta_h, "stored=#{stored_t} true=#{true_t}"]
   puts "#{ym}  q#{id}  delta=#{delta_h}h"
   $stdout.flush
-  sleep 2 # be gentle on the SUMO API
+  sleep 5 # be gentle on the SUMO API (it throttles anonymous bursts)
 end
 
 puts "\n===== SUMMARY (delta hours: 0 = kludge correct, ~7/8 = kludge corrupting) ====="
