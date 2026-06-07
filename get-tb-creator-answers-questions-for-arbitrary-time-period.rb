@@ -27,10 +27,15 @@ if ARGV.length < 6
   exit
 end
 sleep(API_SLEEP)
-# because of issue 3686, https://github.com/mozilla/kitsune/issues/3686,
-# go back one day and forward one day
+# The old lower bound padded a full day back (a workaround for the obsolete
+# PST-labeled-as-Z bug, Kitsune #3686/#3946/#3961). Including the whole prior
+# day also triggered server-side HTTP 500s: some result sets break the API's
+# ascending-created serialization. Now the API returns UTC, so the lower bound
+# is 23:59:59 of the previous day — exclusive created__gt then includes the
+# start day from 00:00:00 while excluding the prior day's questions. The upper
+# +1-day pad stays: created__lt is exclusive, so lt=end+1 captures the end day.
 min_created_time = Time.gm(ARGV[0].to_i, ARGV[1].to_i, ARGV[2].to_i)
-greater_than_time = (min_created_time - (3600 * 24)).strftime('%Y-%-m-%-e')
+greater_than_time = (min_created_time - 1).strftime('%Y-%m-%dT%H:%M:%S')
 less_than = Time.gm(ARGV[3].to_i, ARGV[4].to_i, ARGV[5].to_i)
 end_time = Time.gm(ARGV[3].to_i, ARGV[4].to_i, ARGV[5].to_i, 23, 59, 59)
 
