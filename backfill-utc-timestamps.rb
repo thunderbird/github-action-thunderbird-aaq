@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # Backfill the timezone corruption caused by the old kludge running against the
-# now-truthful-UTC Kitsune API (switchover 2026-02-01T15:24:51Z; kludge removed
-# 2026-06).
+# now-truthful-UTC Kitsune API (switchover 2026-02-19T~15:33-16:15Z; kludge
+# removed 2026-06).
 #
 # The kludge kept the API's true-UTC wall-clock DIGITS and only relabeled the
 # zone with a Pacific offset, so corrupted values look like
@@ -24,7 +24,7 @@ require 'shellwords'
 
 APPLY  = ARGV.include?('--apply')
 REPO   = __dir__
-SWITCH = Time.parse('2026-02-01T15:24:51Z') # first corrupted automated commit
+SWITCH = Time.parse('2026-02-19T16:15:01Z') # first corrupted automated commit
 TS     = /\A(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}) [+-]\d{4}\z/ # "YYYY-MM-DD HH:MM:SS ±ZZZZ"
 COLS   = %w[created updated].freeze
 
