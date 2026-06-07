@@ -12,6 +12,11 @@ require 'pry'
 require_relative 'get-kitsune-response'
 require_relative 'get_questions_filename'
 
+# Seconds to sleep between API calls. Defaults to 2 (what the GitHub Action
+# uses); override with AAQ_API_SLEEP for gentler pacing during bulk re-scrapes
+# to avoid the API's 60s rate-limit (429) penalty backoffs.
+API_SLEEP = (ENV['AAQ_API_SLEEP'] || '2').to_f
+
 def get_answers(question_id, url_params, csv, url, logger)
   url_params[:question] = question_id
   end_fn = false
@@ -60,7 +65,7 @@ def get_answers(question_id, url_params, csv, url, logger)
       end_fn = true
     else
       logger.debug "next ANSWER url:#{url}"
-      sleep(2) # sleep 2 seconds between API calls between each page of answers
+      sleep(API_SLEEP) # sleep 2 seconds between API calls between each page of answers
     end
   end
   answer_number
@@ -73,7 +78,7 @@ if ARGV.length < 6
   exit
 end
 
-sleep(2)
+sleep(API_SLEEP)
 
 questions_filename = get_questions_filename(
   ARGV[0].to_i, ARGV[1].to_i, ARGV[2].to_i, ARGV[3].to_i,
@@ -98,7 +103,7 @@ question_ids.each do |question_id|
   else
     logger.debug("question: #{question_id} has num_answers: #{num_answers}! UPDATING answers.")
   end
-  sleep(2) # sleep 2 seconds before asking for answers for the next question
+  sleep(API_SLEEP) # sleep 2 seconds before asking for answers for the next question
 end
 
 if csv.empty?

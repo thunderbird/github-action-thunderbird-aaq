@@ -10,6 +10,11 @@ require 'csv'
 require 'logger'
 require_relative 'get-kitsune-response'
 
+# Seconds to sleep between API calls. Defaults to 2 (what the GitHub Action
+# uses); override with AAQ_API_SLEEP for gentler pacing during bulk re-scrapes
+# to avoid the API's 60s rate-limit (429) penalty backoffs.
+API_SLEEP = (ENV['AAQ_API_SLEEP'] || '2').to_f
+
 def scalar?(variable)
   variable.is_a?(Numeric) || variable.is_a?(String) ||
     variable.is_a?(TrueClass) || variable.is_a?(FalseClass) ||
@@ -21,7 +26,7 @@ if ARGV.length < 6
   puts "usage: #{$PROGRAM_NAME} yyyy mm dd end-yyyy mm dd"
   exit
 end
-sleep(2)
+sleep(API_SLEEP)
 # because of issue 3686, https://github.com/mozilla/kitsune/issues/3686,
 # go back one day and forward one day
 min_created_time = Time.gm(ARGV[0].to_i, ARGV[1].to_i, ARGV[2].to_i)
@@ -152,7 +157,7 @@ until end_program
     end_program = true
     break
   else
-    sleep(2) # sleep 2 seconds between API calls
+    sleep(API_SLEEP) # sleep 2 seconds between API calls
   end
 end
 logger.debug "CSV is empty for greater than: #{greater_than_time}  less than: #{less_than_time}" if csv.empty?
