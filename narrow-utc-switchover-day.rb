@@ -5,10 +5,14 @@
 # Pacific-as-Z -> true-UTC switchover to between 2026-01-20 and 2026-02-05.
 # This binary-searches the exact day, using as few API calls as possible.
 #
-# FINDING (run 2026-06-06): last correct day = 2026-01-30, first corrupted
-# day = 2026-01-31. i.e. the API began returning truthful UTC on 2026-01-31.
-# From that day on, the old kludge_time_from_bogusZ_to_utc (removed 2026-06)
-# corrupted created/updated by +8h (PST) / +7h (PDT). See fix-kludged-time.rb.
+# FINDING (run 2026-06-06): this day-granularity tool initially pointed at
+# 2026-01-31, but that was MISLEADING -- it read the *current* Jan-31 file,
+# which had been overwritten by a later corrupted re-scrape. Probing the
+# freshly-scraped "today" file at each automated commit (see the commit-level
+# bisect) showed the API actually switched to true UTC at 2026-02-01T15:24:51Z.
+# From then on the old kludge_time_from_bogusZ_to_utc (removed 2026-06)
+# corrupted created/updated by +8h (PST) / +7h (PDT). See fix-kludged-time.rb
+# and backfill-utc-timestamps.rb.
 #
 # Method: a question's `created` is immutable, so the current API value is
 # ground-truth UTC. Compare it to the stored CSV `created`:
