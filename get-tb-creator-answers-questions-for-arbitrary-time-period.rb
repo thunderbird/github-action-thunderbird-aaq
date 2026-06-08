@@ -46,13 +46,20 @@ logger.debug 'greater than time' + greater_than_time.to_s
 logger.debug 'less than' + less_than.to_s
 logger.debug 'less than time' + less_than_time.to_s
 
+# Default ordering is ascending created. Some date windows make the API return
+# HTTP 500 when sorting that way (a question breaks server-side serialization);
+# set AAQ_ORDERING to '-created' or 'none' (omit) to fetch those days. When not
+# ascending, the created-based early-stop is disabled (paginate to the end) and
+# the collected rows are sorted by created before writing, so output is the same.
+ordering = ENV.fetch('AAQ_ORDERING', 'created')
+ascending = (ordering == 'created')
 url_params = {
   format: 'json',
   product: 'thunderbird',
   created__gt: greater_than_time,
-  created__lt: less_than_time,
-  ordering: 'created'
+  created__lt: less_than_time
 }
+url_params[:ordering] = ordering unless ordering == 'none'
 
 url = 'https://support.mozilla.org/api/2/question/'
 end_program = false
@@ -158,7 +165,9 @@ until end_program
     logger.debug "next url:#{url}"
   end
   logger.debug "end_time: #{end_time.to_i}"
-  if (created.to_i > end_time.to_i) || url.nil?
+  # The created-based early-stop is only valid for ascending order; otherwise
+  # paginate until there is no next page.
+  if (ascending && created.to_i > end_time.to_i) || url.nil?
     end_program = true
     break
   else
@@ -179,6 +188,9 @@ FILENAME = format(fn_str,
                   yyyy2: ARGV[3].to_i, mm2: ARGV[4].to_i, dd2: ARGV[5].to_i)
 # use the following code as a template, reuse the headers from the json response and flatten all non flat stuff like involved
 logger.debug "headers: #{headers.ai}"
+# Guarantee ascending-created output regardless of fetch ordering (no-op for the
+# default ascending fetch).
+csv.sort_by! { |row| row['created'].to_s }
 CSV.open(FILENAME, 'w', write_headers: true, headers: headers) do |csv_object|
   csv.each { |row_array| csv_object << row_array }
 end
