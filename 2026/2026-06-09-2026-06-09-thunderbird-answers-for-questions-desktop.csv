@@ -17,5 +17,6 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1824248,1586483,2026-06-09 22:19:29 +0000,2026-06-09 22:19:29 +0000,<p>We need to see a screenshot of the filter so we know exactly it was entered. It is easy to get AND and OR and NOT logic not working as anticipated. Thank you. </p>,davidsk,false,0,0
 1824258,1586483,2026-06-09 22:50:31 +0000,2026-06-09 22:53:47 +0000,<p>Here's a screen shot. </p>,marsh4,false,0,0
 1824259,1586483,2026-06-09 22:53:22 +0000,2026-06-09 22:53:22 +0000,<p>Here's a screen shot. </p>,marsh4,false,0,0
+1824273,1586483,2026-06-09 23:54:30 +0000,2026-06-09 23:54:30 +0000,"<p>You should select ""Match all of the following"", to be filtered a message should match all of your rules. If you select ""Match any of the following"" messages always match one of your rules, so all messages are filtered. </p>",dillenger,false,0,0
 1824260,1586504,2026-06-09 22:55:25 +0000,2026-06-09 22:55:25 +0000,"<p>Identical problem @gschaben1, including the result of requesting an exception. </p>",coostal,false,0,0
-1824262,1586504,2026-06-09 23:17:11 +0000,2026-06-09 23:17:11 +0000,<p>I seem to remember this happening once years ago. I'm hoping maybe a nightly builds might fix it. </p>,gschaben1,false,0,0
+1824262,1586504,2026-06-09 23:17:11 +0000,2026-06-09 23:17:11 +0000,<p>I seem to remember this happening once years ago. I'm hoping maybe a nightly builds might fix it. </p>,gschaben1,false,1,0
