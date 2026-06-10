@@ -1,0 +1,4 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1824420,1586579,2026-06-10 14:48:58 +0000,2026-06-10 14:48:58 +0000,"<p>if you post screenshot of error message and also screenshot of SMTP server settings pane, someone may  have ideas. click to the 'account settings' pane, highlight account name in left sidebar, and look to lower right and click the 'edit SMTP' button. I attached a sample screenshot of where to find it. </p>",davidsk,false,0,0
+1824416,1586601,2026-06-10 14:37:22 +0000,2026-06-10 14:37:22 +0000,"<p>Did you activate the ""Quick Filter"" and then accidentally hit one of the buttons in the Quick Filter tool bar? </p>",Mapenzi,false,0,0
+1824417,1586601,2026-06-10 14:43:54 +0000,2026-06-10 14:43:54 +0000,"<p>Thank you for your reply. I did not touch the ""Quick Filter"". </p>",genie2,false,0,0
