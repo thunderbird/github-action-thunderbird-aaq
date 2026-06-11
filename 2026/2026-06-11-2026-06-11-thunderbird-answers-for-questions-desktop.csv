@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1824690,1586831,2026-06-11 11:56:51 +0000,2026-06-11 11:56:51 +0000,"<p>Dipende... Se avete semplicemente 10 client che accedono alla stessa casella email, non si può. </p>",@next,false,0,0
+1824697,1586843,2026-06-11 12:11:17 +0000,2026-06-11 12:11:17 +0000,"<p>The importexport took has always worked. In <a href=""http://mail.server.co.za"" rel=""nofollow"">mail.server.co.za</a>, look for a set of files, such as inbox, inbox.msf. What you want is the inbox entry. If unsure, post screenshot of contents of the mail folder.  IGNORE the msf wien importing. </p>",davidsk,false,0,0
