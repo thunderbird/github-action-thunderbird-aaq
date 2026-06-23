@@ -66,6 +66,7 @@ end_program = false
 question_number = 0
 csv = []
 headers = ''
+begin
 until end_program
   logger.debug "before getting questions: url: #{url}"
   logger.debug "before getting questions: url_params: #{url_params.ai}"
@@ -173,6 +174,10 @@ until end_program
   else
     sleep(API_SLEEP) # sleep 2 seconds between API calls
   end
+end
+rescue JavascriptChallengeError => e
+  log_javascript_challenge(logger, e, script: $PROGRAM_NAME, args: ARGV.join(' '))
+  exit 1
 end
 logger.debug "CSV is empty for greater than: #{greater_than_time}  less than: #{less_than_time}" if csv.empty?
 if csv.empty?

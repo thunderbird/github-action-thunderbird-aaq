@@ -94,6 +94,7 @@ url_params = {
   format: 'json',
   ordering: 'created'
 }
+begin
 question_ids.each do |question_id|
   num_answers = get_answers(question_id, url_params, csv, api_url, logger)
   if num_answers.nil?
@@ -104,6 +105,10 @@ question_ids.each do |question_id|
     logger.debug("question: #{question_id} has num_answers: #{num_answers}! UPDATING answers.")
   end
   sleep(API_SLEEP) # sleep 2 seconds before asking for answers for the next question
+end
+rescue JavascriptChallengeError => e
+  log_javascript_challenge(logger, e, script: $PROGRAM_NAME, args: ARGV.join(' '))
+  exit 1
 end
 
 if csv.empty?
