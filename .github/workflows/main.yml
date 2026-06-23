@@ -36,6 +36,11 @@ jobs:
         echo "\"${timestamp}\" +%Y"
         bundle exec ./get_answers_for_last_2_days_and_1_of_last_12.rb
     - name: Commit and push if it changed
+      # Run even if the fetch step failed (e.g. a detected JavaScript/bot
+      # challenge exits non-zero) so the javascript-challenges.log audit line
+      # still gets committed. git add -A stages the log; commit is a no-op when
+      # nothing changed.
+      if: always()
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
